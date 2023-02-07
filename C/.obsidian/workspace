@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "e39b447a0dfb0754",
+    "type": "split",
+    "children": [
+      {
+        "id": "637c53def06475c1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "427ecc965f2c463a",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ea506e51f3b236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1cde6780c28d965",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13a1a67bd2f7b4a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dd7d5f5277918d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71ca46447472deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53e8934d2281bbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1cde6780c28d965",
+  "lastOpenFiles": [
+    "Apuntadores a estructuras.md",
+    "Apuntadores a arreglos.md",
+    "Tipo void *.md",
+    "Apuntadores a funciones.md",
+    "Memoria dinámica (malloc, free, calloc).md"
+  ]
+}

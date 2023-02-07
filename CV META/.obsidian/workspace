@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "2b50b9524eec1ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d610bcee030ab28d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CV foramt.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a5b4c5c9b43f2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cf32b47a07c026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa6e827ffdf98ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa4135d02c3c1b80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "053d4439a70324af",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d232325e0d99a30",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b60fedee309d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f399a92082dada29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CV foramt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5728da87d58bf015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CV foramt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0265de7cd228a4ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39cb710e1f82189e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CV foramt.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1fa6e827ffdf98ca",
+  "lastOpenFiles": [
+    "CV foramt.md"
+  ]
+}

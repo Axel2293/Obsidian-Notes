@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "6348a1bfa675a062",
+    "type": "split",
+    "children": [
+      {
+        "id": "d48777186ae1a3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "185482e7f40c1e22",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f16f2bd535aba47",
+    "type": "split",
+    "children": [
+      {
+        "id": "928089378558cf40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2754d24795a0d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "fdb94063ba1709d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18ce59bfacda3ded",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1c0ba954dd80e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07891cf8968e2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d7581985468b4e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e4a949f8e37c497",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50bdf1af90a00954",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d058bcc42b948da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8fb61b3362dadca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2835bc7180ccc4e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2835bc7180ccc4e6",
+  "lastOpenFiles": [
+    "Git/Comandos GIT.md",
+    "Git/GITHUB.md",
+    "Git/Branch - Ramas.md",
+    "Programación Orientada a Objetos/JAVA/Arreglos.md",
+    "Programación Orientada a Objetos/JAVA/Try Catch.md",
+    "Programación Orientada a Objetos/JAVA/Objeto.md",
+    "C/Modulo 1/Apuntadores a estructuras.md",
+    "BASES/Binario.md",
+    "BASES/Hexadecimal.md",
+    "Untitled.canvas"
+  ]
+}
