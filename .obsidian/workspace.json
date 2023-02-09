@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "f67743ac6fee4bac",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Sentencias de control.md",
@@ -196,7 +197,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
-    "README.md",
-    "PHOTOS/Pasted image 20230209085441.png"
+    "README.md"
   ]
 }

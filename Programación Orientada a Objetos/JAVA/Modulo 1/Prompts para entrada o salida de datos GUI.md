@@ -1,8 +1,16 @@
-Importamos
-- javax.swing.JOptionPane;
+```java
+//Importar toda la libreria
+import javax.swing.*;
+// o solo las opciones de panel
+import javax.swing.JOptionPane;
+```
 
 ## Entrada
-String str1 = JOptionPane.showInputDialog(null, message)
+```java
+String str1 = JOptionPane.showInputDialog(null, message);
+```
 
 ## Salida
-JOptionPane.showMessageDialog(null, message, title, )
+```java
+JOptionPane.showMessageDialog(null, message, title,);
+```
