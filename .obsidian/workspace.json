@@ -33,9 +33,11 @@
             "id": "f67743ac6fee4bac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PHOTOS/Pasted image 20230209085441.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHOTOS/Pasted image 20230209085441.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHOTOS/Pasted image 20230209085441.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHOTOS/Pasted image 20230209085441.png"
+                "file": "README.md"
               }
             }
           },
@@ -184,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "f67743ac6fee4bac",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20230209085441.png",
     "PHOTOS/Pasted image 20230209085452.png",
     "UbuntuServer/Ubuntu Server.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
@@ -194,7 +197,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
     "XD.md",
     "Untitled.canvas",
-    "README.md",
-    "Lenguajes Formales/Repaso FCC.md"
+    "README.md"
   ]
 }
