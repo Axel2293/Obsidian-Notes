@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UbuntuServer/Ubuntu Server.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d83119c5d82550d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UbuntuServer/Ubuntu Server.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UbuntuServer/Ubuntu Server.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UbuntuServer/Ubuntu Server.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md"
               }
             }
           },
@@ -163,17 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "185482e7f40c1e22",
+  "active": "8d83119c5d82550d",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+    "UbuntuServer/Ubuntu Server.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
     "XD.md",
     "Untitled.canvas",
     "README.md",
     "Lenguajes Formales/Repaso FCC.md",
     "Lenguajes Formales/Lenguaje Formal.md",
     "Lenguajes Formales/Ejercicio AFD y su programación.md",
-    "Git/Branch - Ramas.md",
-    "Git/Comandos GIT.md"
+    "Git/Branch - Ramas.md"
   ]
 }
