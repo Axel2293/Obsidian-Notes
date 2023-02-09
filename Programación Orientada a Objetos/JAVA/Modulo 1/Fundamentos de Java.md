@@ -1,11 +1,12 @@
-- Lenguaje estrictamente tipado
-- El metodo main se encarga de ejecutar el programa
 
-Siempre tenemos una clase principal: Main
-Siempre tenemos un método principal: main
+1. Lenguaje estrictamente tipado
+2. El metodo main se encarga de ejecutar el programa
+3. Solamente se tiene un metodo main para la ejecución de todo el programa
+4. Siempre tenemos una clase principal: Main
+5. Siempre tenemos un método principal: main
 
 
-# Tipos de datos y literales
+## Tipos de datos y literales
 
 #### Enteros
 - char: 1 byte
@@ -21,7 +22,7 @@ Siempre tenemos un método principal: main
 - Octal
 - Binario
 
-### LSB y MSB
+## LSB y MSB
 ![[Pasted image 20230119084334.png]]
 
 ## Clases
