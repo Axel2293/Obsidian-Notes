@@ -1,8 +1,10 @@
 
 ### Minecraft con docker
+```bash
 docker run -d -it --name mcserver --restart=unless-stopped -e MEMORYSIZE='4G' -v /home/absol22/mcserver:/data:rw -p 25565:25565 -i marctv/minecraft-papermc-server:latest
 
 docker attach macserver
+```
 
 ## download something
 sudo wget url
@@ -22,3 +24,4 @@ docker run -d \
   --restart unless-stopped \
   lscr.io/linuxserver/duckdns:latest
 ```
+
