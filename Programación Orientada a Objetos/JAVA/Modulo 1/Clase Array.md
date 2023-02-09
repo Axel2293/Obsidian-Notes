@@ -2,6 +2,7 @@
 //Dependencias
 import java.util.Arrays;
 
+//Syntaxis
 Array.method(args);
 ```
 
