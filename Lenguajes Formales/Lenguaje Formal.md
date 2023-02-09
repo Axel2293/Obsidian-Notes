@@ -3,15 +3,14 @@ Basado en la definición y aplicación de reglas especificas.
 ### Lenguaje de programación
 - se conforma de una serie de símbolos y reglas de sintaxis y semántica que definen la estructura principal 
 
-#### Otros lenguajes
+##### Otros lenguajes
 - El matemático (5+2 = 7)
 - Los LF no son ambiguos, no son redundantes si no concisos.
 
-
-### Conjunto Vacio
+## Simbolos
+#### Conjunto Vacio
 ∅ es el simbolo
-
-### Cadena Vacia
+#### Cadena Vacia
 λ = Ɛ
 #### Longitud
 |Ɛ|=0
@@ -78,6 +77,13 @@ A^3={aaa,aaab,aaba, aabab, ababab, abaa, ababa,abaab}
 q1                q2               q3
 q2               q2               q2
 q3               q3               q3
+
+| STATE | INPUT | INPUT |
+| ----- | ----- | ----- |
+| ----  | 0     | 1     |
+| q1    | q2    | q3    |
+| q2    | q2    | q2    |
+| q3    | q3    | q3    |
 
 ->f(q1, 0) = q2
 f(q1, 1) = q3
