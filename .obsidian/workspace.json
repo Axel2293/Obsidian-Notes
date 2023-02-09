@@ -11,8 +11,12 @@
             "id": "185482e7f40c1e22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md"
+              }
             }
           },
           {
@@ -155,8 +163,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2835bc7180ccc4e6",
+  "active": "185482e7f40c1e22",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "XD.md",
     "Untitled.canvas",
     "README.md",
@@ -165,7 +174,6 @@
     "Lenguajes Formales/Ejercicio AFD y su programación.md",
     "Git/Branch - Ramas.md",
     "Git/Comandos GIT.md",
-    "Git/GITHUB.md",
-    "CV META/CV foramt.md"
+    "Git/GITHUB.md"
   ]
 }
