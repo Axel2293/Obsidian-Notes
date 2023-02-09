@@ -24,3 +24,15 @@ texto[1]=new char[3];
 ```
 
 ![[Pasted image 20230209072315.png]]
+
+## Clonar matriz
+```java
+//Clonar m2 a m1 en las filas
+m1 = m2.clone();
+
+for(int row=0; row<m2.lenght(); row++)
+{
+	m1[row]=m2[row].clone();
+}
+
+```
