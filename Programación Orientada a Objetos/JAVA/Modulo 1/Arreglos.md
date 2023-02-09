@@ -11,4 +11,10 @@ int edades[];
 TIpo []       []
 ```
 
-#
+## Multidimensionales
+
+```java
+//Creamos el arreglo
+char texto [][] = new char[];
+
+```
