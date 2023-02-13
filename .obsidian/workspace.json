@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Formales/5-tupla.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes Formales/5-tupla.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes Formales/5-tupla.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes Formales/5-tupla.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "26feec60c5c68fec",
   "lastOpenFiles": [
+    "Lenguajes Formales/5-tupla.md",
     "Lenguajes Formales/Lenguaje Formal.md",
     "Lenguajes Formales/Ejercicio AFD y su programación.md",
     "Lenguajes Formales/Repaso FCC.md",
@@ -208,7 +209,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md"
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md"
   ]
 }
