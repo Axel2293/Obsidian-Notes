@@ -1,11 +1,11 @@
-# Realoc
+## Realoc
 Realoc nos permite redimensionar bloques de memoria, esto por si no queremos volver a  asignar la nueva memoria y copiar los datos.
 
 Parametros:
 	El apuntador a realocar
 	La cantidad nueva de espacio
 
-# Matrices y Memoria Dinámica
+## Matrices y Memoria Dinámica
 	
 	type **nombre_matriz;
 	Nos permite crear un arreglo de apuntadores dinámico, en este caso es para dos dimensiones
