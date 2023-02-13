@@ -4,81 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d48777186ae1a3eb",
+        "id": "e516096dc6224212",
         "type": "tabs",
         "children": [
           {
-            "id": "185482e7f40c1e22",
+            "id": "9b4eff4814d00054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+                "file": "Git/Branch - Ramas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d83119c5d82550d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PHOTOS/Pasted image 20230209085452.png"
-              }
-            }
-          },
-          {
-            "id": "f67743ac6fee4bac",
+            "id": "92722850cb716b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Formales/Lenguaje Formal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26feec60c5c68fec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ffda25c38be3321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae23e9eff7d62bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
+                "file": "C/Colors on console mac.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
+                "file": "C/Colors on console mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
+                "file": "C/Colors on console mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md"
+                "file": "C/Colors on console mac.md"
               }
             }
           },
@@ -222,17 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae23e9eff7d62bdc",
+  "active": "92722850cb716b0a",
   "lastOpenFiles": [
+    "Git/Branch - Ramas.md",
+    "Git/Comandos GIT.md",
+    "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
     "C/Modulo 2/Memoria dinámica -PT2 (Realloc, Matriz dinámica).md",
     "C/Modulo 2/FIFO y LIFO.md",
     "C/Modulo 1/Apuntadores a funciones.md",
     "C/Modulo 1/Apuntadores a arreglos.md",
-    "C/Modulo 1/Apuntadores a estructuras.md",
-    "UbuntuServer/Ubuntu Server.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md"
+    "C/Modulo 1/Apuntadores a estructuras.md"
   ]
 }
