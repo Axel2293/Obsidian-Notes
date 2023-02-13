@@ -33,6 +33,9 @@ public class TestRectangle {
 
 ## Clase
 Podemos ver una clase como un molde que define los atributos que tendra un objeto.
+![[Pasted image 20230213080946.png]]
+##### UML
+![[Pasted image 20230213081121.png]]
 
 ## Objeto
 Es una instancia de una clase, osea fue creado a partir de un molde/clase.
@@ -49,10 +52,13 @@ arrRect[1]=new Rectangle();
 arrRect[0].print();
 ```
 
+## Modificadores
+Permiten controlar desde donde se pueden acceder a ciertas cosas.
+
 #### Private
 Esto nos permite tener atributos que solo son accesibles dentro de la misma clase donde esta creada o declarada.
-
 #### Public
 Esto permite acceder desde cualquier lado a lo que se difinió o declaro, osea que si es un atributo de un objeto, este podra ser accedido desde fuera del mismo.
+
 
 ## Garbage Collector
