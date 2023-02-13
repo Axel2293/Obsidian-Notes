@@ -37,6 +37,7 @@ Podemos ver una clase como un molde que define los atributos que tendra un objet
 ## Objeto
 Es una instancia de una clase, osea fue creado a partir de un molde/clase.
 - Podemos crear arreglos de objetos como los tipos de dato.
+- Un objeto lo podemos ver como un apuntador, si este cambia a apuntar a otro objeto el anterior sigue existiendo, pero no se libera o destruye.
 
 ```java
 //Espacio para 5 objetos de tipo Rectangle
@@ -53,3 +54,5 @@ Esto nos permite tener atributos que solo son accesibles dentro de la misma clas
 
 #### Public
 Esto permite acceder desde cualquier lado a lo que se difinió o declaro, osea que si es un atributo de un objeto, este podra ser accedido desde fuera del mismo.
+
+## Garbage Collector
