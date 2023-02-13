@@ -62,3 +62,6 @@ Esto permite acceder desde cualquier lado a lo que se difinió o declaro, osea q
 
 
 ## Garbage Collector
+Permite eliminar elementos a los que ya nada está apuntando, en java no existe una forma como en c para desalocar memoria.
+
+## Constructores
