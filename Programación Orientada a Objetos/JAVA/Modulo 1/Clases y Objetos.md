@@ -47,3 +47,9 @@ arrRect[1]=new Rectangle();
 
 arrRect[0].print();
 ```
+
+#### Private
+Esto nos permite tener atributos que solo son accesibles dentro de la misma clase donde esta creada o declarada.
+
+#### Public
+Esto permite acceder desde cualquier lado a lo que se difinió o declaro, osea que si es un atributo de un objeto, este podra ser accedido desde fuera del mismo.
