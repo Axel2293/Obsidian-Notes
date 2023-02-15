@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md"
+                "file": "Lenguajes Formales/No determinista - Automata Finito (AFN).md"
               }
             }
           },
@@ -163,8 +163,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2835bc7180ccc4e6",
+  "active": "5dabef5734a01196",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
     "UbuntuServer/Ubuntu Server.md",
     "README.md",
@@ -173,7 +174,6 @@
     "C/Colors on console mac.md",
     "Git/Branch - Ramas.md",
     "Git/Comandos GIT.md",
-    "CV META/CV foramt.md",
-    "Lenguajes Formales/No determinista - Automata Finito (AFN).md"
+    "CV META/CV foramt.md"
   ]
 }
