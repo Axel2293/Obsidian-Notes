@@ -69,3 +69,5 @@ Es un método que se ejecuta a ala hora de la creación de un objeto, no spermit
 Ejemplos de usos del constructor:
 ![[Pasted image 20230216065256.png]]
 
+## Clase Object
+Cualquier objeto que creamos a partir de una clase hereda directamente de la Clase Object tambien.
