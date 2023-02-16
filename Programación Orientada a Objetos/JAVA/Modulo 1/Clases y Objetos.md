@@ -74,3 +74,6 @@ Cualquier objeto que creamos a partir de una clase hereda directamente de la Cla
 ![[Pasted image 20230216073606.png]]
 
 Ahi podemos ver como nuestro objeto r1 tiene todos los métodos de la clase objeto.
+
+#### Sobre escribir los metodos de Object
+Para sobreecribir los metodos heredados de la clase object debemos de hacer lo llamado como **Method Overriding**, simplemente debemos de crear un método con el mismo nombre, misma firma y con eso nuestro propio método sera el sustituto al de la clase Object

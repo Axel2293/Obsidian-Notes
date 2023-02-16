@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b3ff2440be9d5be",
+  "active": "2835bc7180ccc4e6",
   "lastOpenFiles": [
     "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
