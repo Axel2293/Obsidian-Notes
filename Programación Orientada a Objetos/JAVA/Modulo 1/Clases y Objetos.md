@@ -65,3 +65,4 @@ Esto permite acceder desde cualquier lado a lo que se difinió o declaro, osea q
 Permite eliminar elementos a los que ya nada está apuntando, en java no existe una forma como en c para desalocar memoria.
 
 ## Constructores
+Es un método que se ejecuta a ala hora de la creación de un objeto, no spermite ejecutar algo antes de la creación inicial del objeto, osea antes de qe el objeto este disponible para el uso.
