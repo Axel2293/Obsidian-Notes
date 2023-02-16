@@ -77,3 +77,6 @@ Ahi podemos ver como nuestro objeto r1 tiene todos los métodos de la clase obje
 
 #### Sobre escribir los metodos de Object
 Para sobreecribir los metodos heredados de la clase object debemos de hacer lo llamado como **Method Overriding**, simplemente debemos de crear un método con el mismo nombre, misma firma y con eso nuestro propio método sera el sustituto al de la clase Object
+
+#### This
+Con this podemos hacer referencia a la dirección de memoria del objeto que le damos.
