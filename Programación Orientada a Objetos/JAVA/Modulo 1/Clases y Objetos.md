@@ -66,3 +66,6 @@ Permite eliminar elementos a los que ya nada está apuntando, en java no existe 
 
 ## Constructores
 Es un método que se ejecuta a ala hora de la creación de un objeto, no spermite ejecutar algo antes de la creación inicial del objeto, osea antes de qe el objeto este disponible para el uso.
+Ejemplos de usos del constructor:
+![[Pasted image 20230216065256.png]]
+
