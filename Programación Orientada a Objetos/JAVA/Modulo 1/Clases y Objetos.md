@@ -68,6 +68,13 @@ Permite eliminar elementos a los que ya nada está apuntando, en java no existe 
 Es un método que se ejecuta a ala hora de la creación de un objeto, no spermite ejecutar algo antes de la creación inicial del objeto, osea antes de qe el objeto este disponible para el uso.
 Ejemplos de usos del constructor:
 ![[Pasted image 20230216065256.png]]
+Ejemplo de constructor en la clase Rectangle para mandar la base y la altura, esto va dentro de la clase como si fuera un método más pero necesita tener el mismo nombre que la clase.
+```java
+public Rectangle(double x, double y) {  
+    setBase(x);  
+    setHeight(y);  
+}
+```
 
 ## Clase Object
 Cualquier objeto que creamos a partir de una clase hereda directamente de la Clase Object tambien.
