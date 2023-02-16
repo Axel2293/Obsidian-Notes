@@ -71,3 +71,6 @@ Ejemplos de usos del constructor:
 
 ## Clase Object
 Cualquier objeto que creamos a partir de una clase hereda directamente de la Clase Object tambien.
+![[Pasted image 20230216073606.png]]
+
+Ahi podemos ver como nuestro objeto r1 tiene todos los métodos de la clase objeto.
