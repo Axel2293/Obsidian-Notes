@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md"
               }
             }
           },
@@ -180,10 +178,10 @@
   },
   "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
     "C/Modulo 1/Apuntadores a arreglos.md",
     "C/Modulo 1/Apuntadores a estructuras.md",
     "Git/Branch - Ramas.md",
