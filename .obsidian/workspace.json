@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0b92aad753af00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md"
               }
             }
           },
@@ -163,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d2a0a30645f27a3",
+  "active": "c0b92aad753af00c",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Lenguajes Formales/Conversion AFN a AFD.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
@@ -173,7 +187,6 @@
     "Pasted image 20230216073606.png",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md"
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md"
   ]
 }
