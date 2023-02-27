@@ -1,4 +1,5 @@
 ## Final
+#### Para atributos
 Este modificador hace que no podamos cambiar el valor a partir de su primera asignación.
 
 - Si no es inicializado en su declaración este puede ser inicializado en un constructor.
@@ -53,3 +54,4 @@ public class SuperString extends String { // No es válido
     ```
     
 ## Static
+#### Para atributos
