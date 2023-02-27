@@ -52,3 +52,4 @@ public final class String {
 public class SuperString extends String { // No es válido
     ```
     
+## Static
