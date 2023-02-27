@@ -30,5 +30,25 @@ public class Rectangle {
 
 #### Para métodos
 Cuando un método tiene el modificador final significa que en nungún momento se le podra hacer override, osea, sobreescribir el método con otro.
+```java
+public class A {  
+	    public final int method() {
+	    : }
+}
+    
+public class B extends A {  
+	    public int method() { // no es válido
+```
 
 
+#### Para clases
+Una clase final no puede tener clases derivadas:
+```java
+//Clase final
+public final class String { 
+...
+}
+//Agregando una subclase
+public class SuperString extends String { // No es válido
+    ```
+    
