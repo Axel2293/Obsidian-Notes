@@ -60,7 +60,7 @@ En un atributo el modificador static hace que esa variable sea la misma para tod
 En resumen, un atributo static es una localidad compartida de memoria de la clase. Si uno de los objetos cambia el valor de la variable, el valor cambiará también para los demás objetos.
 
 #### Para métodos
-Un método static depende de los argumentos que le dan y de los argumentos static de una clase.
+Un método static depende de los argumentos que le dan y de los atributos static de una clase.
 Si es public podemos invocar el metodo de la siguiente forma:
 ```java
 Clase.Method(args...);
