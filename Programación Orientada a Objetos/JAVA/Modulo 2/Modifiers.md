@@ -59,3 +59,5 @@ En un atributo el modificador static hace que esa variable sea la misma para tod
 
 En resumen, un atributo static es una localidad compartida de memoria de la clase. Si uno de los objetos cambia el valor de la variable, el valor cambiará también para los demás objetos.
 
+#### Para métodos
+
