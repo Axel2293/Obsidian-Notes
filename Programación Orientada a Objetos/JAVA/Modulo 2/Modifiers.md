@@ -28,4 +28,7 @@ public class Rectangle {
 }
 ```
 
+#### Para métodos
+Cuando un método tiene el modificador final significa que en nungún momento se le podra hacer override, osea, sobreescribir el método con otro.
+
 

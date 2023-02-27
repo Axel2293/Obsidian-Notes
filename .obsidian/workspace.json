@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md"
               }
             }
           },
@@ -175,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d2a0a30645f27a3",
+  "active": "c0b92aad753af00c",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Lenguajes Formales/Conversion AFN a AFD.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
