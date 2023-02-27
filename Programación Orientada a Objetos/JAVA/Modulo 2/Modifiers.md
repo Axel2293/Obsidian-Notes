@@ -55,3 +55,6 @@ public class SuperString extends String { // No es válido
     
 ## Static
 #### Para atributos
+En un atributo el modificador static hace que esa variable sea la misma para todos los objetos creados de la misma clase, esto solo aplica para variables dentro de la clase, no dentro de métodos.
+
+En resumen, un atributo static es una localidad compartida de memoria de la clase.
