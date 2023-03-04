@@ -1,0 +1,43 @@
+### Comandos básicos
+
+### Directorios importantes
+- / 
+	- Es la raiz del ssitema
+- /bin 
+	- Aplicaciones banarias
+- /boot 
+	- Archivos de configuración del arranque, nucleos, etc.
+- /dev 
+	- Archivos de los dispositivos
+- /etc 
+	- Archivos de configuración, scripts de arranque
+- /home
+	- Directorios personales de los usuarios
+- /lib 
+	- Librerias del sistema
+- /lost+found 
+	- Directorio para archivos por de bajo del directorio raiz.
+- /media 
+	- Particiones montadas automáticamente del disco duro y medios extraibles.
+- /mnt 
+	- Sistemas de atchivos montados manualmente en el disco duro
+- /opt 
+	- Ubicación donde se instalan aplicaciones opcionales (de terceros)
+- /proc
+	- Directorio dinámico especial que mantiene información sobre el estado del sistema, incluyendo los procesos actualmente en ejecución
+- /root 
+	- Directorio personal del usuario root (superuser)
+- /sbin
+	- binarios importantes del sistema
+- /srv
+	- Puede contener archivos que se sirven a otros sistemas
+- /sys
+	- Archivos del sistema
+- /tmp
+	- Archivos temporales
+- /usr
+	- Aplicaciones y archivos a los que puede acceder la mayoria de los usuarios
+- /var
+	- Archivos variables como archivos de registros y bases de datos
+- ~
+	- En Macos y Linux podemos usar la negación como ruta directa a la carpeta principal del usuario en users.

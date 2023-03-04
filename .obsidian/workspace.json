@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05139483b8103fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicios Seguros/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Servicios Seguros/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Servicios Seguros/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md"
+                "file": "Servicios Seguros/Linux.md"
               }
             }
           },
@@ -159,11 +171,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +189,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0b92aad753af00c",
+  "active": "05139483b8103fd5",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+    "Servicios Seguros/Linux.md",
+    "Servicios Seguros",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
-    "Lenguajes Formales/Conversion AFN a AFD.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Sentencias de control.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
+    "Lenguajes Formales/Conversion AFN a AFD.md",
     "Pasted image 20230215111718.png",
     "Pasted image 20230216065256.png",
-    "Pasted image 20230216073606.png",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md"
+    "Pasted image 20230216073606.png"
   ]
 }
