@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros/Linux.md",
+                "file": "Lenguajes Formales/Conversion AFN a AFD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2405af50a998f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguajes Formales/Repaso Examen parcial 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros/Linux.md",
+                "file": "Lenguajes Formales/Repaso Examen parcial 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros/Linux.md",
+                "file": "Lenguajes Formales/Repaso Examen parcial 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros/Linux.md"
+                "file": "Lenguajes Formales/Repaso Examen parcial 1.md"
               }
             }
           },
@@ -189,10 +201,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05139483b8103fd5",
+  "active": "d2405af50a998f03",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+    "Pasted image 20230305184251.png",
+    "Lenguajes Formales/Conversion AFN a AFD.md",
+    "Lenguajes Formales/Repaso Examen parcial 1.md",
     "Servicios Seguros/Linux.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Servicios Seguros",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
@@ -207,7 +222,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Sentencias de control.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
-    "Lenguajes Formales/Conversion AFN a AFD.md",
     "Pasted image 20230215111718.png",
     "Pasted image 20230216065256.png",
     "Pasted image 20230216073606.png"
