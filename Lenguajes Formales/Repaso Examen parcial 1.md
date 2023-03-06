@@ -9,7 +9,8 @@
 
 ### Operadores  +, * ,  U , ∩ 
 ![[Pasted image 20230305185227.png]]
-
+![[Pasted image 20230306102605.png]]
+- El que tiene asterisco incluye a todo el conjunto de 
 ![[Pasted image 20230305185441.png]]
 ![[Pasted image 20230305185552.png]]
 
