@@ -10,7 +10,15 @@
 ### Operadores  +, * ,  U , ∩ 
 ![[Pasted image 20230305185227.png]]
 ![[Pasted image 20230306102605.png]]
-- El que tiene asterisco incluye a todo el conjunto de 
+- El que tiene asterisco incluye a todo el conjunto de posibles combinaciones, incluyendo al vacio.
+- El que tiene suma no incluye an vacio
+
+#### Asterisco
+![[Pasted image 20230306102907.png]]
+#### Suma
+![[Pasted image 20230306102827.png]]
+
+
 ![[Pasted image 20230305185441.png]]
 ![[Pasted image 20230305185552.png]]
 
