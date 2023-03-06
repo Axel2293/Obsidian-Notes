@@ -13,3 +13,7 @@
 ![[Pasted image 20230305185441.png]]
 ![[Pasted image 20230305185552.png]]
 
+### 5 tupla AFD
+![[Pasted image 20230305190058.png]]
+##### Diagrama de transiciones
+![[Pasted image 20230305190129.png]]
