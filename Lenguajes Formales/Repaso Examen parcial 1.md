@@ -26,7 +26,11 @@ Tiene que haber por lo menos un estado final en el conjunto de estados posibles 
 Tiene a q2 en el conjunto de estados posibles asi que si es valido
 
 ### AFN a AFD
+![[Pasted image 20230305191857.png]]
 ![[Pasted image 20230305191432.png]]
 Iniciamos con el estado final y vamos tomando los conjuntos de estados y volvemos a evaluar juntando las posibilidades.
 
-Todos los conjuntos con 
+Todos los conjuntos con los estados finales se convierten en finales.
+![[Pasted image 20230305191733.png]]
+Renombramos los estados y hacemos el diagrama de transiciones, los caminos se juntan de todos los estados que quedaron juntos, ose a puntan al mismo estado y son apuntados por los mismos estados.
+![[Pasted image 20230305191801.png]]
