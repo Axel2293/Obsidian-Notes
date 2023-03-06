@@ -34,3 +34,9 @@ Todos los conjuntos con los estados finales se convierten en finales.
 ![[Pasted image 20230305191733.png]]
 Renombramos los estados y hacemos el diagrama de transiciones, los caminos se juntan de todos los estados que quedaron juntos, ose a puntan al mismo estado y son apuntados por los mismos estados.
 ![[Pasted image 20230305191801.png]]
+
+### Validacion de un AFN
+![[Pasted image 20230305192126.png]]
+
+### Validacion de un AFD
+![[Pasted image 20230305192145.png]]
