@@ -30,7 +30,7 @@
 ### Validar con un AFN
 ![[Pasted image 20230305191048.png]]
 
-Tiene que haber por lo menos un estado final en el conjunto de estados posibles para que sea valida
+Tiene que haber por lo menos un estado final en el conjunto de estados posibles para que sea valida y al procesar una letra debemos de obtener el resultado de todos los estados posibles y  hacemos union para evaluarlos con la siguiente letra.
 ![[Pasted image 20230305191059.png]]
 Tiene a q2 en el conjunto de estados posibles asi que si es valido
 
