@@ -40,3 +40,16 @@ Renombramos los estados y hacemos el diagrama de transiciones, los caminos se ju
 
 ### Validacion de un AFD
 ![[Pasted image 20230305192145.png]]
+
+## e-closure
+![[Pasted image 20230305192513.png]]
+
+![[Pasted image 20230305192519.png]]
+
+![[Pasted image 20230305192557.png]]
+Cuando validamos una cadena usando eclosure debemos aplicare eclosure a cada conjunto de estados que obtenemos, luego en base a esos estados evaluamos la siguiente letra o simbolo y repetimos el eclosure.
+
+### Minimizar AFN
+![[Pasted image 20230305192753.png]]
+
+#### 
