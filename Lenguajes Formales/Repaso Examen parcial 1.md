@@ -56,7 +56,7 @@ Cuando validamos una cadena usando eclosure debemos aplicare eclosure a cada con
 - Que significa estados equivalentes
 	- Los estados equivalentes son ya que dado la misma entrada la salida será la misma.
 - Aplicación de estados equivalentes
-	- 
+	- Redución de estados o caminos posibles y optimización del autómata.
 ![[Pasted image 20230305192943.png]]
 #### Creamos la tabla
 ![[Pasted image 20230305192858.png]]
