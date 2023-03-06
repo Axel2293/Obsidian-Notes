@@ -17,3 +17,10 @@
 ![[Pasted image 20230305190058.png]]
 ##### Diagrama de transiciones
 ![[Pasted image 20230305190129.png]]
+
+### Validar con un AFN
+![[Pasted image 20230305191048.png]]
+
+Tiene que haber por lo menos un estado final en el conjunto de estados posibles para que sea valida
+![[Pasted image 20230305191059.png]]
+Tiene a q2 en el conjunto de estados posibles asi que si es valido
