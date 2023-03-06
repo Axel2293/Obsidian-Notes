@@ -24,3 +24,9 @@
 Tiene que haber por lo menos un estado final en el conjunto de estados posibles para que sea valida
 ![[Pasted image 20230305191059.png]]
 Tiene a q2 en el conjunto de estados posibles asi que si es valido
+
+### AFN a AFD
+![[Pasted image 20230305191432.png]]
+Iniciamos con el estado final y vamos tomando los conjuntos de estados y volvemos a evaluar juntando las posibilidades.
+
+Todos los conjuntos con 
