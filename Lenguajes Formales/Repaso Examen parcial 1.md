@@ -51,7 +51,12 @@ Cuando validamos una cadena usando eclosure debemos aplicare eclosure a cada con
 
 ### Minimizar AFN
 ![[Pasted image 20230305192753.png]]
-
+- Importancia de la minimización
+	- El automata es más eficaz y rápido ya que en vez de existir dos o más estados quivalentes, se reduce a uno que engroba a todos y funciona de la misma manera.
+- Que significa estados equivalentes
+	- Los estados equivalentes son ya que dado la misma entrada la salida será la misma.
+- Aplicación de estados equivalentes
+	- 
 ![[Pasted image 20230305192943.png]]
 #### Creamos la tabla
 ![[Pasted image 20230305192858.png]]
