@@ -52,4 +52,24 @@ Cuando validamos una cadena usando eclosure debemos aplicare eclosure a cada con
 ### Minimizar AFN
 ![[Pasted image 20230305192753.png]]
 
-#### 
+![[Pasted image 20230305192943.png]]
+#### Creamos la tabla
+![[Pasted image 20230305192858.png]]
+Eliminamos el primero en las filas y el ultimo en las columnas
+
+#### Marcar los estados que sean(no final, final)
+
+![[Pasted image 20230305193023.png]]
+
+En este punto debemos de revisar todos los pares restantes
+
+![[Pasted image 20230305193115.png]]
+
+En este caso uno de los conjuntos es no valido a si que lo tachamos (No final, final), por lo tanto (B,A) no puede ser minimizado asi que lo tachamos tambien.
+
+![[Pasted image 20230305193228.png]]
+
+Despues de verificar la primera pasada la tabla queda asi
+![[Pasted image 20230305193329.png]]
+
+Ahora debemos volver a verificar los pares no tachados para estar seguros de que algun estado del que es dependiente no haya sido tachado
