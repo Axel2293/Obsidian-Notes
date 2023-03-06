@@ -73,3 +73,11 @@ Despues de verificar la primera pasada la tabla queda asi
 ![[Pasted image 20230305193329.png]]
 
 Ahora debemos volver a verificar los pares no tachados para estar seguros de que algun estado del que es dependiente no haya sido tachado
+
+![[Pasted image 20230305193503.png]]
+Aqui al volver a verificar (G,A) es descartado al tener dos estados derivados tachados.
+
+![[Pasted image 20230305193618.png]]
+Despues de verificar todos la tabla queda asi, y estos si pueden ser el mismo estado
+![[Pasted image 20230305193654.png]]
+![[Pasted image 20230305193713.png]]
