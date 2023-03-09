@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "618433fa15525b7d",
+        "id": "662abed2700f0092",
         "type": "tabs",
         "children": [
           {
-            "id": "d2405af50a998f03",
+            "id": "86980bf15b0e6a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes Formales/Repaso Examen parcial 1.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes Formales/Repaso Examen parcial 1.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes Formales/Repaso Examen parcial 1.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes Formales/Repaso Examen parcial 1.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md"
               }
             }
           },
@@ -164,24 +164,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2405af50a998f03",
+  "active": "86980bf15b0e6a6f",
   "lastOpenFiles": [
-    "Pasted image 20230306102907.png",
-    "Pasted image 20230306102827.png",
-    "Pasted image 20230306102605.png",
+    "Lenguajes Formales/Repaso Examen parcial 1.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+    "PHOTOS/Pasted image 20230305191733.png",
+    "PHOTOS/Pasted image 20230305191432.png",
+    "PHOTOS/Pasted image 20230305191059.png",
+    "PHOTOS/Pasted image 20230305191048.png",
+    "PHOTOS/Pasted image 20230305190129.png",
+    "PHOTOS/Pasted image 20230305190058.png",
+    "PHOTOS/Pasted image 20230305185552.png",
+    "PHOTOS/Pasted image 20230305185441.png",
+    "PHOTOS/Pasted image 20230305185227.png",
+    "PHOTOS/Pasted image 20230305185217.png",
     "Lenguajes Formales/Lenguaje Formal.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
     "Lenguajes Formales/Conversion AFN a AFD.md",
-    "Lenguajes Formales/Repaso Examen parcial 1.md",
-    "Pasted image 20230305193713.png",
-    "Pasted image 20230305193654.png",
-    "Pasted image 20230305193618.png",
-    "Pasted image 20230305193503.png",
-    "Pasted image 20230305193329.png",
-    "Pasted image 20230305193228.png",
-    "Pasted image 20230305193115.png",
-    "Pasted image 20230305193023.png",
     "Servicios Seguros/Linux.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Servicios Seguros",
