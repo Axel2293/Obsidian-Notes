@@ -5,7 +5,18 @@ Si por ejemplo tenermos la clase Singletone
 public class Singleton {
 
 private static Singleton instance = null; 
-public static Singleton getInstance() { ... }
+//Constructor
+private Singleton() {
+
+          // Algún proceso de inicialización
+
+}
+//Metodo estático para la creación de la instacia
+public static Singleton getInstance()
+{
+	if(instance == null) instance = new Singleton();
+	return instance;
+}
 
         private int x = 0;
         private Singleton() { ... }
