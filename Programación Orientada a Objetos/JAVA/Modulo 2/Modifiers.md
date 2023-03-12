@@ -66,3 +66,6 @@ Si es public podemos invocar el metodo de la siguiente forma:
 Clase.Method(args...);
 ```
 
+
+#### Para constructor
+Los atributos o métodos que se utilicen ahí deben ser static.
