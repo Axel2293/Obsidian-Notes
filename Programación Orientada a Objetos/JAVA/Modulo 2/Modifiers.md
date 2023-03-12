@@ -68,4 +68,4 @@ Clase.Method(args...);
 
 
 #### Para constructor
-Los atributos o métodos que se utilicen ahí deben ser static.
+Se ejecuta uan sola vezLos atributos o métodos que se utilicen ahí deben ser static.
