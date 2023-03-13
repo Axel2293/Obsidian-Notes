@@ -70,3 +70,4 @@ Clase.Method(args...);
 #### Para constructor
 Se ejecuta uan sola vez en la creacion de la clase. Los atributos o métodos que se utilicen ahí deben ser static.
 
+### Protected
