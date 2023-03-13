@@ -34,5 +34,18 @@ Clases
 	- atributos: indica que son compartidos por todas las instancias u objetos de esta clase.
 	- métodos: indicar que depende su ejecución solo de atributos estáticos y/o de los argumentos recibidos, invocados con la nomenclatura Clase.método()
 
+## Clase Object
+Eva de todas las clases
+- Métodos:
+	- toString: despliega la representación del objeto, omisión presenta el nombre d ela clase incluyendo el paquete y la dirección de memoria.
+	- Clone: devuelve una nueva instancia del objeto con los mismos valores en los atributos
+	- equals: devuelve true si la comparación de los atributos de los objetos es igual, si no false.
+
 ## Herencia
-- usamos extends <NombreClasePadre> al crear una nueva clase para indicar que esa clase será la heredera de la clase padre.
+- usamos extends "NombreClasePadre" al crear una nueva clase para indicar que esa clase será la heredera de la clase padre
+
+
+
+
+
+
