@@ -33,4 +33,6 @@ Clases
 - STATIC
 	- atributos: indica que son compartidos por todas las instancias u objetos de esta clase.
 	- métodos: indicar que depende su ejecución solo de atributos estáticos y/o de los argumentos recibidos, invocados con la nomenclatura Clase.método()
-	- 
+
+## Herencia
+- usamos extends <NombreClasePadre> al crear una nueva clase para indicar que esa clase será la heredera de la clase padre.
