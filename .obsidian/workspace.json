@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "851251f4460891a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/REPASO M2.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/REPASO M2.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/REPASO M2.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md"
               }
             }
           },
@@ -189,12 +201,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efa8638eb3bd8f6",
+  "active": "851251f4460891a9",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/REPASO M2.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "PHOTOS/Pasted image 20230309081947.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
