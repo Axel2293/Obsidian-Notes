@@ -71,3 +71,4 @@ Clase.Method(args...);
 Se ejecuta uan sola vez en la creacion de la clase. Los atributos o métodos que se utilicen ahí deben ser static.
 
 ### Protected
+Permite a clases derivadas acceder al objeto, a diferencia de private que solo deja que la misma clase tenga acceso al objeto.
