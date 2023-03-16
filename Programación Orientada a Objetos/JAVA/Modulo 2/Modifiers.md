@@ -72,3 +72,5 @@ Se ejecuta uan sola vez en la creacion de la clase. Los atributos o métodos qu
 
 ### Protected
 Permite a clases derivadas acceder al objeto, a diferencia de private que solo deja que la misma clase tenga acceso al objeto.
+
+## Implements

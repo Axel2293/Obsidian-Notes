@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md"
               }
             }
           },
@@ -188,14 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86980bf15b0e6a6f",
+  "active": "76ff3f9511073d2e",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/REPASO M2.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "PHOTOS/Pasted image 20230309081947.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
     "Lenguajes Formales/Repaso Examen parcial 1.md",
