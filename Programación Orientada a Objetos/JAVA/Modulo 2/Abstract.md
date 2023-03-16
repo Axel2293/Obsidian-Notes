@@ -8,3 +8,15 @@ Este método tendra que ser implementado en todas nuestras clases derivadas
 ```java
 public abstract double area();
 ```
+
+#### En una clase
+una clase abstract no se puede instanciar, solo sirve como una plantilla para subclases que se deriven de esta
+```java
+public abstract class Shape3D{
+	//Plantilla
+}
+```
+Aun asi podemos utilizar una variable de la clase para guardar instancias de las subclases.
+```java
+Shape3D instance= new sphere3D();
+```
