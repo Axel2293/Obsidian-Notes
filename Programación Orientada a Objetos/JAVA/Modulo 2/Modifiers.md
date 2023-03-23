@@ -74,3 +74,6 @@ Se ejecuta uan sola vez en la creacion de la clase. Los atributos o métodos qu
 Permite a clases derivadas acceder al objeto, a diferencia de private que solo deja que la misma clase tenga acceso al objeto.
 
 ## Implements
+
+### Abstract
+El modificador abstract permite tener un esqueleto de como algun método debe de ser, si ponemos este en un método de una clase, la clase ya no puede ser instanciada y los herederos de esa clase deberán de implementar ese método.
