@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md"
               }
             }
           },
@@ -179,12 +179,13 @@
   },
   "active": "854536c2c901a17b",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+    "Pasted image 20230323075236.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Polimorfismo.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/REPASO M2.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "PHOTOS/Pasted image 20230309081947.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
@@ -197,7 +198,6 @@
     "PHOTOS/Pasted image 20230305190058.png",
     "PHOTOS/Pasted image 20230305185552.png",
     "PHOTOS/Pasted image 20230305185441.png",
-    "PHOTOS/Pasted image 20230305185227.png",
     "Lenguajes Formales/Lenguaje Formal.md",
     "Lenguajes Formales/No determinista - Automata Finito (AFN).md",
     "Lenguajes Formales/Conversion AFN a AFD.md",

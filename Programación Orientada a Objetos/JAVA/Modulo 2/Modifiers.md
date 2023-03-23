@@ -70,9 +70,13 @@ Clase.Method(args...);
 #### Para constructor
 Se ejecuta uan sola vez en la creacion de la clase. Los atributos o métodos que se utilicen ahí deben ser static.
 
-### Protected
+## Protected
 Permite a clases derivadas acceder al objeto, a diferencia de private que solo deja que la misma clase tenga acceso al objeto.
 
+
+
+# EJEMPLO
+![[Pasted image 20230323075236.png]]
 ## Implements
 Este modificador permite demarcar que la clase implementa una interfaz definida. 
 
