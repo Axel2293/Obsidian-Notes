@@ -1,0 +1,1 @@
+Se dice que una clase tiene polimorfismo cuando esta fuede tomar muchas formas, por ejemplo, la clase Shapes3D tiene como hijos a muchas figuras geométricas donde cada una tiene metodos y atributos diferentes, pero como heredaron de Shapes3D, esta tambien puede transformarse en cada una de esas figuras y por lo tanto, hay polimorfismo.
