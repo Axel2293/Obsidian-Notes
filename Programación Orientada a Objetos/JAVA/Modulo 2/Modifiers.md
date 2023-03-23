@@ -74,6 +74,28 @@ Se ejecuta uan sola vez en la creacion de la clase. Los atributos o métodos qu
 Permite a clases derivadas acceder al objeto, a diferencia de private que solo deja que la misma clase tenga acceso al objeto.
 
 ## Implements
+Este modificador permite demarcar que la clase implementa una interfaz definida. 
+
+En este caso la clase professor implementa la interfaz de MoodleUser, la cual requiere dos métodos: addCourse y login.
+```java
+public class Professor extends Employee implements MoodleUser, CubicleUser {
+	// Must override all abstract methods in Employee, MoodleUser, CubicleUser   
+	
+	public void addCourse() { ... }
+	public boolean login() { ... }
+}
+```
+
+## Interface
+Este modificador define lo que será una interfaz, para implementarla se debe usar implements en una clase. La interfaz ya es public  ABSTRACT por default, asi que podemos definir los métodos abstractos sin el modificador
+```java
+public interface MoodleUser {  
+	// public abstract by default 
+	void addCourse();  
+	boolean login();
+
+}
+```
 
 ### Abstract
 El modificador abstract permite tener un esqueleto de como algun método debe de ser, si ponemos este en un método de una clase, la clase ya no puede ser instanciada y los herederos de esa clase deberán de implementar ese método.
