@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7de02f95c71e6867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md"
               }
             }
           },
@@ -177,14 +189,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "854536c2c901a17b",
+  "active": "7de02f95c71e6867",
   "lastOpenFiles": [
     "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Polimorfismo.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Polimorfismo.md",
     "Programación Orientada a Objetos/JAVA/REPASO M2.md",
     "Pasted image 20230323075236.png",
     "PHOTOS/Pasted image 20230309081947.png",
