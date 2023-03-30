@@ -14,3 +14,5 @@ Flyable kite = new Flyable() {
 
 };
 ```
+
+En realidad, kite es una instancia de una clase anonima, kite no implementa directamente la interfaz, si no que lo que se escribe pasa a la clase anonima y esta se vuelve una implementacion de Flyable.
