@@ -18,3 +18,8 @@ public enum Figura {
 }
 ```
 Dentro de este enum se definio un nombre constante para el mismo, con un contructor y con un método toString para poder ver el nombre.
+
+Mediante la agregación de un constructor debemos de definir el argumento para cada uno de nuestras enumeraciones.
+```java
+	CORAZON("Corazon"), TREBOL("Trebol").....
+```
