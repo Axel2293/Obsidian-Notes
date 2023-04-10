@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "08b8c6d980d248af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb458cd3f63e3589",
             "type": "leaf",
             "state": {
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md"
               }
             }
           },
@@ -210,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08b8c6d980d248af",
+  "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
     "Pasted image 20230408010315.png",
     "conflict-files-obsidian-git.md",
