@@ -1,3 +1,5 @@
+Sirve para almacenar datos categoricos.
+
 Una enumeracion tambien es una clase y es una lista de sus unicas instancias, no hay más instancias afuera de las que estan creadas dentro de ellas.
 ```java 
 public enum Figura{
