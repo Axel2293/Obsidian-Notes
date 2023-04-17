@@ -4,57 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a3edfeab92932a3e",
+        "id": "7b3e5597cb58c546",
         "type": "tabs",
         "children": [
           {
-            "id": "20e0d06e990a49d7",
+            "id": "04496b53a7d2e0ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+                "file": "C/Modulo 1/Apuntadores a arreglos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56e392b6b865ae57",
+            "id": "130bf4b2a29b0d29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80af72405a812556",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230408010315.png"
-              }
-            }
-          },
-          {
-            "id": "cb458cd3f63e3589",
+            "id": "211bd51ee90abdbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+                "file": "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3fafef9876bffb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicios Seguros de Internet/Linux server/SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4749e64186e91b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicios Seguros de Internet/Linux server/DNS server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0775e60010fb6dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73b8d6b7493d54c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -104,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -120,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md"
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md"
               }
             }
           },
@@ -185,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +237,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb458cd3f63e3589",
+  "active": "73b8d6b7493d54c8",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
+    "Servicios Seguros de Internet/Linux server/Apache.md",
+    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
+    "Servicios Seguros de Internet/Linux server/DNS server.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
+    "Pasted image 20230416213101.png",
+    "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
+    "Servicios Seguros de Internet/Linux server/SSH.md",
+    "Pasted image 20230416160912.png",
+    "Pasted image 20230416160840.png",
+    "Servicios Seguros de Internet/Linux server",
+    "CV META/CV foramt.md",
+    "C/Modulo 1/Apuntadores.md",
+    "C/Modulo 1/Apuntadores a arreglos.md",
+    "C/Modulo 1/Apuntadores a estructuras.md",
+    "C/Modulo 2/Contenedores.md",
+    "C/Modulo 3/Contenedor List.md",
+    "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
+    "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
+    "C/Modulo 1/Apuntadores a funciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
     "Pasted image 20230408010315.png",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "conflict-files-obsidian-git.md",
     "Git/SSH Auth.md",
     "Git/Git credential manager.md",
@@ -211,21 +270,6 @@
     "C/Colors on console mac.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Polimorfismo.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Sentencias de control.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
     "PHOTOS/Pasted image 20230330075520.png",
     "PHOTOS/Pasted image 20230323075236.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3",
@@ -236,9 +280,6 @@
     "PHOTOS/Pasted image 20230305191733.png",
     "PHOTOS/Pasted image 20230305191432.png",
     "PHOTOS/Pasted image 20230305191059.png",
-    "PHOTOS/Pasted image 20230305191048.png",
-    "PHOTOS/Pasted image 20230305190129.png",
-    "PHOTOS/Pasted image 20230305190058.png",
-    "Servicios Seguros"
+    "Servicios Seguros de Internet"
   ]
 }
