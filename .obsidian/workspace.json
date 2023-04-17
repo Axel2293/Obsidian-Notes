@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "bd4d6b4715c1de51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a44c3f9fd947d1c7",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md"
               }
             }
           },
@@ -234,11 +246,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8f4dcc0062622aa",
+  "active": "bd4d6b4715c1de51",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
     "Pasted image 20230417090422.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
     "conflict-files-obsidian-git.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
@@ -278,7 +291,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
     "PHOTOS/Pasted image 20230305191733.png",
     "PHOTOS/Pasted image 20230305191432.png",
-    "PHOTOS/Pasted image 20230305191059.png",
     "Servicios Seguros"
   ]
 }
