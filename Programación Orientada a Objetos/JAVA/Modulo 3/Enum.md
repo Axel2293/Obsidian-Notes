@@ -1,5 +1,11 @@
 Sirve para almacenar datos categoricos. Podemos ver a cada enumeracion como una instancia que se selecciona con Figura.CORAZON.
 
+Ejemplos de datos categóricos:  
+- Estado civil = {Soltero, casado, viudo, divorciado, unión libre}  
+- Idioma = { Español, Inglés, Francés, Alemán, Italiano, ... }  
+- IMC = { Bajo peso, Normal, Sobrepeso, Obesidad, Carstens }  
+- Nivel educativo = { Posgrado, Licenciatura, Preparatoria, Secundaria, Trump-fan }
+
 Una enumeracion tambien es una clase y es una lista de sus unicas instancias, no hay más instancias afuera de las que estan creadas dentro de ellas.
 ```java 
 public enum Figura{
