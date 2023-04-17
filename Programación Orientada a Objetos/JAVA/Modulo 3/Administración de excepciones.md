@@ -1,3 +1,7 @@
+tenemos varias opciones para administrar Excepciones:
+- Propagar:
+- Manejar internamente:
+
 Podemos crear nuestras propias excepciones de la siguiente forma:
 ```java
 @SuppressWarnings("serial")
