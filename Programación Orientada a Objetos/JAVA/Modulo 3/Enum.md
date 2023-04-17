@@ -1,4 +1,7 @@
-Sirve para almacenar datos categoricos. Podemos ver a cada enumeracion como una instancia que se selecciona con Figura.CORAZON.
+Sirve para almacenar datos categoricos. 
+
+>[!info]
+>Una enumeracion es una lista con sus unicas instancias, donde estas son publicas y nadie mas puede crear más instancias.
 
 Ejemplos de datos categóricos:  
 - Estado civil = {Soltero, casado, viudo, divorciado, unión libre}  
