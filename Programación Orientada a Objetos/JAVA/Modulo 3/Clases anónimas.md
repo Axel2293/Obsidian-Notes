@@ -1,8 +1,10 @@
-Mediante este tipo declases podemos crear objetos especificos sin la necesidad de tener un archivo por separado, ya que la podemos crear justo donde instanciamos la clase. 
+Mediante este tipo de clases podemos crear objetos especificos sin la necesidad de tener un archivo por separado, ya que la podemos crear justo donde instanciamos la clase. 
 
 Debemos de utilizar una interfaz para que ya tengamos una platilla de métodos a implementar.
 
 ![[Pasted image 20230330075520.png]]
+
+La clase Flyable es una interfaz.
 ```java
 //Declaramos el objeto kite e implementamos todos los métodos abstractos de la interfaz
 

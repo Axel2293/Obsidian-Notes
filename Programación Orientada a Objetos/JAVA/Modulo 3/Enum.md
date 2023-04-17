@@ -1,4 +1,4 @@
-Sirve para almacenar datos categoricos.
+Sirve para almacenar datos categoricos. Podemos ver a cada enumeracion como una instancia que se selecciona con Figura.CORAZON.
 
 Una enumeracion tambien es una clase y es una lista de sus unicas instancias, no hay más instancias afuera de las que estan creadas dentro de ellas.
 ```java 
@@ -25,3 +25,10 @@ Mediante la agregación de un constructor debemos de definir el argumento para c
 ```java
 	CORAZON("Corazon"), TREBOL("Trebol").....
 ```
+
+## Ordinal
+Regresa el index de la enumeracion actual.
+```java
+enum.ordinal();
+```
+Este nos permite saber en que elemento de la unumeracion estamos, si tenemos la instancia que hace referencia a corazon entonces nos regresara el primer elemento en el array.
