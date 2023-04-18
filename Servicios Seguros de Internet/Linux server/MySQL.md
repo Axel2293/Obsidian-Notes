@@ -55,3 +55,18 @@ SHOW FULL TABLES FROM basededatosnueva;
 CREATE USER 'usuario'@'localhost' IDENTIFIED BY '1234567';
 #Otorgamos permisos al nuevo ususario
 GRANT CREATE,INSERT,DELETE,UPDATE,SELECT ON basesdedatosnueva.* TO usaurio@localhost;
+#Comprobamos que el usuario tenga los permisos dados
+SHOW GRANTS FOR 'usuario'@'localhost';
+# Podemos ver los usuarios dedaos de alta de todo nuestro mysql con 
+select user, host from mysql.user;
+#Salimos
+quit
+```
+#### Evitar inicio con procesos de verificacion
+```shell
+sudo  systemctl  set-environment  MYSQLD_OPTS="--skip-networking  --skip-grant-tables"
+
+#Reiniciamos
+sudo systemctl restart mysql.service
+
+```
