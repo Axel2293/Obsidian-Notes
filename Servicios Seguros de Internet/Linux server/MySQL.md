@@ -34,3 +34,22 @@ sudo /etc/init.d/mysql  stop
 ```shell
 sudo apt  install  mysql-server  mysql-client  mysql-common
 ```
+
+## Guia-basica
+```shell
+#Entrar con el usuario root (default sin contraseña)
+sudo mysql -u root
+```
+```mysql
+#Creamos una bases de datos
+CREATE DATABASE basededatosnueva
+#Verificamos con
+SHOW DATABASES;
+#Nos movemos a la base de datos nueva
+USE basededatosnueva;
+#Creamos una tabla
+CREATE TABLE personas(nombre VARCHAR(50), edad INT);
+#Comprobamos que se creo la tabla
+SHOW FULL TABLES FROM basededatosnueva;
+#Creamos un usuario para mysql
+CREATE USER 'usuario'@'localhost' IDENTIFIED BY '1234567';
