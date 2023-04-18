@@ -9,16 +9,7 @@ Cuando el servidor no puede responder una peticion manda como respuesta la direc
 
 ![[Pasted image 20230416160912.png]]
 
-*Relacionar direcciones IP con nombres de dominio*, ya que resulta  
-mucho mas fácil relacionar para cualquiera el nombre del domino en  
-lugar de su dirección IP.  
-*Su funcionamiento se basa en el uso de una base de datos  
-distribuida y jerárquica*, en la que se almacenan nombres de dominio  
-y direcciones IP, así como el de prestar servicios de localización de  
-servidores de correo.  
-*Permite la consulta de diferentes tipos de registros* en los que se  
-incluyen servidores de correo, direcciones IP, nombres de dominio,  
-información textual, servicios, etc.
+*Relacionar direcciones IP con nombres de dominio*, ya que resulta mucho mas fácil relacionar para cualquiera el nombre del domino en lugar de su dirección IP. *Su funcionamiento se basa en el uso de una base de datos distribuida y jerárquica*, en la que se almacenan nombres de dominio y direcciones IP, así como el de prestar servicios de localización de servidores de correo. *Permite la consulta de diferentes tipos de registros* en los que se incluyen servidores de correo, direcciones IP, nombres de dominio, información textual, servicios, etc.
 
 >[!info]
 >DNS se encuentra en la capa 7 de aplicacion del modelo OSI y suel utilizar el puerto 53 (TCP y UDP)
