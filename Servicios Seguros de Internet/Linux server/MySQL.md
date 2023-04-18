@@ -53,3 +53,5 @@ CREATE TABLE personas(nombre VARCHAR(50), edad INT);
 SHOW FULL TABLES FROM basededatosnueva;
 #Creamos un usuario para mysql
 CREATE USER 'usuario'@'localhost' IDENTIFIED BY '1234567';
+#Otorgamos permisos al nuevo ususario
+GRANT CREATE,INSERT,DELETE,UPDATE,SELECT ON basesdedatosnueva.* TO usaurio@localhost;
