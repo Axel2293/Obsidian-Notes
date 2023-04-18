@@ -18,4 +18,5 @@ All my class notes
 - ## SSL
 - ## DNS
 - ## APACHE
-- 
+
+# Windows Server 2022

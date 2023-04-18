@@ -1,10 +1,5 @@
 
-El proceso de traducción de los nombres de dominio en direcciones  
-numéricas que las máquinas puedan entender es lo que se conoce  
-como resolución de nombres, una labor que realiza el Domain Name  
-System, en español Sistema de Nombres de Dominio, mas conocido  
-por sus siglas DNS, su labor primordial consiste en resolver las  
-peticiones de asignación de nombres.
+El proceso de traducción de los nombres de dominio en direcciones numéricas que las máquinas puedan entender es lo que se conoce como resolución de nombres, una labor que realiza el *Domain Name System*, en español Sistema de Nombres de Dominio, mas conocido por sus siglas DNS, su labor primordial consiste en *resolver las peticiones de asignación de nombres*.
 
 ## Resolucion recursiva
 Es cuando el servidor no puede responder a una peticion y toma informacioan de otro servidor para responder a la peticion.

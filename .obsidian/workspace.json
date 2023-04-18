@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Servicios Seguros de Internet/Linux server/DNS server.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Servicios Seguros de Internet/Linux server/DNS server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Servicios Seguros de Internet/Linux server/DNS server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Servicios Seguros de Internet/Linux server/DNS server.md"
               }
             }
           },
@@ -203,9 +203,10 @@
   },
   "active": "bd4d6b4715c1de51",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
-    "README.md",
     "Servicios Seguros de Internet/Linux server/MySQL.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
+    "Index.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
     "PHOTOS/Pasted image 20230408010315.png",
@@ -219,7 +220,6 @@
     "Servicios Seguros de Internet/Linux server/DNS server.md",
     "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
     "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Servicios Seguros de Internet/Linux server/SSH.md",
     "Servicios Seguros de Internet/Linux server/Apache.md",
