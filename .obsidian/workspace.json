@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md"
+                "file": "README.md"
               }
             }
           },
@@ -201,16 +201,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8f4dcc0062622aa",
+  "active": "bd4d6b4715c1de51",
   "lastOpenFiles": [
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+    "README.md",
+    "Servicios Seguros de Internet/Linux server/MySQL.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
     "PHOTOS/Pasted image 20230408010315.png",
     "Git/Comandos GIT.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
-    "README.md",
-    "Servicios Seguros de Internet/Linux server/MySQL.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
     "PHOTOS/Pasted image 20230417093007.png",
     "PHOTOS/Pasted image 20230417092716.png",

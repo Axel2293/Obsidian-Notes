@@ -8,5 +8,14 @@ All my class notes
 	- #### Basics 
 	- #### Class
 	- #### Objects
+- ## Python
+- 
 
-
+# Linux
+- ## MySQL
+- ## SSH
+- ## FTP
+- ## SSL
+- ## DNS
+- ## APACHE
+- 
