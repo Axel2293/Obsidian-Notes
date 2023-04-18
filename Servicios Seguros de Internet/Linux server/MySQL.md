@@ -62,6 +62,7 @@ select user, host from mysql.user;
 #Salimos
 quit
 ```
+
 #### Evitar inicio con procesos de verificacion
 ```shell
 sudo  systemctl  set-environment  MYSQLD_OPTS="--skip-networking  --skip-grant-tables"
@@ -69,4 +70,35 @@ sudo  systemctl  set-environment  MYSQLD_OPTS="--skip-networking  --skip-gra
 #Reiniciamos
 sudo systemctl restart mysql.service
 
+```
+
+#### Cambiar contraseña de root
+```mysql
+#Entramos
+sudo mysql -u root
+
+#Quitamos privilegios
+flush privileges;
+
+#Cambiamos a la base de datos mysql
+USE mysql
+
+#Cambiamos la contraseña
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'passwordnuevo';
+
+#Salimos
+quit
+```
+```shell
+#Matamos todos los procesos de mysql para que el cambio de contraseña se aplique
+sudo killall -u mysql
+
+#Reiniciamos mysql
+sudo systemctl restart mysql.service
+```
+
+#### Iniciar sesion con nueva contraseña
+Para iniciar como root con la nueva contraseña debeos de indicar que ya tiene contraseña
+```shell
+sudo mysql -u root -p
 ```
