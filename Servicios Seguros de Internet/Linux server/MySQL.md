@@ -11,7 +11,8 @@
 	- Permite ejecutar las rutinas almacenadas
 - GRANT OPTION
 	- Permite a un usuario conceder o retirar los privilegios de usuario
-- 
+- INSERT
+	- Permite insertar
 
 ## Iniciar - Reiniciar
 ```shell
