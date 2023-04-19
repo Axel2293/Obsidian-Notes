@@ -4,7 +4,7 @@
 - Phone number
 ## Degrees and preparation
 
-## Proyects and work experience
+## Projects and work experience
 - School proyects
 	- Small proyects are relevant to show skills
 - Independent tech/science proyects
