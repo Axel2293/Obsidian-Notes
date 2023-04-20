@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09efa968b49d2034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md"
               }
             }
           },
@@ -177,18 +189,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee2a0e0a119db222",
+  "active": "09efa968b49d2034",
   "lastOpenFiles": [
+    "Pasted image 20230420092604.png",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
     "Pasted image 20230420091908.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
     "C/Modulo 2/Contenedores.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
     "Index.md",
@@ -209,7 +223,6 @@
     "conflict-files-obsidian-git.md",
     "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
-    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Servicios Seguros de Internet/UbuntuServer",
     "Servicios Seguros de Internet/Linux server",
     "Servicios Seguros de Internet",
@@ -221,7 +234,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 3",
     "Lenguajes Formales/Modulo 2",
     "Lenguajes Formales/Modulo 1",
-    "PHOTOS/Pasted image 20230309081947.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
     "Servicios Seguros"
   ]
