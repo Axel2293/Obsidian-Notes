@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5d634c6f478a1e90",
+        "id": "a3edfeab92932a3e",
         "type": "tabs",
         "children": [
           {
-            "id": "80975d28cc0be18e",
+            "id": "2130db5265b9f29c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md"
+              }
             }
           },
           {
@@ -156,49 +164,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80975d28cc0be18e",
+  "active": "2130db5265b9f29c",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Object oriented programing in java.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
-    "Servicios Seguros de Internet/Linux server/SAMBA.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
+    "C/Modulo 2/Contenedores.md",
+    "Programación Orientada a Objetos/JAVA/Object oriented programing in java.md",
+    "CV META/CV foramt.md",
     "Servicios Seguros de Internet/Linux server/MySQL.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+    "C/Modulo 3/Contenedor List.md",
+    "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
+    "C/Modulo 2/Estructuras Autoreferenciadas.md",
+    "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "Servicios Seguros de Internet/Linux server/DNS server.md",
-    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
+    "Index.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
+    "PHOTOS/Pasted image 20230408010315.png",
+    "Git/Comandos GIT.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "PHOTOS/Pasted image 20230417093007.png",
     "PHOTOS/Pasted image 20230417092716.png",
     "PHOTOS/Pasted image 20230417090422.png",
+    "conflict-files-obsidian-git.md",
+    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
+    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
+    "Servicios Seguros de Internet/Linux server/SSH.md",
+    "Servicios Seguros de Internet/Linux server/Apache.md",
+    "Servicios Seguros de Internet/UbuntuServer",
+    "Servicios Seguros de Internet/Linux server",
+    "Servicios Seguros de Internet",
     "PHOTOS/Pasted image 20230416213101.png",
     "PHOTOS/Pasted image 20230416160912.png",
     "PHOTOS/Pasted image 20230416160840.png",
-    "PHOTOS/Pasted image 20230408010315.png",
-    "Index.md",
-    "Servicios Seguros de Internet/Linux server/Apache.md",
-    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
-    "Pasted image 20230416213101.png",
-    "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
-    "Servicios Seguros de Internet/Linux server/SSH.md",
-    "Pasted image 20230416160912.png",
-    "Pasted image 20230416160840.png",
-    "Servicios Seguros de Internet/Linux server",
-    "CV META/CV foramt.md",
     "C/Modulo 1/Apuntadores.md",
-    "C/Modulo 1/Apuntadores a arreglos.md",
-    "C/Modulo 1/Apuntadores a estructuras.md",
-    "C/Modulo 2/Contenedores.md",
-    "C/Modulo 3/Contenedor List.md",
-    "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
-    "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
-    "C/Modulo 1/Apuntadores a funciones.md",
+    "Git/Git credential manager.md",
+    "PHOTOS/Pasted image 20230330075520.png",
+    "PHOTOS/Pasted image 20230323075236.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3",
     "Lenguajes Formales/Modulo 2",
     "Lenguajes Formales/Modulo 1",
+    "PHOTOS/Pasted image 20230309081947.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
-    "Servicios Seguros de Internet"
+    "Servicios Seguros"
   ]
 }
