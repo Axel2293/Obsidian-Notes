@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "3f100b370d641dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09efa968b49d2034",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md"
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md"
               }
             }
           },
@@ -189,13 +201,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee2a0e0a119db222",
+  "active": "3f100b370d641dce",
   "lastOpenFiles": [
+    "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
+    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "Servicios Seguros de Internet/Linux server/MySQL.md",
+    "Servicios Seguros de Internet/Linux server/DNS server.md",
+    "Servicios Seguros de Internet/Linux server/SAMBA.md",
+    "Servicios Seguros de Internet/Linux server/Untitled.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
     "Pasted image 20230420094606.png",
     "Pasted image 20230420094431.png",
     "Pasted image 20230420094407.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
     "Pasted image 20230420092604.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
     "Pasted image 20230420091908.png",
@@ -211,12 +229,9 @@
     "Index.md",
     "Programación Orientada a Objetos/JAVA/Object oriented programing in java.md",
     "CV META/CV foramt.md",
-    "Servicios Seguros de Internet/Linux server/MySQL.md",
     "C/Modulo 3/Contenedor List.md",
     "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
     "C/Modulo 2/Estructuras Autoreferenciadas.md",
-    "Servicios Seguros de Internet/Linux server/SAMBA.md",
-    "Servicios Seguros de Internet/Linux server/DNS server.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
     "PHOTOS/Pasted image 20230408010315.png",
     "Git/Comandos GIT.md",
@@ -224,13 +239,10 @@
     "PHOTOS/Pasted image 20230417092716.png",
     "PHOTOS/Pasted image 20230417090422.png",
     "conflict-files-obsidian-git.md",
-    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
-    "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
     "Servicios Seguros de Internet/UbuntuServer",
     "Servicios Seguros de Internet/Linux server",
     "Servicios Seguros de Internet",
     "PHOTOS/Pasted image 20230416213101.png",
-    "PHOTOS/Pasted image 20230416160912.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3",
     "Lenguajes Formales/Modulo 2",
     "Lenguajes Formales/Modulo 1",

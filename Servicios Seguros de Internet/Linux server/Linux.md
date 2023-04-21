@@ -1,5 +1,13 @@
 ### Comandos básicos
-
+##### Sudo
+Ejecuta la instruccion como root
+##### su
+inicia sesión como root
+##### ls
+Listado de todos los archivos y directorios
+- *-d* : Lista el nombre del directorio en vez de los archivoscontenidos en el.
+- *-t* :Lista los archivos ordenados por el tiempo de modificación en vez de ordenarlos alfabéticamente.
+- *-h* : Muestra los atamaños de archivo en términos de kilobytes
 ### Directorios importantes
 - / 
 	- Es la raiz del ssitema
