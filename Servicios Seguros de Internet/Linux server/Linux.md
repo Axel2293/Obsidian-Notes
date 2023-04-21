@@ -88,6 +88,13 @@ cat /etc/group | grep usuario | cut -d: -f1
 #### Create a group
 ```shell
 sudo groupadd grupo1
+# Verify
+cut -d : -f 1 /etc/group | grep grupo1
+```
+
+#### Delete group
+```shell
+sudo groupdel grupo1
 ```
 
 #### Structure
