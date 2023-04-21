@@ -75,6 +75,30 @@ Ver archivo de grupos:
 ```shell
 cat /etc/group
 ```
+
+##### List of groups
+```shell
+cut -d : -f 1 /etc/group
+```
+
+##### What groups does a user belong in?
+```shell
+cat /etc/group | grep usuario | cut -d: -f1
+```
+#### Create a group
+```shell
+sudo groupadd grupo1
+```
+
+#### Structure
+Example:
+```yaml
+sudo:x:27:ubuntu, usuario
+```
+- *sudo*: el nombre del grupo
+- *X* : Una contraseña cifrada, sin embargo, esto por regla no se utiliza
+- *27* : El número de identificación del grupo GID
+- *Ubuntu, usuario* : Es un listado de los usaurios que peretenecen al grupo separados por comas.
 ### Directorios importantes
 - / 
 	- Es la raiz del ssitema
