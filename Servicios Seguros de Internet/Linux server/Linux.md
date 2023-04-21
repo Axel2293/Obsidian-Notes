@@ -131,6 +131,41 @@ chown :group prueba.txt
 
 ##### Grep
 Allows to search for text strings and words inside a text ficher or from standard input from terminal.
+
+##### Wget
+Allows to download content from web servers.
+
+- *-b* : Goes to the background after starting.
+- *-q* : Silent (Without text output)
+- *-c* : Continua una descarga parcial de un archivo.
+
+##### Ps
+Shows all the active processes.
+
+Options:
+- *-e* : se info about all the processes
+- *-j* : see info about PGID and SID
+- *-l* : see lots of info about processes
+- *-f* : see params wich were use in the up of the processes
+- *-a* : shows the processes of other users
+- *-u* : usr sees info about other users processes
+
+##### Top
+
+##### Free
+
+##### Uptime
+##### Ip a
+##### Ifconfig
+##### Whoami
+##### Ssh
+##### Traceroute
+##### History
+
+
+
+
+
 ## Groups
 Ver archivo de grupos:
 ```shell
