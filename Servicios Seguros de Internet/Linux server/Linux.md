@@ -70,6 +70,19 @@ Te muestra si un objeto es un directorio o un archivo.
 ##### Mv
 Mueve un archivo o directorio a una ruta especifica.
 
+##### Chmod
+Establece permisos de archivos y carpetas. En sistemas UNIX se tienen 3 tipos de permisos.
+
+Types of permisions:
+- r = read
+- w = write
+- x = execute
+
+Who can recieve the permisions?
+- u = user : user owner of the file
+- g = group : group owner of the file
+- o = 0ther : the rest of users of the system
+
 ## Groups
 Ver archivo de grupos:
 ```shell
@@ -112,6 +125,7 @@ Users archive
 ```shell
 cat /etc/passwd
 ```
+
 ##### Structure
 ubuntu:x:1000:1000:Usuario de Ubuntu:/home/ubuntu:/bin/bash
 - *ubuntu* es el alias del usuario que utiliza para registrarse  
@@ -136,11 +150,12 @@ sudo usermod -a -G group1 usr1
 groups usr1
 ```
 
+## Permisions of users, directories or files
+
+![[Pasted image 20230420233433.png|600]]
 
 
-
-
-### Directorios importantes
+## Directorios importantes
 - / 
 	- Es la raiz del ssitema
 - /bin 
