@@ -82,6 +82,12 @@ Who can recieve the permisions?
 - u = user : user owner of the file
 - g = group : group owner of the file
 - o = 0ther : the rest of users of the system
+-  a = all : all user classes
+
+Operands
+- *+* : assigns user classes new file right. Only affected data rights are verwritten.
+- *-* : The operand '-' removes file right from a user class.
+- *=* : Should the file rights of a user class be reset, then the operand '=' is used.
 
 ## Groups
 Ver archivo de grupos:
