@@ -106,6 +106,40 @@ sudo:x:27:ubuntu, usuario
 - *X* : Una contraseña cifrada, sin embargo, esto por regla no se utiliza
 - *27* : El número de identificación del grupo GID
 - *Ubuntu, usuario* : Es un listado de los usaurios que peretenecen al grupo separados por comas.
+
+## Users
+Users archive
+```shell
+cat /etc/passwd
+```
+##### Structure
+ubuntu:x:1000:1000:Usuario de Ubuntu:/home/ubuntu:/bin/bash
+- *ubuntu* es el alias del usuario que utiliza para registrarse  
+- *x* representa que la contraseña cifrada se encuentra en /etc/shadow  
+- *1000* es el número de identificación del usuario *UID*.  
+- *1000* representa el número de identificación del grupo principal al que pertenece el usuario, lo que se conoce como *GID*
+- *Usuario de Ubuntu* es la información adicional que has proporcionado al crear la cuenta en cuestión, así aparecerán el nombre de usuario y otros datos que defines durante la creación del nuevo usuario  
+- */home/ubuntu* es la ruta de inicio del nuevo usuario, la carpeta personal del usuario  
+- */bin/bash* es el shell que utiliza el usuario en cuestión
+#### Create user
+```shell
+sudo adduser usr1
+```
+#### Delete user
+```shell
+sudo deluser usr1
+```
+#### Add user to group
+```shell
+sudo usermod -a -G group1 usr1
+# Verify
+groups usr1
+```
+
+
+
+
+
 ### Directorios importantes
 - / 
 	- Es la raiz del ssitema
