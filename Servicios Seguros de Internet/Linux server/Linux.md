@@ -70,7 +70,11 @@ Te muestra si un objeto es un directorio o un archivo.
 ##### Mv
 Mueve un archivo o directorio a una ruta especifica.
 
-
+## Groups
+Ver archivo de grupos:
+```shell
+cat /etc/group
+```
 ### Directorios importantes
 - / 
 	- Es la raiz del ssitema
