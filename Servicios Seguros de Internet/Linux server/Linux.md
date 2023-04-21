@@ -1,13 +1,76 @@
 ### Comandos básicos
 ##### Sudo
 Ejecuta la instruccion como root
-##### su
+##### Su
 inicia sesión como root
-##### ls
+##### Ls
 Listado de todos los archivos y directorios
 - *-d* : Lista el nombre del directorio en vez de los archivoscontenidos en el.
 - *-t* :Lista los archivos ordenados por el tiempo de modificación en vez de ordenarlos alfabéticamente.
-- *-h* : Muestra los atamaños de archivo en términos de kilobytes
+- *-h* : Muestra los atamaños de archivo en términos de kilobytes, megabytes, etc.
+- *-A* : Lista todos los archivos excepto el "." y el "..."
+- *-R* : Lista los contenidos de todos los directorios recursivamente.
+- *-S* : Ordena el listado por el tamaño de los archivos.
+- *ls* : Listado de todos los archivos y directorios
+- *-l* : Lista los archivos con mucho más detalle, especificandopara cada archivo sus permisos, el número de enlaces rígidos, el nombre del propietario, el grupo al que pertenece, el tamaño de bytes y la fecha de la última modificación.
+- *-a* : Lista todos los archivos incluyendo el "." y el ".."
+- *-r* : Invierte el orden de listado de los archivos
+
+##### Clear
+Limpia la pantalla de terminal
+
+##### Pwd
+*Print working directory* despliega en pantalla el directorio donde el usuario está posicionado.
+
+##### Mkdir
+Crea un directorio en el directorio actual
+- *-m* : Establece los permisos, en lugar de a=rwx
+- *-p* : No hay eroores si existen, crear los directorios padres en caso necesario.
+- *-v* : Muestra un mensaje por cada directorio creado.
+
+##### Cd
+Se usa para cmabiar de directorio en el que te encuentras.
+- *-L* : Usar la estructura fisica del directorio.
+- *P* :  Fuerza enlaces simbólicos.
+
+##### Touch
+Sirve para crear un nuevo archivo vacio si este no existe en la ruta actual o dada.
+
+##### Nano
+Editor y creador de archivos.
+
+##### Cat
+Permite la visualización de archivos sin necesidad de un editor de textos.
+- *-n* : Numera las lineas mostradas
+- *-b* : Numera las lineas mostradas, exceptuando las lineas vacias
+- *-e* : Marca con el símbolo $ al final de cada linea.
+- *-s* : Suprime las lineas continuas que estén vacías a solo 1
+- *-v* : Muestra los caracteres especiales en el texto (\\,.ñ,etc.).
+
+##### Rm
+Borra archivos y directorios vacios
+- *-f --force*  : Descarta los archivos y argumentos que no existian sin preguntar anted de cada borrado.
+- *-i* : Pregunta un avez antes de borrar más de tres archivos.
+- *-l* : Pregunta una vez antes de borrar más de tres archivos, o cuando se borra recursivamente.
+- *-r, -R* : Borra los contenidos de los directorios recursivamente
+- *-d, --dir* : Borra los directorios vacíos.
+
+##### Cp
+Se utiliza para copiar archivos
+- *-b* : Crea un backup en el destino en el caso en el que exista un archivo llamado igual que el que queremos generar.
+- *-f* : Fuerza el borrado de los archivos destino sin consultar o avisar al usuario.
+- *-i* : Informa antes de sobrescribir un archivo en el destino indicado.
+- *-p* : Realiza una copia de los archivos y directorios conservando la fecha de modificación de los archivos y carpetas originales.
+- *-r* : Copia de formato recursiva.
+- *-R* : Copia de directorio /origen /destino/
+
+##### File
+Te muestra si un objeto es un directorio o un archivo.
+
+##### Mv
+Mueve un archivo o directorio a una ruta especifica.
+
+
 ### Directorios importantes
 - / 
 	- Es la raiz del ssitema
