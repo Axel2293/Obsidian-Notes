@@ -88,6 +88,17 @@ Establece permisos de archivos y carpetas. En sistemas UNIX se tienen 3 tipos de
 - *+* : assigns user classes new file right. Only affected data rights are verwritten.
 - *-* : The operand '-' removes file right from a user class.
 - *=* : Should the file rights of a user class be reset, then the operand '=' is used.
+###### Octal notation
+
+For permissions
+- *0* : no rights
+- *1* : execution
+- *2* : writing
+- *4* : reading
+For classes
+- *1* : class user
+- *2* : class group
+- *3* : class others
 
 ###### Example
 ```shell
@@ -97,8 +108,29 @@ chmod ugo+rw example.txt
 #Referencing all the user classes
 chmod a+rw example.txt
 
+#Using octal notation
+	# Gives all permision to user, group and other classes
+chmod 777 example.txt
+
 ```
 
+##### Chown 
+Change propietary of a file.
+
+###### Use
+```shell
+# Change user owner
+chown usuario prueba.txt
+
+#Change user and group owner
+chown usuario:grupo prueba.txt
+
+#Change group
+chown :group prueba.txt
+```
+
+##### Grep
+Allows to search for text strings and words inside a text ficher or from standard input from terminal.
 ## Groups
 Ver archivo de grupos:
 ```shell
@@ -170,6 +202,9 @@ groups usr1
 
 ![[Pasted image 20230420233433.png|600]]
 
+File type:
+- *dr* : Directory
+- *-* : Archive
 
 ## Directorios importantes
 - / 
