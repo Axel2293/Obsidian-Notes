@@ -73,21 +73,31 @@ Mueve un archivo o directorio a una ruta especifica.
 ##### Chmod
 Establece permisos de archivos y carpetas. En sistemas UNIX se tienen 3 tipos de permisos.
 
-Types of permisions:
+###### Types of permisions:
 - r = read
 - w = write
 - x = execute
 
-Who can recieve the permisions?
+###### Who can recieve the permisions?
 - u = user : user owner of the file
 - g = group : group owner of the file
 - o = 0ther : the rest of users of the system
 -  a = all : all user classes
 
-Operands
+###### Operands
 - *+* : assigns user classes new file right. Only affected data rights are verwritten.
 - *-* : The operand '-' removes file right from a user class.
 - *=* : Should the file rights of a user class be reset, then the operand '=' is used.
+
+###### Example
+```shell
+# this afects the User,Group and other classes with a + witch grants Read and Write permissions
+chmod ugo+rw example.txt
+
+#Referencing all the user classes
+chmod a+rw example.txt
+
+```
 
 ## Groups
 Ver archivo de grupos:
