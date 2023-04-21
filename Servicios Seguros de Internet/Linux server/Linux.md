@@ -151,20 +151,32 @@ Options:
 - *-u* : usr sees info about other users processes
 
 ##### Top
-
+Shows the use of the system in real time and a list of the processes that are running.
 ##### Free
+Shows info about the use of memory (Static result).
+```shell 
+# This will allow to watch the mem in a dinamic way
+watch -n 1 -d free
+```
 
 ##### Uptime
+Indicates the local time, the time the system has been active, the number of users connected and the average load on the system in the last 1, 5 or 15 minutes.
+
 ##### Ip a
+Shows the addressing IP of the device.
 ##### Ifconfig
+Shows the IP addressing of the device.
 ##### Whoami
-##### Ssh
+Shows the user active in the sesion.
 ##### Traceroute
+Trace the jumps on the network that are needed to arrive to a destination.
 ##### History
-
-
-
-
+Shows the list of the history of commands used during the session.
+Options: 
+- *-c* : delete the list of history, all entries.
+- *-d* : delete the entry on the given position.
+##### Man
+Shows info about other commands.
 
 ## Groups
 Ver archivo de grupos:

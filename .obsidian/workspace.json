@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md"
               }
             }
           },
@@ -202,8 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f100b370d641dce",
+  "active": "ee2a0e0a119db222",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
     "Pasted image 20230420233433.png",
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
     "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
@@ -215,7 +217,6 @@
     "Pasted image 20230420094606.png",
     "Pasted image 20230420094431.png",
     "Pasted image 20230420094407.png",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
     "Pasted image 20230420092604.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
     "Pasted image 20230420091908.png",
@@ -234,7 +235,6 @@
     "C/Modulo 3/Contenedor List.md",
     "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
     "C/Modulo 2/Estructuras Autoreferenciadas.md",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
     "PHOTOS/Pasted image 20230408010315.png",
     "Git/Comandos GIT.md",
     "PHOTOS/Pasted image 20230417093007.png",
@@ -243,7 +243,6 @@
     "Servicios Seguros de Internet/UbuntuServer",
     "Servicios Seguros de Internet/Linux server",
     "Servicios Seguros de Internet",
-    "PHOTOS/Pasted image 20230416213101.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3",
     "Lenguajes Formales/Modulo 2",
     "Lenguajes Formales/Modulo 1",
