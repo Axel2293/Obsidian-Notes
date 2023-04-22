@@ -52,7 +52,7 @@ cp /etc/bind/db.local /etc/bind/db.nombrededominio
 ```
 
 editamos con nano y agragamos
-```shell
+```yaml
 #EDITAMOS
 nano /etc/bind/db.nombrededominio
 
