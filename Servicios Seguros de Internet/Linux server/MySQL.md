@@ -23,6 +23,8 @@
 	- Permite revocar permisos
 	- Ejemplo:
 		- REVOKE **permission** ON *basededatos* FROM *usuario@nombreservidor*;
+- *FROM*
+- *WHERE*
 
 ## Iniciar - Reiniciar
 ```shell
