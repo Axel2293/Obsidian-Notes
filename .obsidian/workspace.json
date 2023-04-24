@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a3edfeab92932a3e",
+        "id": "4a77dcf1ebfc24c4",
         "type": "tabs",
         "children": [
           {
-            "id": "2130db5265b9f29c",
+            "id": "03374edd68b33e80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4d180e7083f8e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "374dbb69f9cbef40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md"
               }
             }
           },
@@ -165,51 +189,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2130db5265b9f29c",
+  "active": "f4d180e7083f8e51",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
+    "Servicios Seguros de Internet/Linux server/Email service.md",
+    "Pasted image 20230423231645.png",
+    "PHOTOS/Pasted image 20230422204535.png",
+    "PHOTOS/Pasted image 20230421221451.png",
+    "PHOTOS/Pasted image 20230421221010.png",
+    "PHOTOS/Pasted image 20230421220919.png",
+    "PHOTOS/Pasted image 20230421220853.png",
+    "PHOTOS/Pasted image 20230421220842.png",
+    "PHOTOS/Pasted image 20230421215401.png",
+    "PHOTOS/Pasted image 20230421215320.png",
+    "PHOTOS/Pasted image 20230421215258.png",
+    "Data Base/MySQL/Installation.md",
+    "Data Base/MySQL/Create a data base.md",
+    "Data Base/Data Base Design - Relational/Llave primaria.md",
+    "Data Base/Data Base Design - Relational/Data base.md",
+    "Data Base/MySQL",
+    "Data Base/Data Base Design - Relational",
+    "Data Base",
     "Servicios Seguros de Internet/Linux server/Linux.md",
-    "Pasted image 20230420233433.png",
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
     "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/MySQL.md",
     "Servicios Seguros de Internet/Linux server/DNS server.md",
     "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "Servicios Seguros de Internet/Linux server/Untitled.md",
-    "Pasted image 20230420094606.png",
-    "Pasted image 20230420094431.png",
-    "Pasted image 20230420094407.png",
-    "Pasted image 20230420092604.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
-    "Pasted image 20230420091908.png",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases genericas.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
     "C/Modulo 2/Contenedores.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
     "Index.md",
-    "Programación Orientada a Objetos/JAVA/Object oriented programing in java.md",
-    "CV META/CV foramt.md",
-    "C/Modulo 3/Contenedor List.md",
-    "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
-    "C/Modulo 2/Estructuras Autoreferenciadas.md",
-    "PHOTOS/Pasted image 20230408010315.png",
-    "Git/Comandos GIT.md",
-    "PHOTOS/Pasted image 20230417093007.png",
-    "PHOTOS/Pasted image 20230417092716.png",
-    "PHOTOS/Pasted image 20230417090422.png",
     "Servicios Seguros de Internet/UbuntuServer",
     "Servicios Seguros de Internet/Linux server",
     "Servicios Seguros de Internet",
     "Programación Orientada a Objetos/JAVA/Modulo 3",
-    "Lenguajes Formales/Modulo 2",
-    "Lenguajes Formales/Modulo 1",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Untitled",
-    "Servicios Seguros"
+    "Lenguajes Formales/Modulo 2"
   ]
 }

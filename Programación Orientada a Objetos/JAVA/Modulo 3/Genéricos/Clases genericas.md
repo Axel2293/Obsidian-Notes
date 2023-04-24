@@ -20,7 +20,10 @@ public class GDrawer<Type> {
 	}  
 }
 ```
-La clase GDrawer permite almacenar un objeto cualquiera y para crear una instancia de esta clase almacenadora la definimos de la siguiente forma:
+>[!info]
+>Una clase genérica solo acepta otras clases, esto significa que no se acepta* int, double, float, char* en su forma OOP, pero si se acepta *Integer, Double, Float, Char*.
+
+La clase *GDrawer* permite almacenar un objeto cualquiera y para crear una instancia de esta clase almacenadora la definimos de la siguiente forma:
 ```java
 GDrawer<String> gdrawer1 = new GDrawer<String>();
 // Desde Java 7: Type inference

@@ -52,7 +52,7 @@ cp /etc/bind/db.local /etc/bind/db.nombrededominio
 ```
 
 editamos con nano y agragamos
-```shell
+```yaml
 #EDITAMOS
 nano /etc/bind/db.nombrededominio
 
@@ -120,7 +120,7 @@ sudo named-checkzone 2.0.10.in-addr.arpa /etc/bind/db.2.0.10
 Aqui hara la consulta cuando nuestro servidor DNS no pueda resolver alguna peticion.
 
 ```shell
-sudo nano etc/bind/named.conf.options
+sudo nano /etc/bind/named.conf.options
 ```
 
 Podemos agregar los siguientes:
