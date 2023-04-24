@@ -25,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+                "file": "Git/Git credential manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "374dbb69f9cbef40",
+            "id": "d40750e619e1d62c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md"
+                "file": "Servicios Seguros de Internet/Linux server/Apache.md"
               }
             }
           },
@@ -189,10 +190,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4d180e7083f8e51",
+  "active": "d40750e619e1d62c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Servicios Seguros de Internet/Linux server/DNS server.md",
+    "Servicios Seguros de Internet/Linux server/Apache.md",
+    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "Servicios Seguros de Internet/Linux server/SSH.md",
+    "Lenguajes Formales/Modulo 3/Gramáticas.md",
+    "Git/Git credential manager.md",
+    "Lenguajes Formales/Modulo 3",
+    "Git/SSH Auth.md",
+    "Git/Comandos GIT.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+    "conflict-files-obsidian-git.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
@@ -220,22 +230,13 @@
     "Data Base",
     "Servicios Seguros de Internet/Linux server/Linux.md",
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
-    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/MySQL.md",
-    "Servicios Seguros de Internet/Linux server/DNS server.md",
     "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "Servicios Seguros de Internet/Linux server/Untitled.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
-    "C/Modulo 2/Contenedores.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos",
-    "Index.md",
     "Servicios Seguros de Internet/UbuntuServer",
     "Servicios Seguros de Internet/Linux server",
     "Servicios Seguros de Internet",
-    "Programación Orientada a Objetos/JAVA/Modulo 3",
-    "Lenguajes Formales/Modulo 2"
+    "Programación Orientada a Objetos/JAVA/Modulo 3"
   ]
 }

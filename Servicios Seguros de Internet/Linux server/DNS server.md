@@ -21,7 +21,7 @@ sudo apt install bind9 dnsutils
 ```
 
 Cambiamos a la ruta y editamos con nano:  
-/etc/bind/named.conf.local
+*/etc/bind/named.conf.local*
 
 ```shell
 sudo nano named.conf.local
