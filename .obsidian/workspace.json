@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
+                "file": "Servicios Seguros de Internet/Linux server/MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
+                "file": "Servicios Seguros de Internet/Linux server/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Apache.md",
+                "file": "Servicios Seguros de Internet/Linux server/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Apache.md"
+                "file": "Servicios Seguros de Internet/Linux server/MySQL.md"
               }
             }
           },
@@ -192,10 +191,13 @@
   },
   "active": "d40750e619e1d62c",
   "lastOpenFiles": [
-    "Servicios Seguros de Internet/Linux server/DNS server.md",
-    "Servicios Seguros de Internet/Linux server/Apache.md",
-    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/SSH.md",
+    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "Servicios Seguros de Internet/Linux server/Email service.md",
+    "Servicios Seguros de Internet/Linux server/MySQL.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
+    "Servicios Seguros de Internet/Linux server/Apache.md",
+    "Servicios Seguros de Internet/Linux server/DNS server.md",
     "Lenguajes Formales/Modulo 3/Gramáticas.md",
     "Git/Git credential manager.md",
     "Lenguajes Formales/Modulo 3",
@@ -210,7 +212,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
-    "Servicios Seguros de Internet/Linux server/Email service.md",
     "Pasted image 20230423231645.png",
     "PHOTOS/Pasted image 20230422204535.png",
     "PHOTOS/Pasted image 20230421221451.png",
@@ -228,9 +229,7 @@
     "Data Base/MySQL",
     "Data Base/Data Base Design - Relational",
     "Data Base",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
-    "Servicios Seguros de Internet/Linux server/MySQL.md",
     "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "Servicios Seguros de Internet/Linux server/Untitled.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos",
