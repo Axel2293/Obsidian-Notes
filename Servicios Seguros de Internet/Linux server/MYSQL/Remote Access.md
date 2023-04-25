@@ -15,5 +15,20 @@ CREATE USER 'newusr'@'remote_ip' IDENTIFIED BY 'new_pass';
 ## Damos los permisos que querramos
 GRANT ....
 ## Con esto damos todos los permisos
-GRANT ALL PRIVILEGES ON *.* TO 'newusr'@'remote_ip'
+GRANT ALL PRIVILEGES ON *.* TO 'newusr'@'remote_ip';
+## Reload permissions
+FLUSH PRIVILEGES;
+```
+
+## Usuario para acceso desde cualquier IP
+Este usuario puede acceder desde cualqueir ip y no tendemos que establecer la ip con la que se accedera. Con *%* podemos indicar que acepte cualquier ip, en este ejemplo creamos un suario root con permisos de acceso para cualquier IP.
+```mysql
+CREATE USER 'root'@'%' IDENTIFIED BY 'some_pass';
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%';
+```
+
+
+
+
+
 
