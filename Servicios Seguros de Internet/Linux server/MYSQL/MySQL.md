@@ -104,3 +104,4 @@ Para iniciar como root con la nueva contraseña debeos de indicar que ya tiene c
 ```shell
 sudo mysql -u root -p
 ```
+
