@@ -29,6 +29,9 @@ GRANT ALL PRIVILEGES ON *.* TO 'root'@'%';
 
 
 
+https://stackoverflow.com/questions/19101243/error-1130-hy000-host-is-not-allowed-to-connect-to-this-mysql-server
+
+https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql
 
 
 
