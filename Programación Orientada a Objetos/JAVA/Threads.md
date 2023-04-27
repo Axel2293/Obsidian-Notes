@@ -36,3 +36,14 @@ public class Multithreading implements Runnable{
 ```
 
 ### Execution of a Runnable class
+```java
+
+public static void main(){
+	// Instance the class that implements the runnable 
+	Multithreading r1 = new Multithreading();
+	//Create the Thread
+	Thread t1 = new Thread(r1);
+	//Start the thread with
+	t1.start();
+}
+```
