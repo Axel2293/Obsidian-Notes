@@ -1,0 +1,35 @@
+Execute multiple lines of code at the same time on different threads.
+
+## Create a thread with our code
+To create a thread we have to extend the *Thread class* and override the run method.
+```java
+public class Multithreading extends Thread{
+	@Override
+	public void run(){
+		//Code to run
+	}
+}
+
+```
+## Start the execution on the created thread
+```java
+//After creating the thread class we can instance one
+public static void main(){
+	Multithreading t1 = new Multithreading();
+	//Start the thread with
+	t1.start();
+}
+```
+
+## Join
+
+# Runnable interface
+This gives the posibility to extend another class instead of the *Thread* one, the only difference is that we have to give the instange that implements the Runnable interface to a new Thread instance.
+
+```java
+public class Multithreading extends Thread{
+	@Override
+	public void run(){
+		//Code to run
+	}
+}
