@@ -5,3 +5,6 @@ class StringList extends ArrayList <String>{...}
 ```
 ![[Pasted image 20230427092039.png]]
 
+
+## Ejemplo con Tree-Map-Set
+Para poder hacer eso nuestra clase del tipo debe de tener definida la *interfaz Comparable*, si no no podremos agregar elementos al arreglo
