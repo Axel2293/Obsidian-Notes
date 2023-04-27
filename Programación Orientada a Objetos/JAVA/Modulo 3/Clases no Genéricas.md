@@ -13,5 +13,5 @@ public class Date implements Comparable<Date>{
 	public int compareTo(Date o){
 		//Logica de comparacion
 	}
-											  
-											  }
+}
+```
