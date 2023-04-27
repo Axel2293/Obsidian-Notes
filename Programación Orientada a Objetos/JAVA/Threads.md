@@ -27,9 +27,12 @@ public static void main(){
 This gives the posibility to extend another class instead of the *Thread* one, the only difference is that we have to give the instange that implements the Runnable interface to a new Thread instance.
 
 ```java
-public class Multithreading extends Thread{
+public class Multithreading implements Runnable{
 	@Override
 	public void run(){
 		//Code to run
 	}
 }
+```
+
+### Execution of a Runnable class
