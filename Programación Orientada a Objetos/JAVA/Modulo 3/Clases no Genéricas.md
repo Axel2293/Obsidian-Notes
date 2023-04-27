@@ -14,4 +14,9 @@ public class Date implements Comparable<Date>{
 		//Logica de comparacion
 	}
 }
+
+//Ahora si podremos definir un TreeSet de Date
+TreeSet<String> dateTreeSet = new TreeSet<>();
 ```
+![[Pasted image 20230427094224.png|300]]
+

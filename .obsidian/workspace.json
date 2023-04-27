@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -191,6 +192,7 @@
   },
   "active": "2f294ae8c16d0a55",
   "lastOpenFiles": [
+    "Pasted image 20230427094224.png",
     "Pasted image 20230427092039.png",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Lista variavle de argumentos - VarArgs.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Clases no Genéricas.md",
@@ -229,7 +231,6 @@
     "PHOTOS/Pasted image 20230421220842.png",
     "PHOTOS/Pasted image 20230421215401.png",
     "PHOTOS/Pasted image 20230421215320.png",
-    "PHOTOS/Pasted image 20230421215258.png",
     "Data Base/MySQL",
     "Data Base/Data Base Design - Relational",
     "Data Base",
