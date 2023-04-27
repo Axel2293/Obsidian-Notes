@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -178,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d058bcc42b948da",
+  "active": "ccc9c083ffc0f5d2",
   "lastOpenFiles": [
     "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Lista variavle de argumentos - VarArgs.md",
