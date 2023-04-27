@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +163,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6328c0cc76e5eb1",
+  "active": "3d058bcc42b948da",
   "lastOpenFiles": [
     "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
