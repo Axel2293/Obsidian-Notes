@@ -20,6 +20,7 @@ public class GDrawer<Type> {
 	}  
 }
 ```
+
 >[!info]
 >Una clase genérica solo acepta otras clases, esto significa que no se acepta* int, double, float, char* en su forma OOP, pero si se acepta *Integer, Double, Float, Char*.
 
