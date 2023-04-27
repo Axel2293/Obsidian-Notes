@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4a77dcf1ebfc24c4",
+        "id": "b6f8037c363b7956",
         "type": "tabs",
         "children": [
           {
-            "id": "03374edd68b33e80",
+            "id": "f6328c0cc76e5eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4d180e7083f8e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git credential manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d40750e619e1d62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servicios Seguros de Internet/Linux server/MYSQL/MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32b8a0ce934e4d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff9723ab80ff02d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Threads.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Threads.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Threads.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Threads.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md"
               }
             }
           },
@@ -213,17 +164,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff9723ab80ff02d8",
+  "active": "f6328c0cc76e5eb1",
   "lastOpenFiles": [
-    "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+    "CV META/CV foramt.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
     "Programación Orientada a Objetos/JAVA/Threads.md",
+    "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
     "Data Base/Data Base Design - Relational/Data base.md",
     "Data Base/Data Base Design - Relational/Llave primaria.md",
     "Data Base/MySQL/Installation.md",
     "Data Base/MySQL/Create a data base.md",
     "Servicios Seguros de Internet/Linux server/MYSQL/MySQL.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
     "Servicios Seguros de Internet/Linux server/MYSQL",
     "Servicios Seguros de Internet/Linux server/SSH.md",
     "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
@@ -236,14 +193,8 @@
     "Lenguajes Formales/Modulo 3",
     "Git/SSH Auth.md",
     "Git/Comandos GIT.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
     "conflict-files-obsidian-git.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
     "Pasted image 20230423231645.png",
     "PHOTOS/Pasted image 20230422204535.png",
     "PHOTOS/Pasted image 20230421221451.png",
