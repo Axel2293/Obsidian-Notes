@@ -47,3 +47,15 @@ public static void main(){
 	t1.start();
 }
 ```
+
+# Use of Executors
+We can use the *java.util.executors* library to hande the execution and creation of the threads.
+
+```java
+Executors.newSingleThreadExecutor().execute(new Runnable() {
+	@Override
+	public void run(){
+		loginAcount();
+	}
+});
+```
