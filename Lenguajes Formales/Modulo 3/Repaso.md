@@ -12,3 +12,6 @@ Gramatica por la derecha - DERIVACIONES
 
 Gramatica libre de contexto
 - Es una cuadrupla (V, T, P, S)
+
+Pila -Stack como af
+- 7-tupla
