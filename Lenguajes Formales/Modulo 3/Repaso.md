@@ -15,3 +15,4 @@ Gramatica libre de contexto
 
 Pila -Stack como af
 - 7-tupla
+- entrada, top : stack
