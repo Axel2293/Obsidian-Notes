@@ -9,3 +9,6 @@ Obtener gramatica a partir de un automata finito
 Gramatica Regular
 
 Gramatica por la derecha - DERIVACIONES
+
+Gramatica libre de contexto
+- Es una cuadrupla (V, T, P, S)
