@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f8037c363b7956",
+        "id": "2c930b937fbcce5e",
         "type": "tabs",
         "children": [
           {
-            "id": "f6328c0cc76e5eb1",
+            "id": "aeb3ce11fc7b83b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccc9c083ffc0f5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git credential manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1baae282f16a49a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenguajes Formales/Modulo 3/Repaso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f294ae8c16d0a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Clases no Genéricas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2117a05a87ad7680",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes Formales/Modulo 3/Repaso.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes Formales/Modulo 3/Repaso.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes Formales/Modulo 3/Repaso.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md"
               }
             }
           },
@@ -201,47 +172,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1baae282f16a49a4",
+  "active": "aeb3ce11fc7b83b4",
   "lastOpenFiles": [
-    "Git/Git credential manager.md",
-    "Lenguajes Formales/Modulo 3/Repaso.md",
-    "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(3).md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Lista variavle de argumentos - VarArgs.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases no Genéricas.md",
+    "Pasted image 20230507214205.png",
+    "Pasted image 20230507213530.png",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases no Genéricas.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Repaso M3.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
+    "Pasted image 20230507211925.png",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Lista variable de argumentos - VarArgs.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
+    "Git/Git credential manager.md",
+    "Programación Orientada a Objetos/JAVA/Object oriented programing in java.md",
+    "Programación Orientada a Objetos/JAVA/Threads.md",
+    "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(3).md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Herencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
+    "Pasted image 20230507190617.png",
+    "Pasted image 20230507185637.png",
+    "Pasted image 20230507185540.png",
+    "Pasted image 20230507185118.png",
+    "Pasted image 20230507184434.png",
+    "Pasted image 20230507184307.png",
+    "Pasted image 20230507183633.png",
+    "Pasted image 20230507183412.png",
+    "Lenguajes Formales/Modulo 3/Repaso.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
     "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(5).md",
     "Programación Orientada a Objetos/JAVA/Proyecto - Ideas.md",
     "Programación Orientada a Objetos/JAVA/Untitled.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Clases genericas.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos/Métodos Genericos.md",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
-    "Servicios Seguros de Internet/Linux server/Apache.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
-    "Pasted image 20230427094224.png",
-    "Pasted image 20230427092039.png",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
-    "CV META/CV foramt.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Clases anónimas.md",
-    "Programación Orientada a Objetos/JAVA/Threads.md",
-    "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
-    "Data Base/Data Base Design - Relational/Data base.md",
     "Servicios Seguros de Internet/Linux server/MYSQL",
     "Lenguajes Formales/Modulo 3",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Genéricos",
-    "Pasted image 20230423231645.png",
-    "PHOTOS/Pasted image 20230422204535.png",
-    "PHOTOS/Pasted image 20230421221451.png",
-    "PHOTOS/Pasted image 20230421221010.png",
-    "PHOTOS/Pasted image 20230421220919.png",
-    "PHOTOS/Pasted image 20230421220853.png",
-    "PHOTOS/Pasted image 20230421220842.png",
-    "PHOTOS/Pasted image 20230421215401.png",
     "Data Base/MySQL",
     "Data Base/Data Base Design - Relational",
     "Data Base",
