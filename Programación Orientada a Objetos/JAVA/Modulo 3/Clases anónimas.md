@@ -2,7 +2,7 @@ Mediante este tipo de clases podemos crear objetos especificos sin la necesidad 
 
 Debemos de utilizar una interfaz para que ya tengamos una platilla de métodos a implementar.
 
-![[Pasted image 20230330075520.png]]
+![[Pasted image 20230330075520.png|600]]
 
 La clase Flyable es una interfaz.
 ```java
