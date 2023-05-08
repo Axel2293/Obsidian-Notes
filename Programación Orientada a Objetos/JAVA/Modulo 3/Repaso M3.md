@@ -116,11 +116,14 @@ POdemos crear nuestras propias **excepciones** para informar de un error. Solame
 En el siguiente ejemplo se crea una **excepcion para numeros negativos**, primero se crea un *atributo donde se guarda el dato erroneo o que causo el problema*, luego se crea un *constructor publico* donde se asigna el nombre de la excepcion y la inicializacion de los atributos, tambien podemos *sobreescribir el metodo toString* para definir como querremos que se muerte el error en consola
 ```java
 public class NegativeNumberFoundException extends Exception { 
+	// NUmero que causo el error
 	private double negativeNumberFound; 
+	//Constructor, debemos llamar a super para guardar el nombre de la excepcion
 	public NegativeNumberFoundException(double n) { 
 		super("NegativeNumberFoundException");  
 		this.negativeNumberFound = n; } 
-		
+	
+	@Override
 	public String toString() { 
 		return getMessage() + "\nNegative number found: " + 
 		this.negativeNumberFound;} 
