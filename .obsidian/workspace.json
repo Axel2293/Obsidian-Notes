@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
+                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
+                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
+                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Tipos de datos.md"
+                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md"
               }
             }
           }
@@ -156,10 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "1b869ecf690df11d",
   "lastOpenFiles": [
-    "Index.md",
     "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
+    "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
+    "Index.md",
     "Programación para análisis de datos/Repaso Python",
     "Programación Orientada a Objetos/JAVA/Threads.md",
     "Programación para análisis de datos",
@@ -195,7 +195,6 @@
     "PHOTOS/Pasted image 20230507183633.png",
     "C/Modulo 2/Estructuras Autoreferenciadas.md",
     "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
-    "C/Modulo 2/Tipo void *.md",
-    "C/Modulo 2/Memoria dinámica -PT2 (Realloc, Matriz dinámica).md"
+    "C/Modulo 2/Tipo void *.md"
   ]
 }
