@@ -4,7 +4,8 @@
 
 ## Compuestos
 ### Colecciones
-- Lista: es un arreglo dinámico al que le podemos eliminar y agregar elementos.
+- Lista: es un arreglo dinámico al que le podemos eliminar y agregar elementos. *Los datos guardados son continuos en la memoria*
+- Tupla: es un arreglo al que no le podemos quitar elementos.
 - Diccionario: es un arreglo de pares hash/values.
 - 
 
