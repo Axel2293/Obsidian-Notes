@@ -5,6 +5,8 @@
 ## Compuestos
 ### Colecciones
 - Lista: es un arreglo dinámico al que le podemos eliminar y agregar elementos.
+- Diccionario: es un arreglo de pares hash/values.
+- 
 
 ### String
 - str: es un arreglo de caracteres, este existe y remplaza la existencia de caracteres char como dato atómico.
