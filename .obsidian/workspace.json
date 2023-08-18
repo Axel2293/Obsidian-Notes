@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1a87d516e4c3c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organización y arquitectura de computadoras/CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
+                "file": "Organización y arquitectura de computadoras/CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
+                "file": "Organización y arquitectura de computadoras/CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Funciones y clases.md"
+                "file": "Organización y arquitectura de computadoras/CPU.md"
               }
             }
           }
@@ -155,11 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b869ecf690df11d",
+  "active": "c1a87d516e4c3c28",
   "lastOpenFiles": [
+    "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
+    "Organización y arquitectura de computadoras/CPU.md",
+    "Untitled",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
-    "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
     "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
     "Index.md",
     "Programación para análisis de datos/Repaso Python",
@@ -194,7 +209,6 @@
     "PHOTOS/Pasted image 20230507184434.png",
     "PHOTOS/Pasted image 20230507183633.png",
     "C/Modulo 2/Estructuras Autoreferenciadas.md",
-    "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
-    "C/Modulo 2/Tipo void *.md"
+    "C/Modulo 2/Tipos de datos Abstractos TDAs.md"
   ]
 }

@@ -1,0 +1,1 @@
+Dentro de un cpu tenemos varios componentes, los cores y la cache. En los cache podemos tener varios niveles, L1 para cache de cada core, L2 para cache compartida entre cores y L3 para cosas mucho más rápidas como PciExpress
