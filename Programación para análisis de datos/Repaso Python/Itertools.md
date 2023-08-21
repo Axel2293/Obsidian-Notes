@@ -14,3 +14,8 @@ list(zip([1, 2, 3], ['a', 'b']))
 ### MAP
 Maps the given iterable elements with the given fuction results. 
 
+```python
+# Map the strings list with its lenght
+list(map(len, ['abc', 'de', 'fghi']))
+	#[3, 2, 4]
+
