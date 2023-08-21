@@ -3,6 +3,8 @@ Collections
 	- Set
 	- Dict
 	- List
+	- str
+	- tuple
 
 We can call iter(), which returns an object called iterator, this object contains all the items of the original collection and with the method \_\_next\_\_() we can move or iterate on the elements.
 ```python
