@@ -19,3 +19,6 @@ Maps the given iterable elements with the given fuction results.
 list(map(len, ['abc', 'de', 'fghi']))
 	#[3, 2, 4]
 
+
+```
+### COUNT

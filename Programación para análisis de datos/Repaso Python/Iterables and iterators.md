@@ -21,3 +21,4 @@ it.__next__()
 	#2
 ```
 
+Every time we call a for cycle it automatically takes the iterable object and transforms it into a iterator.
