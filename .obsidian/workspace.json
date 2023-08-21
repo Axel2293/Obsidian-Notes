@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Yield.md",
-                "mode": "source",
+                "file": "Programación para análisis de datos/Repaso Python/Itertools.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Yield.md",
+                "file": "Programación para análisis de datos/Repaso Python/Itertools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Yield.md",
+                "file": "Programación para análisis de datos/Repaso Python/Itertools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Yield.md"
+                "file": "Programación para análisis de datos/Repaso Python/Itertools.md"
               }
             }
           }
@@ -170,15 +170,15 @@
   },
   "active": "c1a87d516e4c3c28",
   "lastOpenFiles": [
-    "Programación para análisis de datos/Repaso Python/Itertools.md",
     "Programación para análisis de datos/Repaso Python/Yield.md",
+    "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
+    "Programación para análisis de datos/Repaso Python/Itertools.md",
     "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
     "Organización y arquitectura de computadoras/CPU.md",
     "Untitled",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
-    "Programación para análisis de datos/Repaso Python/Tipos de datos.md",
     "Index.md",
     "Programación para análisis de datos/Repaso Python",
     "Programación Orientada a Objetos/JAVA/Threads.md",
