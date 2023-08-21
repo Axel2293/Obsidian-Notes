@@ -22,3 +22,4 @@ list(map(len, ['abc', 'de', 'fghi']))
 
 ```
 ### COUNT
+This is a infinite generative function, we can state an *initial* value and a *step* value. With those values the function will yield.

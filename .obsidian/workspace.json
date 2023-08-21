@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Itertools.md",
+                "file": "Programación para análisis de datos/Repaso Python/Yield.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Itertools.md",
+                "file": "Programación para análisis de datos/Repaso Python/Yield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Itertools.md",
+                "file": "Programación para análisis de datos/Repaso Python/Yield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación para análisis de datos/Repaso Python/Itertools.md"
+                "file": "Programación para análisis de datos/Repaso Python/Yield.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "c1a87d516e4c3c28",
   "lastOpenFiles": [
-    "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "Programación para análisis de datos/Repaso Python/Itertools.md",
+    "Programación para análisis de datos/Repaso Python/Yield.md",
+    "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "Programación para análisis de datos/Repaso Python/Funciones y clases.md",
     "Organización y arquitectura de computadoras/CPU.md",
     "Untitled",
@@ -199,7 +200,6 @@
     "C/Modulo 1/Apuntadores a arreglos.md",
     "BASES/Hexadecimal.md",
     "BASES/Binario.md",
-    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "PHOTOS/Pasted image 20230507214205.png",
     "PHOTOS/Pasted image 20230507213530.png",
     "PHOTOS/Pasted image 20230507211925.png",
