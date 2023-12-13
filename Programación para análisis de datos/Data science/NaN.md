@@ -1,0 +1,1 @@
+Pandas will mark NaN as a -1 when asked for the category codes.

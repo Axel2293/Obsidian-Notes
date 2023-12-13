@@ -43,10 +43,10 @@ Malloc regresa un tipo de dato void , asi que es obligatorio hacer cast(int  \*)
 >[!info]
 Si regresa 0 es probablemente por falta de memoria.
 
-## Calloc():
-Esta función inicializa la memoria que ocupamos en ceros, es lo mismo que malloc pero sobreescribe lo que hay en la memoria con 0.
+## Calloc()
+Esta función inicializa la memoria que ocupamos en ceros, es lo mismo que malloc pero sobre-escribe lo que hay en la memoria con 0.
 
-## Free():
+## Free()
 Esta función libera memoria que ya tenemos asignada
 
 Arreglos

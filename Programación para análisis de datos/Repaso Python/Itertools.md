@@ -23,3 +23,16 @@ list(map(len, ['abc', 'de', 'fghi']))
 ```
 ### COUNT
 This is a infinite generative function, we can state an *initial* value and a *step* value. With those values the function will yield.
+```python
+from itertools import count
+
+sequence = count(start=0, step=1)
+
+while(next(sequence) <= 10):
+
+print(next(sequence))
+#Salida
+	#1 3 5 7 9 11
+```
+
+### CYCLE
