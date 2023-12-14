@@ -1,0 +1,8 @@
+- Clases de usuarios
+	- Cada vez que se crea un usuario se utiliza la clase corresponfiente al tipo de usuario
+		- Administrador
+		- Empleado
+		- Solo lectura de datos
+	- Las funciones que suben los datos a la base de datos recbiran esa clase usuario, para guardar los datos en la nube.
+- Clase de Productos
+	- Misma situacion que el usuario, cada vez que se crea un producto, este se guarda en una clase , dependiendo de sus caracteristicas, etc..

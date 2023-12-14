@@ -1,0 +1,1 @@
+Therea are multiple services we can use to get a full email service, the one were using is called *IRedMail*
