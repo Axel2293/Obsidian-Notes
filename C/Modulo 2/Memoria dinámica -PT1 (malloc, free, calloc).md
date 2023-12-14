@@ -4,15 +4,15 @@
 ## Organización de la memoria
 - Generalmente se hace en segmentos y varia por sistema operativo
 	
-	Memory loayout win(32)
-	- Stack: Estructura LIFO, Invocación de funciones (stack frame), variables locales.
-	- Heap: Memoria Dinámica
-	- Program Image: Codigo, datos globales y recursos no ejecutables.
-		.text 
-		.data
-		.rscr
-	- DLLS: Librerias dinámicas
-	- TEB(s): Librerias dinámicas
+Memory loayout win(32)
+- Stack: Estructura LIFO, Invocación de funciones (stack frame), variables locales.
+- Heap: Memoria Dinámica
+- Program Image: Codigo, datos globales y recursos no ejecutables.
+	- .text 
+	 - .data
+	 - .rscr
+- DLLS: Librerias dinámicas
+- TEB(s): Librerias dinámicas
 		
 # Segmentos:
 ### Data:
@@ -31,7 +31,7 @@
 - Acceso a la memoria desde cualquier función
 	
 # Malloc
-Esta función recibe la cantidad de byte que necesitamos y regresa una dirección de memoria que nos asignó. Aqui trabajamos con el segmento #HEAP.
+Esta función recibe la cantidad de byte que necesitamos y regresa una dirección de memoria que nos asignó. Aqui trabajamos con el segmento *HEAP*.
 
 ##### Syntaxis: 
 ```c

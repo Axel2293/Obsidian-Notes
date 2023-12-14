@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organización y arquitectura de computadoras/P3.md",
+                "file": "Web Development/GitHub hosting pages for repos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organización y arquitectura de computadoras/Performance/Performance.md",
+                "file": "C/Algorithms/Searching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Encapsulamiento",
+                "query": "tag:#HEAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organización y arquitectura de computadoras/P3.md",
+                "file": "C/Algorithms/Searching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organización y arquitectura de computadoras/P3.md",
+                "file": "C/Algorithms/Searching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organización y arquitectura de computadoras/P3.md"
+                "file": "C/Algorithms/Searching.md"
               }
             }
           },
@@ -168,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,8 +188,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99a73b5aae65dfd9",
+  "active": "ffe137b401c97ba7",
   "lastOpenFiles": [
+    "C/Algorithms/Sorting.md",
+    "C/Algorithms/Searching.md",
+    "Programación para análisis de datos/Data science/Little - Big endian.md",
+    "C/Algorithms",
+    "Programación para análisis de datos/Data science/NaN.md",
+    "Programación para análisis de datos/Data science/dtype usage.md",
+    "Programación para análisis de datos/Data science/Data types in statistics.md",
+    "Programación para análisis de datos/Data science/Correlations (Pearson - Spearman -PhiK).md",
+    "Organización y arquitectura de computadoras/Performance/Performance.md",
+    "Web Development/GitHub hosting pages for repos.md",
+    "CV META/CV foramt.md",
+    "Web Development/Github hosting for repos",
+    "Web Development",
+    "Git/Git credential manager.md",
+    "Git/Comandos GIT.md",
+    "Git/Branch - Ramas.md",
+    "Data Base/MySQL/Installation.md",
+    "Data Base/MySQL/Create a data base.md",
+    "Data Base/Data Base Design YT/Data base.md",
+    "Data Base/Data Base Design YT/Llave primaria.md",
+    "Index.md",
+    "Programación para análisis de datos/Data science/Random.md",
+    "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
+    "2023-12-13.md",
+    "Git/SSH Auth.md",
+    "Lenguajes Formales/Modulo 3/Repaso.md",
+    "Lenguajes Formales/Modulo 3/Gramáticas.md",
+    "Makefile/Make.md",
+    "Bases numericas/Binario.md",
+    "Untitled.canvas",
     "PHOTOS/Pasted image 20231130135146.png",
     "PHOTOS/Pasted image 20231130122630.png",
     "PHOTOS/Pasted image 20231123205257.png",
@@ -198,41 +230,12 @@
     "PHOTOS/Pasted image 20231123153707.png",
     "PHOTOS/Pasted image 20231123153545.png",
     "PHOTOS/Pasted image 20231123152651.png",
-    "PHOTOS/Pasted image 20231113182901.png",
     "PHOTOS/obsidian.css",
-    "PHOTOS/Index.md",
-    "Organización y arquitectura de computadoras/Performance/Performance.md",
-    "Organización y arquitectura de computadoras/P3.md",
-    "Bases de datos relacionales/SQL/Groups and order.md",
-    "Organización y arquitectura de computadoras/Untitled.md",
-    "Organización y arquitectura de computadoras/How the procesor works/Cache.md",
-    "Organización y arquitectura de computadoras/How the procesor works/Memory heriarchy.md",
-    "Bases de datos relacionales/SQL/Joins.md",
-    "Programación para análisis de datos/OO Python/Orientado a Objetos en Python.md",
-    "Organización y arquitectura de computadoras/Performance/SPEC.md",
     "Programación para análisis de datos/OO Python",
-    "Bases de datos relacionales/SQL/Álgebra Relacional.md",
     "Organización y arquitectura de computadoras/Performance",
-    "Bases de datos relacionales/SQL/SQL Language.md",
-    "Bases de datos relacionales/SQL/Stored procedures (procedimientos almacenados).md",
-    "Bases de datos relacionales/SQL",
-    "Bases de datos relacionales/Modelo entidad relación.md",
-    "Bases de datos relacionales/Formas normales (1, 2 y 3).md",
-    "Git/Comandos GIT.md",
-    "Git/Git credential manager.md",
-    "Git/Branch - Ramas.md",
-    "BASES/Dummies.md",
-    "BASES/Binario.md",
-    "BASES/Hexadecimal.md",
-    "C/Modulo 1/Apuntadores a arreglos.md",
-    "Organización y arquitectura de computadoras/How the procesor works/Control flow.md",
-    "Organización y arquitectura de computadoras/Assembly and C/Procedures - Functions.md",
+    "Data Base/DB Relational Class/SQL",
     "Organización y arquitectura de computadoras/How the procesor works",
-    "Programación para análisis de datos/Data science/Correlations (Pearson - Spearman -PhiK).md",
     "Organización y arquitectura de computadoras/Assembly and C/Untitled",
-    "Organización y arquitectura de computadoras/Assembly and C",
-    "Makefile",
-    "Bases de datos relacionales",
-    "Programación para análisis de datos/Data science"
+    "Organización y arquitectura de computadoras/Assembly and C"
   ]
 }
