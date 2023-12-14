@@ -1,1 +1,1 @@
-## Bina
+## Binary search
