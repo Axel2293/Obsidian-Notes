@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/GitHub hosting pages for repos.md",
+                "file": "C/Algorithms/Searching.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHOTOS/Pasted image 20221013093006.png",
+                "file": "C/Algorithms/Searching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHOTOS/Pasted image 20221013093006.png",
+                "file": "C/Algorithms/Searching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHOTOS/Pasted image 20221013093006.png"
+                "file": "C/Algorithms/Searching.md"
               }
             }
           },
@@ -185,10 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffe137b401c97ba7",
+  "active": "99a73b5aae65dfd9",
   "lastOpenFiles": [
-    "PHOTOS/Pasted image 20221013093028.png",
+    "C/Algorithms/Sorting.md",
+    "C/Algorithms/Searching.md",
+    "Web Development/GitHub hosting pages for repos.md",
     "PHOTOS/Pasted image 20221013093006.png",
+    "PHOTOS/Pasted image 20221013093028.png",
     "PHOTOS/Pasted image 20221013092835.png",
     "PHOTOS/Screenshot 2023-08-30 at 3.26.56 p.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.52.42 a.m..png",
@@ -196,10 +198,7 @@
     "PHOTOS/Screenshot 2023-09-05 at 8.53.23 a.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.53.57 a.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.57.10 a.m..png",
-    "C/Algorithms/Sorting.md",
     "PHOTOS/Pasted image 20231213223608.png",
-    "C/Algorithms/Searching.md",
-    "PHOTOS/mid-in-binary-search.webp",
     "Programación para análisis de datos/Data science/Little - Big endian.md",
     "C/Algorithms",
     "Programación para análisis de datos/Data science/NaN.md",
@@ -207,7 +206,6 @@
     "Programación para análisis de datos/Data science/Data types in statistics.md",
     "Programación para análisis de datos/Data science/Correlations (Pearson - Spearman -PhiK).md",
     "Organización y arquitectura de computadoras/Performance/Performance.md",
-    "Web Development/GitHub hosting pages for repos.md",
     "CV META/CV foramt.md",
     "Web Development/Github hosting for repos",
     "Web Development",

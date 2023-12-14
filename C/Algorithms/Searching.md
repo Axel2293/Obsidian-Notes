@@ -10,4 +10,4 @@ This algorithm has a complexity of *O(log N)*
 3. Decide which half to discard, if the target is **lower than middle** then we will use *left half* or if it is **grater than the middle** then we will use the *right half*.
 4. With the half we got we will repeat the step **1, 2 and 3** *till we find the target* or the *search space reaches an end* (Target not found).
 
-Interpolation search
+## Interpolation search
