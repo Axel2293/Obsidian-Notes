@@ -12,3 +12,15 @@ Complex numbers
 Initializers
 Comment techniques (double slash //)
 Inline functions
+Declaration of variables inside of loops
+
+### C11
+Multithreading support 
+Safer standard libraries
+Better compliance with other insdustry standards
+Better compatibility with C++
+
+Focuses on security, adding safer standard functions like strcat_s, strcpy_s, etc
+
+Support for anonymous structs and unions
+Static assertions, catch errors in case of compiling
