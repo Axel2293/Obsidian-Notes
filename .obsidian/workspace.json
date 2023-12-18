@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Advanced Udemy Course/C programing.md",
+                "file": "Makefile/Pro tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Advanced Udemy Course/C programing.md",
+                "file": "Makefile/Pro tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Advanced Udemy Course/C programing.md",
+                "file": "Makefile/Pro tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Advanced Udemy Course/C programing.md"
+                "file": "Makefile/Pro tips.md"
               }
             }
           },
@@ -177,8 +176,13 @@
   },
   "active": "99a73b5aae65dfd9",
   "lastOpenFiles": [
-    "PHOTOS/Pasted image 20221013093006.png",
+    "Makefile/Make.md",
+    "Makefile/Pro tips.md",
+    "C/Taller Data oriented design.md",
+    "C/Compilers.md",
+    "C/Colors on console mac.md",
     "C/Advanced Udemy Course/C programing.md",
+    "PHOTOS/Pasted image 20221013093006.png",
     "C/Algorithms/Searching.md",
     "C/Advanced Udemy Course",
     "C/Algorithms/Sorting.md",
@@ -212,10 +216,6 @@
     "Index.md",
     "Programación para análisis de datos/Data science/Random.md",
     "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
-    "2023-12-13.md",
-    "Git/SSH Auth.md",
-    "Lenguajes Formales/Modulo 3/Repaso.md",
-    "Lenguajes Formales/Modulo 3/Gramáticas.md",
     "Untitled.canvas",
     "PHOTOS/obsidian.css",
     "Programación para análisis de datos/OO Python",
