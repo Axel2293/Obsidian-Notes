@@ -15,9 +15,9 @@ Inline functions
 Declaration of variables inside of loops
 
 ### C11
-Multithreading support 
+Multithreading support (threads.h)
 Safer standard libraries
-Better compliance with other insdustry standards
+Better compliance with other industry standards
 Better compatibility with C++
 
 Focuses on security, adding safer standard functions like strcat_s, strcpy_s, etc
