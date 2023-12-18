@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Algorithms/Searching.md",
+                "file": "C/Advanced Udemy Course/C programing.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ffe137b401c97ba7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PHOTOS/Pasted image 20221013093006.png"
               }
             }
           }
@@ -87,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Algorithms/Searching.md",
+                "file": "C/Advanced Udemy Course/C programing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Algorithms/Searching.md",
+                "file": "C/Advanced Udemy Course/C programing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Algorithms/Searching.md"
+                "file": "C/Advanced Udemy Course/C programing.md"
               }
             }
           },
@@ -186,10 +177,12 @@
   },
   "active": "99a73b5aae65dfd9",
   "lastOpenFiles": [
-    "C/Algorithms/Sorting.md",
-    "C/Algorithms/Searching.md",
-    "Web Development/GitHub hosting pages for repos.md",
     "PHOTOS/Pasted image 20221013093006.png",
+    "C/Advanced Udemy Course/C programing.md",
+    "C/Algorithms/Searching.md",
+    "C/Advanced Udemy Course",
+    "C/Algorithms/Sorting.md",
+    "Web Development/GitHub hosting pages for repos.md",
     "PHOTOS/Pasted image 20221013093028.png",
     "PHOTOS/Pasted image 20221013092835.png",
     "PHOTOS/Screenshot 2023-08-30 at 3.26.56 p.m..png",
@@ -223,14 +216,12 @@
     "Git/SSH Auth.md",
     "Lenguajes Formales/Modulo 3/Repaso.md",
     "Lenguajes Formales/Modulo 3/Gramáticas.md",
-    "Makefile/Make.md",
     "Untitled.canvas",
     "PHOTOS/obsidian.css",
     "Programación para análisis de datos/OO Python",
     "Organización y arquitectura de computadoras/Performance",
     "Data Base/DB Relational Class/SQL",
     "Organización y arquitectura de computadoras/How the procesor works",
-    "Organización y arquitectura de computadoras/Assembly and C/Untitled",
-    "Organización y arquitectura de computadoras/Assembly and C"
+    "Organización y arquitectura de computadoras/Assembly and C/Untitled"
   ]
 }
