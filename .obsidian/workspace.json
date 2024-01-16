@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4afd55a6fea59ec2",
+        "id": "d284780e6e814a30",
         "type": "tabs",
         "children": [
           {
-            "id": "99a73b5aae65dfd9",
+            "id": "417fe09be38aa3b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makefile/Pro tips.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HEAP",
+                "query": "tag:#Encapsulamiento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Makefile/Pro tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Makefile/Pro tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Makefile/Pro tips.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,12 +143,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,54 +168,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99a73b5aae65dfd9",
+  "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
-    "Makefile/Make.md",
-    "Makefile/Pro tips.md",
-    "C/Taller Data oriented design.md",
-    "C/Compilers.md",
-    "C/Colors on console mac.md",
-    "C/Advanced Udemy Course/C programing.md",
-    "PHOTOS/Pasted image 20221013093006.png",
-    "C/Algorithms/Searching.md",
-    "C/Advanced Udemy Course",
-    "C/Algorithms/Sorting.md",
+    "Pasted image 20230919185013.png",
     "Web Development/GitHub hosting pages for repos.md",
-    "PHOTOS/Pasted image 20221013093028.png",
-    "PHOTOS/Pasted image 20221013092835.png",
-    "PHOTOS/Screenshot 2023-08-30 at 3.26.56 p.m..png",
-    "PHOTOS/Screenshot 2023-09-05 at 8.52.42 a.m..png",
-    "PHOTOS/Screenshot 2023-09-05 at 8.52.42 a.m. 1.png",
-    "PHOTOS/Screenshot 2023-09-05 at 8.53.23 a.m..png",
-    "PHOTOS/Screenshot 2023-09-05 at 8.53.57 a.m..png",
-    "PHOTOS/Screenshot 2023-09-05 at 8.57.10 a.m..png",
-    "PHOTOS/Pasted image 20231213223608.png",
-    "Programación para análisis de datos/Data science/Little - Big endian.md",
-    "C/Algorithms",
-    "Programación para análisis de datos/Data science/NaN.md",
-    "Programación para análisis de datos/Data science/dtype usage.md",
-    "Programación para análisis de datos/Data science/Data types in statistics.md",
-    "Programación para análisis de datos/Data science/Correlations (Pearson - Spearman -PhiK).md",
-    "Organización y arquitectura de computadoras/Performance/Performance.md",
-    "CV META/CV foramt.md",
-    "Web Development/Github hosting for repos",
     "Web Development",
-    "Git/Git credential manager.md",
-    "Git/Comandos GIT.md",
-    "Git/Branch - Ramas.md",
-    "Data Base/MySQL/Installation.md",
-    "Data Base/MySQL/Create a data base.md",
-    "Data Base/Data Base Design YT/Data base.md",
-    "Data Base/Data Base Design YT/Llave primaria.md",
-    "Index.md",
-    "Programación para análisis de datos/Data science/Random.md",
-    "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
-    "Untitled.canvas",
     "PHOTOS/obsidian.css",
-    "Programación para análisis de datos/OO Python",
-    "Organización y arquitectura de computadoras/Performance",
+    "PHOTOS/mid-in-binary-search.webp",
+    "PHOTOS/Pasted image 20231213223608.png",
+    "PHOTOS/Pasted image 20231130135146.png",
+    "PHOTOS/Pasted image 20231130122630.png",
+    "PHOTOS/Pasted image 20231123205257.png",
+    "PHOTOS/Pasted image 20231123205132.png",
+    "PHOTOS/Pasted image 20231123205033.png",
+    "PHOTOS/Pasted image 20231123205019.png",
+    "PHOTOS/Pasted image 20231123205012.png",
+    "PHOTOS/Pasted image 20231123153707.png",
+    "Makefile/Pro tips.md",
+    "Makefile/Make.md",
+    "Data Base/Data Base Design YT/Llave primaria.md",
+    "Data Base/Data Base Design YT/Data base.md",
+    "Data Base/Data Base Design YT",
+    "Data Base/DB Relational Class/SQL/Álgebra Relacional.md",
+    "Data Base/DB Relational Class/SQL/Stored procedures (procedimientos almacenados).md",
+    "Data Base/DB Relational Class/SQL/SQL Language.md",
+    "Data Base/DB Relational Class/SQL/Joins.md",
+    "Data Base/DB Relational Class/SQL/Groups and order.md",
     "Data Base/DB Relational Class/SQL",
-    "Organización y arquitectura de computadoras/How the procesor works",
-    "Organización y arquitectura de computadoras/Assembly and C/Untitled"
+    "Data Base/DB Relational Class/Modelo entidad relación.md",
+    "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
+    "Data Base/DB Relational Class",
+    "C/Algorithms/Sorting.md",
+    "C/Algorithms/Searching.md",
+    "C/Algorithms",
+    "C/Advanced Udemy Course/C programing.md",
+    "C/Advanced Udemy Course",
+    "Bases numericas/Hexadecimal.md",
+    "Bases numericas/Dummies.md",
+    "Bases numericas/Binario.md",
+    "Bases numericas",
+    "Organización y arquitectura de computadoras/P3.md",
+    "Organización y arquitectura de computadoras/Performance/Performance.md",
+    "Bases de datos relacionales/SQL/Groups and order.md",
+    "Organización y arquitectura de computadoras/Untitled.md",
+    "Organización y arquitectura de computadoras/How the procesor works/Cache.md",
+    "Organización y arquitectura de computadoras/How the procesor works/Memory heriarchy.md",
+    "Bases de datos relacionales/SQL/Joins.md",
+    "Programación para análisis de datos/OO Python",
+    "Organización y arquitectura de computadoras/Performance"
   ]
 }
