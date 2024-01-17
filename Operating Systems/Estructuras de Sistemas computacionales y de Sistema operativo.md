@@ -51,6 +51,14 @@ Cuando un programa requiere acceder a E/S, debe de hacer un allamada al SO ya qu
 Para acceder a los E/S el programa hace una *llamada al sistema*.
 ![[Pasted image 20240117171531.png]]
 
+#### Proteccion de memoria
+Al menos para la tabla de vectores de interrupcion y rutinas de servicio de interrupcion.
+
+
 ## Llamadas al sistema
 #### Registros
 ![[Pasted image 20240117171912.png]]
+#### En una tabla en memoria
+![[Pasted image 20240117172154.png]]
+#### Stack
+![[Pasted image 20240117172237.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md"
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "c6d7ff0c8f79cef1",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240117172237.png",
+    "PHOTOS/Pasted image 20240117172154.png",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
@@ -198,7 +201,6 @@
     "Web Development/EXTRAS",
     "Web Programming",
     "Estrategias logaritmicas",
-    "Pasted image 20230919185013.png",
     "Web Development/EXTRAS/GitHub hosting pages for repos.md",
     "Web Development",
     "PHOTOS/obsidian.css",
@@ -221,8 +223,6 @@
     "C/Algorithms",
     "C/Advanced Udemy Course/C programing.md",
     "Bases numericas/Hexadecimal.md",
-    "Bases numericas/Dummies.md",
-    "Bases numericas/Binario.md",
-    "Organización y arquitectura de computadoras/P3.md"
+    "Bases numericas/Dummies.md"
   ]
 }
