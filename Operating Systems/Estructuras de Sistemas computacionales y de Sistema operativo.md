@@ -52,9 +52,14 @@ Para acceder a los E/S el programa hace una *llamada al sistema*.
 ![[Pasted image 20240117171531.png]]
 
 #### Proteccion de memoria
-Al menos para la tabla de vectores de interrupcion y rutinas de servicio de interrupcion.
+No queremos que el usuario pueda acceder a los siguientes sitios de memoria:
+- Al menos para la tabla de vectores de interrupcion y rutinas de servicio de interrupcion.
+- Se añaden dos registros para determinar el rango de direcciones que un programa puede accesar
+	- Registro base
+	- Registro limite
+- Memoria fuera del rango esta protegida.
 
-
+![[Pasted image 20240117172736.png]]
 ## Llamadas al sistema
 #### Registros
 ![[Pasted image 20240117171912.png]]
