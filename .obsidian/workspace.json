@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "file": "Operating Systems/Previos a sesiones QUIZ.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "file": "Operating Systems/Previos a sesiones QUIZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "file": "Operating Systems/Previos a sesiones QUIZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md"
+                "file": "Operating Systems/Previos a sesiones QUIZ.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "c6d7ff0c8f79cef1",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240117173047.png",
+    "PHOTOS/Pasted image 20240117173015.png",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+    "Operating Systems/Previos a sesiones QUIZ.md",
     "PHOTOS/Pasted image 20240117172736.png",
     "PHOTOS/Pasted image 20240117172237.png",
     "PHOTOS/Pasted image 20240117172154.png",
@@ -186,15 +190,12 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "PHOTOS/Pasted image 20240117171912.png",
     "PHOTOS/Pasted image 20240117171531.png",
     "PHOTOS/Pasted image 20240117170742.png",
     "PHOTOS/Pasted image 20240117170216.png",
     "PHOTOS/Pasted image 20240117170205.png",
     "PHOTOS/Pasted image 20240117170137.png",
-    "PHOTOS/Pasted image 20240117165213.png",
-    "PHOTOS/Pasted image 20240117165029.png",
     "Operating Systems",
     "Git/Branch - Ramas.md",
     "Web Development/Untitled.md",
@@ -222,7 +223,6 @@
     "C/Algorithms/Searching.md",
     "C/Algorithms",
     "C/Advanced Udemy Course/C programing.md",
-    "Bases numericas/Hexadecimal.md",
-    "Bases numericas/Dummies.md"
+    "Bases numericas/Hexadecimal.md"
   ]
 }
