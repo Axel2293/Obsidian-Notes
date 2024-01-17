@@ -19,3 +19,4 @@ Permite al procesador ejecutar otro programa mientras un programa debe esperar p
 
 
 ## DMA (Direct Memory Access)
+Para transferir datos entre dispositivos de E/S y memoria sin intervencion del CPU.
