@@ -11,8 +11,12 @@
             "id": "c6d7ff0c8f79cef1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Comandos GIT.md",
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Comandos GIT.md",
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Comandos GIT.md"
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md"
               }
             }
           },
@@ -173,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "c6d7ff0c8f79cef1",
   "lastOpenFiles": [
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Operating Systems",
     "Git/Branch - Ramas.md",
     "Web Development/Untitled.md",
@@ -212,7 +216,6 @@
     "C/Algorithms/Searching.md",
     "C/Algorithms",
     "C/Advanced Udemy Course/C programing.md",
-    "C/Advanced Udemy Course",
     "Bases numericas/Hexadecimal.md",
     "Bases numericas/Dummies.md",
     "Bases numericas/Binario.md",
