@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d284780e6e814a30",
+        "id": "062425cdad0bc0bb",
         "type": "tabs",
         "children": [
           {
-            "id": "417fe09be38aa3b1",
+            "id": "c6d7ff0c8f79cef1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Comandos GIT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -176,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "417fe09be38aa3b1",
+  "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
+    "Operating Systems",
     "Git/Branch - Ramas.md",
     "Web Development/Untitled.md",
     "Web Development/EXTRAS",
@@ -222,7 +220,6 @@
     "Organización y arquitectura de computadoras/Performance/Performance.md",
     "Bases de datos relacionales/SQL/Groups and order.md",
     "Organización y arquitectura de computadoras/Untitled.md",
-    "Organización y arquitectura de computadoras/How the procesor works/Cache.md",
-    "Organización y arquitectura de computadoras/How the procesor works/Memory heriarchy.md"
+    "Organización y arquitectura de computadoras/How the procesor works/Cache.md"
   ]
 }
