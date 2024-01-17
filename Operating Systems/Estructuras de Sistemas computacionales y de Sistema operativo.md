@@ -2,7 +2,7 @@ El sistema operativo es un administrador de recursos. La podemos ver como una ma
 ![[Pasted image 20240117164845.png]]
 ![[Pasted image 20240117165029.png]]
 ## Multiprogramacion
-Permite al procesador ejecutar otro programa mien  tras un programa debe esperar por un dispositivo de E/S.
+Permite al procesador ejecutar otro programa mientras un programa debe esperar por un dispositivo de E/S.
 ![[Pasted image 20240117165213.png]]
 #### Requisitos
 - Planificacion del cpu
