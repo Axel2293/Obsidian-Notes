@@ -50,3 +50,7 @@ CPU: supervisor(0) - usuario(1)
 Cuando un programa requiere acceder a E/S, debe de hacer un allamada al SO ya que esas llamadas son privilegiadas y ningun programa del usuario deberia de acceder a ellos directamente.
 Para acceder a los E/S el programa hace una *llamada al sistema*.
 ![[Pasted image 20240117171531.png]]
+
+## Llamadas al sistema
+#### Registros
+![[Pasted image 20240117171912.png]]

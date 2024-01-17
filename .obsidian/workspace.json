@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md"
               }
             }
           },
@@ -178,6 +178,12 @@
   },
   "active": "c6d7ff0c8f79cef1",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+    "PHOTOS/Pasted image 20240117171912.png",
     "PHOTOS/Pasted image 20240117171531.png",
     "PHOTOS/Pasted image 20240117170742.png",
     "PHOTOS/Pasted image 20240117170216.png",
@@ -186,7 +192,6 @@
     "PHOTOS/Pasted image 20240117165213.png",
     "PHOTOS/Pasted image 20240117165029.png",
     "PHOTOS/Pasted image 20240117164845.png",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Operating Systems",
     "Git/Branch - Ramas.md",
     "Web Development/Untitled.md",
@@ -197,8 +202,6 @@
     "Web Development/EXTRAS/GitHub hosting pages for repos.md",
     "Web Development",
     "PHOTOS/obsidian.css",
-    "PHOTOS/mid-in-binary-search.webp",
-    "PHOTOS/Pasted image 20231213223608.png",
     "Makefile/Pro tips.md",
     "Makefile/Make.md",
     "Data Base/Data Base Design YT/Llave primaria.md",
@@ -220,9 +223,6 @@
     "Bases numericas/Hexadecimal.md",
     "Bases numericas/Dummies.md",
     "Bases numericas/Binario.md",
-    "Organización y arquitectura de computadoras/P3.md",
-    "Organización y arquitectura de computadoras/Performance/Performance.md",
-    "Bases de datos relacionales/SQL/Groups and order.md",
-    "Organización y arquitectura de computadoras/Untitled.md"
+    "Organización y arquitectura de computadoras/P3.md"
   ]
 }
