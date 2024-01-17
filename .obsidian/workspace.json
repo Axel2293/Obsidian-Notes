@@ -11,8 +11,12 @@
             "id": "417fe09be38aa3b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git/Comandos GIT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Comandos GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/Comandos GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Comandos GIT.md"
+              }
             }
           },
           {
@@ -170,8 +178,13 @@
   },
   "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
+    "Git/Branch - Ramas.md",
+    "Web Development/Untitled.md",
+    "Web Development/EXTRAS",
+    "Web Programming",
+    "Estrategias logaritmicas",
     "Pasted image 20230919185013.png",
-    "Web Development/GitHub hosting pages for repos.md",
+    "Web Development/EXTRAS/GitHub hosting pages for repos.md",
     "Web Development",
     "PHOTOS/obsidian.css",
     "PHOTOS/mid-in-binary-search.webp",
@@ -183,7 +196,6 @@
     "PHOTOS/Pasted image 20231123205033.png",
     "PHOTOS/Pasted image 20231123205019.png",
     "PHOTOS/Pasted image 20231123205012.png",
-    "PHOTOS/Pasted image 20231123153707.png",
     "Makefile/Pro tips.md",
     "Makefile/Make.md",
     "Data Base/Data Base Design YT/Llave primaria.md",
@@ -206,15 +218,11 @@
     "Bases numericas/Hexadecimal.md",
     "Bases numericas/Dummies.md",
     "Bases numericas/Binario.md",
-    "Bases numericas",
     "Organización y arquitectura de computadoras/P3.md",
     "Organización y arquitectura de computadoras/Performance/Performance.md",
     "Bases de datos relacionales/SQL/Groups and order.md",
     "Organización y arquitectura de computadoras/Untitled.md",
     "Organización y arquitectura de computadoras/How the procesor works/Cache.md",
-    "Organización y arquitectura de computadoras/How the procesor works/Memory heriarchy.md",
-    "Bases de datos relacionales/SQL/Joins.md",
-    "Programación para análisis de datos/OO Python",
-    "Organización y arquitectura de computadoras/Performance"
+    "Organización y arquitectura de computadoras/How the procesor works/Memory heriarchy.md"
   ]
 }

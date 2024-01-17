@@ -1,5 +1,7 @@
 ### Crear repositorio local
 - git init (iniciar carpeta git)
+### Clonar repositorio 
+
 ### Ver cambios y modificaciones
 - git status
 
