@@ -11,6 +11,7 @@ Allows
 #### Headers
 [![HTML and SEO header tags - Ignisdev Ltd|500](https://www.ignisdev.com/images/image_content/ignisdev-html-header-on-web-page-seo-optimize.jpg)
 #### Paragraphs
+![[Pasted image 20240118121353.png|350]]
 ![[Pasted image 20240118114342.png]]
 We can write special symbols with the abbreviation and the *&* symbol and semicolon at te end.
 
