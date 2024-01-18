@@ -9,4 +9,5 @@ Allows
 ![HTML PAGE STRUCTURE AND NESTING | QA Tech Hub](https://qatechhub.com/wp-content/uploads/2016/09/BasicHtmlStructure.png)
 
 #### Headers
-[![HTML and SEO header tags - Ignisdev Ltd](https://www.ignisdev.com/images/image_content/ignisdev-html-header-on-web-page-seo-optimize.jpg)
+[![HTML and SEO header tags - Ignisdev Ltd|500](https://www.ignisdev.com/images/image_content/ignisdev-html-header-on-web-page-seo-optimize.jpg)
+#### Paragraphs
