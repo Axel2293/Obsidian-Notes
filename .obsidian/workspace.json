@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Web Development/HTML (Hyper Text Markup Language).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Web Development/HTML (Hyper Text Markup Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Web Development/HTML (Hyper Text Markup Language).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md"
+                "file": "Web Development/HTML (Hyper Text Markup Language).md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
-    "Estrategias logaritmicas/S1.md",
     "Estrategias logaritmicas/S3.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
+    "Estrategias logaritmicas/S1.md",
     "PHOTOS/Pasted image 20240118102529.png",
     "PHOTOS/Pasted image 20240118100615.png",
     "PHOTOS/Pasted image 20240118100156.png",
@@ -196,7 +197,6 @@
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Operating Systems",
     "Git/Branch - Ramas.md",
-    "Web Development/Untitled.md",
     "Web Development/EXTRAS",
     "Web Programming",
     "Estrategias logaritmicas",
