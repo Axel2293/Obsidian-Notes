@@ -21,3 +21,10 @@ We can write special symbols with the abbreviation and the *&* symbol and semico
 ![[Pasted image 20240118115524.png]]
 ##### Ordered
 ![[Pasted image 20240118115551.png|300]]
+
+## Images
+- src: image path
+- alt: alternative text
+- width: image width
+- height: image height
+![[Pasted image 20240118121631.png]]
