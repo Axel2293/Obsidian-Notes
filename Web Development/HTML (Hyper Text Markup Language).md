@@ -33,3 +33,5 @@ We can write special symbols with the abbreviation and the *&* symbol and semico
 - href: link path
 - target: where to open the link
 	- `_blank`: new tab
+![[Pasted image 20240118123740.png]]
+## Tables
