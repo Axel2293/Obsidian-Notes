@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md",
+                "file": "Estrategias logaritmicas/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md",
+                "file": "Estrategias logaritmicas/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md",
+                "file": "Estrategias logaritmicas/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md"
+                "file": "Estrategias logaritmicas/S3.md"
               }
             }
           },
@@ -179,12 +179,13 @@
   },
   "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
+    "Estrategias logaritmicas/S1.md",
+    "Estrategias logaritmicas/S3.md",
     "PHOTOS/Pasted image 20240118102529.png",
     "PHOTOS/Pasted image 20240118100615.png",
     "PHOTOS/Pasted image 20240118100156.png",
     "PHOTOS/Pasted image 20240118095742.png",
     "Operating Systems/Previos a sesiones QUIZ.md",
-    "Estrategias logaritmicas/S1.md",
     "PHOTOS/Pasted image 20240118093912.png",
     "PHOTOS/Pasted image 20240118092306.png",
     "Git/Comandos GIT.md",
@@ -192,7 +193,6 @@
     "PHOTOS/Pasted image 20240117173015.png",
     "PHOTOS/Pasted image 20240117172736.png",
     "PHOTOS/Pasted image 20240117172237.png",
-    "PHOTOS/Pasted image 20240117172154.png",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Operating Systems",
     "Git/Branch - Ramas.md",
