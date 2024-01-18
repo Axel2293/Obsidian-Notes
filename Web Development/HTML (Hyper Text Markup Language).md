@@ -13,3 +13,8 @@ Allows
 #### Paragraphs
 ![[Pasted image 20240118114342.png]]
 We can write special symbols with the abbreviation and the *&* symbol and semicolon at te end.
+
+#### List
+##### Unordered
+![[Pasted image 20240118114653.png|350]]
+##### Ordered
