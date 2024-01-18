@@ -17,4 +17,6 @@ We can write special symbols with the abbreviation and the *&* symbol and semico
 #### List
 ##### Unordered
 ![[Pasted image 20240118114653.png|350]]
+![[Pasted image 20240118115524.png]]
 ##### Ordered
+![[Pasted image 20240118115551.png|300]]
