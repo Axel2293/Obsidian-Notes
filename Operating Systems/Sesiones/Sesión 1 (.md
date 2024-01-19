@@ -67,4 +67,6 @@ CENTER
 - Subset of total jobs stored in memory
 - One job selected and run via *job scheduling*
 #### Multitasking Timesharing
+The user interacts with multiple jobs while they're running, so the CPU has to switch really fast, creating *INTERACTIVE* computing.
 - Response time should be <1 second
+- 
