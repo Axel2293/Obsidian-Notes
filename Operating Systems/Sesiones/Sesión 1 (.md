@@ -21,7 +21,7 @@ Intermediary between a user of a computer and the computer hardware.
 
 - Bootstrap-Bios (*Basic Input Output System*) - simple code to initialize the system, load the kernel
 - Kernel loads
-- Starts system daemons (services provided outside of the kernel)
+- Starts *system daemons* (services provided outside of the kernel)
 - Kernel interrupt driven (hardware and software)
 #### Drivers
 Help the OS use I/O devices. 
