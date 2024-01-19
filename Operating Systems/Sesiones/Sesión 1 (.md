@@ -25,3 +25,6 @@ Help the OS use I/O devices.
 - 
 #### Interrupts
 - Interrupt transfers control to the interrupt service routine generally, through the interrupt vector, which contains the addresses
+### Storage
+- *Main memory*: only large storage media that the CPU can access directly
+	- Random access
