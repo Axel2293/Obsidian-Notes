@@ -18,6 +18,11 @@ Intermediary between a user of a computer and the computer hardware.
 - Each device controller is in charge of a particular device type
 - Each device controller has a local buffer
 - Each device controller type has an operating system device driver to manage it
+
+- Bootstrap-Bios (*Basic Input Output System*) - simple code to initialize the system, load the kernel
+- Kernel loads
+- Starts system daemons (services provided outside of the kernel)
+- Kernel interrupt driven (hardware and software)
 #### Drivers
 Help the OS use I/O devices. 
 - Enumerar un dispositivo al conectar (Identificar dispositivo)
@@ -29,4 +34,4 @@ Help the OS use I/O devices.
 - *Main memory*: only large storage media that the CPU can access directly
 	- Random access
 	- Typically volatile (Loose info at shutdown)
-	- 
+
