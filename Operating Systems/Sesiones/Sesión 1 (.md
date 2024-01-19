@@ -18,5 +18,9 @@ Intermediary between a user of a computer and the computer hardware.
 - Each device controller is in charge of a particular device type
 - Each device controller has a local buffer
 - Each device controller type has an operating system device driver to manage it
+#### Drivers
+- Enumerar un dispositivo al conectar (Identificar dispositivo)
+- Buscar un driver para ese dispositivo
+- 
 #### Interrupts
 - Interrupt transfers control to the interrupt service routine generally, through the interrupt vector, which contains the addresses
