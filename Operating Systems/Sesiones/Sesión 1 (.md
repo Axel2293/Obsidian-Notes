@@ -69,4 +69,5 @@ CENTER
 #### Multitasking Timesharing
 The user interacts with multiple jobs while they're running, so the CPU has to switch really fast, creating *INTERACTIVE* computing.
 - Response time should be <1 second
-- 
+- User has at least one program executing in memory (*PROCESS*)
+- If several jobs ready to run at the same time *CPU SCHEDULING*
