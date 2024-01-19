@@ -15,4 +15,6 @@ Intermediary between a user of a computer and the computer hardware.
 	- People, machines, other computers.
 ### Operation
 - I/O devices and the CPU can execute concurrently (If you have more than one core)
-- Each device controller is in
+- Each device controller is in charge of a particular device type
+- Each device controller has a local buffer
+- Each device controller type has an operating system device driver to manage it
