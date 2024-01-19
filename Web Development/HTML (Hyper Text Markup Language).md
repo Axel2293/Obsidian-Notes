@@ -29,7 +29,7 @@ We can write special symbols with the abbreviation and the *&* symbol and semico
 - height: image height
 ![[Pasted image 20240118121631.png]]
 
-## Links
+## Anchor
 - href: link path
 - target: where to open the link
 	- `_blank`: new tab

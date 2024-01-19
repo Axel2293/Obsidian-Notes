@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md",
+                "file": "Operating Systems/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md",
+                "file": "Operating Systems/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md",
+                "file": "Operating Systems/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md"
+                "file": "Operating Systems/Untitled.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "ee821c63fbb12406",
   "lastOpenFiles": [
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+    "Operating Systems/Untitled.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
     "PHOTOS/Pasted image 20240118123740.png",
     "PHOTOS/Pasted image 20240118121631.png",
     "PHOTOS/Pasted image 20240118121623.png",
@@ -197,17 +200,14 @@
     "PHOTOS/Pasted image 20240118115551.png",
     "PHOTOS/Pasted image 20240118115524.png",
     "Web Development/EMMET.md",
-    "Web Development/HTML (Hyper Text Markup Language).md",
     "PHOTOS/Pasted image 20240118114653.png",
     "PHOTOS/Pasted image 20240118114342.png",
     "Estrategias logaritmicas/S3.md",
     "Estrategias logaritmicas/S1.md",
     "PHOTOS/Pasted image 20240118102529.png",
     "PHOTOS/Pasted image 20240118100615.png",
-    "PHOTOS/Pasted image 20240118100156.png",
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Git/Comandos GIT.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Operating Systems",
     "Git/Branch - Ramas.md",
     "Web Development/EXTRAS",
