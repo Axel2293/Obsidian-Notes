@@ -19,6 +19,7 @@ Intermediary between a user of a computer and the computer hardware.
 - Each device controller has a local buffer
 - Each device controller type has an operating system device driver to manage it
 #### Drivers
+Help the OS use I/O devices. 
 - Enumerar un dispositivo al conectar (Identificar dispositivo)
 - Buscar un driver para ese dispositivo
 - 
