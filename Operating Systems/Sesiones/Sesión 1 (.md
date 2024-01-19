@@ -36,3 +36,24 @@ Help the OS use I/O devices.
 	- Random access
 	- Typically volatile (Loose info at shutdown)
 
+## Levels of the OS
+CENTER
+*KERNEL*
+- Layer 1:
+	- Process communication
+	- CPU Admin
+	- Process Manager
+	- Memory Manager
+- Layer 2:
+	- Video
+	- USB
+	- Drivers
+	- Ethernet
+- Layer 3:
+	- USB STACK
+	- TCP IP STACK
+	- File system
+	- Custom libraries
+	- Security
+- Layer 4:
+	- Application
