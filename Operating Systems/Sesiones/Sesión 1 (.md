@@ -28,3 +28,5 @@ Help the OS use I/O devices.
 ### Storage
 - *Main memory*: only large storage media that the CPU can access directly
 	- Random access
+	- Typically volatile (Loose info at shutdown)
+	- 
