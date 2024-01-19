@@ -13,3 +13,6 @@ Intermediary between a user of a computer and the computer hardware.
 	- Word processors, compilers, web browsers, database systems, video games
 - Users
 	- People, machines, other computers.
+### Operation
+- I/O devices and the CPU can execute concurrently (If you have more than one core)
+- Each device controller is in
