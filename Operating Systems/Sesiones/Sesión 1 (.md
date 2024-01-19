@@ -38,22 +38,24 @@ Help the OS use I/O devices.
 
 ## Levels of the OS
 CENTER
-*KERNEL*
 - Layer 1:
+	- *KERNEL*: Supervises the use of resources, etc..
+- Layer 2:
 	- Process communication
 	- CPU Admin
 	- Process Manager
 	- Memory Manager
-- Layer 2:
+- Layer 3:
 	- Video
 	- USB
 	- Drivers
 	- Ethernet
-- Layer 3:
+	- SD Card/ SD I/O
+- Layer 4 *Middleware-daemons-HAL*:
 	- USB STACK
 	- TCP IP STACK
 	- File system
 	- Custom libraries
 	- Security
-- Layer 4:
+- Layer 5:
 	- Application
