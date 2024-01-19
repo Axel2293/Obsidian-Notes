@@ -63,6 +63,8 @@ CENTER
 ## Multiprogramming (Batch system)
 
 - Single user can't keep CPU and I/O devices busy
+- Organize jobs (CODE-DATA) so CPU always has one to execute
+- Subset of total jobs stored in memory
 - One job selected and run via *job scheduling*
 #### Multitasking Timesharing
 - Response time should be <1 second
