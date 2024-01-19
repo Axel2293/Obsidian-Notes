@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 1 (.md",
+                "file": "Software Requirements/Sesiones/S1.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 1 (.md",
+                "file": "Software Requirements/Sesiones/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 1 (.md",
+                "file": "Software Requirements/Sesiones/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 1 (.md"
+                "file": "Software Requirements/Sesiones/S1.md"
               }
             }
           },
@@ -203,9 +203,12 @@
   },
   "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Operating Systems/Sesiones/Sesión 1 (.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
+    "Software Requirements/Sesiones/S1.md",
+    "Operating Systems/Sesiones/Sesión 1 (.md",
+    "Software Requirements/Sesiones",
+    "Software Requirements",
+    "Untitled.canvas",
     "Operating Systems/Sesiones",
     "Web Development/EMMET.md",
     "Web Development/HTML (Hyper Text Markup Language).md",
@@ -241,10 +244,8 @@
     "Data Base/DB Relational Class/SQL/SQL Language.md",
     "Data Base/DB Relational Class/SQL/Joins.md",
     "Data Base/DB Relational Class/SQL/Groups and order.md",
-    "Data Base/DB Relational Class/SQL",
     "Data Base/DB Relational Class/Modelo entidad relación.md",
     "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
-    "Data Base/DB Relational Class",
     "C/Algorithms/Sorting.md",
     "C/Algorithms/Searching.md",
     "C/Advanced Udemy Course/C programing.md",
