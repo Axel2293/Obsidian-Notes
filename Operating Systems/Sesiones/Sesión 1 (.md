@@ -59,3 +59,10 @@ CENTER
 	- Security
 - Layer 5:
 	- **Application**
+
+## Multiprogramming (Batch system)
+
+- Single user can't keep CPU and I/O devices busy
+- One job selected and run via *job scheduling*
+#### Multitasking Timesharing
+- Response time should be <1 second
