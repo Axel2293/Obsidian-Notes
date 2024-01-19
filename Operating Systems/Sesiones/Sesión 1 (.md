@@ -4,6 +4,7 @@ Intermediary between a user of a computer and the computer hardware.
 - Execute user programs and make solving user problems easier
 - Make the computer system convenient to use
 - Use the computer hardware in an efficient manner
+- Kernel is the heart of the OS, like the supervisor
 #### Components
 - Hardware: provides basic computing resources
 - Operating system
@@ -21,7 +22,7 @@ Intermediary between a user of a computer and the computer hardware.
 
 - Bootstrap-Bios (*Basic Input Output System*) - simple code to initialize the system, load the kernel
 - Kernel loads
-- Starts *system daemons* (services provided outside of the kernel)
+- Starts *system daemons* (services provided outside of the kernel like TCP/IP)
 - Kernel interrupt driven (hardware and software)
 #### Drivers
 Help the OS use I/O devices. 
