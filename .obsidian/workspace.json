@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrum-Agile/S2.md",
+                "file": "Gestion Agil de Proyectos/S2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scrum-Agile/S2.md",
+                "file": "Gestion Agil de Proyectos/S2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scrum-Agile/S2.md",
+                "file": "Gestion Agil de Proyectos/S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scrum-Agile/S2.md"
+                "file": "Gestion Agil de Proyectos/S2.md"
               }
             }
           },
@@ -176,9 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "417fe09be38aa3b1",
+  "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
-    "Scrum-Agile/S1.md",
+    "Gestion Agil de Proyectos/S1.md",
     "Organización y arquitectura de computadoras/Architecture and Organization.md",
     "Organización y arquitectura de computadoras/How the procesor works/Memory heriarchy.md",
     "Organización y arquitectura de computadoras/How the procesor works/Control flow.md",
@@ -187,11 +187,11 @@
     "Organización y arquitectura de computadoras/Assembly and C/RISC V.md",
     "Organización y arquitectura de computadoras/Assembly and C/Procedures - Functions.md",
     "Organización y arquitectura de computadoras/Assembly and C/Labels.md",
-    "Scrum-Agile/S2.md",
+    "Gestion Agil de Proyectos/S2.md",
     "Operating Systems/Sesiones/Sesión 1 (.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Bases de datos NO RELACIONALES/P1/Containers.md",
-    "Scrum-Agile",
+    "Gestion Agil de Proyectos",
     "PHOTOS/Pasted image 20240122074248.png",
     "PHOTOS/Pasted image 20240122072257.png",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
