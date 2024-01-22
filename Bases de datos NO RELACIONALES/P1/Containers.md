@@ -19,3 +19,6 @@ Containers and virtual machines are very similar resource virtualization technol
 - Delete all the exited containers
 	- docker rm $(docker ps -a -q -f status=exited)
 	- docker container prune
+*Delete images*:
+- docker rmi IMAGE_NAME
+- 
