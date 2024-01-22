@@ -6,3 +6,5 @@ Containers and virtual machines are very similar resource virtualization technol
 
 ## vs Virtual Machine
 ![[Pasted image 20240122074248.png|460]]
+
+# Dock 
