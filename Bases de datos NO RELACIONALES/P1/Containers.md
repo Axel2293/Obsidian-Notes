@@ -7,4 +7,14 @@ Containers and virtual machines are very similar resource virtualization technol
 ## vs Virtual Machine
 ![[Pasted image 20240122074248.png|460]]
 
-# Dock 
+# Docker
+*Running an image*:
+- docker run image_name
+*Download an image*:
+- docker pull image_name
+*Activate interactive option*:
+- docker -it image_name
+*Delete containers*:
+- docker rm CONTAINER_ID
+- Delete all the exited containers
+	- docker rm $(docker ps -a -q -f status=exited)
