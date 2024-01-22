@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Sesiones/S1.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Sesiones/S1.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Sesiones/S1.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Sesiones/S1.md"
+                "file": "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md"
               }
             }
           },
@@ -203,8 +204,11 @@
   },
   "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Software Requirements/Sesiones/S1.md",
+    "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
+    "Bases de datos NO RELACIONALES/P1",
+    "Bases de datos NO RELACIONALES",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Operating Systems/Sesiones/Sesión 1 (.md",
     "Software Requirements/Sesiones",
     "Software Requirements",
@@ -233,12 +237,10 @@
     "Estrategias logaritmicas",
     "Web Development/EXTRAS/GitHub hosting pages for repos.md",
     "Web Development",
-    "PHOTOS/obsidian.css",
-    "Makefile/Pro tips.md",
-    "Makefile/Make.md",
+    "C/Makefile/Pro tips.md",
+    "C/Makefile/Make.md",
     "Data Base/Data Base Design YT/Llave primaria.md",
     "Data Base/Data Base Design YT/Data base.md",
-    "Data Base/Data Base Design YT",
     "Data Base/DB Relational Class/SQL/Álgebra Relacional.md",
     "Data Base/DB Relational Class/SQL/Stored procedures (procedimientos almacenados).md",
     "Data Base/DB Relational Class/SQL/SQL Language.md",
@@ -248,7 +250,6 @@
     "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
     "C/Algorithms/Sorting.md",
     "C/Algorithms/Searching.md",
-    "C/Advanced Udemy Course/C programing.md",
-    "Bases numericas/Hexadecimal.md"
+    "C/Advanced Udemy Course/C programing.md"
   ]
 }
