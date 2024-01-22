@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Containers.md",
+                "file": "Docker/Docker and Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Containers.md",
+                "file": "Docker/Docker and Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Containers.md",
+                "file": "Docker/Docker and Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Containers.md"
+                "file": "Docker/Docker and Containers.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "05bc16f3a51ba42a",
   "lastOpenFiles": [
+    "Docker/Docker and Containers.md",
+    "Docker",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
-    "Bases de datos NO RELACIONALES/P1/Containers.md",
     "Untitled.canvas",
     "Gestion Agil de Proyectos/S2.md",
     "Gestion Agil de Proyectos/S1.md",
@@ -220,7 +221,6 @@
     "Git/Branch - Ramas.md",
     "Web Development/EXTRAS",
     "Web Programming",
-    "Estrategias logaritmicas",
     "Web Development/EXTRAS/GitHub hosting pages for repos.md",
     "C/Makefile/Pro tips.md",
     "C/Makefile/Make.md"

@@ -23,4 +23,3 @@ Containers and virtual machines are very similar resource virtualization technol
 	- docker container prune
 *Delete images*:
 - docker rmi IMAGE_NAME
-- 
