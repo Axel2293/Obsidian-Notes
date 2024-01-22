@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -203,6 +204,7 @@
   },
   "active": "417fe09be38aa3b1",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240122074248.png",
     "PHOTOS/Pasted image 20240122072257.png",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Bases de datos NO RELACIONALES/P1/Containers.md",
@@ -228,7 +230,6 @@
     "Estrategias logaritmicas/S3.md",
     "Estrategias logaritmicas/S1.md",
     "PHOTOS/Pasted image 20240118102529.png",
-    "PHOTOS/Pasted image 20240118100615.png",
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Git/Comandos GIT.md",
     "Operating Systems",
