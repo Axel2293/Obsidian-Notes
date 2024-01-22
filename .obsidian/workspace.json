@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d284780e6e814a30",
+        "id": "31a921cb40510d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "417fe09be38aa3b1",
+            "id": "05bc16f3a51ba42a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 117.83037680213782,
-                  "y": -100.00655166380338,
-                  "zoom": 0.19312331984440456
-                }
+                "file": "Bases de datos NO RELACIONALES/P1/Containers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Bases de datos NO RELACIONALES/P1/Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Bases de datos NO RELACIONALES/P1/Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Bases de datos NO RELACIONALES/P1/Containers.md"
               }
             }
           },
@@ -179,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "417fe09be38aa3b1",
+  "active": "05bc16f3a51ba42a",
   "lastOpenFiles": [
+    "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Bases de datos NO RELACIONALES/P1/Containers.md",
     "Untitled.canvas",
     "Gestion Agil de Proyectos/S2.md",
@@ -198,7 +196,6 @@
     "Gestion Agil de Proyectos",
     "PHOTOS/Pasted image 20240122074248.png",
     "PHOTOS/Pasted image 20240122072257.png",
-    "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Software Requirements/Sesiones/S1.md",
     "Bases de datos NO RELACIONALES/P1",
     "Bases de datos NO RELACIONALES",
