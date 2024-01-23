@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31a921cb40510d8b",
+        "id": "6995a15ace96c4e7",
         "type": "tabs",
         "children": [
           {
-            "id": "05bc16f3a51ba42a",
+            "id": "aec7b81385ea9d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Sesiones/s2.md",
+                "file": "Estrategias logaritmicas/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Sesiones/s2.md",
+                "file": "Estrategias logaritmicas/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Sesiones/s2.md",
+                "file": "Estrategias logaritmicas/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Sesiones/s2.md"
+                "file": "Estrategias logaritmicas/S3.md"
               }
             }
           },
@@ -176,10 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "aec7b81385ea9d7e",
   "lastOpenFiles": [
-    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Software Requirements/Sesiones/s2.md",
+    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Docker/Docker and Containers.md",
     "Docker",
