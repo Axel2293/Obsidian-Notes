@@ -12,4 +12,6 @@ Un proceso consta de:
 ![[Pasted image 20240123142328.png|500]]
 ![[Pasted image 20240123142240.png|500]]
 ![[Pasted image 20240123142619.png|500]]
+![[Pasted image 20240123142826.png|500]]
+
 ## Planificación de los procesos
