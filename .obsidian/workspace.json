@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker and Containers.md",
+                "file": "Software Requirements/Sesiones/s2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker and Containers.md",
+                "file": "Software Requirements/Sesiones/s2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker and Containers.md",
+                "file": "Software Requirements/Sesiones/s2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker and Containers.md"
+                "file": "Software Requirements/Sesiones/s2.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "05bc16f3a51ba42a",
   "lastOpenFiles": [
+    "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
+    "Software Requirements/Sesiones/s2.md",
+    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Docker/Docker and Containers.md",
     "Docker",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
@@ -221,8 +224,6 @@
     "Git/Branch - Ramas.md",
     "Web Development/EXTRAS",
     "Web Programming",
-    "Web Development/EXTRAS/GitHub hosting pages for repos.md",
-    "C/Makefile/Pro tips.md",
-    "C/Makefile/Make.md"
+    "Web Development/EXTRAS/GitHub hosting pages for repos.md"
   ]
 }
