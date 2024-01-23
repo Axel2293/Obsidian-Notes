@@ -18,5 +18,4 @@ Un proceso consta de:
 Es una estructura de datos que contiene información asociada con cada proceso.
 ![[Pasted image 20240123143256.png|200]]
 
-
 ## Planificación de los procesos
