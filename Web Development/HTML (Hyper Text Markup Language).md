@@ -46,3 +46,10 @@ All forms must have the brackets and everything inside them (inputs, buttons, la
 
 # ID
 With id we can link multiple tags and things, fo rexample, we have a checkbox and a label, if we put the checkbox id in the label in the *for* atribute, we could check the checkbox with clicking the label too.
+
+# Like containers
+![[Pasted image 20240123122236.png]]
+This is the old way of segregating a web page
+
+![[Pasted image 20240123122303.png]]
+This is the new way of making containers and its also a good practice in HTML5
