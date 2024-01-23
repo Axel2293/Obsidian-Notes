@@ -46,3 +46,10 @@ tenemos dos Procesos, en donde el primero se interrumpe y el SO guarda el estado
 	- Milisegundos
 	- Debe ser rápido
 
+### Cambio de contextos
+Cuando el sistema operativo decide cambiar el CPU para ejecutar otro proceso, el sistema debe:
+- Guardar el contexto de el proceso antiguo
+- Cargar el contexto almacenado del proceso nuevo
+El cambio de contexto es sobrecarga
+- El sistema no hace trabajo útil mientras se hace el cambio
+El tiempo depende del soporte del hardware
