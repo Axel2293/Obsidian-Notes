@@ -26,4 +26,5 @@ tenemos dos Procesos, en donde el primero se interrumpe y el SO guarda el estado
 
 *Cola de procesos listos*: Procesos que residen en memoria principal
 ![[Pasted image 20240123144244.png]]
-*Cola de dispositivos*: Procesos que esperan un dispositivo de E/Sb n n bvat7smuj
+*Cola de dispositivos*: Procesos que esperan un dispositivo de E/S
+![[Pasted image 20240123144641.png]]
