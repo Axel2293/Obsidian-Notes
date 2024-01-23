@@ -36,6 +36,10 @@ We can write special symbols with the abbreviation and the *&* symbol and semico
 ![[Pasted image 20240118123740.png]]
 ## Tables
 
+
+# Forms
+All forms must have the brackets and everything inside them (inputs, buttons, labels, etc..).
 ## Input types
 ![[Pasted image 20240123120056.png|600]]
 ![[Pasted image 20240123120118.png|600]]
+![[Pasted image 20240123120621.png|600]]
