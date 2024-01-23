@@ -7,6 +7,7 @@ Los términos usados *trabajo y proceso* se refieren a *lo mismo*
 *Es un programa en memoria (virtual)*, puede estar en ejecución, o listo para ejecutarse
 Un proceso consta de:
 ![[Pasted image 20240123141844.png|300]]
+![[Pasted image 20240123151549.png]]
 #### Diagrama de estados de un proceso
 ![[Pasted image 20240123142147.png|500]]
 ![[Pasted image 20240123142328.png|500]]
@@ -55,3 +56,4 @@ El cambio de contexto es sobrecarga
 El tiempo depende del soporte del hardware
 ###### Program Status Word
 Se guarda en el stack al hacer una interrupción
+
