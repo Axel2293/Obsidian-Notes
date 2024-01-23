@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Web Development/HTML (Hyper Text Markup Language).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Web Development/HTML (Hyper Text Markup Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Web Development/HTML (Hyper Text Markup Language).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md"
+                "file": "Web Development/HTML (Hyper Text Markup Language).md"
               }
             }
           },
@@ -179,6 +178,9 @@
   },
   "active": "aec7b81385ea9d7e",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240123120118.png",
+    "PHOTOS/Pasted image 20240123120056.png",
+    "Estrategias logaritmicas/S3.md",
     "PHOTOS/Pasted image 20240123103952.png",
     "PHOTOS/Pasted image 20240123101600.png",
     "PHOTOS/Pasted image 20240123100225.png",
@@ -208,8 +210,6 @@
     "Operating Systems/Sesiones/Sesión 1 (.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Gestion Agil de Proyectos",
-    "PHOTOS/Pasted image 20240122074248.png",
-    "PHOTOS/Pasted image 20240122072257.png",
     "Software Requirements/Sesiones/S1.md",
     "Bases de datos NO RELACIONALES/P1",
     "Bases de datos NO RELACIONALES",
@@ -218,7 +218,6 @@
     "Operating Systems/Sesiones",
     "Web Development/EMMET.md",
     "Web Development/HTML (Hyper Text Markup Language).md",
-    "Estrategias logaritmicas/S3.md",
     "Estrategias logaritmicas/S1.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Git/Comandos GIT.md",

@@ -35,3 +35,7 @@ We can write special symbols with the abbreviation and the *&* symbol and semico
 	- `_blank`: new tab
 ![[Pasted image 20240118123740.png]]
 ## Tables
+
+## Input types
+![[Pasted image 20240123120056.png|600]]
+![[Pasted image 20240123120118.png|600]]
