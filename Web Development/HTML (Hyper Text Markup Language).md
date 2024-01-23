@@ -43,3 +43,6 @@ All forms must have the brackets and everything inside them (inputs, buttons, la
 ![[Pasted image 20240123120056.png|600]]
 ![[Pasted image 20240123120118.png|600]]
 ![[Pasted image 20240123120621.png|500]]
+
+# ID
+With id we can link multiple tags and things, fo rexample, we have a checkbox and a label, if we put the checkbox id in the label in the *for* atribute, we could check the checkbox with clicking the label too.
