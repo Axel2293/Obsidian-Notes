@@ -57,3 +57,6 @@ El tiempo depende del soporte del hardware
 ###### Program Status Word
 Se guarda en el stack al hacer una interrupción
 
+### Afinidad
+Podemos definir que Proceso se ejecuta en cada procesador o *nucleo*.
+POdemos usar el comando *taskset*(Unix) para hacer este proceso.
