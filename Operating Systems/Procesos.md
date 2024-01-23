@@ -21,3 +21,9 @@ Es una estructura de datos que contiene información asociada con cada proceso.
 ## Planificación de los procesos
 ![[Pasted image 20240123143824.png|600]]
 tenemos dos Procesos, en donde el primero se interrumpe y el SO guarda el estado en el PCB de ese proceso, cuando sale de esa pausa se toman los datos de la PCB y regresa para ser ejecutado.
+
+### Colas de procesos
+
+*Cola de procesos listos*: Procesos que residen en memoria principal
+![[Pasted image 20240123144244.png]]
+*Cola de dispositivos*: Procesos que esperan un dispositivo de E/Sb n n bvat7smuj
