@@ -53,3 +53,5 @@ Cuando el sistema operativo decide cambiar el CPU para ejecutar otro proceso, el
 El cambio de contexto es sobrecarga
 - El sistema no hace trabajo útil mientras se hace el cambio
 El tiempo depende del soporte del hardware
+###### Program Status Word
+Se guarda en el stack al hacer una interrupción
