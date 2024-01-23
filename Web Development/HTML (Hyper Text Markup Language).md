@@ -42,4 +42,4 @@ All forms must have the brackets and everything inside them (inputs, buttons, la
 ## Input types
 ![[Pasted image 20240123120056.png|600]]
 ![[Pasted image 20240123120118.png|600]]
-![[Pasted image 20240123120621.png|600]]
+![[Pasted image 20240123120621.png|500]]
