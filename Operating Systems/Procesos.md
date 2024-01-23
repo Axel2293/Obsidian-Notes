@@ -14,4 +14,9 @@ Un proceso consta de:
 ![[Pasted image 20240123142619.png|500]]
 ![[Pasted image 20240123142826.png|500]]
 
+### PCB (Process Control Block)
+Es una estructura de datos que contiene información asociada con cada proceso.
+
+
+
 ## Planificación de los procesos
