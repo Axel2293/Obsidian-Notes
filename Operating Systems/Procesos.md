@@ -31,9 +31,18 @@ tenemos dos Procesos, en donde el primero se interrumpe y el SO guarda el estado
 ![[Pasted image 20240123144934.png]]
 #### Planificadores
 *Planificador a largo plazo*
+![[Pasted image 20240123145240.png|250]]
 - Planificador de tareas
 - Selecciona que procesos se llevan a la cola de listos
 - Se invoca con poca frecuencia
 	- Segundos o minutos
 	- Puede ser lento
 - Controla el grado de multiprogramación
+*Planificador a corto plazo*
+![[Pasted image 20240123145321.png|250]]
+- Planificador del CPU
+- Selecciona que proceso debe ser el próximo en ejecutarse y otorgársele el CPU
+- Se invoca con mucha frecuencia
+	- Milisegundos
+	- Debe ser rápido
+
