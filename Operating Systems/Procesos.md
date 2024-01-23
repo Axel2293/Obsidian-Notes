@@ -28,3 +28,12 @@ tenemos dos Procesos, en donde el primero se interrumpe y el SO guarda el estado
 ![[Pasted image 20240123144244.png]]
 *Cola de dispositivos*: Procesos que esperan un dispositivo de E/S
 ![[Pasted image 20240123144641.png]]
+![[Pasted image 20240123144934.png]]
+#### Planificadores
+*Planificador a largo plazo*
+- Planificador de tareas
+- Selecciona que procesos se llevan a la cola de listos
+- Se invoca con poca frecuencia
+	- Segundos o minutos
+	- Puede ser lento
+- Controla el grado de multiprogramación
