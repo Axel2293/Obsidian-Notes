@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Operating Systems/Procesos.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Operating Systems/Procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Operating Systems/Procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS.md"
+                "file": "Operating Systems/Procesos.md"
               }
             }
           },
@@ -178,9 +179,12 @@
   },
   "active": "aec7b81385ea9d7e",
   "lastOpenFiles": [
+    "Operating Systems/Sesiones/Sesión 1.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Web Development/CSS.md",
     "Web Development/EMMET.md",
     "Web Development/HTML (Hyper Text Markup Language).md",
-    "Web Development/CSS.md",
     "PHOTOS/Pasted image 20240123122303.png",
     "PHOTOS/Pasted image 20240123122236.png",
     "PHOTOS/Pasted image 20240123120621.png",
@@ -209,8 +213,6 @@
     "Organización y arquitectura de computadoras/Assembly and C/RISC V.md",
     "Organización y arquitectura de computadoras/Assembly and C/Procedures - Functions.md",
     "Organización y arquitectura de computadoras/Assembly and C/Labels.md",
-    "Operating Systems/Sesiones/Sesión 1 (.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo.md",
     "Gestion Agil de Proyectos",
     "Software Requirements/Sesiones/S1.md",
     "Bases de datos NO RELACIONALES/P1",
@@ -222,7 +224,6 @@
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Git/Comandos GIT.md",
     "Operating Systems",
-    "Git/Branch - Ramas.md",
     "Web Development/EXTRAS",
     "Web Programming"
   ]
