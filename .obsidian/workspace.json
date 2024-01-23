@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md",
+                "file": "Web Development/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md",
+                "file": "Web Development/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md",
+                "file": "Web Development/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML (Hyper Text Markup Language).md"
+                "file": "Web Development/CSS.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "aec7b81385ea9d7e",
   "lastOpenFiles": [
+    "Web Development/EMMET.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
+    "Web Development/CSS.md",
     "PHOTOS/Pasted image 20240123122303.png",
     "PHOTOS/Pasted image 20240123122236.png",
     "PHOTOS/Pasted image 20240123120621.png",
@@ -189,7 +192,6 @@
     "PHOTOS/Pasted image 20240123100225.png",
     "PHOTOS/Pasted image 20240123095946.png",
     "PHOTOS/Pasted image 20240123095547.png",
-    "PHOTOS/Pasted image 20240123094643.png",
     "Software Requirements/Sesiones/s2.md",
     "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
@@ -216,8 +218,6 @@
     "Software Requirements/Sesiones",
     "Software Requirements",
     "Operating Systems/Sesiones",
-    "Web Development/EMMET.md",
-    "Web Development/HTML (Hyper Text Markup Language).md",
     "Estrategias logaritmicas/S1.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Git/Comandos GIT.md",
