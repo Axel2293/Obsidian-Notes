@@ -19,3 +19,5 @@ Es una estructura de datos que contiene información asociada con cada proceso.
 ![[Pasted image 20240123143256.png|200]]
 
 ## Planificación de los procesos
+![[Pasted image 20240123143824.png|600]]
+tenemos dos Procesos, en donde el primero se interrumpe y el SO guarda el estado en el PCB de ese proceso, cuando sale de esa pausa se toman los datos de la PCB y regresa para ser ejecutado.
