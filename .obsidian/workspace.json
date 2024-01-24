@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md",
+                "file": "Operating Systems/Procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md",
+                "file": "Operating Systems/Procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md"
+                "file": "Operating Systems/Procesos.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0060c377f610b848",
+  "active": "aec7b81385ea9d7e",
   "lastOpenFiles": [
-    "Operating Systems/Sesión 2 (Processes).md",
     "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Sesión 2 (Processes).md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "PHOTOS/Pasted image 20240123151549.png",
