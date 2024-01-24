@@ -8,3 +8,4 @@ Memory used in function calls
 ## Heap
 Dynamic
 Memory we don't know the size
+Always gives one piece of memory, no memory in pieces.
