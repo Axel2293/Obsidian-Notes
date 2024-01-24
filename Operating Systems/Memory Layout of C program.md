@@ -5,3 +5,6 @@ Grows into Heap
 Contains return values
 Memory used in function calls
 
+## Heap
+Dynamic
+Memory we don't know the size
