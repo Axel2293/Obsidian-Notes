@@ -13,3 +13,5 @@ One program can be several processes.
 - *Running*: Instructions are being executed
 - *Waiting*: The process is waiting for some event to occur
 - *Ready*: the process is waiting to be assigned to a processor
+- *Terminated*: Has finished execution
+
