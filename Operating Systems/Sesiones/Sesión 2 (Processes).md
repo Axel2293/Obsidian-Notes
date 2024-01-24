@@ -23,3 +23,11 @@ Maintains scheduling queues of processes
 - *Wait queue*: waiting because I/O, etc..
 #### Context switching
 When the CPU switches from one process to another.
+
+## Multicore programming
+
+### Parallelism
+implies a system can perform more than one task simultaneously.
+### Concurrency
+Supports more than one task making progress
+- Single processor/core
