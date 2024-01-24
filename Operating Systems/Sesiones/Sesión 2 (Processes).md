@@ -21,3 +21,5 @@ Goal -- Maximize CPU use, quickly switch processes onto CPU core
 Maintains scheduling queues of processes
 - *Ready queue*: ready and waiting to execute
 - *Wait queue*: waiting because I/O, etc..
+#### Context switching
+When the CPU switches from one process to another.
