@@ -15,3 +15,9 @@ One program can be several processes.
 - *Ready*: the process is waiting to be assigned to a processor
 - *Terminated*: Has finished execution
 
+## Scheduler
+Select among available processes for next execution on the CPU core
+Goal -- Maximize CPU use, quickly switch processes onto CPU core
+Maintains scheduling queues of processes
+- *Ready queue*: ready and waiting to execute
+- *Wait queue*: waiting because I/O, etc..
