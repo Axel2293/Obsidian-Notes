@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesión 2 (Processes).md",
+                "file": "Operating Systems/Memory Layout of C program.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesión 2 (Processes).md",
+                "file": "Operating Systems/Memory Layout of C program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesión 2 (Processes).md",
+                "file": "Operating Systems/Memory Layout of C program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesión 2 (Processes).md"
+                "file": "Operating Systems/Memory Layout of C program.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "0060c377f610b848",
   "lastOpenFiles": [
-    "Operating Systems/Procesos.md",
     "Operating Systems/Sesión 2 (Processes).md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Procesos.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "PHOTOS/Pasted image 20240123151549.png",
     "PHOTOS/Pasted image 20240123151533.png",
@@ -234,7 +235,6 @@
     "Software Requirements/Sesiones",
     "Software Requirements",
     "Operating Systems/Sesiones",
-    "Estrategias logaritmicas/S1.md",
     "Operating Systems",
     "Web Development/EXTRAS",
     "Web Programming"
