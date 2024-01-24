@@ -23,7 +23,7 @@ Maintains scheduling queues of processes
 - *Wait queue*: waiting because I/O, etc..
 #### Context switching
 When the CPU switches from one process to another.
-
+Saves the state of the process in the PCB and loads the data when resuming the process
 ## Multicore programming
 
 ### Parallelism
