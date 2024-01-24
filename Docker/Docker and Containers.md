@@ -23,3 +23,22 @@ Containers and virtual machines are very similar resource virtualization technol
 	- docker container prune
 *Delete images*:
 - docker rmi IMAGE_NAME
+#### Basic Commands
+- *docker run*
+	- Downloads the given image name from the Docker hub
+- *docker ps*
+	- Shows the list of the containers that are running
+- *docker ps -a *
+	- Shows the list of the containers that are running/stoped
+- *docker start*
+	- Start a given container
+- *docker stop*
+	- Stop a given container
+- *docker rm*
+	- Delete a given container
+- *docker images*
+	- Shows a list of the downloaded images
+- *docker rmi*
+	- Delete a given image 
+- *docker logs*
+	- Shows the logs of a container
