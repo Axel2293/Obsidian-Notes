@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md",
+                "file": "Estrategias logaritmicas/S4.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md",
+                "file": "Estrategias logaritmicas/S4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md",
+                "file": "Estrategias logaritmicas/S4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias logaritmicas/S1.md"
+                "file": "Estrategias logaritmicas/S4.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "a2a65c4a24011e8d",
   "lastOpenFiles": [
-    "Estrategias logaritmicas/S1.md",
     "Estrategias logaritmicas/S3.md",
+    "Estrategias logaritmicas/S4.md",
+    "Estrategias logaritmicas/S1.md",
     "Estrategias logaritmicas/Basics of Complexity.md",
     "PHOTOS/Pasted image 20240125102146.png",
     "Bases de datos NO RELACIONALES/P1/Python Virtual Environments.md",
@@ -228,7 +229,6 @@
     "Docker",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Untitled.canvas",
-    "Gestion Agil de Proyectos/S2.md",
     "Gestion Agil de Proyectos",
     "Bases de datos NO RELACIONALES/P1",
     "Bases de datos NO RELACIONALES",
