@@ -5,4 +5,6 @@ Los procesos padres crean procesos hijos..
 
 #### Comando fork();
 En C podemos usar el comando fork(); para poder crear un nuevo proceso
+![[Pasted image 20240125161132.png|300]]
+
 
