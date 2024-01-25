@@ -18,3 +18,6 @@ Adds style to web documents
 
 ## Text properties
 ![[Pasted image 20240125115103.png]]
+
+## Attribute selectors
+- By attribute: Selects all elements with the specified attribute or with a value assigned to an attribute.
