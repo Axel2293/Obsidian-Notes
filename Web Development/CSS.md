@@ -15,3 +15,6 @@ Adds style to web documents
 ![[Pasted image 20240125111917.png]]
 - by Class: Selects all elements with the specified Class
 ![[Pasted image 20240125111926.png]]
+
+## Text properties
+![[Pasted image 20240125115103.png]]
