@@ -28,3 +28,12 @@ Adds style to web documents
 4. `[attr^=val]` attribute with a value that begins with a specified value. **`[type^="check"] { … }`**.
 5. `[attr$=val]` attribute with a value that ends with a specified value. **`[value$="2"] { … }`**.
 6. `[attr*=val]` attribute with a value in any position **`[value*="2"] { … }`**.
+## Pseudo classes
+- **E:hover**: Selects an element E when you mouse over it.
+- **E:first-child** / **:last-child** : Selects the first/last element of its parent.
+- **E:nth-child(n)** : Selects the nth element of its parent. (eg. the paragraph that is the third child)
+- **E:nth-last-child(n)**: Selects the nth element of its parent, counting from the last element.
+- **E:nth-of-type(n)**: Selects the nth element of its parent of the same type (eg. the third paragraph).
+- **E:nth-last-of-type(n)**: Selects the nth element of its parent, counting from the last element.
+- **E:not(s)**: Selects element E that do not match the selector s.
+- **E:checked**: Selects an element that has the property checked, like a radio button or checkbox.
