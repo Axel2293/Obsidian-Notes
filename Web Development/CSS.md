@@ -21,3 +21,9 @@ Adds style to web documents
 
 ## Attribute selectors
 - By attribute: Selects all elements with the specified attribute or with a value assigned to an attribute.
+![[Pasted image 20240125115852.png]]
+1. - `[attr]` the element has the attribute. **`[checked] { … }`**.
+2. - `[attr=val]` attribute with the specified value. **`[name="chk"] { … }`**.
+3. - `[attr~=val]` attribute with a value that contains a specified word in a space-separated list of words. **`[value~="val2"] { … }`**. 
+4. `[attr^=val]` attribute with a value that begins with a specified value. **`[type^="check"] { … }`**.
+5. `[attr$=val]` attribute with a value that ends with a specified value. **`[value$="2"] { … }`**.
