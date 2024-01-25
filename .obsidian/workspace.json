@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Estrategias logaritmicas/Basics of Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a65c4a24011e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrategias logaritmicas/S1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Estrategias logaritmicas/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md",
+                "file": "Estrategias logaritmicas/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias logaritmicas/S3.md"
+                "file": "Estrategias logaritmicas/S1.md"
               }
             }
           },
@@ -176,8 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7296d0fc804f6d28",
+  "active": "a2a65c4a24011e8d",
   "lastOpenFiles": [
+    "Estrategias logaritmicas/S1.md",
+    "Estrategias logaritmicas/S3.md",
+    "Estrategias logaritmicas/Basics of Complexity.md",
     "PHOTOS/Pasted image 20240125102146.png",
     "Bases de datos NO RELACIONALES/P1/Python Virtual Environments.md",
     "Operating Systems/Procesos.md",
@@ -203,11 +219,9 @@
     "Untitled.md",
     "PHOTOS/Pasted image 20240123144244.png",
     "PHOTOS/Pasted image 20240123143824.png",
-    "PHOTOS/Pasted image 20240123143256.png",
     "Operating Systems/Sesiones/Sesión 1.md",
     "Web Development/CSS.md",
     "Web Development/EMMET.md",
-    "Estrategias logaritmicas/S3.md",
     "Software Requirements/Sesiones/s2.md",
     "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
@@ -215,7 +229,6 @@
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Untitled.canvas",
     "Gestion Agil de Proyectos/S2.md",
-    "Gestion Agil de Proyectos/S1.md",
     "Gestion Agil de Proyectos",
     "Bases de datos NO RELACIONALES/P1",
     "Bases de datos NO RELACIONALES",
