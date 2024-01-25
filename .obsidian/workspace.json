@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Operating Systems/Operaciones en Procesos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee85cda53ae315ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Operating Systems/Operaciones en Procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Operating Systems/Operaciones en Procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS.md"
+                "file": "Operating Systems/Operaciones en Procesos.md"
               }
             }
           },
@@ -191,6 +204,11 @@
   },
   "active": "a2a65c4a24011e8d",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240125160738.png",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Web Development/CSS.md",
     "PHOTOS/Pasted image 20240125115852.png",
     "PHOTOS/Pasted image 20240125115103.png",
     "PHOTOS/Pasted image 20240125111926.png",
@@ -205,7 +223,6 @@
     "Estrategias logaritmicas/Basics of Complexity.md",
     "PHOTOS/Pasted image 20240125102146.png",
     "Bases de datos NO RELACIONALES/P1/Python Virtual Environments.md",
-    "Operating Systems/Procesos.md",
     "Operating Systems/Memory Layout of C program.md",
     "Web Development/HTML (Hyper Text Markup Language).md",
     "Docker/Docker and Containers.md",
@@ -217,16 +234,12 @@
     "Servicios Seguros de Internet/Linux server/Email service.md",
     "Servicios Seguros de Internet/Linux server/Apache.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "PHOTOS/Pasted image 20240123151549.png",
-    "PHOTOS/Pasted image 20240123151533.png",
     "Untitled.md",
     "Operating Systems/Sesiones/Sesión 1.md",
-    "Web Development/CSS.md",
     "Web Development/EMMET.md",
     "Software Requirements/Sesiones/s2.md",
     "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
-    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Docker",
     "Untitled.canvas",
     "Gestion Agil de Proyectos",
