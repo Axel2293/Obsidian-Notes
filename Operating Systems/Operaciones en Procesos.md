@@ -27,4 +27,4 @@ El código (binario o instrucciones) se comparte con el padre de forma segura.
 Mediante este comando podemos poner el proceso en espera hasta que termine uno de los procesos hijos
 ![[Pasted image 20240125163322.png|400]]
 #### Comando exit();
-POdemos terminar un proceso 
+Podemos terminar un proceso mediante este comando, dandole el codigo de salida 0,
