@@ -22,3 +22,9 @@ El código (binario o instrucciones) se comparte con el padre de forma segura.
 - Para controlar que se comparte
 - Llamada de *más bajo nivel*
 - fork() llama a clone(), o sea fork está implementado usando clone
+
+#### Comando wait();
+Mediante este comando podemos poner el proceso en espera hasta que termine uno de los procesos hijos
+![[Pasted image 20240125163322.png|400]]
+#### Comando exit();
+POdemos terminar un proceso 
