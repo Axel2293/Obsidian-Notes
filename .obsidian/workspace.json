@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6995a15ace96c4e7",
+        "id": "9eef0974a1d7b1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "aec7b81385ea9d7e",
+            "id": "7296d0fc804f6d28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Procesos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0060c377f610b848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Memory Layout of C program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "755ef5eeea020f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker and Containers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker and Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker and Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker/Docker and Containers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "755ef5eeea020f25",
+  "active": "7296d0fc804f6d28",
   "lastOpenFiles": [
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
+    "Docker/Docker and Containers.md",
     "Servicios Seguros de Internet/Linux server/SSH.md",
     "Servicios Seguros de Internet/Linux server/DNS server.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
@@ -211,8 +182,6 @@
     "Servicios Seguros de Internet/Linux server/Email service.md",
     "Servicios Seguros de Internet/Linux server/Apache.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "PHOTOS/Pasted image 20240123151549.png",
     "PHOTOS/Pasted image 20240123151533.png",
@@ -228,12 +197,10 @@
     "Operating Systems/Sesiones/Sesión 1.md",
     "Web Development/CSS.md",
     "Web Development/EMMET.md",
-    "Web Development/HTML (Hyper Text Markup Language).md",
     "Estrategias logaritmicas/S3.md",
     "Software Requirements/Sesiones/s2.md",
     "Servicios Seguros de Internet/UbuntuServer/Minecraft with docker.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
-    "Docker/Docker and Containers.md",
     "Docker",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Untitled.canvas",
