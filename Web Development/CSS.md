@@ -27,3 +27,4 @@ Adds style to web documents
 3. - `[attr~=val]` attribute with a value that contains a specified word in a space-separated list of words. **`[value~="val2"] { … }`**. 
 4. `[attr^=val]` attribute with a value that begins with a specified value. **`[type^="check"] { … }`**.
 5. `[attr$=val]` attribute with a value that ends with a specified value. **`[value$="2"] { … }`**.
+6. `[attr*=val]` attribute with a value in any position **`[value*="2"] { … }`**.
