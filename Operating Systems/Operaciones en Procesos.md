@@ -5,7 +5,7 @@ Los procesos padres crean procesos hijos..
 
 ## Llamadas al sistema
 #### Comando fork(); 
-En C podemos usar el comando fork(); para poder crear un nuevo proceso, esta función *regresa un entero* *siendo=0 cuando estamos en el proceso hijo* y *diferente de cero en el padre*.
+En C podemos usar el comando fork(); para poder crear un nuevo proceso, esta función *regresa un entero* *siendo=0 cuando estamos en el proceso hijo* y *diferente de cero en el padre* (PID del hijo). En el caso de error regresará -1.
 ![[Pasted image 20240125161132.png|300]]
 
 - Los procesos solo comparten el código
