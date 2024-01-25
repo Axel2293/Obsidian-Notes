@@ -27,4 +27,11 @@ El código (binario o instrucciones) se comparte con el padre de forma segura.
 Mediante este comando podemos poner el proceso en espera hasta que termine uno de los procesos hijos
 ![[Pasted image 20240125163322.png|400]]
 #### Comando exit();
-Podemos terminar un proceso mediante este comando, dandole el codigo de salida 0,
+Podemos terminar un proceso mediante este comando, dandole el código de salida (exit code) que querramos, otro numero diferente de cero podria significar que algo alo sucedio.
+- Retira los recursos que está utilizando.
+- Lo deja preparado para su posterior eliminación.
+#### Comando exec();
+Podemos ejecutar otros programas dentro de otros procesos mediante el comando exec();, este comando lo que hace es reemplazar el espacio de memoria del proceso con un programa nuevo.
+
+## Arbol de procesos en un sistema UNIX típico
+![[Pasted image 20240125164203.png]]
