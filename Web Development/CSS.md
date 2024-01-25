@@ -30,7 +30,7 @@ Adds style to web documents
 6. `[attr*=val]` attribute with a value in any position **`[value*="2"] { … }`**.
 ## Pseudo classes
 - **E:hover**: Selects an element E when you mouse over it.
-- **E:first-child** / **:last-child** : Selects the first/last element of its parent.
+- **E:first-child** / **:last-child** : Selects the first/last element of its parent. When we have nested tags, if we want the first child inside the parent, use child.
 - **E:nth-child(n)** : Selects the nth element of its parent. (eg. the paragraph that is the third child)
 - **E:nth-last-child(n)**: Selects the nth element of its parent, counting from the last element.
 - **E:nth-of-type(n)**: Selects the nth element of its parent of the same type (eg. the third paragraph).
