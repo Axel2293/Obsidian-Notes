@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 3.md",
+                "file": "Software Requirements/Sesiones/s2.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,11 +203,12 @@
   },
   "active": "a2a65c4a24011e8d",
   "lastOpenFiles": [
-    "Operating Systems/Operaciones en Procesos.md",
+    "Software Requirements/Sesiones/s2.md",
     "Software Requirements/Sesiones/S3.md",
-    "Operating Systems/Sesiones/Sesión 3.md",
-    "Estrategias logaritmicas/Basics of Complexity.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Sesiones/Sesión 3.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Estrategias logaritmicas/Basics of Complexity.md",
     "PHOTOS/Pasted image 20240125164203.png",
     "PHOTOS/Pasted image 20240125163322.png",
     "PHOTOS/Pasted image 20240125161900.png",
@@ -238,7 +239,6 @@
     "Untitled.md",
     "Operating Systems/Sesiones/Sesión 1.md",
     "Web Development/EMMET.md",
-    "Software Requirements/Sesiones/s2.md",
     "Docker",
     "Untitled.canvas",
     "Gestion Agil de Proyectos",
