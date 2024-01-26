@@ -1,13 +1,14 @@
 {
 	"nodes":[
 		{"id":"e6e014184384c986","x":-420,"y":-320,"width":250,"height":50,"type":"text","text":"Keep Satisfied"},
-		{"id":"3e42e3068d055f6d","x":-420,"y":-260,"width":250,"height":260,"color":"2","type":"text","text":""},
+		{"id":"3e42e3068d055f6d","x":-420,"y":-260,"width":250,"height":260,"color":"2","type":"text","text":"DGA"},
 		{"id":"3ecc4b6609116018","x":-160,"y":-320,"width":250,"height":50,"type":"text","text":"Manage closely"},
 		{"id":"865edb20f38b198a","type":"text","text":"","x":-160,"y":-260,"width":250,"height":260,"color":"2"},
-		{"id":"e995852b09fba92f","type":"text","text":"","x":-160,"y":80,"width":250,"height":260,"color":"2"},
+		{"id":"e995852b09fba92f","type":"text","text":"Estudiantes","x":-160,"y":80,"width":250,"height":260,"color":"2"},
 		{"id":"7f51591ef89e3cdf","x":-160,"y":0,"width":250,"height":50,"type":"text","text":"Keep informed"},
 		{"id":"ba0949424c6a96e4","type":"text","text":"","x":-420,"y":80,"width":250,"height":260,"color":"2"},
-		{"id":"13613c96524a4e73","x":-420,"y":0,"width":250,"height":50,"type":"text","text":"Monitor"}
+		{"id":"13613c96524a4e73","x":-420,"y":0,"width":250,"height":50,"type":"text","text":"Monitor"},
+		{"id":"297aba7600ed12ab","x":-560,"y":-406,"width":250,"height":60,"type":"text","text":"Axel Escoto Garcia"}
 	],
 	"edges":[]
 }
