@@ -11,24 +11,9 @@
             "id": "7296d0fc804f6d28",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
-                "viewState": {
-                  "x": -183.0754687363218,
-                  "y": 4.217859113614622,
-                  "zoom": -0.4106132035454114
-                }
-              }
-            }
-          },
-          {
-            "id": "ee85cda53ae315ab",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+                "file": "Software Requirements/Sesiones/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
+                "file": "Software Requirements/Sesiones/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
+                "file": "Software Requirements/Sesiones/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas"
+                "file": "Software Requirements/Sesiones/S3.md"
               }
             }
           },
@@ -194,11 +179,11 @@
   },
   "active": "7296d0fc804f6d28",
   "lastOpenFiles": [
-    "Software Requirements/Sesiones/s2.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Software Requirements/Sesiones/s2.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/S3.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Sesiones/Sesión 3.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Estrategias logaritmicas/Basics of Complexity.md",
