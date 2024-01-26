@@ -15,7 +15,7 @@
               "state": {
                 "file": "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
                 "viewState": {
-                  "x": -113.45999999999998,
+                  "x": -146.94000000000005,
                   "y": 5.58,
                   "zoom": 0
                 }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
