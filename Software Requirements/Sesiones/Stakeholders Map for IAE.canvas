@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"e6e014184384c986","x":-420,"y":-320,"width":250,"height":50,"type":"text","text":"Keep Satisfied"},
-		{"id":"3e42e3068d055f6d","x":-420,"y":-260,"width":250,"height":260,"color":"2","type":"text","text":"DGA\nKeep Satisfied\nPrivacy and other subjects Department of ITESO"},
+		{"id":"3e42e3068d055f6d","x":-420,"y":-260,"width":250,"height":260,"color":"2","type":"text","text":"DGA\nKeep Satisfied\nPrivacy and other subjects Department of ITESO\nAdmins"},
 		{"id":"3ecc4b6609116018","x":-160,"y":-320,"width":250,"height":50,"type":"text","text":"Manage closely"},
 		{"id":"865edb20f38b198a","type":"text","text":"Coordination\nRH\nOSI\n","x":-160,"y":-260,"width":250,"height":260,"color":"2"},
 		{"id":"e995852b09fba92f","type":"text","text":"Teachers\nEstudiantes\nESI","x":-160,"y":80,"width":250,"height":260,"color":"2"},
