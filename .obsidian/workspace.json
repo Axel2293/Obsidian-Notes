@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/Basics of Complexity.md",
+                "file": "Operating Systems/Sesiones/Sesión 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+                "file": "Operating Systems/Sesiones/Sesión 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+                "file": "Operating Systems/Sesiones/Sesión 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md"
+                "file": "Operating Systems/Sesiones/Sesión 3.md"
               }
             }
           },
@@ -202,16 +200,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee85cda53ae315ab",
+  "active": "7296d0fc804f6d28",
   "lastOpenFiles": [
+    "Estrategias logaritmicas/Basics of Complexity.md",
+    "Operating Systems/Sesiones/Sesión 3.md",
     "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "PHOTOS/Pasted image 20240125164203.png",
     "PHOTOS/Pasted image 20240125163322.png",
     "PHOTOS/Pasted image 20240125161900.png",
     "PHOTOS/Pasted image 20240125161132.png",
     "PHOTOS/Pasted image 20240125160738.png",
     "Operating Systems/Procesos.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Web Development/CSS.md",
     "PHOTOS/Pasted image 20240125115852.png",
     "PHOTOS/Pasted image 20240125115103.png",
@@ -221,7 +221,6 @@
     "Estrategias logaritmicas/S4.md",
     "Estrategias logaritmicas/S3.md",
     "Estrategias logaritmicas/S1.md",
-    "Estrategias logaritmicas/Basics of Complexity.md",
     "Bases de datos NO RELACIONALES/P1/Python Virtual Environments.md",
     "Operating Systems/Memory Layout of C program.md",
     "Web Development/HTML (Hyper Text Markup Language).md",
