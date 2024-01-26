@@ -10,15 +10,15 @@
 		{"id":"3ecc4b6609116018","x":-160,"y":-320,"width":250,"height":50,"color":"3","type":"text","text":"Manage closely"},
 		{"id":"e6e014184384c986","x":-500,"y":-320,"width":250,"height":50,"color":"6","type":"text","text":"Keep Satisfied"},
 		{"id":"02a49cb18c60de6b","x":-500,"y":-240,"width":95,"height":60,"type":"text","text":"DGA"},
-		{"id":"6defac22be496d11","x":-113,"y":-240,"width":162,"height":60,"type":"text","text":"Coordinación"},
 		{"id":"da5565570d0d9707","type":"text","text":"RH","x":-160,"y":-150,"width":85,"height":60},
 		{"id":"aa38c0bb69f2dffb","type":"text","text":"OSI","x":-32,"y":-150,"width":122,"height":60},
 		{"id":"4bc080be0c1066cb","x":-72,"y":-60,"width":162,"height":60,"type":"text","text":"Profesores"},
 		{"id":"c8738a0e2b30515d","x":-127,"y":40,"width":156,"height":60,"type":"text","text":"Estudiantes"},
 		{"id":"e7907cbb8c1795f1","x":-271,"y":10,"width":109,"height":60,"type":"text","text":"ESI"},
 		{"id":"4404d205a5462cce","x":-482,"y":40,"width":130,"height":60,"type":"text","text":"Becarios"},
-		{"id":"26de825891d1c6d4","x":-310,"y":-240,"width":175,"height":60,"type":"text","text":"Privacy ITESO department"},
-		{"id":"94895c1b56032e64","x":-395,"y":-150,"width":145,"height":60,"type":"text","text":"Admins"}
+		{"id":"94895c1b56032e64","x":-395,"y":-150,"width":145,"height":60,"type":"text","text":"Admins"},
+		{"id":"26de825891d1c6d4","x":-302,"y":-255,"width":175,"height":90,"type":"text","text":"Departamento Regulador del ITESO"},
+		{"id":"6defac22be496d11","x":-113,"y":-225,"width":162,"height":60,"type":"text","text":"Coordinación"}
 	],
 	"edges":[]
 }
