@@ -1,14 +1,24 @@
 {
 	"nodes":[
-		{"id":"e6e014184384c986","x":-420,"y":-320,"width":250,"height":50,"type":"text","text":"Keep Satisfied"},
-		{"id":"3e42e3068d055f6d","x":-420,"y":-260,"width":250,"height":260,"color":"2","type":"text","text":"DGA\nKeep Satisfied\nPrivacy and other subjects Department of ITESO\nAdmins"},
-		{"id":"3ecc4b6609116018","x":-160,"y":-320,"width":250,"height":50,"type":"text","text":"Manage closely"},
-		{"id":"865edb20f38b198a","type":"text","text":"Coordination\nRH\nOSI\n","x":-160,"y":-260,"width":250,"height":260,"color":"2"},
-		{"id":"e995852b09fba92f","type":"text","text":"Teachers\nEstudiantes\nESI","x":-160,"y":80,"width":250,"height":260,"color":"2"},
-		{"id":"7f51591ef89e3cdf","x":-160,"y":0,"width":250,"height":50,"type":"text","text":"Keep informed"},
-		{"id":"ba0949424c6a96e4","type":"text","text":"Becarios","x":-420,"y":80,"width":250,"height":260,"color":"2"},
-		{"id":"13613c96524a4e73","x":-420,"y":0,"width":250,"height":50,"type":"text","text":"Monitor"},
-		{"id":"297aba7600ed12ab","x":-560,"y":-406,"width":250,"height":60,"type":"text","text":"Axel Escoto Garcia"}
+		{"id":"297aba7600ed12ab","x":-560,"y":-406,"width":250,"height":60,"type":"text","text":"Axel Escoto Garcia"},
+		{"id":"3e42e3068d055f6d","x":-750,"y":340,"width":250,"height":260,"color":"2","type":"text","text":"DGA\nKeep Satisfied\nPrivacy and other subjects Department of ITESO\nAdmins"},
+		{"id":"865edb20f38b198a","type":"text","text":"Coordination\nRH\nOSI\n","x":-500,"y":340,"width":250,"height":260,"color":"2"},
+		{"id":"ba0949424c6a96e4","type":"text","text":"Becarios","x":-750,"y":600,"width":250,"height":260,"color":"2"},
+		{"id":"e995852b09fba92f","type":"text","text":"Teachers\nEstudiantes\nESI","x":-500,"y":600,"width":250,"height":260,"color":"2"},
+		{"id":"13613c96524a4e73","x":-500,"y":120,"width":250,"height":50,"color":"5","type":"text","text":"Monitor"},
+		{"id":"7f51591ef89e3cdf","x":-160,"y":120,"width":250,"height":50,"color":"1","type":"text","text":"Keep informed"},
+		{"id":"3ecc4b6609116018","x":-160,"y":-320,"width":250,"height":50,"color":"3","type":"text","text":"Manage closely"},
+		{"id":"e6e014184384c986","x":-500,"y":-320,"width":250,"height":50,"color":"6","type":"text","text":"Keep Satisfied"},
+		{"id":"02a49cb18c60de6b","x":-500,"y":-240,"width":95,"height":60,"type":"text","text":"DGA"},
+		{"id":"6defac22be496d11","x":-113,"y":-240,"width":162,"height":60,"type":"text","text":"Coordinación"},
+		{"id":"da5565570d0d9707","type":"text","text":"RH","x":-160,"y":-150,"width":85,"height":60},
+		{"id":"aa38c0bb69f2dffb","type":"text","text":"OSI","x":-32,"y":-150,"width":122,"height":60},
+		{"id":"4bc080be0c1066cb","x":-72,"y":-60,"width":162,"height":60,"type":"text","text":"Profesores"},
+		{"id":"c8738a0e2b30515d","x":-127,"y":40,"width":156,"height":60,"type":"text","text":"Estudiantes"},
+		{"id":"e7907cbb8c1795f1","x":-271,"y":10,"width":109,"height":60,"type":"text","text":"ESI"},
+		{"id":"4404d205a5462cce","x":-482,"y":40,"width":130,"height":60,"type":"text","text":"Becarios"},
+		{"id":"26de825891d1c6d4","x":-310,"y":-240,"width":175,"height":60,"type":"text","text":"Privacy ITESO department"},
+		{"id":"94895c1b56032e64","x":-395,"y":-150,"width":145,"height":60,"type":"text","text":"Admins"}
 	],
 	"edges":[]
 }
