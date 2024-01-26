@@ -1,8 +1,8 @@
+
 ## Creación de procesos
 Los procesos padres crean procesos hijos..
 - Estos hijos pueden crear otros procesos
 ![[Pasted image 20240125160738.png|500]]
-
 ## Llamadas al sistema
 #### Comando fork(); 
 En C podemos usar el comando fork(); para poder crear un nuevo proceso, esta función *regresa un entero* *siendo=0 cuando estamos en el proceso hijo* y *diferente de cero en el padre* (PID del hijo). En el caso de error regresará -1.
@@ -35,3 +35,4 @@ Podemos ejecutar otros programas dentro de otros procesos mediante el comando ex
 
 ## Arbol de procesos en un sistema UNIX típico
 ![[Pasted image 20240125164203.png]]
+
