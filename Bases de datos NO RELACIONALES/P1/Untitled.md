@@ -31,3 +31,13 @@ Is the outmost container for data in Cassandra. the basic attributes of a Keyspa
 - *Replication factor*: it is the number of machines in the cluster that will receive copies of the same data.
 - *replica placement strategy*: it is nothing but the strategy to place replicas in the ring. We have
 - *Column families*: Keyspace is a container for a list of one or more column families. A column family, in turn, is a container of a collection of rows. Each row contains ordered columns. Column families represent the structure of your data. Each keyspace has at least
+##### Column Family
+Is a container for an ordered collection of rows. Each row, in turn, is an ordered collection of columns.
+
+| Ralational Table | Cassandra Column Family |
+| ---- | ---- |
+| A schema in a relational model is fixed |  |
+|  |  |
+|  |  |
+Cassandra does not force individual rows to have all the columns.
+![[Pasted image 20240129082154.png|450]]
