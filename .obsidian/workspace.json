@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Sesiones/S3.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Sesiones/S3.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Sesiones/S3.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Sesiones/S3.md"
+                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md"
               }
             }
           },
@@ -179,11 +179,13 @@
   },
   "active": "7296d0fc804f6d28",
   "lastOpenFiles": [
+    "CV META/CV foramt.md",
+    "Bases de datos NO RELACIONALES/P1/Untitled.md",
+    "Software Requirements/Sesiones/S3.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Software Requirements/Sesiones/s2.md",
     "Untitled.canvas",
-    "Software Requirements/Sesiones/S3.md",
     "Operating Systems/Sesiones/Sesión 3.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Estrategias logaritmicas/Basics of Complexity.md",
@@ -215,7 +217,6 @@
     "Servicios Seguros de Internet/Linux server/Apache.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Untitled.md",
-    "Operating Systems/Sesiones/Sesión 1.md",
     "Docker",
     "Gestion Agil de Proyectos",
     "Bases de datos NO RELACIONALES/P1",
