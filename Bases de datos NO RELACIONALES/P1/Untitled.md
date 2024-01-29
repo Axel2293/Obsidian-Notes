@@ -14,3 +14,5 @@ Most popular of 2022
 - MicrosoftAzure Cosmos DB
 - ScyllaDB
 
+# Apache Cassandra
+During this course, we will use Apache Cassandra as the database engine for learning and practicing the wiede-columns database
