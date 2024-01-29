@@ -21,4 +21,3 @@ This is a **distributed database** from Apache that is *highly scalable* and des
 - Scalable - Fault tolerant - Consistent
 - Column-oriented
 - Created at facebook
-- 
