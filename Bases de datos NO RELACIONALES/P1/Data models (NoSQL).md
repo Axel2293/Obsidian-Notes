@@ -9,3 +9,10 @@ The most popular types od NoSQL database models are:
 	- Use the tabular format of relational databases yet allow a wide variance in how data is named and formatted in each row, even in the same table.
 - *Graph* databases
 	- Use graph structures to define the relationships between stored data points.
+## Denormalization
+Copying the same data into multiple documents/tables in order to simplify or optimize query processing into a particular model.
+Query data volume Vs Total data volume
+- Processing complexity vs Total data volume
+- Key-value
+- Documents
+## Aggregation
