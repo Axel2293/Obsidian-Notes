@@ -29,4 +29,5 @@ The design goal of Cassandra is to *handle big data workloads* across multiple n
 ##### Keyspace
 Is the outmost container for data in Cassandra. the basic attributes of a Keyspace in Cassandra are:
 - *Replication factor*: it is the number of machines in the cluster that will receive copies of the same data.
-- 
+- *replica placement strategy*: it is nothing but the strategy to place replicas in the ring. We have
+- *Column families*: Keyspace is a container for a list of one or more column families. A column family, in turn, is a container of a collection of rows. Each row contains ordered columns. Column families represent the structure of your data. Each keyspace has at least
