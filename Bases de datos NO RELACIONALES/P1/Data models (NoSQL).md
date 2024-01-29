@@ -16,3 +16,5 @@ Query data volume Vs Total data volume
 - Key-value
 - Documents
 ## Aggregation
+Leverage soft schema
+*Most NoSQL dbs do not place constraints on values.* Allows to form classes of entities with complex internal structures (*nested entities and to vary the structure of particular entities).
