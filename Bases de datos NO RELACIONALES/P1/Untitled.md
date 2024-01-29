@@ -28,4 +28,5 @@ The design goal of Cassandra is to *handle big data workloads* across multiple n
 ### Data Model
 ##### Keyspace
 Is the outmost container for data in Cassandra. the basic attributes of a Keyspace in Cassandra are:
-- *Replication errors*
+- *Replication factor*: it is the number of machines in the cluster that will receive copies of the same data.
+- 
