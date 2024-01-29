@@ -1,17 +1,13 @@
 ### Worst case
-Its represented with capital O
 
 La notación *Big O (O)* describe el *límite superior asintótico* o *peor caso* del tiempo de ejecución de un algoritmo. Representa una cota superior para la función de complejidad temporal.
     - Formalmente, una función f(n) está en O(g(n)) si existen constantes c y n₀ tales que f(n) ≤ c * g(n) para todo n ≥ n₀.
     - En términos más simples, O(g(n)) indica que la función f(n) nunca crece más rápido que una constante multiplicada por g(n) a medida que n tiende hacia el infinito.
     - Por ejemplo, si un algoritmo tiene una complejidad temporal de O(n²), significa que el tiempo de ejecución del algoritmo no supera c * n² para algún valor constante c y para tamaños de entrada lo suficientemente grandes.
 ### Best case
-Its represented with omega symbol Ω
-
-
-2. **Notación Omega (Ω)**:
+Its represented with *Omega Ω*
     
-    - La notación Omega (Ω) describe el límite inferior asintótico o mejor caso del tiempo de ejecución de un algoritmo. Representa una cota inferior para la función de complejidad temporal.
+ Describe el límite inferior asintótico o mejor caso del tiempo de ejecución de un algoritmo. Representa una cota inferior para la función de complejidad temporal.
     - Formalmente, una función f(n) está en Ω(g(n)) si existen constantes c y n₀ tales que f(n) ≥ c * g(n) para todo n ≥ n₀.
     - En términos más simples, Ω(g(n)) indica que la función f(n) nunca crece más lentamente que una constante multiplicada por g(n) a medida que n tiende hacia el infinito.
     - Por ejemplo, si un algoritmo tiene una complejidad temporal de Ω(n), significa que el tiempo de ejecución del algoritmo es al menos proporcional a n para tamaños de entrada lo suficientemente grandes.
