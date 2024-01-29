@@ -25,3 +25,7 @@ This is a **distributed database** from Apache that is *highly scalable* and des
 ### Query 
 ### Design Model
 The design goal of Cassandra is to *handle big data workloads* across multiple nodes without any single point of failure. Has *peer-to-peer* distributed system across its nodes, and *data is distributed* among all the nodes in a cluster.
+### Data Model
+##### Keyspace
+Is the outmost container for data in Cassandra. the basic attributes of a Keyspace in Cassandra are:
+- *Replication errors*
