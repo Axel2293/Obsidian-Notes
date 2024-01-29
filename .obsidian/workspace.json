@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md",
+                "file": "Gestion Agil de Proyectos/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md",
+                "file": "Gestion Agil de Proyectos/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md",
+                "file": "Gestion Agil de Proyectos/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Untitled.md"
+                "file": "Gestion Agil de Proyectos/S3.md"
               }
             }
           },
@@ -179,16 +178,19 @@
   },
   "active": "7296d0fc804f6d28",
   "lastOpenFiles": [
+    "Gestion Agil de Proyectos/S2.md",
+    "Gestion Agil de Proyectos/S3.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Bases de datos NO RELACIONALES/P1/Untitled.md",
     "PHOTOS/Pasted image 20240129082651.png",
     "PHOTOS/Pasted image 20240129082638.png",
     "PHOTOS/Pasted image 20240129082154.png",
     "CV META/CV foramt.md",
-    "Bases de datos NO RELACIONALES/P1/Untitled.md",
     "Software Requirements/Sesiones/S3.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Software Requirements/Sesiones/s2.md",
-    "Untitled.canvas",
     "Operating Systems/Sesiones/Sesión 3.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Estrategias logaritmicas/Basics of Complexity.md",
@@ -201,7 +203,6 @@
     "Web Development/CSS.md",
     "PHOTOS/Pasted image 20240125115852.png",
     "PHOTOS/Pasted image 20240125115103.png",
-    "PHOTOS/Pasted image 20240125111926.png",
     "Estrategias logaritmicas/S4.md",
     "Estrategias logaritmicas/S3.md",
     "Estrategias logaritmicas/S1.md",
@@ -215,8 +216,6 @@
     "Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
     "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/Email service.md",
-    "Servicios Seguros de Internet/Linux server/Apache.md",
-    "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Docker",
     "Gestion Agil de Proyectos",
     "Bases de datos NO RELACIONALES/P1",
