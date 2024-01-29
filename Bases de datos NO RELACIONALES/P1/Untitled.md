@@ -41,3 +41,9 @@ Is a container for an ordered collection of rows. Each row, in turn, is an order
 |  |  |
 Cassandra does not force individual rows to have all the columns.
 ![[Pasted image 20240129082154.png|450]]
+
+#### Column
+![[Pasted image 20240129082638.png|300]]
+#### SuperColumns
+Stores a map of sub-columns
+![[Pasted image 20240129082651.png|300]]
