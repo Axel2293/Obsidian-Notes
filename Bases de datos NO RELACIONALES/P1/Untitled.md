@@ -15,4 +15,10 @@ Most popular of 2022
 - ScyllaDB
 
 # Apache Cassandra
-During this course, we will use Apache Cassandra as the database engine for learning and practicing the wiede-columns database
+During this course, we will use Apache Cassandra as the database engine for learning and practicing the wide-columns database models.
+
+This is a **distributed database** from Apache that is *highly scalable* and designed to *manage very large amounts of structured data*. It provides high availability with no point of failure.
+- Scalable - Fault tolerant - Consistent
+- Column-oriented
+- Created at facebook
+- 
