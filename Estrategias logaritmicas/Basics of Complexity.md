@@ -18,7 +18,7 @@ Its represented with *Omega Ω*
 - En términos más simples, Θ(g(n)) indica que la función f(n) crece de manera asintóticamente similar a g(n) a medida que n tiende hacia el infinito.
 - Por ejemplo, si un algoritmo tiene una complejidad temporal de Θ(n), significa que el tiempo de ejecución del algoritmo es proporcional a n para tamaños de entrada lo suficientemente grandes, ni más rápido ni más lento.
 
-When we have the same complexity for worst and best case, we can call that the complexity is 
+When we have the same complexity for worst and best case, podemos decir que está acotada por arriba y por abajo, por lo cual usamos la notación *Theta (Θ)*
 
 1. **Divide y Vencerás (Divide and Conquer)**:
     
