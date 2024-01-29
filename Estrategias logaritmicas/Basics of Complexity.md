@@ -11,12 +11,12 @@ Its represented with *Omega Ω*
     - Formalmente, una función f(n) está en Ω(g(n)) si existen constantes c y n₀ tales que f(n) ≥ c * g(n) para todo n ≥ n₀.
     - En términos más simples, Ω(g(n)) indica que la función f(n) nunca crece más lentamente que una constante multiplicada por g(n) a medida que n tiende hacia el infinito.
     - Por ejemplo, si un algoritmo tiene una complejidad temporal de Ω(n), significa que el tiempo de ejecución del algoritmo es al menos proporcional a n para tamaños de entrada lo suficientemente grandes.
-3. **Notación Theta (Θ)**:
+## **Notación Theta (Θ)**:
     
-    - La notación Theta (Θ) describe tanto el límite inferior como el límite superior asintótico del tiempo de ejecución de un algoritmo. Representa una cota ajustada o precisa para la función de complejidad temporal.
-    - Formalmente, una función f(n) está en Θ(g(n)) si y solo si está tanto en O(g(n)) como en Ω(g(n)).
-    - En términos más simples, Θ(g(n)) indica que la función f(n) crece de manera asintóticamente similar a g(n) a medida que n tiende hacia el infinito.
-    - Por ejemplo, si un algoritmo tiene una complejidad temporal de Θ(n), significa que el tiempo de ejecución del algoritmo es proporcional a n para tamaños de entrada lo suficientemente grandes, ni más rápido ni más lento.
+- La notación Theta (Θ) *describe tanto el límite inferior como el límite superior asintótico* del tiempo de ejecución de un algoritmo. Representa una cota ajustada o precisa para la función de complejidad temporal.
+- Formalmente, una función f(n) está en Θ(g(n)) si y solo si está tanto en O(g(n)) como en Ω(g(n)).
+- En términos más simples, Θ(g(n)) indica que la función f(n) crece de manera asintóticamente similar a g(n) a medida que n tiende hacia el infinito.
+- Por ejemplo, si un algoritmo tiene una complejidad temporal de Θ(n), significa que el tiempo de ejecución del algoritmo es proporcional a n para tamaños de entrada lo suficientemente grandes, ni más rápido ni más lento.
 
 When we have the same complexity for worst and best case, we can call that the complexity is 
 
