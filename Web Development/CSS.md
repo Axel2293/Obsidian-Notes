@@ -128,3 +128,13 @@ Allow adding styles to a specific part of the document.
 - To insert content before or after the content of an element.
 - They can be used with double colons (*::*) or with only one colon (*:*)
 ![[Pasted image 20240129212637.png]]
+
+### *Combinators*
+
+- S1 and S2 are selectors; we can combine these selectors to be more specific
+- Group of selectors (S1, S2)
+- **A CSS rule aplies to all selectors separated by a comma**
+#### Descendants (S1 S2)
+Separated by space
+Selects all elements that are descendants (nested in all levels)
+#### Child selector (S1 > S2)
