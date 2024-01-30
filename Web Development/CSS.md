@@ -133,7 +133,7 @@ Allow adding styles to a specific part of the document.
 
 - S1 and S2 are selectors; we can combine these selectors to be more specific
 - Group of selectors (S1, S2)
-- **A CSS rule aplies to all selectors separated by a comma**
+- **A CSS rule applies to all selectors separated by a comma**
 #### Descendants (S1 S2)
 Separated by space
 Selects all elements that are descendants (nested in all levels)
@@ -142,4 +142,4 @@ selects all elements that are immediate children of the elements selected by the
 #### Adjacent sibling (S1 + S2)
 Selects all elements that are the same level (siblings) and are adjacent (immediatle following) to the elements selected by the first selector.
 #### General sibling (S1 ~S2)
-Similar to the previous one, but selects all sibling (*They dont have to be adjacent*)
+Similar to the previous one, but selects all sibling (*They don't have to be adjacent*)
