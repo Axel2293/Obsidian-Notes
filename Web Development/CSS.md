@@ -9,6 +9,14 @@ Adds style to web documents
 ## Inline CSS
 Used to apply a unique style to a single HTML element
 Add style attribute to the desired element
+![[Pasted image 20240129192618.png|300]]
+
+- Only affects the element it is applied to
+- It is not reusable
+- It is not easy to maintain
+- Not posible to use pseudo-classes
+	- Style elements when a user mouses over them
+		- :hover, :active, :focus, etc.
 ## Internal CSS
 
 
