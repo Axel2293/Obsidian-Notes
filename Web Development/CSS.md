@@ -17,7 +17,14 @@ Add style attribute to the desired element
 	- Style elements when a user mouses over them
 		- :hover, :active, :focus, etc.
 ## Internal CSS
-
+Used to apply a unique style to a single HTML document
+Advantages
+- Uniform style for the entire document
+- It is possible to use pseudo-classes
+Disadvantages
+- It only affects the document it is applied to
+- In multiple pages, the style must be repeated.
+![[Pasted image 20240129205759.png|300]]
 
 ## External CSS
 
