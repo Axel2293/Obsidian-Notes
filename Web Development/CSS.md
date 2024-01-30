@@ -138,3 +138,8 @@ Allow adding styles to a specific part of the document.
 Separated by space
 Selects all elements that are descendants (nested in all levels)
 #### Child selector (S1 > S2)
+selects all elements that are immediate children of the elements selected by the first selector.
+#### Adjacent sibling (S1 + S2)
+Selects all elements that are the same level (siblings) and are adjacent (immediatle following) to the elements selected by the first selector.
+#### General sibling (S1 ~S2)
+Similar to the previous one, but selects all sibling (*They dont have to be adjacent*)
