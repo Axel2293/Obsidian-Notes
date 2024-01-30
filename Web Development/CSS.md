@@ -27,6 +27,9 @@ Disadvantages
 ![[Pasted image 20240129205759.png|300]]
 
 ## External CSS
+Used to apply a unique style to multiple HTML documents.
+![[Pasted image 20240129210916.png|350]]
+![[Pasted image 20240129210931.png|250]]
 
 
 # Selectors
