@@ -35,11 +35,10 @@ Advantages
 - Easy to maintain
 Disadvantages
 - Hard to have control over some specific elements
-
 # Selectors
 - Universal selector: Selects all elements
 - Element or tag Selector: Selects all HTML elements of the specified type
-![[Pasted image 20240125111904.png]]
+![[Pasted image 20240125111904.png|300]]
 - By identifier: Selects the element with the specified ID (can only be one element)
 ![[Pasted image 20240125111917.png]]
 - by Class: Selects all elements with the specified Class
