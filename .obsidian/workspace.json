@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias logaritmicas/Basics of Complexity.md",
+                "file": "Web Development/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias logaritmicas/Basics of Complexity.md",
+                "file": "Web Development/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias logaritmicas/Basics of Complexity.md",
+                "file": "Web Development/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias logaritmicas/Basics of Complexity.md"
+                "file": "Web Development/CSS.md"
               }
             }
           },
@@ -178,6 +179,7 @@
   },
   "active": "7296d0fc804f6d28",
   "lastOpenFiles": [
+    "Estrategias logaritmicas/Basics of Complexity.md",
     "Estrategias logaritmicas/S4.md",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Estrategias logaritmicas/S3.md",
@@ -196,7 +198,6 @@
     "Software Requirements/Sesiones/s2.md",
     "Operating Systems/Sesiones/Sesión 3.md",
     "Operating Systems/Operaciones en Procesos.md",
-    "Estrategias logaritmicas/Basics of Complexity.md",
     "PHOTOS/Pasted image 20240125164203.png",
     "PHOTOS/Pasted image 20240125163322.png",
     "PHOTOS/Pasted image 20240125161900.png",

@@ -1,8 +1,16 @@
 CSS stands for Cascading Style Sheets
 It us a language that describes how HTML elements are displayed
 Adds style to web documents
+- Colors
+- Fonts
+- Background images
+- Layout
 ![[Pasted image 20240125111426.png]]
 ## Inline CSS
+Used to apply a unique style to a single HTML element
+Add style attribute to the desired element
+## Internal CSS
+
 
 ## External CSS
 
