@@ -25,12 +25,16 @@ Disadvantages
 - It only affects the document it is applied to
 - In multiple pages, the style must be repeated.
 ![[Pasted image 20240129205759.png|300]]
-
 ## External CSS
 Used to apply a unique style to multiple HTML documents.
 ![[Pasted image 20240129210916.png|350]]
 ![[Pasted image 20240129210931.png|250]]
-
+Advantages
+- Uniform style for multiple documents
+- Possible to use pseudo-classes
+- Easy to maintain
+Disadvantages
+- Hard to have control over some specific elements
 
 # Selectors
 - Universal selector: Selects all elements
