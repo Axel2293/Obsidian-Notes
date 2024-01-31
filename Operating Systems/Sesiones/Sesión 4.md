@@ -12,13 +12,22 @@ A simple makefile consists of *rules* with the following shape
 ### Variables
 
 # Processes 2
-1. Potential name of the app
-RideTieso
-1. High level description of the idea in at least 20 words
-Vives muy lejos del ITESO?, esta app te permitira encontrar a alguien que te puede dar un aventón. Esta plataforma te permite conectar con otros miembros de la comunidad ITESO que te podrían ayudar a llegar a tu destino, primero registra tu área de residencia y luego busca personas que pasan por ahí.
-Esta app busca promover la movilidad al buscar aprovechar el espacio desperdiciado de los automoviles al solo llevar, en promedio, a una o dos personas.
-1. Describe possible clients or users
-People who move through Guadalajara daily or causally, tourists that like to move through the city  
-1. Define if it is an existing problem or a potential opportunity
-2. Describe if it could be a mobile app or a webapp
-3. Define the potential sponsor (if the idea is yours, you are the sponsor)
+
+Potential name of the app
+AventónTieso
+
+High level description of the idea in at least 20 words
+Vives muy lejos del ITESO?
+Esta app te permitirá encontrar a alguien que te puede dar un aventón. Esta plataforma te permite conectar con otros miembros de la comunidad ITESO que te podrían ayudar a llegar a tu destino, primero registra tu área de residencia y luego busca personas que pasan por ahí de forma totalmente digital. Conoce y promueve el uso compartido de transportes para mejorar el trafico que a todos nos afecta.
+
+Describe possible clients or users
+ITESO, estudiantes, comunidad ITESO.
+
+Define if it is an existing problem or a potential opportunity
+Es un problema existente de movilidad en toda Guadalajara, mediante esta app se promueve el uso compartido para reducir la cantidad de carros en la ciudad y campus.
+
+Describe if it could be a mobile app or a webapp
+Podría ser para ambas plataformas, lo cual haria más conveniente y accesible en cualquier momento.
+
+Define the potential sponsor (if the idea is yours, you are the sponsor)
+El ITESO
