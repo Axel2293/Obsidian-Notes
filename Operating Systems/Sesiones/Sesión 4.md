@@ -12,3 +12,10 @@ A simple makefile consists of *rules* with the following shape
 ### Variables
 
 # Processes 2
+1. Potential name of the app
+
+1. High level description of the idea in at least 20 words
+2. Describe possible clients or users
+3. Define if it is an existing problem or a potential opportunity
+4. Describe if it could be a mobile app or a webapp
+5. Define the potential sponsor (if the idea is yours, you are the sponsor)
