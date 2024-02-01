@@ -21,4 +21,8 @@ Cada hilo debe tener su stack
 ![[Pasted image 20240201145950.png]]
 
 # Beneficios de los Hilos
-# 
+# Hilos a nivel kérnel y a nivel usuario
+## Usuario
+![[Pasted image 20240201151930.png]]
+- Solo existen en el contexto del usuario
+- El manejo de los hilos lo hace una librería de hilos a nivel usuario.
