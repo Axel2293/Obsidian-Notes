@@ -28,3 +28,6 @@ Cada hilo debe tener su stack
 - El manejo de los hilos lo hace una librería de hilos a nivel usuario.
 ## Kernel
 ![[Pasted image 20240201152547.png]]
+El proceso de usuario no se tiene que encargar de la planificación de los hilos
+
+Si tenemos un procesador con más de un nucleo, puede planificar los hilos en diferentes núcleos.
