@@ -21,3 +21,4 @@ Cada hilo debe tener su stack
 ![[Pasted image 20240201145950.png]]
 
 # Beneficios de los Hilos
+# 
