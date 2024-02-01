@@ -46,7 +46,7 @@ Usado en sistemas que no soportan hilos a nivel de kérnel.
 ### Muchos a muchos
 ![[Pasted image 20240201153547.png]]
 
-## Multi-hilo de arquitectura multihilo de Solaris
+## Arquitectura multi-hilo de Solaris
 
 - Los procesos tienen un hilo principal más hilos a nivel usuario
 - Proceso ligero es un hilo de ejecución en un proceso. Un proceso ligero corresponde a un hilo a nivel kernel.
