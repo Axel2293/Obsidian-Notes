@@ -1,6 +1,14 @@
 ## Concepto
 Es una linea de ejecución de un proceso.
-
+## Share
+Un hilo comparte con sus hilos pares:
+- Sección de código
+- Sección de datos
+- Recursos del sistema operativo
+## Mono-hilo
+![[Pasted image 20240201150403.png]]
+## Multi-hilo
+![[Pasted image 20240201150417.png]]
 ## Procesos e Hilos
 - Los sistemas operativos modernos cargan programas como procesos que tienen recursos.
 - Un proceso inicia ejecutando su punto de entrada como un hilo
