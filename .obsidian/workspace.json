@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md",
+                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md"
+                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md"
               }
             }
           },
@@ -215,10 +215,13 @@
   },
   "active": "0a2c6e1fd6cf7557",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240201073657.png",
+    "Bases de datos NO RELACIONALES/P1/Untitled.md",
+    "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
+    "Operating Systems/Procesos Cooperantes.md",
     "PHOTOS/Pasted image 20240131210248.png",
     "Operating Systems/Procesos.md",
     "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Untitled.md",
@@ -246,13 +249,10 @@
     "Gestion Agil de Proyectos/S2.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Bases de datos NO RELACIONALES/P1/Untitled.md",
     "PHOTOS/Pasted image 20240129082651.png",
     "PHOTOS/Pasted image 20240129082638.png",
     "PHOTOS/Pasted image 20240129082154.png",
-    "CV META/CV foramt.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
-    "PHOTOS/Pasted image 20240125164203.png",
     "Docker",
     "Gestion Agil de Proyectos",
     "Bases de datos NO RELACIONALES/P1",
