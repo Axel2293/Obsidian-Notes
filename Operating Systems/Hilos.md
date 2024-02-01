@@ -31,3 +31,11 @@ Cada hilo debe tener su stack
 El proceso de usuario no se tiene que encargar de la planificación de los hilos
 
 Si tenemos un procesador con más de un nucleo, puede planificar los hilos en diferentes núcleos.
+
+# Modelos multihilos
+- Muchos a uno
+- Uno a uno
+- Muchos a muchos
+### Muchos a uno
+Muchos hilos a nivel usuario mapeados a un hilo a nivel Kérnel.
+Usado en sistemas que no soportan hilos a nivel de kérnel.
