@@ -19,3 +19,5 @@ Cada hilo debe tener su stack
 ![[Pasted image 20240201145842.png|300]]
 ### Ejemplo de programa
 ![[Pasted image 20240201145950.png]]
+
+# Beneficios de los Hilos
