@@ -5,6 +5,7 @@ Un hilo comparte con sus hilos pares:
 - Sección de código
 - Sección de datos
 - Recursos del sistema operativo
+Cada hilo debe tener su stack
 ## Mono-hilo
 ![[Pasted image 20240201150403.png]]
 ## Multi-hilo
