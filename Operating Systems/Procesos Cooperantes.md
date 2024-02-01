@@ -13,4 +13,5 @@ Tener un proceso que crea información(*Productor*) y otro proceso los consume (
 #### *Memoria Compartida*
 - Recurso compartido que provee unix a disposición de los programas para que puedan intercambiar información.
 - ![[Pasted image 20240131210248.png]]
-
+#### *Sistema de mensajes*
+- Mecanismo que provee unix a disposición de los programas para que puedan intercambiar información y sincronizarse
