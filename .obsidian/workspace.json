@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
+                "file": "Operating Systems/Hilos.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
+                "file": "Operating Systems/Hilos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
+                "file": "Operating Systems/Hilos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md"
+                "file": "Operating Systems/Hilos.md"
               }
             }
           },
@@ -215,9 +215,11 @@
   },
   "active": "0a2c6e1fd6cf7557",
   "lastOpenFiles": [
+    "Web Development/CSS.md",
+    "Operating Systems/Hilos.md",
+    "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
     "PHOTOS/Pasted image 20240201073657.png",
     "Bases de datos NO RELACIONALES/P1/Untitled.md",
-    "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
     "Operating Systems/Procesos Cooperantes.md",
     "PHOTOS/Pasted image 20240131210248.png",
     "Operating Systems/Procesos.md",
@@ -225,7 +227,6 @@
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Untitled.md",
-    "Web Development/CSS.md",
     "Estrategias logaritmicas/Basics of Complexity.md",
     "Estrategias logaritmicas/S4.md",
     "Operating Systems/Sesiones/Sesión 4.md",
@@ -251,7 +252,6 @@
     "Untitled.canvas",
     "PHOTOS/Pasted image 20240129082651.png",
     "PHOTOS/Pasted image 20240129082638.png",
-    "PHOTOS/Pasted image 20240129082154.png",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
