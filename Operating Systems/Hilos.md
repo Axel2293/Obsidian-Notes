@@ -39,3 +39,9 @@ Si tenemos un procesador con más de un nucleo, puede planificar los hilos en di
 ### Muchos a uno
 Muchos hilos a nivel usuario mapeados a un hilo a nivel Kérnel.
 Usado en sistemas que no soportan hilos a nivel de kérnel.
+
+### Uno a uno
+- Cada hilo a nivel usuario corresponde a un hilo del kérnel
+![[Pasted image 20240201153515.png]]
+### Muchos a muchos
+![[Pasted image 20240201153547.png]]
