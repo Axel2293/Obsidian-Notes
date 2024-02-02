@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Hilos.md",
+                "file": "Operating Systems/Sesiones/Sesión 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Hilos.md",
+                "file": "Operating Systems/Sesiones/Sesión 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Hilos.md",
+                "file": "Operating Systems/Sesiones/Sesión 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Hilos.md"
+                "file": "Operating Systems/Sesiones/Sesión 5.md"
               }
             }
           },
@@ -216,6 +215,8 @@
   },
   "active": "0a2c6e1fd6cf7557",
   "lastOpenFiles": [
+    "Operating Systems/Hilos.md",
+    "Operating Systems/Sesiones/Sesión 5.md",
     "PHOTOS/Pasted image 20240201153945.png",
     "PHOTOS/Pasted image 20240201153547.png",
     "PHOTOS/Pasted image 20240201153515.png",
@@ -226,12 +227,10 @@
     "PHOTOS/Pasted image 20240201145950.png",
     "PHOTOS/Pasted image 20240201145842.png",
     "Web Development/CSS.md",
-    "Operating Systems/Hilos.md",
     "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
     "PHOTOS/Pasted image 20240201073657.png",
     "Bases de datos NO RELACIONALES/P1/Untitled.md",
     "Operating Systems/Procesos Cooperantes.md",
-    "PHOTOS/Pasted image 20240131210248.png",
     "Operating Systems/Procesos.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Memory Layout of C program.md",
