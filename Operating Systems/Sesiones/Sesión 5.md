@@ -19,3 +19,6 @@ Process can affect or be affected by the execution of another process
 - Computational speed-up
 - Modularity
 - Convenience
+## IPC (Interprocess communication)
+- Shared memory
+- Message passing
