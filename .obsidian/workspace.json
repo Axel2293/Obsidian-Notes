@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7296d0fc804f6d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/Advanced Udemy Course/C programing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f20d31d33dd970e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/Makefile/Make.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94aa81b0c0eb1750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrategias logaritmicas/Basics of Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0a2c6e1fd6cf7557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Estrategias algoritmicas/Análisis Bubble sort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -130,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Estrategias algoritmicas/Análisis Bubble sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "Estrategias algoritmicas/Análisis Bubble sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS.md"
+                "file": "Estrategias algoritmicas/Análisis Bubble sort.md"
               }
             }
           },
@@ -215,6 +179,11 @@
   },
   "active": "0a2c6e1fd6cf7557",
   "lastOpenFiles": [
+    "Web Development/CSS.md",
+    "Estrategias algoritmicas/Análisis Bubble sort.md",
+    "C/Advanced Udemy Course/C programing.md",
+    "C/Makefile/Make.md",
+    "Estrategias algoritmicas/Basics of Complexity.md",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Hilos.md",
     "PHOTOS/Pasted image 20240201153945.png",
@@ -226,7 +195,6 @@
     "PHOTOS/Pasted image 20240201150403.png",
     "PHOTOS/Pasted image 20240201145950.png",
     "PHOTOS/Pasted image 20240201145842.png",
-    "Web Development/CSS.md",
     "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
     "PHOTOS/Pasted image 20240201073657.png",
     "Bases de datos NO RELACIONALES/P1/Untitled.md",
@@ -236,21 +204,17 @@
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Untitled.md",
-    "Estrategias logaritmicas/Basics of Complexity.md",
-    "Estrategias logaritmicas/S4.md",
+    "Estrategias algoritmicas/S4.md",
     "Operating Systems/Sesiones/Sesión 4.md",
-    "C/Makefile/Make.md",
-    "C/Advanced Udemy Course/C programing.md",
     "C/Colors on console mac.md",
     "C/Compilers.md",
     "C/Taller Data oriented design.md",
-    "Estrategias logaritmicas/S3.md",
+    "Estrategias algoritmicas/S3.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
     "Software Requirements/Sesiones/S4.md",
     "Bases de datos NO RELACIONALES/P1/Data models (NoSQL).md",
     "Gestion Agil de Proyectos/S3.md",
-    "Gestion Agil de Proyectos/S2.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
