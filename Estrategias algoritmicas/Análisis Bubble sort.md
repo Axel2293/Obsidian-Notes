@@ -4,8 +4,8 @@ b.     _c_2: costo de una comparación entre **datos** en el arreglo o copia
 
 | Codigo | Costo | Peor caso | Mejor caso |
 | ---- | ---- | ---- | ---- |
-| int tmp; | 0 |  |  |
-| for (int p = 0; p < array.length-1; p++) | 0 |  |  |
+| int tmp; | 0 | 1 | 1 |
+| for (int p = 0; p < array.length-1; p++) | 0 | n-1 | n-1 |
 | for (int i = 0; i < array.length-p-1; i++) | 0 |  |  |
 | if (array[i]>array[i+1]) | c2 |  |  |
 | tmp= array[i]; | c1 |  |  |
