@@ -53,3 +53,8 @@ Usado en sistemas que no soportan hilos a nivel de kérnel.
 ![[Pasted image 20240201153945.png]]
 
 # Hilos en Posix
+Un hilo posix tiene:
+- Un identificador (TID)
+- Us stack
+- Una prioridad de ejecución
+- Una dirección de inicio de ejecución
