@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Análisis Bubble sort.md",
+                "file": "Estrategias algoritmicas/S1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Análisis Bubble sort.md",
+                "file": "Estrategias algoritmicas/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Análisis Bubble sort.md",
+                "file": "Estrategias algoritmicas/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Análisis Bubble sort.md"
+                "file": "Estrategias algoritmicas/S1.md"
               }
             }
           },
@@ -179,8 +178,10 @@
   },
   "active": "0a2c6e1fd6cf7557",
   "lastOpenFiles": [
-    "Web Development/CSS.md",
+    "Estrategias algoritmicas/S3.md",
+    "Estrategias algoritmicas/S4.md",
     "Estrategias algoritmicas/Análisis Bubble sort.md",
+    "Web Development/CSS.md",
     "C/Advanced Udemy Course/C programing.md",
     "C/Makefile/Make.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
@@ -204,12 +205,10 @@
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Untitled.md",
-    "Estrategias algoritmicas/S4.md",
     "Operating Systems/Sesiones/Sesión 4.md",
     "C/Colors on console mac.md",
     "C/Compilers.md",
     "C/Taller Data oriented design.md",
-    "Estrategias algoritmicas/S3.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
     "Software Requirements/Sesiones/S4.md",
