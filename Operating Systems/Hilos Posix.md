@@ -58,3 +58,5 @@ Un hilo posix tiene:
 - Us stack
 - Una prioridad de ejecución
 - Una dirección de inicio de ejecución
+### Crear hilo
+Mediante la función `int **pthread_create**(pthread_t *thread, const pthread_attr_t *attr, void *(*start_routine)(void *), void *arg)`
