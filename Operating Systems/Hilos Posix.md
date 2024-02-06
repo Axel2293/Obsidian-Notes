@@ -58,5 +58,16 @@ Un hilo posix tiene:
 - Us stack
 - Una prioridad de ejecución
 - Una dirección de inicio de ejecución
+Los hilos son dinámicos cuando se pueden crear en cualquier momento de la ejecución
 ### Crear hilo
-Mediante la función `int **pthread_create**(pthread_t *thread, const pthread_attr_t *attr, void *(*start_routine)(void *), void *arg)`
+Mediante la función `int pthread_create(pthread_t *thread, const pthread_attr_t *attr, void *(*start_routine)(void *), void *arg)`
+
+### Terminar hilo
+Mediante la función `void pthread_exit(void *value_ptr)`
+
+### Esperar desde hilo principal
+Podemos esperar a que terminen los otros hilos mediante la función `int pthread_join(pthread_t thread, void **value_ptr)`
+
+>[!abstract]
+>Create: *pthread_create* Terminate: *pthread_exit* Wait: *pthread_join*
+
