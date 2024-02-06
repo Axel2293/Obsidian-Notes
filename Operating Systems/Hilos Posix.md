@@ -51,3 +51,5 @@ Usado en sistemas que no soportan hilos a nivel de kérnel.
 - Los procesos tienen un hilo principal más hilos a nivel usuario
 - Proceso ligero es un hilo de ejecución en un proceso. Un proceso ligero corresponde a un hilo a nivel kernel.
 ![[Pasted image 20240201153945.png]]
+
+# Hilos en Posix
