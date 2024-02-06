@@ -71,3 +71,6 @@ Podemos esperar a que terminen los otros hilos mediante la función `int pthread
 >[!abstract]
 >Create: *pthread_create* Terminate: *pthread_exit* Wait: *pthread_join*
 
+>[!warning]
+>Cuando el hilo principal termina, todos los hilos hijos tambien (aunque no hayan terminado).
+
