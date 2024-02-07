@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md",
+                "file": "Operating Systems/Sesión 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md",
+                "file": "Operating Systems/Sesión 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md",
+                "file": "Operating Systems/Sesión 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md"
+                "file": "Operating Systems/Sesión 5.md"
               }
             }
           },
@@ -191,6 +191,10 @@
   },
   "active": "50ab1db21805caf4",
   "lastOpenFiles": [
+    "Operating Systems/Sesiones/Memoria compartida.md",
+    "Operating Systems/Sesión 5.md",
+    "Operating Systems/Sesiones/Sesión 5.md",
+    "Operating Systems/Hilos Posix.md",
     "Operating Systems/Untitled 1.md",
     "Estrategias algoritmicas/Análisis Bubble sort.md",
     "Estrategias algoritmicas/S3.md",
@@ -200,8 +204,6 @@
     "C/Advanced Udemy Course/C programing.md",
     "C/Makefile/Make.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
-    "Operating Systems/Sesiones/Sesión 5.md",
-    "Operating Systems/Hilos Posix.md",
     "PHOTOS/Pasted image 20240201153945.png",
     "PHOTOS/Pasted image 20240201153547.png",
     "PHOTOS/Pasted image 20240201153515.png",
@@ -225,8 +227,6 @@
     "C/Compilers.md",
     "C/Taller Data oriented design.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
-    "Software Requirements/Sesiones/S4.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
