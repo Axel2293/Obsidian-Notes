@@ -10,3 +10,6 @@ Process creation is heavy-weight while thread creation is light-weight
 Proceses have their own data, etc (makes communication between process hard). *Threads* run on the same process, so we dont have to comunicate with other process.
 
 ## Types
+### User Threads
+
+## Kernel Threads
