@@ -1,0 +1,2 @@
+### Suma de elementos (i a j)
+Nos piden que hagamos una suma de los elementos en un arreglo empezando del indice i a j, entonces si esto lo realizaran varias veces es recomendable hacer precomputo para calcular otro arreglo que contiene la suma de todos lo elementos hacia la izquierda.
