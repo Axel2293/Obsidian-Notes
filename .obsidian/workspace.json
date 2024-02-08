@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesión 5.md",
+                "file": "NoSQL/P1/Wide-Column.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesión 5.md",
+                "file": "NoSQL/P1/Wide-Column.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesión 5.md",
+                "file": "NoSQL/P1/Wide-Column.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesión 5.md"
+                "file": "NoSQL/P1/Wide-Column.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "50ab1db21805caf4",
   "lastOpenFiles": [
-    "Operating Systems/Hilos Posix.md",
+    "NoSQL/P1/Untitled 1.md",
     "Operating Systems/Sesión 5.md",
+    "Operating Systems/Hilos Posix.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Untitled 1.md",
@@ -225,9 +226,9 @@
     "PHOTOS/Pasted image 20240201150403.png",
     "PHOTOS/Pasted image 20240201145950.png",
     "PHOTOS/Pasted image 20240201145842.png",
-    "Bases de datos NO RELACIONALES/P1/Apache Cassandra.md",
+    "NoSQL/P1/Apache Cassandra.md",
     "PHOTOS/Pasted image 20240201073657.png",
-    "Bases de datos NO RELACIONALES/P1/Untitled.md",
+    "NoSQL/P1/Wide-Column.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Operaciones en Procesos.md",
@@ -238,13 +239,12 @@
     "C/Colors on console mac.md",
     "C/Compilers.md",
     "C/Taller Data oriented design.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
-    "Bases de datos NO RELACIONALES/P1",
-    "Bases de datos NO RELACIONALES",
+    "NoSQL/P1",
+    "NoSQL",
     "Software Requirements/Sesiones",
     "Software Requirements",
     "Operating Systems/Sesiones",

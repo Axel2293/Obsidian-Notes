@@ -22,7 +22,12 @@ This is a **distributed database** from Apache that is *highly scalable* and des
 - Column-oriented
 - Created at facebook
 
-### Query 
+### Query Interfaces
+Cassandra provides a promot query language shell (*cqlsh*) that allows users to cummunicate with it. Using this shell you can execute Cassandra Query Language (*CQL*).
+Using *CQLSH* you can:
+- Define a schema
+- Insert data
+- Execute query
 ### Design Model
 The design goal of Cassandra is to *handle big data workloads* across multiple nodes without any single point of failure. Has *peer-to-peer* distributed system across its nodes, and *data is distributed* among all the nodes in a cluster.
 ### Data Model
