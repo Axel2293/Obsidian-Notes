@@ -43,9 +43,13 @@ Is a container for an ordered collection of rows. Each row, in turn, is an order
 
 | Ralational Table | Cassandra Column Family |
 | ---- | ---- |
-| A schema in a relational model is fixed |  |
-|  |  |
-|  |  |
+| A schema in a relational model is fixed. | In Cassandra, although the column families are defined, the columns are not. |
+| Once we define certain columns for a table, while inserting data, in every row all the columns must be filled at least with a null value. | You can freely add any column to any column family at any time. |
+| Relational tables define only columns, and the user fills in the table with values. | In Cassandra, a table contains columns, or can be defined as a super column family. |
+
+![[Pasted image 20240207193153.png]]
+
+
 Cassandra does not force individual rows to have all the columns.
 ![[Pasted image 20240129082154.png|450]]
 
