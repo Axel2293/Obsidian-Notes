@@ -31,6 +31,8 @@ Using *CQLSH* you can:
 ### Design Model
 The design goal of Cassandra is to *handle big data workloads* across multiple nodes without any single point of failure. Has *peer-to-peer* distributed system across its nodes, and *data is distributed* among all the nodes in a cluster.
 ### Data Model
+##### Cluster
+Cassandra database is distributed over several machines that operate together. The outermost container is known as the Cluster. For failure handling, every node contains a replica, and in case of a failure, the replica takes charge. Cassandra arranges the nodes in a cluster, in a ring format, and assigns data to them.
 ##### Keyspace
 Is the outmost container for data in Cassandra. the basic attributes of a Keyspace in Cassandra are:
 - *Replication factor*: it is the number of machines in the cluster that will receive copies of the same data.
