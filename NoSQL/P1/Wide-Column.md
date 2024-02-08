@@ -55,6 +55,8 @@ Cassandra does not force individual rows to have all the columns.
 
 #### Column
 ![[Pasted image 20240129082638.png|300]]
+A column is the basic data structure of Cassandra with three values, namely key or column name, value, and a time stamp. Given below is the structure of a column.
 #### SuperColumns
 Stores a map of sub-columns
+A super column is a special column, therefore, it is also a key-value pair. But a super column stores a map of sub-columns.
 ![[Pasted image 20240129082651.png|300]]
