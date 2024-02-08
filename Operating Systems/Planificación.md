@@ -36,3 +36,9 @@ Un proceso puede esperar mucho antes de ejecutarse, lo cual impacta en el rendim
 - Si el tiempo estimado por el SO era incorrecto, se puede abortar.
 - Posibilidad de inanición de procesos largos.
 ![[Pasted image 20240208144935.png|500]]
+
+## Highest Response Ratio Next (HRRN)
+- Selecciona el proceso con la mayor tasa de respuesta
+
+$Tasa de respuesta= (Tiempo esperando el CPU + Tiempo de servicio)/Tiempo de servicio$
+
