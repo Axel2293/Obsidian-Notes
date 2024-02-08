@@ -23,7 +23,7 @@ This is a **distributed database** from Apache that is *highly scalable* and des
 - Created at facebook
 
 ### Query Interfaces
-Cassandra provides a promot query language shell (*cqlsh*) that allows users to cummunicate with it. Using this shell you can execute Cassandra Query Language (*CQL*).
+Cassandra provides a prompt query language shell (*cqlsh*) that allows users to cummunicate with it. Using this shell you can execute Cassandra Query Language (*CQL*).
 Using *CQLSH* you can:
 - Define a schema
 - Insert data
