@@ -33,3 +33,6 @@ Un proceso puede esperar mucho antes de ejecutarse, lo cual impacta en el rendim
 ![[Pasted image 20240208144245.png]]
 
 ## Primero el mas corto (SPF)
+- Si el tiempo estimado por el SO era incorrecto, se puede abortar.
+- Posibilidad de inanición de procesos largos.
+![[Pasted image 20240208144935.png|500]]
