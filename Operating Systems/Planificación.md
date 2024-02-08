@@ -26,3 +26,5 @@ es el que *da el control del CPU* a los *procesos seleccionados por el planifica
 - A un proceso que se le dio el CPU se le puede quitar para darselo a otro proceso.
 - Ejemplos: Round Robin, el tiempo restante más corto, Realimentación, Prioridad fija.
 ![[Pasted image 20240208143553.png]]
+
+## First Come, First Served (FCFS)
