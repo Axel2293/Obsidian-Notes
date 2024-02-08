@@ -41,4 +41,9 @@ Un proceso puede esperar mucho antes de ejecutarse, lo cual impacta en el rendim
 - Selecciona el proceso con la mayor tasa de respuesta
 
 $Tasa de respuesta= (Tiempo esperando el CPU + Tiempo de servicio)/Tiempo de servicio$
+![[Pasted image 20240208150935.png]]
 
+![[Pasted image 20240208151014.png]]
+![[Pasted image 20240208151037.png]]
+![[Pasted image 20240208151112.png]]
+![[Pasted image 20240208151122.png|200]]
