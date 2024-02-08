@@ -28,3 +28,6 @@ es el que *da el control del CPU* a los *procesos seleccionados por el planifica
 ![[Pasted image 20240208143553.png]]
 
 ## First Come, First Served (FCFS)
+
+Un proceso puede esperar mucho antes de ejecutarse, lo cual impacta en el rendimiento.
+![[Pasted image 20240208144245.png]]
