@@ -31,3 +31,5 @@ es el que *da el control del CPU* a los *procesos seleccionados por el planifica
 
 Un proceso puede esperar mucho antes de ejecutarse, lo cual impacta en el rendimiento.
 ![[Pasted image 20240208144245.png]]
+
+## Primero el mas corto (SPF)
