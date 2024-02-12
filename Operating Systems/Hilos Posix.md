@@ -21,7 +21,7 @@ Cada hilo debe tener su stack
 ![[Pasted image 20240201145950.png]]
 
 # Beneficios de los Hilos
-# Hilos a nivel kérnel y a nivel usuario
+# Hilos a nivel kernel y a nivel usuario
 ## Usuario
 ![[Pasted image 20240201151930.png]]
 - Solo existen en el contexto del usuario
