@@ -21,3 +21,5 @@ El algoritmo funciona de la siguiente forma, se ordena en cada pasada tomando en
 ![[Pasted image 20240213103055.png]]
 
 ## Bucket sort
+Divide el intervalo en N-sub-intervalos del mismo tamaño, llamados *buckets*.
+Luego distribuye las N entradas en totales buckets
