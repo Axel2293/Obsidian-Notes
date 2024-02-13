@@ -20,3 +20,4 @@ Algoritmo de ordenamiento sin usar comparaciones. Algoritmo estable. Podemos usa
 El algoritmo funciona de la siguiente forma, se ordena en cada pasada tomando en cuenta el *LSD (Least significant digit)*, esto se hace hasta llegar al ultimo digito.
 ![[Pasted image 20240213103055.png]]
 
+## Bucket sort
