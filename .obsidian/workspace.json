@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Semana 5.md",
+                "file": "Web Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Semana 5.md",
+                "file": "Web Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Semana 5.md",
+                "file": "Web Development/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Semana 5.md"
+                "file": "Web Development/JavaScript.md"
               }
             }
           },
@@ -215,9 +215,10 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/Semana 5.md",
+    "Web Development/JavaScript.md",
     "PHOTOS/Pasted image 20240213103055.png",
     "Estrategias algoritmicas/S4.md",
-    "Estrategias algoritmicas/Semana 5.md",
     "PHOTOS/Pasted image 20240213095224.png",
     "Estrategias algoritmicas/S3.md",
     "Untitled.md",
@@ -234,7 +235,6 @@
     "PHOTOS/Pasted image 20240208151112.png",
     "PHOTOS/Pasted image 20240208151037.png",
     "PHOTOS/Pasted image 20240208151014.png",
-    "PHOTOS/Pasted image 20240208150935.png",
     "Web Development/HTML (Hyper Text Markup Language).md",
     "C/Modulo 1/Apuntadores a funciones.md",
     "Estrategias algoritmicas/Pre-cómputo.md",
