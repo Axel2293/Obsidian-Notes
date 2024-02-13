@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Operating Systems/Planificación.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Operating Systems/Planificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Operating Systems/Planificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavaScript.md"
+                "file": "Operating Systems/Planificación.md"
               }
             }
           },
@@ -215,8 +215,8 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/Semana 5.md",
     "Web Development/JavaScript.md",
+    "Estrategias algoritmicas/Semana 5.md",
     "PHOTOS/Pasted image 20240213103055.png",
     "Estrategias algoritmicas/S4.md",
     "PHOTOS/Pasted image 20240213095224.png",

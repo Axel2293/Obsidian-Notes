@@ -47,3 +47,7 @@ $Tasa de respuesta= (Tiempo esperando el CPU + Tiempo de servicio)/Tiempo de ser
 ![[Pasted image 20240208151037.png]]
 ![[Pasted image 20240208151112.png]]
 ![[Pasted image 20240208151122.png|200]]
+
+## Round Robin
+## SPN
+## Retroalimentación
