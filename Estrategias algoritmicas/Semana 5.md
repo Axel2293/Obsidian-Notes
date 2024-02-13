@@ -15,4 +15,8 @@ Utilizamos los elementos como indices para mantener frecuencias. Lo cual nos per
 Para que este algoritmo sea estable, debemos calcular el indice de cada grupo de elementos (donde va el ultimo elemento), luego leemos el arreglo original de derecha a izquierda y vamos agregando en los indices que calculamos
 
 ## Radix sort
-Algoritmo de ordenamiento sin usar comparaciones. Algoritmo estable
+Algoritmo de ordenamiento sin usar comparaciones. Algoritmo estable. Podemos usar Counting sort dentro de el para ordenat por digits menos significativos.
+
+El algoritmo funciona de la siguiente forma, se ordena en cada pasada tomando en cuenta el *LSD (Least significant digit)*, esto se hace hasta llegar al ultimo digito.
+![[Pasted image 20240213103055.png]]
+
