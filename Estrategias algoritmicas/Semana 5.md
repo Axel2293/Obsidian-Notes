@@ -22,4 +22,5 @@ El algoritmo funciona de la siguiente forma, se ordena en cada pasada tomando en
 
 ## Bucket sort
 Divide el intervalo en N-sub-intervalos del mismo tamaño, llamados *buckets*.
-Luego distribuye las N entradas en totales buckets
+Luego distribuye las N entradas en totales buckets. **Cada bucket es en realidad una lista enlazada**.
+
