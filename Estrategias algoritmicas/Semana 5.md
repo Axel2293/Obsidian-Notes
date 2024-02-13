@@ -12,3 +12,4 @@ Ordenamiento basado en comparaciones su peor caso no puede ser mejor que cuasi-l
 Utilizamos los elementos como indices para mantener frecuencias. Lo cual nos permite no usar comparaciones y mantener una tipo tabla hash para las frecuencias de cada elemento.
 ![[Pasted image 20240213095224.png]]
 
+Para que este algoritmo sea estable, debemos calcular el indice de cada grupo de elementos (donde va el ultimo elemento), luego leemos el arreglo original de derecha a izuierda y vamos agregando en los indices que calculamos 
