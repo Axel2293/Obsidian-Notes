@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Operating Systems/Sesiones/Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Operating Systems/Sesiones/Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Operating Systems/Sesiones/Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Planificación.md"
+                "file": "Operating Systems/Sesiones/Scheduling.md"
               }
             }
           },
@@ -215,6 +215,8 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Sesiones/Scheduling.md",
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Semana 5.md",
     "PHOTOS/Pasted image 20240213103055.png",
@@ -230,7 +232,6 @@
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Planificación.md",
     "PHOTOS/Pasted image 20240208151122.png",
     "PHOTOS/Pasted image 20240208151112.png",
     "PHOTOS/Pasted image 20240208151037.png",
@@ -250,7 +251,6 @@
     "C/Makefile/Make.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
     "NoSQL/P1/Apache Cassandra.md",
-    "Operating Systems/Procesos Cooperantes.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
