@@ -4,3 +4,6 @@ Scheduler desitions may be afected by these:
 1. wda
 
 The scheduler may be *preemptive* or *nonpreemptive*.
+
+## Race condition and Preemptive scheduler
+This algorithm for the scheduler can cause RC
