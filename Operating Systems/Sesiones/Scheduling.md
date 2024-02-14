@@ -7,3 +7,5 @@ The scheduler may be *preemptive* or *nonpreemptive*.
 
 ## Race condition and Preemptive scheduler
 This algorithm for the scheduler can cause RC as there could be shared resources between processes or threads and interruptions could happen during the execution or use of resources.
+
+# Dispatcher
