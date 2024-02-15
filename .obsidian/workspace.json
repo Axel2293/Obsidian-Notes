@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/S3.md",
+                "file": "Estrategias algoritmicas/Pre-cómputo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/S3.md",
+                "file": "Estrategias algoritmicas/Pre-cómputo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/S3.md",
+                "file": "Estrategias algoritmicas/Pre-cómputo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/S3.md"
+                "file": "Estrategias algoritmicas/Pre-cómputo.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/Basics of Complexity.md",
+    "Estrategias algoritmicas/Análisis Bubble sort.md",
+    "Estrategias algoritmicas/S4.md",
+    "Estrategias algoritmicas/S3.md",
     "PHOTOS/Pasted image 20240214220340.png",
     "Estrategias algoritmicas/S1.md",
     "Operating Systems/Sesiones/Sesión 5.md",
@@ -187,9 +191,7 @@
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Semana 5.md",
     "PHOTOS/Pasted image 20240213103055.png",
-    "Estrategias algoritmicas/S4.md",
     "PHOTOS/Pasted image 20240213095224.png",
-    "Estrategias algoritmicas/S3.md",
     "Untitled.md",
     "PHOTOS/Pasted image 20240213082056.png",
     "PHOTOS/Pasted image 20240213074213.png",
@@ -201,7 +203,6 @@
     "PHOTOS/Pasted image 20240208151122.png",
     "PHOTOS/Pasted image 20240208151112.png",
     "PHOTOS/Pasted image 20240208151037.png",
-    "PHOTOS/Pasted image 20240208151014.png",
     "Web Development/HTML (Hyper Text Markup Language).md",
     "C/Modulo 1/Apuntadores a funciones.md",
     "Estrategias algoritmicas/Pre-cómputo.md",
@@ -210,10 +211,8 @@
     "Operating Systems/Sesión 5.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Untitled 1.md",
-    "Estrategias algoritmicas/Análisis Bubble sort.md",
     "C/Advanced Udemy Course/C programing.md",
     "C/Makefile/Make.md",
-    "Estrategias algoritmicas/Basics of Complexity.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
