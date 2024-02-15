@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Pre-cómputo.md",
+                "file": "Estrategias algoritmicas/Basics of Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Pre-cómputo.md",
+                "file": "Estrategias algoritmicas/Basics of Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Pre-cómputo.md",
+                "file": "Estrategias algoritmicas/Basics of Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Pre-cómputo.md"
+                "file": "Estrategias algoritmicas/Basics of Complexity.md"
               }
             }
           },
@@ -178,12 +178,13 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/S3.md",
+    "Estrategias algoritmicas/S1.md",
+    "Estrategias algoritmicas/Pre-cómputo.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
     "Estrategias algoritmicas/Análisis Bubble sort.md",
     "Estrategias algoritmicas/S4.md",
-    "Estrategias algoritmicas/S3.md",
     "PHOTOS/Pasted image 20240214220340.png",
-    "Estrategias algoritmicas/S1.md",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Sesiones/Scheduling.md",
@@ -205,7 +206,6 @@
     "PHOTOS/Pasted image 20240208151037.png",
     "Web Development/HTML (Hyper Text Markup Language).md",
     "C/Modulo 1/Apuntadores a funciones.md",
-    "Estrategias algoritmicas/Pre-cómputo.md",
     "NoSQL/P1/Wide-Column.md",
     "NoSQL/P1/Untitled 1.md",
     "Operating Systems/Sesión 5.md",
