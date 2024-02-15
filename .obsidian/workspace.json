@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a2c6e1fd6cf7557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrategias algoritmicas/S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ab1db21805caf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Procesos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd1ce0d2e3dd04cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "07b91988f728417f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 5.md",
+                "file": "Estrategias algoritmicas/S1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 5.md",
+                "file": "Estrategias algoritmicas/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 5.md",
+                "file": "Estrategias algoritmicas/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 5.md"
+                "file": "Estrategias algoritmicas/S1.md"
               }
             }
           },
@@ -215,6 +178,7 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Planificación.md",
@@ -243,7 +207,6 @@
     "NoSQL/P1/Untitled 1.md",
     "Operating Systems/Sesión 5.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
-    "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Untitled 1.md",
     "Estrategias algoritmicas/Análisis Bubble sort.md",
     "Estrategias algoritmicas/S1.md",
