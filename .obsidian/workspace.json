@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/S1.md",
+                "file": "Estrategias algoritmicas/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/S1.md",
+                "file": "Estrategias algoritmicas/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/S1.md",
+                "file": "Estrategias algoritmicas/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/S1.md"
+                "file": "Estrategias algoritmicas/S3.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240214220340.png",
+    "Estrategias algoritmicas/S1.md",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Sesiones/Scheduling.md",
@@ -209,11 +211,9 @@
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Untitled 1.md",
     "Estrategias algoritmicas/Análisis Bubble sort.md",
-    "Estrategias algoritmicas/S1.md",
     "C/Advanced Udemy Course/C programing.md",
     "C/Makefile/Make.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
-    "NoSQL/P1/Apache Cassandra.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
