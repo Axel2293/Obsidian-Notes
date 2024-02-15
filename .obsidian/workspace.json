@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Scheduling.md",
+                "file": "Operating Systems/Sesiones/Sesión 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesiones/Scheduling.md",
+                "file": "Operating Systems/Sesiones/Sesión 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesiones/Scheduling.md",
+                "file": "Operating Systems/Sesiones/Sesión 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesiones/Scheduling.md"
+                "file": "Operating Systems/Sesiones/Sesión 5.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
-    "Operating Systems/Planificación.md",
+    "Operating Systems/Hilos Posix.md",
     "Operating Systems/Sesiones/Scheduling.md",
+    "Operating Systems/Planificación.md",
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Semana 5.md",
     "PHOTOS/Pasted image 20240213103055.png",
@@ -229,7 +230,6 @@
     "PHOTOS/Pasted image 20240213074153.png",
     "PHOTOS/Pasted image 20240213074122.png",
     "Web Development/CSS.md",
-    "Operating Systems/Hilos Posix.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Operaciones en Procesos.md",
     "PHOTOS/Pasted image 20240208151122.png",
