@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Basics of Complexity.md",
+                "file": "Web Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Basics of Complexity.md",
+                "file": "Web Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Basics of Complexity.md",
+                "file": "Web Development/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Basics of Complexity.md"
+                "file": "Web Development/JavaScript.md"
               }
             }
           },
@@ -178,18 +178,18 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/S3.md",
     "Estrategias algoritmicas/S1.md",
-    "Estrategias algoritmicas/Pre-cómputo.md",
+    "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
-    "Estrategias algoritmicas/Análisis Bubble sort.md",
+    "Estrategias algoritmicas/S3.md",
     "Estrategias algoritmicas/S4.md",
+    "Estrategias algoritmicas/Análisis Bubble sort.md",
+    "Estrategias algoritmicas/Pre-cómputo.md",
     "PHOTOS/Pasted image 20240214220340.png",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Planificación.md",
-    "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Semana 5.md",
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",

@@ -8,3 +8,6 @@ Currently, the latest version is ES14 (ECMAScript 2023). This note will focus on
 
 ## JS in HTML
 We can create a script element in HTML, and inside we can write JS code.
+
+## Objects
+Store complex data, collection
