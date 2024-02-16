@@ -24,3 +24,5 @@ Cada vez que una tarea pasa a lista:
 - Tiene que estar constantemente recalculando prioridades.
 ## Rate Monotonic - RM
 Asignar prioridad más alta a tareas con periodo más corto
+- El limite es menor del 100% por pequeñas ineficiencias de esta planificación
+- Algunas veces la ejecución de una tarea con deadline más cercano que otra tarea tendrá una prioridad más baja.
