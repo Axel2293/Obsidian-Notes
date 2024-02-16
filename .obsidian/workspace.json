@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Operating Systems/Planificación en tiempo real.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Operating Systems/Planificación en tiempo real.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Operating Systems/Planificación en tiempo real.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavaScript.md"
+                "file": "Operating Systems/Planificación en tiempo real.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/S1.md",
     "Web Development/JavaScript.md",
+    "Operating Systems/Planificación en tiempo real.md",
+    "Estrategias algoritmicas/S1.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
     "Estrategias algoritmicas/S3.md",
     "Estrategias algoritmicas/S4.md",

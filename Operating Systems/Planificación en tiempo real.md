@@ -1,0 +1,1 @@
+Procesos tiene que cumplir diferentes tiempos de terminación (deadline) y frecuencia de ejecución.
