@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Planificación en tiempo real.md",
+                "file": "Git/Git credential manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Planificación en tiempo real.md",
+                "file": "Git/Git credential manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Planificación en tiempo real.md",
+                "file": "Git/Git credential manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Planificación en tiempo real.md"
+                "file": "Git/Git credential manager.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
-    "Operating Systems/Planificación.md",
+    "Git/Comandos GIT.md",
+    "Git/Branch - Ramas.md",
     "Operating Systems/Planificación en tiempo real.md",
+    "Operating Systems/Planificación.md",
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/S1.md",
     "Estrategias algoritmicas/Basics of Complexity.md",
@@ -224,8 +226,6 @@
     "Operating Systems/Sesión 5.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Untitled 1.md",
-    "C/Advanced Udemy Course/C programing.md",
-    "C/Makefile/Make.md",
     "Untitled.canvas",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Docker",
