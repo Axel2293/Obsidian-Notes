@@ -22,6 +22,9 @@ Cada vez que una tarea pasa a lista:
 - Comprobar si tiene deadline más corto que la tarea que tiene el procesador, si es así, hay que suspender tarea actual y poner a correr nueva tarea.
 - *Prioridades dinámicas*: van cambiando las prioridades conforme avanza el tiempo.
 - Tiene que estar constantemente recalculando prioridades.
+##### *verificación de tiempo de termino -EDF*
+
+
 ## Rate Monotonic - RM
 Asignar prioridad más alta a tareas con periodo más corto
 - El limite es menor del 100% por pequeñas ineficiencias de esta planificación
