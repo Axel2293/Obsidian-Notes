@@ -20,3 +20,4 @@ Verificar si todas las tareas (o procesos) pueden **cumplir sus tiempos de termi
 Poner a correr la tarea con el tiempo de termino más cercano.
 Cada vez que una tarea pasa a lista:
 - Comprobar si tiene deadline más corto que la tarea que tiene el procesador, si es así, hay que suspender tarea actual y poner a correr nueva tarea.
+- *Prioridades dinámicas*: van cambiando las prioridades conforme avanza el tiempo.
