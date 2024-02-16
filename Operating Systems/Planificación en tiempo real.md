@@ -11,4 +11,12 @@ Periodico
 - Planificación predecible
 - Permite analizar si es posible terminar tareas a tiempo
 - Otro proceso no me puede quitar el procesador a menos que se garantice que podré terminar a tiempo.
-Se tiene que hacer deacuerdo a
+Se tiene que hacer de acuerdo a:
+- Tiempos requeridos de terminación
+- Frecuencia de ejecución
+Verificar si todas las tareas (o procesos) pueden **cumplir sus tiempos de terminación**.
+
+## EDF - Earliest Deadline First
+Poner a correr la tarea con el tiempo de termino más cercano.
+Cada vez que una tarea pasa a lista:
+- Comprobar si tiene deadline más corto que la tarea que tiene el procesador, si es así, hay que suspender tarea actual y poner a correr nueva tarea.
