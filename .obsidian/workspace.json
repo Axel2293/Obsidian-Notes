@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker and Containers.md",
+                "file": "NoSQL/CQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker and Containers.md",
+                "file": "NoSQL/CQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker and Containers.md",
+                "file": "NoSQL/CQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker and Containers.md"
+                "file": "NoSQL/CQL.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
+    "Docker/Docker and Containers.md",
     "NoSQL/CQL.md",
     "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
@@ -211,7 +212,6 @@
     "PHOTOS/Pasted image 20240213074153.png",
     "PHOTOS/Pasted image 20240213074122.png",
     "Web Development/CSS.md",
-    "Operating Systems/Procesos.md",
     "PHOTOS/Pasted image 20240208151122.png",
     "PHOTOS/Pasted image 20240208151112.png",
     "PHOTOS/Pasted image 20240208151037.png",
