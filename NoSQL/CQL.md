@@ -1,3 +1,7 @@
+>[!warning]
+>The use of *ALLOW FILTERING* means that we didn't design our db correcting. As filtering could cause performance issues as it will search through all clusters.
+
+
 ```DOCKER
 
 ```
