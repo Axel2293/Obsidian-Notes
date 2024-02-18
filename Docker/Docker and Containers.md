@@ -42,3 +42,6 @@ Containers and virtual machines are very similar resource virtualization technol
 	- Delete a given image 
 - *docker logs*
 	- Shows the logs of a container
+>[!important]
+>we can use docker run -d --name <name> <image>, this will assign a name to the container and run in the background because of -d.
+
