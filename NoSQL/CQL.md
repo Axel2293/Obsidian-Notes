@@ -2,4 +2,9 @@
 
 ```
 ## Describe
-Provides info about the connected
+Provides info about the connected Cassandra cluster
+```Apache Cassandra
+DESCRIBE
+
+
+```
