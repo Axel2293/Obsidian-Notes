@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Sesiones/S4.md",
+                "file": "NoSQL/CQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Iterato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Sesiones/S4.md",
+                "file": "NoSQL/CQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Sesiones/S4.md",
+                "file": "NoSQL/CQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Sesiones/S4.md"
+                "file": "NoSQL/CQL.md"
               }
             }
           },
@@ -178,10 +178,13 @@
   },
   "active": "07b91988f728417f",
   "lastOpenFiles": [
-    "Software Requirements/Sesiones/S3.md",
+    "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
+    "NoSQL/CQL.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
     "Operating Systems/Planificación.md",
-    "Software Requirements/Sesiones/S1.md",
     "Software Requirements/Sesiones/S4.md",
+    "Software Requirements/Sesiones/S3.md",
+    "Software Requirements/Sesiones/S1.md",
     "Software Requirements/Sesiones/s2.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Git/Git credential manager.md",
@@ -209,12 +212,9 @@
     "PHOTOS/Pasted image 20240213074122.png",
     "Web Development/CSS.md",
     "Operating Systems/Procesos.md",
-    "Operating Systems/Operaciones en Procesos.md",
     "PHOTOS/Pasted image 20240208151122.png",
     "PHOTOS/Pasted image 20240208151112.png",
     "PHOTOS/Pasted image 20240208151037.png",
-    "Web Development/HTML (Hyper Text Markup Language).md",
-    "C/Modulo 1/Apuntadores a funciones.md",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
