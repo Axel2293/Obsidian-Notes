@@ -8,3 +8,8 @@ DESCRIBE
 
 
 ```
+
+#### CREATE
+
+#### ALTER
+#### USE
