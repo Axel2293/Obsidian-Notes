@@ -87,14 +87,43 @@ A primary key in Cassandra can be composed of *2 parts.*
 
 The *partition key* is the minimum specifier needed to perform a query using a where clause.
 
-If you declare a composite clustering key, the order matters.
-
+If you declare a composite *clustering key*, the order matters.
+#### Partition Key
 The partition keys is responsible for data distribution across nodes.
-
+##### Clustering Key
 The clustering key is responsible for data sorting within a partition
 
 ¡The way primary keys work in Cassandra is an important concept to grasp.
 
 ¡A primary key in Cassandra consists of one or more partition keys and zero or more clustering key components. The order of these components always puts the partition key first and then the clustering key.
+```cql
+//Creating a primary key
+PRIMARY KEY(partition key)
+
+PRIMARY KEY(partition key, clustering key
+
 ```
+## Composite Partition key
+¡If we need to combine more than one column value to form a single partition key, we use a composite partition key.
+```cql
+CREATE TABLE application_logs (
+
+  id INT,
+
+  app_name VARCHAR,
+
+  hostname VARCHAR,
+
+  log_datetime TIMESTAMP,
+
+  env VARCHAR,
+
+  log_level VARCHAR,
+
+  log_message TEXT,
+
+  PRIMARY KEY ((app_name, env))
+
+);
 ```
+![[Pasted image 20240217232159.png|500]]
