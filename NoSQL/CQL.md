@@ -45,3 +45,15 @@ VALUES(2,'fulanita', 'Phoenix', 9848022339, 40000);
 INSERT INTO emp (emp_id, emp_name, emp_city, emp_phone, emp_sal) VALUES(3,'sutanito', 'Cancun', 9848022330, 45000);
 ```
 
+## SELECT
+The **SELECT** keyword allows us to retrieve data from a table, conditions can be provided to narrow search.
+```CASSANDRA
+// Visualize everything(*) from emp table
+SELECT * FROM emp;
+
+//Visualize colum emp_name from emp table
+SELECT emp_name FROM emp;
+
+//Visualize colums emp_name and emp_city from emp table where emp_id equal “1234”
+SELECT emp_name, emp_city FROM emp WHERE emp_city = ‘Guadalajara’;
+```
