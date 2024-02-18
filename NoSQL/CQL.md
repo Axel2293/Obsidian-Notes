@@ -3,6 +3,9 @@
 
 
 ```DOCKER
+docker pull cassandra
+docker run --name node1 cassandra
+docker exec 
 
 ```
 ## Describe
