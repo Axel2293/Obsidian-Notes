@@ -151,3 +151,28 @@ CREATE TABLE application_logs (
 
 );
 ```
+#### Define order
+We can control the clustering columns’ we can control the clustering columns’ sort order by using WITH CLUSTERING ORDER BY clause in the table definition:clause in the table definition:
+```cql
+CREATE TABLE application_logs (
+
+  id INT,
+
+  app_name VARCHAR,
+
+  hostname VARCHAR,
+
+  log_datetime TIMESTAMP,
+
+  env VARCHAR,
+
+  log_level VARCHAR,
+
+  log_message TEXT,
+
+  PRIMARY KEY ((app_name, env), hostname, log_datetime)
+
+)
+
+WITH CLUSTERING ORDER BY (hostname ASC, log_datetime DESC);
+```
