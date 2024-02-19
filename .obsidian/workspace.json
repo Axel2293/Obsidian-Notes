@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/CQL.md",
+                "file": "Estrategias algoritmicas/Heap sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/CQL.md",
+                "file": "Estrategias algoritmicas/Heap sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/CQL.md",
+                "file": "Estrategias algoritmicas/Heap sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/CQL.md"
+                "file": "Estrategias algoritmicas/Heap sort.md"
               }
             }
           },
@@ -192,13 +191,16 @@
   },
   "active": "e3243b41ec4d7605",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/Shell sort.md",
+    "Estrategias algoritmicas/Heap sort.md",
+    "NoSQL/CQL.md",
+    "Gestion Agil de Proyectos/S6.md",
     "Docker/Docker and Containers.md",
     "NoSQL/P1/Wide-Column.md",
     "NoSQL/P1/Python Virtual Environments.md",
     "NoSQL/P1/Untitled 1.md",
     "NoSQL/P1/Data models (NoSQL).md",
     "NoSQL/P1/Apache Cassandra.md",
-    "NoSQL/CQL.md",
     "PHOTOS/Pasted image 20240217232159.png",
     "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
@@ -217,10 +219,7 @@
     "Estrategias algoritmicas/Basics of Complexity.md",
     "Estrategias algoritmicas/S3.md",
     "Estrategias algoritmicas/S4.md",
-    "Estrategias algoritmicas/Análisis Bubble sort.md",
-    "Estrategias algoritmicas/Pre-cómputo.md",
     "PHOTOS/Pasted image 20240214220340.png",
-    "Operating Systems/Sesiones/Sesión 5.md",
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",
     "PHOTOS/Pasted image 20240213082056.png",
