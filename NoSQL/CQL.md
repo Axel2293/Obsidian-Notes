@@ -4,7 +4,7 @@
 
 ```bash
 docker pull cassandra
-docker run -d --name node1 cassandra
+docker run -d --name node1 cassandra -p 9042
 docker exec -it node1 bash
 //Execute on interactive mode a bash terminal
 
