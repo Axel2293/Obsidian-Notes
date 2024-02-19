@@ -72,6 +72,11 @@ DROP INDEX name;
 
 //Delete a table
 DROP TABLE emp;
+
+// Delet ROW
+DELETE FROM table_name
+WHERE condition;
+
 ```
 # BATCH OPERATIONS
 The BATCH statement combines multiple data modification language statements (such as INSERT, UPDATE, and DELETE) to achieve atomicity and isolation when targeting a single partition or only atomicity when targeting multiple partitions
