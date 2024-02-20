@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Heap sort.md",
+                "file": "Operating Systems/Problemas de concurrencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Heap sort.md",
+                "file": "Operating Systems/Problemas de concurrencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Heap sort.md",
+                "file": "Operating Systems/Problemas de concurrencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Heap sort.md"
+                "file": "Operating Systems/Problemas de concurrencia.md"
               }
             }
           },
@@ -191,9 +191,13 @@
   },
   "active": "e3243b41ec4d7605",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/Shell sort.md",
-    "Estrategias algoritmicas/Heap sort.md",
     "NoSQL/CQL.md",
+    "Web Development/JavaScript.md",
+    "Web Development/Objects.md",
+    "Web Development/EXTRAS/GitHub hosting pages for repos.md",
+    "Estrategias algoritmicas/Heap sort.md",
+    "Software Requirements/Sesiones/Untitled.md",
+    "Estrategias algoritmicas/Shell sort.md",
     "Gestion Agil de Proyectos/S6.md",
     "Docker/Docker and Containers.md",
     "NoSQL/P1/Wide-Column.md",
@@ -214,11 +218,7 @@
     "Git/Comandos GIT.md",
     "Git/Branch - Ramas.md",
     "Operating Systems/Planificación en tiempo real.md",
-    "Web Development/JavaScript.md",
     "Estrategias algoritmicas/S1.md",
-    "Estrategias algoritmicas/Basics of Complexity.md",
-    "Estrategias algoritmicas/S3.md",
-    "Estrategias algoritmicas/S4.md",
     "PHOTOS/Pasted image 20240214220340.png",
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",
