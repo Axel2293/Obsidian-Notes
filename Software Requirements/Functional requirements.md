@@ -5,3 +5,10 @@
 	- NonFunctional cats. often *involve different stakeholders*
 	- Nonfunctional requirements require *own priority*
 	- Keeping them together avoids multiple maintenance
+## Good requirements
+- SHOULD BE **SMART**
+	- Specific
+	- Measurable
+	- Attainable/Achievable/Appropriate
+	- Relevant/Realistic
+	- Time-bound/Traceable
