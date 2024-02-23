@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Software Requirements/Functional requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Software Requirements/Functional requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Software Requirements/Functional requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Planificación.md"
+                "file": "Software Requirements/Functional requirements.md"
               }
             }
           },
@@ -191,11 +191,12 @@
   },
   "active": "6f8686a9ca9dfc76",
   "lastOpenFiles": [
+    "Operating Systems/Planificación.md",
+    "Software Requirements/Functional requirements.md",
     "Operating Systems/Planificación en tiempo real.md",
     "NoSQL/CQL.md",
     "Docker/Docker and Containers.md",
     "NoSQL/P1/Wide-Column.md",
-    "Operating Systems/Planificación.md",
     "Operating Systems/Problemas de concurrencia.md",
     "Web Development/JavaScript.md",
     "Web Development/Objects.md",
@@ -218,7 +219,6 @@
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Git/Git credential manager.md",
     "Git/Comandos GIT.md",
-    "Git/Branch - Ramas.md",
     "PHOTOS/Pasted image 20240214220340.png",
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",
