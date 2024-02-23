@@ -1,6 +1,7 @@
-## How to write
+## How to write Non-functional
 - Generate a separate document for each category, as:
-	- Nonfunctional requirements apply to the entire system
-	- Nonfuncional cats. often involve different stakeholders
+	- NonFunctional requirements *apply to the entire system*
+	- Refer to this docs when considerations are needed on functional requirements.
+	- NonFunctional cats. often *involve different stakeholders*
 	- Nonfunctional requirements require *own priority*
-	- Keeping them together avoids multiple maitenance
+	- Keeping them together avoids multiple maintenance
