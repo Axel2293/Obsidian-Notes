@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e3243b41ec4d7605",
+            "id": "6f8686a9ca9dfc76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Planificación.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Planificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Planificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md"
+                "file": "Operating Systems/Planificación.md"
               }
             }
           },
@@ -189,9 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3243b41ec4d7605",
+  "active": "6f8686a9ca9dfc76",
   "lastOpenFiles": [
+    "Operating Systems/Planificación en tiempo real.md",
     "NoSQL/CQL.md",
+    "Docker/Docker and Containers.md",
+    "NoSQL/P1/Wide-Column.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Problemas de concurrencia.md",
     "Web Development/JavaScript.md",
     "Web Development/Objects.md",
     "Web Development/EXTRAS/GitHub hosting pages for repos.md",
@@ -199,8 +204,6 @@
     "Software Requirements/Sesiones/Untitled.md",
     "Estrategias algoritmicas/Shell sort.md",
     "Gestion Agil de Proyectos/S6.md",
-    "Docker/Docker and Containers.md",
-    "NoSQL/P1/Wide-Column.md",
     "NoSQL/P1/Python Virtual Environments.md",
     "NoSQL/P1/Untitled 1.md",
     "NoSQL/P1/Data models (NoSQL).md",
@@ -208,7 +211,6 @@
     "PHOTOS/Pasted image 20240217232159.png",
     "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
-    "Operating Systems/Planificación.md",
     "Software Requirements/Sesiones/S4.md",
     "Software Requirements/Sesiones/S3.md",
     "Software Requirements/Sesiones/S1.md",
@@ -217,8 +219,6 @@
     "Git/Git credential manager.md",
     "Git/Comandos GIT.md",
     "Git/Branch - Ramas.md",
-    "Operating Systems/Planificación en tiempo real.md",
-    "Estrategias algoritmicas/S1.md",
     "PHOTOS/Pasted image 20240214220340.png",
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",

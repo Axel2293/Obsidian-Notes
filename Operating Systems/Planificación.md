@@ -39,7 +39,6 @@ Un proceso puede esperar mucho antes de ejecutarse, lo cual impacta en el rendim
 
 ## Highest Response Ratio Next (HRRN)
 - Selecciona el proceso con la mayor tasa de respuesta
-
 $Tasa de respuesta= (Tiempo esperando el CPU + Tiempo de servicio)/Tiempo de servicio$
 ![[Pasted image 20240208150935.png]]
 
