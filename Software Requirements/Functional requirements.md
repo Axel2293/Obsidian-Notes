@@ -13,3 +13,14 @@
 	- Relevant/Realistic
 	- Time-bound/Traceable
 ## Requirements as flow diagrams
+Also called *Process Diagrams* or *Process Flowcharts*
+Visual representations of the steps that people take for achieving a goal. **Every Step in the process flow translates to a single requirement**
+
+###### *Pros*
+- Valuable when there are people performing task in the solution
+- Intuitive to create and read
+- Useful to identify missing features or requirements
+- Useful to provide context
+###### *Cons*
+- Hard to provide details
+- Usually need more refinement
