@@ -12,3 +12,4 @@
 	- Attainable/Achievable/Appropriate
 	- Relevant/Realistic
 	- Time-bound/Traceable
+## Requirements as flow diagrams
