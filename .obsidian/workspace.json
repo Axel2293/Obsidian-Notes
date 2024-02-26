@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Functional requirements.md",
+                "file": "NoSQL/Documents Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Functional requirements.md",
+                "file": "NoSQL/Documents Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Functional requirements.md",
+                "file": "NoSQL/Documents Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Functional requirements.md"
+                "file": "NoSQL/Documents Databases.md"
               }
             }
           },
@@ -191,9 +191,20 @@
   },
   "active": "6f8686a9ca9dfc76",
   "lastOpenFiles": [
-    "Operating Systems/Planificación.md",
-    "Software Requirements/Functional requirements.md",
     "Operating Systems/Planificación en tiempo real.md",
+    "NoSQL/Documents Databases.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Hilos Posix.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Sesiones/Sesión 1.md",
+    "Operating Systems/Sesiones/Sesión 2 (Processes).md",
+    "Operating Systems/Sesiones/Sesión 3.md",
+    "Operating Systems/Sesiones/Sesión 4.md",
+    "Operating Systems/Sesiones/Sesión 5 1.md",
+    "Operating Systems/Sesiones/Sesión 5.md",
+    "Software Requirements/Functional requirements.md",
     "NoSQL/CQL.md",
     "Docker/Docker and Containers.md",
     "NoSQL/P1/Wide-Column.md",
@@ -206,19 +217,8 @@
     "Estrategias algoritmicas/Shell sort.md",
     "Gestion Agil de Proyectos/S6.md",
     "NoSQL/P1/Python Virtual Environments.md",
-    "NoSQL/P1/Untitled 1.md",
-    "NoSQL/P1/Data models (NoSQL).md",
-    "NoSQL/P1/Apache Cassandra.md",
     "PHOTOS/Pasted image 20240217232159.png",
-    "Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
-    "Software Requirements/Sesiones/S4.md",
-    "Software Requirements/Sesiones/S3.md",
-    "Software Requirements/Sesiones/S1.md",
-    "Software Requirements/Sesiones/s2.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
-    "Git/Git credential manager.md",
-    "Git/Comandos GIT.md",
     "PHOTOS/Pasted image 20240214220340.png",
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",

@@ -1,0 +1,1 @@
+Is a NoSQL (nonrelational) DB designed to store and query data as **JSON-like** documents.
