@@ -7,5 +7,5 @@
 ### Principals
 ![[Pasted image 20240226105309.png]]
 # DOD - Definition of Done
-
+Define what 'done' means or looks like.
 ![[Pasted image 20240226105223.png]]
