@@ -24,3 +24,7 @@ They can be a collection of properties and values (key-value pairs).![[Pasted im
 ##### Class
 ![[Pasted image 20240226173703.png]]
 ![[Pasted image 20240226173717.png]]
+## Comparing Objects
+== and === operators compare the reference, not the content.
+![[Pasted image 20240226174131.png|450]]
+![[Pasted image 20240226174152.png]]
