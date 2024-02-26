@@ -12,7 +12,8 @@ Catalogs, user profiles, content management.
 # Mongo DB
 Available since 2009, it consumes JSON-like documents.
 Supports range query and regular-expression searches.
-
+![[Pasted image 20240226080238.png]]
+MongoDB is a CP because of *Consistency* and *Partition Tolerance*.
 ### Collections
 ### Query interfaces
 Mongo Compass: a *GUI* for querying, aggregation and analyze through a visual environment.
