@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion Agil de Proyectos/Agile-Waterfall-S2.md"
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md"
               }
             }
           },
@@ -191,6 +192,9 @@
   },
   "active": "6f8686a9ca9dfc76",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240226105309.png",
+    "PHOTOS/Pasted image 20240226105223.png",
+    "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
     "Gestion Agil de Proyectos/S1.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "PHOTOS/Pasted image 20240226104236.png",
@@ -217,8 +221,6 @@
     "Operating Systems/Problemas de concurrencia.md",
     "Web Development/JavaScript.md",
     "Web Development/Objects.md",
-    "Web Development/EXTRAS/GitHub hosting pages for repos.md",
-    "Estrategias algoritmicas/Heap sort.md",
     "PHOTOS/Pasted image 20240217232159.png",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "PHOTOS/Pasted image 20240214220340.png",
@@ -227,7 +229,6 @@
     "PHOTOS/Pasted image 20240213082056.png",
     "PHOTOS/Pasted image 20240213074213.png",
     "PHOTOS/Pasted image 20240213074153.png",
-    "PHOTOS/Pasted image 20240213074122.png",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
