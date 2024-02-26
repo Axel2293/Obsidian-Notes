@@ -34,3 +34,21 @@ They can be a collection of properties and values (key-value pairs).![[Pasted im
 ![[Pasted image 20240226174408.png|500]]
 
 ## Existence of properties
+### In
+Operator that determines if a property exists in an object.
+![[Pasted image 20240226175407.png]]
+### hasOwnProperty
+Method
+![[Pasted image 20240226175445.png]]
+### For in loop
+![[Pasted image 20240226175508.png]]
+### Object.keys(obj)
+Method that returns the keys in the object
+![[Pasted image 20240226175647.png]]
+
+## This keyword
+Refers to the object that is executing the current function.
+![[Pasted image 20240226175753.png]]
+![[Pasted image 20240226175814.png]]
+
+## Getters and Setters
