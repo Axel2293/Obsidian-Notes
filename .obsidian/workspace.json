@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54b942d2b152938f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f8686a9ca9dfc76",
+  "active": "54b942d2b152938f",
   "lastOpenFiles": [
     "Operating Systems/Planificación en tiempo real.md",
     "NoSQL/Documents Databases.md",
