@@ -28,3 +28,7 @@ They can be a collection of properties and values (key-value pairs).![[Pasted im
 == and === operators compare the reference, not the content.
 ![[Pasted image 20240226174131.png|450]]
 ![[Pasted image 20240226174152.png]]
+#### Shallow copy
+![[Pasted image 20240226174350.png]]
+#### Deep copy
+![[Pasted image 20240226174408.png|500]]
