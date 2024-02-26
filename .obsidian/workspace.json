@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9eef0974a1d7b1ec",
+        "id": "735727bbaaf9eae8",
         "type": "tabs",
         "children": [
           {
-            "id": "07b91988f728417f",
+            "id": "0b2f08119dbba6c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker and Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f8686a9ca9dfc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
+                "file": "Web Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
+                "file": "Web Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
+                "file": "Web Development/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md"
+                "file": "Web Development/JavaScript.md"
               }
             }
           },
@@ -190,13 +176,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f8686a9ca9dfc76",
+  "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240226172633.png",
+    "Docker/Docker and Containers.md",
+    "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "PHOTOS/Pasted image 20240226105309.png",
     "PHOTOS/Pasted image 20240226105223.png",
     "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
     "Gestion Agil de Proyectos/S1.md",
-    "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "PHOTOS/Pasted image 20240226104236.png",
     "Gestion Agil de Proyectos/S6.md",
     "NoSQL/Documents Databases.md",
@@ -216,7 +204,6 @@
     "Operating Systems/Sesiones/Sesión 5.md",
     "Software Requirements/Functional requirements.md",
     "NoSQL/CQL.md",
-    "Docker/Docker and Containers.md",
     "NoSQL/P1/Wide-Column.md",
     "Operating Systems/Problemas de concurrencia.md",
     "Web Development/JavaScript.md",
@@ -228,7 +215,6 @@
     "PHOTOS/Pasted image 20240213095224.png",
     "PHOTOS/Pasted image 20240213082056.png",
     "PHOTOS/Pasted image 20240213074213.png",
-    "PHOTOS/Pasted image 20240213074153.png",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",

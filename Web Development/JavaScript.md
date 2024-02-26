@@ -10,4 +10,8 @@ Currently, the latest version is ES14 (ECMAScript 2023). This note will focus on
 We can create a script element in HTML, and inside we can write JS code.
 
 ## Objects
-Store complex data, collection
+Store complex data.
+
+They can be a collection of properties and values (key-value pairs).![[Pasted image 20240226172633.png]]
+
+
