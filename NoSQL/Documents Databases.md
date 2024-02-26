@@ -1,9 +1,9 @@
-Is a NoSQL (nonrelational) DB designed to store and query data as **JSON-like** documents.
+Is a NoSQL (non-relational) DB designed to store and query data as **JSON-like** documents.
 
 Its easier for developers since you can use same 
 
 #### Use cases
-Catalogs, user profiles, content managment.
+Catalogs, user profiles, content management.
 
 *Content management*: Each entity that the application tracks can be stored as a single document. It will provide on intuitive way to interact with it and changes to the data model can be applied only to those who requires it. Schemas are not updates and therefore no DB downtime.
 
