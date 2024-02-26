@@ -18,3 +18,9 @@ They can be a collection of properties and values (key-value pairs).![[Pasted im
 ![[Pasted image 20240226173236.png]]
 ### Builder functions
 ![[Pasted image 20240226173303.png]]
+### Constructor
+##### Function
+![[Pasted image 20240226173642.png]]
+##### Class
+![[Pasted image 20240226173703.png]]
+![[Pasted image 20240226173717.png]]
