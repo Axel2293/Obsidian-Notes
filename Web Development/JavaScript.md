@@ -32,3 +32,5 @@ They can be a collection of properties and values (key-value pairs).![[Pasted im
 ![[Pasted image 20240226174350.png]]
 #### Deep copy
 ![[Pasted image 20240226174408.png|500]]
+
+## Existence of properties
