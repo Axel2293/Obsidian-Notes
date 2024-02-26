@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -178,6 +179,7 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240226172900.png",
     "PHOTOS/Pasted image 20240226172633.png",
     "Docker/Docker and Containers.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
@@ -214,7 +216,6 @@
     "PHOTOS/Pasted image 20240213103055.png",
     "PHOTOS/Pasted image 20240213095224.png",
     "PHOTOS/Pasted image 20240213082056.png",
-    "PHOTOS/Pasted image 20240213074213.png",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",

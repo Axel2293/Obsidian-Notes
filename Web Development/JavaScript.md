@@ -13,5 +13,5 @@ We can create a script element in HTML, and inside we can write JS code.
 Store complex data.
 
 They can be a collection of properties and values (key-value pairs).![[Pasted image 20240226172633.png]]
-
-
+##### Accessing properties
+![[Pasted image 20240226172900.png]]
