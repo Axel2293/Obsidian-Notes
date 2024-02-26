@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/Documents Databases.md",
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/Documents Databases.md",
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/Documents Databases.md",
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/Documents Databases.md"
+                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md"
               }
             }
           },
@@ -191,9 +191,13 @@
   },
   "active": "6f8686a9ca9dfc76",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240226104236.png",
+    "Gestion Agil de Proyectos/S6.md",
+    "Gestion Agil de Proyectos/Stakeholders-S7.md",
+    "NoSQL/Documents Databases.md",
+    "NoSQL/P1/Untitled 1.md",
     "PHOTOS/Pasted image 20240226080238.png",
     "Operating Systems/Planificación en tiempo real.md",
-    "NoSQL/Documents Databases.md",
     "Operating Systems/Planificación.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Memory Layout of C program.md",
@@ -214,9 +218,6 @@
     "Web Development/Objects.md",
     "Web Development/EXTRAS/GitHub hosting pages for repos.md",
     "Estrategias algoritmicas/Heap sort.md",
-    "Software Requirements/Sesiones/Untitled.md",
-    "Estrategias algoritmicas/Shell sort.md",
-    "Gestion Agil de Proyectos/S6.md",
     "PHOTOS/Pasted image 20240217232159.png",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "PHOTOS/Pasted image 20240214220340.png",
@@ -227,7 +228,6 @@
     "PHOTOS/Pasted image 20240213074153.png",
     "PHOTOS/Pasted image 20240213074122.png",
     "PHOTOS/Pasted image 20240208151122.png",
-    "PHOTOS/Pasted image 20240208151112.png",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
