@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Radix sort.md",
+                "file": "Estrategias algoritmicas/Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Radix sort.md",
+                "file": "Estrategias algoritmicas/Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Radix sort.md",
+                "file": "Estrategias algoritmicas/Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Radix sort.md"
+                "file": "Estrategias algoritmicas/Search.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Radix sort.md",
+    "Estrategias algoritmicas/Search.md",
+    "Web Development/JavaScript.md",
     "PHOTOS/Pasted image 20240226180831.png",
     "PHOTOS/Pasted image 20240226180358.png",
     "PHOTOS/Pasted image 20240226180339.png",
@@ -213,7 +214,6 @@
     "NoSQL/CQL.md",
     "NoSQL/P1/Wide-Column.md",
     "Operating Systems/Problemas de concurrencia.md",
-    "Web Development/Objects.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
