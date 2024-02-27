@@ -16,3 +16,5 @@ No funciona, similar al 2
 #### Intento 4
 Funciona
 ![[Pasted image 20240227162342.png]]
+### Livelock
+Los dos procesos intentan dejar pasar al otro a su CS pero ninguno pasa o tarda bastante en tomar esa desición.
