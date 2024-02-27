@@ -48,5 +48,8 @@ $Tasa de respuesta= (Tiempo esperando el CPU + Tiempo de servicio)/Tiempo de ser
 ![[Pasted image 20240208151122.png|200]]
 
 ## Round Robin
-## SPN
+Da prioridad a los procesos en la cola de listos
+## SPN (Short Process Next)
+Da prioridad a los procesos cortos que están en la cola de listos.
 ## Retroalimentación
+Mantiene diferentes colas de prioridad, cada vez que un proceso se ejecuta q tiempo baja de prioridad (se mueve a otra cola de menor prioridad)
