@@ -13,3 +13,6 @@ No funciona, mantenemos dos flags.
 #### Intento 3
 No funciona, similar al 2
 ![[Pasted image 20240227162220.png]]
+#### Intento 4
+Funciona
+![[Pasted image 20240227162342.png]]
