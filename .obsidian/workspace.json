@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Search.md",
+                "file": "Web Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Search.md",
+                "file": "Web Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Search.md",
+                "file": "Web Development/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Search.md"
+                "file": "Web Development/JavaScript.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/Radix sort.md",
+    "Estrategias algoritmicas/Quick sort.md",
+    "Estrategias algoritmicas/Merge sort.md",
     "Estrategias algoritmicas/Search.md",
+    "Estrategias algoritmicas/Radix sort.md",
     "Web Development/JavaScript.md",
     "PHOTOS/Pasted image 20240226180831.png",
     "PHOTOS/Pasted image 20240226180358.png",
@@ -212,8 +214,6 @@
     "Operating Systems/Sesiones/Sesión 5.md",
     "Software Requirements/Functional requirements.md",
     "NoSQL/CQL.md",
-    "NoSQL/P1/Wide-Column.md",
-    "Operating Systems/Problemas de concurrencia.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
