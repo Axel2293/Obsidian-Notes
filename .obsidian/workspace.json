@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Estrategias algoritmicas/Radix sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Estrategias algoritmicas/Radix sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript.md",
+                "file": "Estrategias algoritmicas/Radix sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavaScript.md"
+                "file": "Estrategias algoritmicas/Radix sort.md"
               }
             }
           },
@@ -179,6 +178,8 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Web Development/JavaScript.md",
+    "Estrategias algoritmicas/Radix sort.md",
     "PHOTOS/Pasted image 20240226180831.png",
     "PHOTOS/Pasted image 20240226180358.png",
     "PHOTOS/Pasted image 20240226180339.png",
@@ -189,7 +190,6 @@
     "PHOTOS/Pasted image 20240226175445.png",
     "PHOTOS/Pasted image 20240226175407.png",
     "PHOTOS/Pasted image 20240226174408.png",
-    "PHOTOS/Pasted image 20240226174350.png",
     "Docker/Docker and Containers.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
@@ -213,7 +213,6 @@
     "NoSQL/CQL.md",
     "NoSQL/P1/Wide-Column.md",
     "Operating Systems/Problemas de concurrencia.md",
-    "Web Development/JavaScript.md",
     "Web Development/Objects.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
