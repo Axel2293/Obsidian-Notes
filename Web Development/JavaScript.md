@@ -60,3 +60,4 @@ Refers to the object that is executing the current function.
 Arrow functions do not have their own *this* value.
 The value of this is inherited from the enclosing scope.
 ![[Pasted image 20240226180831.png]]
+
