@@ -52,5 +52,9 @@ Refers to the object that is executing the current function.
 ![[Pasted image 20240226175814.png]]
 
 ## Getters and Setters
-Are used to define accessors (properties) or virtual properties.
-Real properties (like private properties) can be defined using an underscore *_* before the property name.
+- Are used to define accessors (properties) or virtual properties.
+- Real properties (like *private properties*) can be defined using an underscore *_* before the property name.
+![[Pasted image 20240226180339.png]]
+![[Pasted image 20240226180358.png|450]]
+## Arrow function
+
