@@ -23,3 +23,5 @@ the general definition only states that a specific process is not progressing.
 # Dekker algorithm
 Keep two flags and one variable turn.
 ![[Pasted image 20240227162946.png]]
+# Peterson
+![[Pasted image 20240227171935.png]]
