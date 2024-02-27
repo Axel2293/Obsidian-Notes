@@ -18,3 +18,8 @@ Funciona
 ![[Pasted image 20240227162342.png]]
 ### Livelock
 Los dos procesos intentan dejar pasar al otro a su CS pero ninguno pasa o tarda bastante en tomar esa desición.
+the general definition only states that a specific process is not progressing.
+
+# Dekker algorithm
+Keep two flags and one variable turn.
+![[Pasted image 20240227162946.png]]
