@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md",
+                "file": "Operating Systems/Planificación.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md",
+                "file": "Operating Systems/Planificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md",
+                "file": "Operating Systems/Planificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Hilos Posix.md"
+                "file": "Operating Systems/Planificación.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Hilos Posix.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Problemas de concurrencia.md",
     "PHOTOS/Pasted image 20240227172206.png",
@@ -190,8 +193,6 @@
     "Operating Systems/Planificación.md",
     "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Hilos Posix.md",
-    "Operating Systems/Memory Layout of C program.md",
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Quick sort.md",
     "Estrategias algoritmicas/Merge sort.md",
@@ -207,7 +208,6 @@
     "Gestion Agil de Proyectos/S6.md",
     "NoSQL/Documents Databases.md",
     "NoSQL/P1/Untitled 1.md",
-    "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Sesiones/Sesión 1.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Operating Systems/Sesiones/Sesión 3.md",

@@ -19,9 +19,6 @@ es el que *da el control del CPU* a los *procesos seleccionados por el planifica
 #### *No expropiativo*
 - El proceso que obtiene el CPU no se le puede expropiar
 - Ejemplos: FCFS, primero el más corto, primero el de mayor tasa de respuesta
-
-
-
 #### *Expropiativo*
 - A un proceso que se le dio el CPU se le puede quitar para darselo a otro proceso.
 - Ejemplos: Round Robin, el tiempo restante más corto, Realimentación, Prioridad fija.
