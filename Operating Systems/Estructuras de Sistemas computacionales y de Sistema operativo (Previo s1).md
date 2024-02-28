@@ -47,13 +47,13 @@ Proveen hardware para soportar diferencias entre dos modos de operacion
 ##### Bit de modo
 CPU: supervisor(0) - usuario(1)
 #### Proteccion de E/S
-Cuando un programa requiere acceder a E/S, debe de hacer un allamada al SO ya que esas llamadas son privilegiadas y ningun programa del usuario deberia de acceder a ellos directamente.
+Cuando un programa requiere acceder a E/S, debe de hacer una llamada al SO ya que esas llamadas son privilegiadas y ningun programa del usuario deberia de acceder a ellos directamente.
 Para acceder a los E/S el programa hace una *llamada al sistema*.
 ![[Pasted image 20240117171531.png]]
 
-#### Proteccion de memoria
+#### Protección de memoria
 No queremos que el usuario pueda acceder a los siguientes sitios de memoria:
-- Al menos para la tabla de vectores de interrupcion y rutinas de servicio de interrupcion.
+- Al menos para la tabla de vectores de interrupción y rutinas de servicio de interrupción.
 - Se añaden dos registros para determinar el rango de direcciones que un programa puede accesar
 	- Registro base
 	- Registro limite

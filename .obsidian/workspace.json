@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Hilos Posix.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Hilos Posix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Hilos Posix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md"
+                "file": "Operating Systems/Hilos Posix.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Problemas de concurrencia.md",
     "PHOTOS/Pasted image 20240227172206.png",
     "PHOTOS/Pasted image 20240227171935.png",
     "PHOTOS/Pasted image 20240227162946.png",
@@ -188,10 +190,8 @@
     "Operating Systems/Planificación.md",
     "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Quick sort.md",
     "Estrategias algoritmicas/Merge sort.md",
@@ -200,7 +200,6 @@
     "PHOTOS/Pasted image 20240226180831.png",
     "PHOTOS/Pasted image 20240226180358.png",
     "PHOTOS/Pasted image 20240226180339.png",
-    "PHOTOS/Pasted image 20240226175814.png",
     "Docker/Docker and Containers.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
