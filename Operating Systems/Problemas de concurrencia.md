@@ -42,3 +42,9 @@ Están pasando entre listo a ejecución, lo cual consume tiempo de CPU.
 Esto monopoliza el procesador, ya que cuando un proceso/trabajo entra a su *CS* no se puede sacar de ahí hasta que termine, por lo cual los otros deben de esperar a que termine
 ![[Pasted image 20240229173237.png]]
 ### Instrucciones máquina especiales
+El acceso a una posición de memoria excluye otros accesos a la misma memoria. Desde el hardware ya hay exclusión mutua.
+- Los diseñadores han propuesto instrucciones máquina que ejecutan 2 acciones atómicas (indivisibles) en la misma posición de memoria.
+- La ejecución de tales instrucciones es también mutuamente exclusiva incluso con varios CPU´s.
+- Pueden usarse para proveer exclusión mutua pero necesitan complementarse con otros mecanismos para satisfacer los otros 2 requisitos del problema de la CS.
+#### Instrucción testandset
+![[Pasted image 20240229174008.png]]
