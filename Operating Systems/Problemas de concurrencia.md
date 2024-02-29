@@ -32,4 +32,12 @@ Este algoritmo mantiene un sistema de tickets, cada proceso toma un ticket depen
 ![[Pasted image 20240229170654.png]]
 
 # Soluciones por software
-Los procesos que están solicitando entrar en su sección crítica están en espera ocupada
+### Desventajas
+Los procesos que están solicitando entrar en su sección crítica están en espera ocupada 
+- Consumiendo tiempo del procesador.
+![[Pasted image 20240229173024.png]]
+Están pasando entre listo a ejecución, lo cual consume tiempo de CPU.
+# Soluciones por hardware
+### Inhabilitación de interrupciones
+Esto monopoliza el procesador, ya que cuando un proceso/trabajo entra a su *CS* no se puede sacar de ahí hasta que termine, por lo cual los otros deben de esperar a que termine
+![[Pasted image 20240229173237.png]]
