@@ -52,3 +52,12 @@ El acceso a una posición de memoria excluye otros accesos a la misma memoria. D
 
 Primeramente, creamos una variable global
 ![[Pasted image 20240229174241.png]]
+*¿La exclusión mutua se preserva?*
+- Si
+*¿Eliminamos la espera ocupada?*
+*¿Logramos la espera limitada?*
+
+#### Instrucción xchg
+![[Pasted image 20240229174646.png|400]]
+![[Pasted image 20240229174655.png|350]]
+![[Pasted image 20240229174815.png]]
