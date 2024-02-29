@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Quick sort.md",
+                "file": "Web Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Quick sort.md",
+                "file": "Web Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Quick sort.md",
+                "file": "Web Development/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Quick sort.md"
+                "file": "Web Development/JavaScript.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/Quick sort.md",
     "Estrategias algoritmicas/Shell sort.md",
     "Git/Branch - Ramas.md",
     "Git/Comandos GIT.md",
@@ -207,7 +208,6 @@
     "PHOTOS/Pasted image 20240227162132.png",
     "PHOTOS/Pasted image 20240227162022.png",
     "Web Development/JavaScript.md",
-    "Estrategias algoritmicas/Quick sort.md",
     "Estrategias algoritmicas/Merge sort.md",
     "Estrategias algoritmicas/Search.md",
     "Estrategias algoritmicas/Radix sort.md",

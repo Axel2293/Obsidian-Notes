@@ -62,3 +62,7 @@ The value of this is inherited from the enclosing scope.
 ![[Pasted image 20240226180831.png]]
 
 ## Methods
+
+
+# Errors
+Has a built-in error object
