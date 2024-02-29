@@ -41,3 +41,4 @@ Están pasando entre listo a ejecución, lo cual consume tiempo de CPU.
 ### Inhabilitación de interrupciones
 Esto monopoliza el procesador, ya que cuando un proceso/trabajo entra a su *CS* no se puede sacar de ahí hasta que termine, por lo cual los otros deben de esperar a que termine
 ![[Pasted image 20240229173237.png]]
+### Instrucciones máquina especiales
