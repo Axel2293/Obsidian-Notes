@@ -32,4 +32,4 @@ Este algoritmo mantiene un sistema de tickets, cada proceso toma un ticket depen
 ![[Pasted image 20240229170654.png]]
 
 # Soluciones por software
-Los proceso
+Los procesos que están solicitando entrar en su sección crítica están en espera ocupada
