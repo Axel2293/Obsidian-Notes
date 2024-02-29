@@ -28,3 +28,5 @@ Keep two flags and one variable turn.
 ![[Pasted image 20240227172206.png]]
 
 # El panadero o algoritmo de ticket
+Este algoritmo mantiene un sistema de tickets, cada proceso toma un ticket dependiendo de el máximo en el arreglo number (puede darse caso de race condition). 
+![[Pasted image 20240229170654.png]]
