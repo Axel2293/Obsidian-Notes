@@ -26,3 +26,5 @@ Keep two flags and one variable turn.
 # Peterson
 
 ![[Pasted image 20240227172206.png]]
+
+# El panadero o algoritmo de ticket
