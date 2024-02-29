@@ -47,4 +47,8 @@ El acceso a una posición de memoria excluye otros accesos a la misma memoria. D
 - La ejecución de tales instrucciones es también mutuamente exclusiva incluso con varios CPU´s.
 - Pueden usarse para proveer exclusión mutua pero necesitan complementarse con otros mecanismos para satisfacer los otros 2 requisitos del problema de la CS.
 #### Instrucción testandset
-![[Pasted image 20240229174008.png]]
+![[Pasted image 20240229174008.png|400]]
+![[Pasted image 20240229174121.png|350]]
+
+Primeramente, creamos una variable global
+![[Pasted image 20240229174241.png]]
