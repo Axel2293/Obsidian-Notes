@@ -12,48 +12,84 @@
 ## Gemini
 ### Caso de uso: Préstamo de un artículo por edificio
 
-**ID:** 001
-**Nombre:** Préstamo de un artículo por edificio
-**Descripción:**
-Un estudiante o miembro del ITESO necesita un artículo en préstamo y lo busca en la aplicación MiApoyoITESO, filtrando por el edificio en el que se encuentra. La aplicación muestra los artículos disponibles en ese edificio, el usuario selecciona el artículo que desea y lo solicita en préstamo. El prestamista, que también es miembro de la comunidad ITESO, recibe una notificación y aprueba o rechaza la solicitud. Si la solicitud es aprobada, el prestatario recibe una notificación con la información del préstamo y puede recoger el artículo en el edificio seleccionado.
-**Beneficio:**
-- Facilita el acceso a recursos para la comunidad ITESO.
-- Reduce la necesidad de desplazamientos por el campus.
-- Promueve la colaboración y el sentido de comunidad.
-- Optimiza la gestión de los préstamos de artículos.
-**Precondiciones:**
-- El usuario y el prestamista tienen un perfil registrado en la aplicación MiApoyoITESO.
-- La aplicación MiApoyoITESO tiene acceso a la información sobre la ubicación de los artículos disponibles.
-- Los edificios tienen un sistema para gestionar la entrega y devolución de los artículos prestados.
+Dame el caso de uso para el siguiente requerimiento con estos parametros e información: Requerimiento: Adivinar artista, Parámetros:  ID: único
+- Nombre: breve y descriptivo
+- Descripción: detallada
+- Beneficio: Describa la relevancia de este requerimiento con el proyecto
+- Pre-condiciones: requerimientos previos necesarios para lograr este requerimiento.
+- Trigger: Acción inicial que dispara el flujo de este requerimiento.
+- Post-condiciones: Resultado positivo de lograr el objetivo de este requerimiento.
+- Actores: Humanos, herramientas, hardware, servicios externos p o cualquier ente ajeno al sistema que recibe o no nos provee algo durante el flujo de este requerimiento. El sistema no puede ser un actor.
+- Escenario principal (Happy path): Debe existir y ser único. Nos lleva desde el trigger a lograr las post-condiciones.
+- Alternativos: Puede no haber, puede haber varios. Nos llevan desde el trigger hasta lograr las post-condiciones pero son resultado de una decisión en el camino del happy path que nos obliga a desviarnos pero siempre nos regresan a poder completar el requerimiento. *Es* inaceptable que un escenario alternativo no concluye el objetivo del requerimiento de manera positiva.
+- Excepciones: puede no haber, puede haber muchas, en este caso no se llega a las post-condiciones. *No* consideres como excepciones como excepciones asuntos ajenos al sistema, como falta de batería, falla de conexión, etc.
+
+## Caso de Uso: Adivinar Artista
+
+**ID:** 12345
+
+**Nombre:** Adivinar la canción a partir del nombre del artista
+
+**Descripción:** El usuario ingresa el nombre de un artista y la aplicación le presenta una lista de canciones de ese artista. El usuario debe seleccionar la canción correcta entre las opciones disponibles.
+
+**Beneficio:** Permite a los usuarios poner a prueba su conocimiento musical y descubrir nuevas canciones de sus artistas favoritos.
+
+**Pre-condiciones:**
+
+- El usuario debe tener una cuenta en la aplicación.
+- El usuario debe haber iniciado sesión en la aplicación.
+
 **Trigger:**
-El usuario necesita un artículo en préstamo y abre la aplicación MiApoyoITESO.
-**Postcondiciones:**
-- El usuario ha obtenido el artículo en préstamo.
-- El prestamista ha recibido la solicitud de préstamo y la ha aprobado.
-- El préstamo ha sido registrado en el sistema MiApoyoITESO.
+
+- El usuario hace clic en el botón "Adivinar Artista" en la pantalla principal.
+- El usuario introduce el nombre de un artista en la barra de búsqueda.
+
+**Post-condiciones:**
+
+- El usuario ha seleccionado la canción correcta de la lista de opciones.
+- La aplicación muestra la letra de la canción seleccionada.
+
 **Actores:**
-- **Usuario:** Estudiante o miembro del ITESO que necesita un artículo en préstamo.
-- **Prestamista:** Estudiante o miembro del ITESO que ofrece un artículo en préstamo.
-- **Personal del edificio:** Persona responsable de gestionar la entrega y devolución de los artículos prestados.
-- **Sistema MiApoyoITESO:** Sistema que administra los préstamos de artículos entre la comunidad ITESO.
-**Escenario principal:**
-1. El usuario ingresa a la aplicación MiApoyoITESO y selecciona la opción "Ver artículos".
-2. La aplicación muestra una lista de edificios con la cantidad de artículos disponibles en cada uno.
-3. El usuario selecciona el edificio que le interesa.
-4. La aplicación muestra una lista de artículos disponibles en ese edificio, con información como la descripción, la imagen, la cantidad disponible, las condiciones de préstamo y el nombre del prestamista.
-5. El usuario selecciona el artículo que desea solicitar.
-6. La aplicación solicita al usuario que confirme la solicitud de préstamo.
-7. El sistema MiApoyoITESO notifica al prestamista sobre la solicitud de préstamo.
-8. El prestamista aprueba o rechaza la solicitud de préstamo.
-9. Si la solicitud es aprobada, el sistema MiApoyoITESO envía una notificación al usuario con la información del préstamo, incluyendo la fecha límite de devolución.
-10. El usuario se dirige al edificio seleccionado para recoger el artículo prestado.
-11. El usuario presenta la notificación de préstamo al personal del edificio para obtener el artículo.
-**Escenarios alternativos:**
-- El usuario no encuentra el artículo que necesita en el edificio seleccionado.
-- El prestamista no aprueba la solicitud de préstamo.
+
+- Usuario: Persona que utiliza la aplicación.
+- Aplicación: MelodyMinds
+
+**Escenario principal (Happy path):**
+
+1. El usuario hace clic en el botón "Adivinar Artista" en la pantalla principal.
+2. El usuario introduce el nombre de un artista en la barra de búsqueda.
+3. La aplicación presenta una lista de canciones del artista seleccionado.
+4. El usuario selecciona la canción correcta de la lista de opciones.
+5. La aplicación muestra la letra de la canción seleccionada.
+
+**Alternativos:**
+
+1. El usuario introduce un nombre de artista incorrecto.
+
+- La aplicación muestra un mensaje de error indicando que el nombre del artista no es válido.
+- El usuario puede volver a intentar introducir el nombre del artista.
+
+2. El usuario no selecciona ninguna canción de la lista.
+
+- La aplicación muestra un mensaje de error indicando que el usuario debe seleccionar una canción.
+- El usuario puede volver a intentar adivinar la canción.
+
 **Excepciones:**
-- El sistema MiApoyoITESO no tiene acceso a la información sobre la ubicación de los artículos disponibles.
-- El edificio no tiene un sistema para gestionar la entrega y devolución de los artículos prestados.
-**Notas:**
-- Se pueden agregar más detalles a los escenarios principal y alternativos.
-- Se pueden definir excepciones adicionales.
+
+1. La aplicación no tiene canciones del artista seleccionado.
+
+- La aplicación muestra un mensaje indicando que no se encontraron canciones del artista seleccionado.
+- El usuario puede buscar otro artista.
+
+2. La aplicación no puede conectarse al servidor.
+
+- La aplicación muestra un mensaje de error indicando que no hay conexión a internet.
+- El usuario puede volver a intentarlo más tarde.
+
+**Consideraciones adicionales:**
+
+- La aplicación puede ofrecer pistas al usuario para ayudarlo a adivinar la canción.
+- La aplicación puede mostrar la puntuación del usuario al final del juego.
+- La aplicación puede ofrecer la posibilidad de compartir los resultados del juego con amigos en las redes sociales.
+
+**Espero que este caso de uso sea útil para tu proyecto. ¡Buena suerte!**
