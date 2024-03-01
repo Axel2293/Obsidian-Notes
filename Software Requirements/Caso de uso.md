@@ -24,15 +24,15 @@ Dame el caso de uso para el siguiente requerimiento con estos parametros e infor
 - Alternativos: Puede no haber, puede haber varios. Nos llevan desde el trigger hasta lograr las post-condiciones pero son resultado de una decisión en el camino del happy path que nos obliga a desviarnos pero siempre nos regresan a poder completar el requerimiento. *Es* inaceptable que un escenario alternativo no concluye el objetivo del requerimiento de manera positiva.
 - Excepciones: puede no haber, puede haber muchas, en este caso no se llega a las post-condiciones. *No* consideres como excepciones como excepciones asuntos ajenos al sistema, como falta de batería, falla de conexión, etc.
 
-## Caso de Uso: Adivinar Artista
+##   Caso de Uso: Adivinar Artista (Modo de Juego) - Basado en Género
 
 **ID:** 12345
 
-**Nombre:** Adivinar la canción a partir del nombre del artista
+**Nombre:** Adivinar la canción a partir del artista (Modo de Juego) - Basado en Género
 
-**Descripción:** El usuario ingresa el nombre de un artista y la aplicación le presenta una lista de canciones de ese artista. El usuario debe seleccionar la canción correcta entre las opciones disponibles.
+**Descripción:** El usuario selecciona un género musical y la aplicación reproduce un fragmento de una canción de un artista aleatorio de ese género. El usuario debe adivinar el nombre de la canción y/o el artista.
 
-**Beneficio:** Permite a los usuarios poner a prueba su conocimiento musical y descubrir nuevas canciones de sus artistas favoritos.
+**Beneficio:** Permite a los usuarios poner a prueba su conocimiento musical y descubrir nuevas canciones de diferentes géneros de forma divertida y desafiante.
 
 **Pre-condiciones:**
 
@@ -41,13 +41,13 @@ Dame el caso de uso para el siguiente requerimiento con estos parametros e infor
 
 **Trigger:**
 
-- El usuario hace clic en el botón "Adivinar Artista" en la pantalla principal.
-- El usuario introduce el nombre de un artista en la barra de búsqueda.
+1. El usuario hace clic en el botón "Adivinar Artista (Modo de Juego)" en la pantalla principal.
+2. La aplicación muestra una lista de géneros musicales.
 
 **Post-condiciones:**
 
-- El usuario ha seleccionado la canción correcta de la lista de opciones.
-- La aplicación muestra la letra de la canción seleccionada.
+- El usuario ha adivinado correctamente el nombre de la canción y/o el artista.
+- La aplicación muestra la información completa de la canción, incluyendo el nombre del artista, el álbum al que pertenece y la letra.
 
 **Actores:**
 
@@ -56,30 +56,36 @@ Dame el caso de uso para el siguiente requerimiento con estos parametros e infor
 
 **Escenario principal (Happy path):**
 
-1. El usuario hace clic en el botón "Adivinar Artista" en la pantalla principal.
-2. El usuario introduce el nombre de un artista en la barra de búsqueda.
-3. La aplicación presenta una lista de canciones del artista seleccionado.
-4. El usuario selecciona la canción correcta de la lista de opciones.
-5. La aplicación muestra la letra de la canción seleccionada.
+1. El usuario selecciona un género musical de la lista.
+2. La aplicación reproduce un fragmento de una canción de un artista aleatorio del género seleccionado.
+3. El usuario tiene un tiempo limitado para adivinar el nombre de la canción y/o el artista.
+4. El usuario puede utilizar pistas para ayudarlo a adivinar la canción (opcional).
+5. Si el usuario adivina correctamente, la aplicación muestra la información completa de la canción.
+6. Si el usuario no adivina correctamente, la aplicación muestra la información correcta de la canción.
 
 **Alternativos:**
 
-1. El usuario introduce un nombre de artista incorrecto.
+1. El usuario no adivina la canción en el tiempo límite.
 
-- La aplicación muestra un mensaje de error indicando que el nombre del artista no es válido.
-- El usuario puede volver a intentar introducir el nombre del artista.
+- La aplicación muestra la información completa de la canción.
+- El usuario puede volver a intentarlo en la siguiente ronda con un nuevo género.
 
-2. El usuario no selecciona ninguna canción de la lista.
+2. El usuario utiliza todas las pistas disponibles y no adivina la canción.
 
-- La aplicación muestra un mensaje de error indicando que el usuario debe seleccionar una canción.
-- El usuario puede volver a intentar adivinar la canción.
+- La aplicación muestra la información completa de la canción.
+- El usuario puede volver a intentarlo en la siguiente ronda con un nuevo género.
+
+3. El usuario no selecciona un género musical en el tiempo límite.
+
+- La aplicación muestra un mensaje de error indicando que el usuario debe seleccionar un género.
+- El usuario puede volver a intentarlo.
 
 **Excepciones:**
 
-1. La aplicación no tiene canciones del artista seleccionado.
+1. La aplicación no tiene canciones del género seleccionado.
 
-- La aplicación muestra un mensaje indicando que no se encontraron canciones del artista seleccionado.
-- El usuario puede buscar otro artista.
+- La aplicación muestra un mensaje indicando que no se encontraron canciones del género seleccionado.
+- El usuario puede seleccionar otro género.
 
 2. La aplicación no puede conectarse al servidor.
 
@@ -88,8 +94,7 @@ Dame el caso de uso para el siguiente requerimiento con estos parametros e infor
 
 **Consideraciones adicionales:**
 
-- La aplicación puede ofrecer pistas al usuario para ayudarlo a adivinar la canción.
-- La aplicación puede mostrar la puntuación del usuario al final del juego.
-- La aplicación puede ofrecer la posibilidad de compartir los resultados del juego con amigos en las redes sociales.
-
-**Espero que este caso de uso sea útil para tu proyecto. ¡Buena suerte!**
+- La aplicación puede ofrecer diferentes niveles de dificultad para el modo de juego.
+- La aplicación puede mostrar la puntuación del usuario al final de cada ronda.
+- La aplicación puede ofrecer la posibilidad de competir con amigos en las redes sociales.
+- La aplicación puede mostrar una lista de canciones del mismo género que la canción adivinada para que el usuario pueda descubrir más música.
