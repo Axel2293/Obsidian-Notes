@@ -7,4 +7,5 @@
 - Post-condiciones: Resultado positivo de lograr el objetivo de este requerimiento.
 - Actores: Humanos, herramientas, hardware, servicios externos p o cualquier ente ajeno al sistema que recibe o no nos provee algo durante el flujo de este requerimiento. El sistema no puede ser un actor.
 - Escenario principal (Happy path): Debe existir y ser único. Nos lleva desde el trigger a lograr las post-condiciones.
-- Alternativos: Puede no haber, puede haber varios. Nos llevan desde el trigger hasta lograr las post-condiciones pero son resultado de una decisión en el camino del happy path.
+- Alternativos: Puede no haber, puede haber varios. Nos llevan desde el trigger hasta lograr las post-condiciones pero son resultado de una decisión en el camino del happy path que nos obliga a desuarnos pero siempre nos regresan a poder completar el requerimiento.
+- 
