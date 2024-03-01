@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Volatile.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Volatile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md",
+                "file": "Operating Systems/Volatile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Problemas de concurrencia.md"
+                "file": "Operating Systems/Volatile.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Volatile.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
@@ -202,7 +204,6 @@
     "Operating Systems/Planificación.md",
     "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Operaciones en Procesos.md",
@@ -211,7 +212,6 @@
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
-    "PHOTOS/Pasted image 20240227172206.png",
     "Estrategias algoritmicas/Merge sort.md",
     "Estrategias algoritmicas/Search.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",

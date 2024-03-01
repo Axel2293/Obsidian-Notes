@@ -1,0 +1,1 @@
+Stops a variable from being stored in the cache, which is something like a memory barrier that prevents making copies of their variable. If you want to access the volatile variable you need to go to its original memory location.
