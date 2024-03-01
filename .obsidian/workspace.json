@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Volatile.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Volatile.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Volatile.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Volatile.md"
+                "file": "NoSQL/MongoDB - MQL.md"
               }
             }
           },
@@ -178,7 +179,27 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240229230604.png",
+    "PHOTOS/Pasted image 20240229230511.png",
+    "PHOTOS/Pasted image 20240229230252.png",
+    "PHOTOS/Pasted image 20240229225922.png",
+    "NoSQL/Documents Databases.md",
+    "NoSQL/Apache Cassandra - CQL.md",
+    "Operating Systems/Sesiones/Memoria compartida.md",
+    "Operating Systems/Sesiones/Sesión 1.md",
+    "Operating Systems/Sesiones/Scheduling.md",
+    "Operating Systems/Sesiones/Sesión 4.md",
+    "Operating Systems/Sesiones/Sesión 5.md",
+    "Operating Systems/Sesiones/Sesión 5 1.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Hilos Posix.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Volatile.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
@@ -187,9 +208,6 @@
     "PHOTOS/Pasted image 20240229174204.png",
     "PHOTOS/Pasted image 20240229174121.png",
     "PHOTOS/Pasted image 20240229174008.png",
-    "PHOTOS/Pasted image 20240229173237.png",
-    "PHOTOS/Pasted image 20240229173024.png",
-    "PHOTOS/Pasted image 20240229170654.png",
     "Web Development/JavaScript.md",
     "Estrategias algoritmicas/Quick sort.md",
     "Estrategias algoritmicas/Shell sort.md",
@@ -197,23 +215,6 @@
     "Git/Comandos GIT.md",
     "Lenguajes Formales/Modulo 1/Ejercicio AFD y su programación.md",
     "Lenguajes Formales/Modulo 1/Conversion AFN a AFD.md",
-    "Lenguajes Formales/Modulo 1/5-tupla.md",
-    "NoSQL/Documents Databases.md",
-    "NoSQL/Apache Cassandra - CQL.md",
-    "NoSQL/MongoDB - MQL.md",
-    "Operating Systems/Planificación.md",
-    "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/Hilos Posix.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Operating Systems/Sesiones/Scheduling.md",
-    "Operating Systems/Sesiones/Memoria compartida.md",
-    "Estrategias algoritmicas/Merge sort.md",
-    "Estrategias algoritmicas/Search.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
