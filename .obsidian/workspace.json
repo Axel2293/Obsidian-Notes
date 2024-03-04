@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Servicios Seguros de Internet/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Servicios Seguros de Internet/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Servicios Seguros de Internet/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md"
+                "file": "Servicios Seguros de Internet/Untitled.md"
               }
             }
           },
@@ -178,8 +178,20 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Software Requirements/Caso de uso.md",
+    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
+    "Servicios Seguros de Internet/Untitled.md",
+    "Data Base/MySQL/Connect to mysql shell.md",
+    "Data Base/MySQL/Installation.md",
+    "Data Base/MySQL/Create a data base.md",
+    "Data Base/DB Relational Class/Modelo entidad relación.md",
+    "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
+    "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
+    "Gestion Agil de Proyectos/Stakeholders-S7.md",
+    "Gestion Agil de Proyectos/S6.md",
+    "Gestion Agil de Proyectos/S3.md",
+    "Gestion Agil de Proyectos/S1.md",
     "NoSQL/MongoDB - MQL.md",
+    "Software Requirements/Caso de uso.md",
     "PHOTOS/Pasted image 20240229230604.png",
     "PHOTOS/Pasted image 20240229230511.png",
     "PHOTOS/Pasted image 20240229230252.png",
@@ -196,24 +208,12 @@
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Planificación.md",
-    "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Volatile.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
     "PHOTOS/Pasted image 20240229174241.png",
     "PHOTOS/Pasted image 20240229174204.png",
     "PHOTOS/Pasted image 20240229174121.png",
-    "Web Development/JavaScript.md",
-    "Estrategias algoritmicas/Quick sort.md",
-    "Estrategias algoritmicas/Shell sort.md",
-    "Git/Branch - Ramas.md",
-    "Git/Comandos GIT.md",
-    "Lenguajes Formales/Modulo 1/Ejercicio AFD y su programación.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",

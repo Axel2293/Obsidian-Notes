@@ -1,0 +1,3 @@
+```bash
+mysql -u USERNAME -p PASSWORD -h HOSTNAMEORIP DATABASENAME 
+```
