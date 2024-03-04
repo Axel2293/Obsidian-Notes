@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros de Internet/SSH public and private keys.md",
+                "file": "C/Modulo 1/Apuntadores a funciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/SSH public and private keys.md",
+                "file": "C/Modulo 1/Apuntadores a funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/SSH public and private keys.md",
+                "file": "C/Modulo 1/Apuntadores a funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/SSH public and private keys.md"
+                "file": "C/Modulo 1/Apuntadores a funciones.md"
               }
             }
           },
@@ -178,8 +178,12 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
+    "C/Modulo 1/Apuntadores a arreglos.md",
+    "C/Modulo 1/Apuntadores a funciones.md",
+    "C/Modulo 1/Apuntadores.md",
+    "C/Advanced Udemy Course/C programing.md",
     "Servicios Seguros de Internet/SSH public and private keys.md",
+    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Data Base/MySQL/Connect to mysql shell.md",
     "Data Base/MySQL/Installation.md",
     "Data Base/MySQL/Create a data base.md",
@@ -204,10 +208,6 @@
     "Operating Systems/Sesiones/Sesión 4.md",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Sesiones/Sesión 5 1.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Operating Systems/Hilos Posix.md",
-    "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/Operaciones en Procesos.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
