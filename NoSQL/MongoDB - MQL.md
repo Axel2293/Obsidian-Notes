@@ -2,7 +2,7 @@
 docker run --name mongo_axel -p 27017:27017 -d  mongo
 ```
 
-
+s
 MongoDB queries are based on JavaScript.
 Allows to create
 - *Databases*
