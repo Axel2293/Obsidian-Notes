@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros de Internet/Untitled.md",
+                "file": "Servicios Seguros de Internet/SSH public and private keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/Untitled.md",
+                "file": "Servicios Seguros de Internet/SSH public and private keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/Untitled.md",
+                "file": "Servicios Seguros de Internet/SSH public and private keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/Untitled.md"
+                "file": "Servicios Seguros de Internet/SSH public and private keys.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
-    "Servicios Seguros de Internet/Untitled.md",
+    "Servicios Seguros de Internet/SSH public and private keys.md",
     "Data Base/MySQL/Connect to mysql shell.md",
     "Data Base/MySQL/Installation.md",
     "Data Base/MySQL/Create a data base.md",
