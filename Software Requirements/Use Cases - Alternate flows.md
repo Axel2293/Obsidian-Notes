@@ -6,5 +6,5 @@
 # User Stories
 El objetivo que tiene que lograr el usuario, esto debe de ser especifico
 - A user story  *is a statement*, written from the *point of view of the user*, and **describes the functionality needed** in a solution.
-- Typically User stories are associated to Agile development, but they can actually be useful on any development methodology.
+- Typically User stories are *associated to* **Agile** *development*, but they can actually be useful on any development methodology.
 - A user story is, in other words, the simplest statement about the software product that a stakeholder cares about.
