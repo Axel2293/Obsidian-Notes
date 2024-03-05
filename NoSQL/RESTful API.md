@@ -5,9 +5,9 @@ Provides high level of:
 - Efficiency
 
 # Design principles
-THe only requirement as that they align with these *six* REST design principles, also known as architectural constraints:
-- **Uniform interface**
-- **Client-server decoupling**
+The only requirement as that they align with these *six* REST design principles, also known as architectural constraints:
+- **Uniform interface**: All requests for the same resource should look the same, no matter where the request comes from. The REST API should ensure that the same piece of data, such as the name or email address of a user, belongs to only one uniform resource identifier (*URI*).
+- **Client-server decoupling**:
 - **Statelessness**
 - **Cacheability**
 - **Layered system architecture**
