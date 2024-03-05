@@ -19,3 +19,26 @@ Apart form being *SMART*, as a requirement should be, User Stories should apply 
 >[!sealso]
 >**Spike** is something that we have to research about so that we can apply the things we learned from the spike.
 
+## -Epic
+When a user story is *too large to be completed* in a single iteration (or a predefined small period of time) it is considered to be an Epic.
+- Epic need to be *decomposed into smaller* User Stories.
+- Usually development projects start with identifying Epic stories, then refine, in general, all User Stories belong to an Epic
+- In other words, User Stories
+## -Title template
+User stories follow the following template:
+=="As an \<*actor*>, i want to be able to function, so that i can \<*Business_reason*>"==
+
+The **shorter** version:
+=="As an \<*actor*>, I want \<*function*>"==
+
+To give emphasis on the business reason:
+=="In order to \<*business_reason*> as an \<*actor*>"==
+
+## -Content
+Along with the title template, User Stories *require more information to describe the requirement*, usually user stories contain the following parts.
+- Title Template
+- Description
+- Business Reason
+- Acceptance Criteria
+- Implementation Details
+- Testing Notes
