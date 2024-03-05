@@ -47,3 +47,13 @@ Acceptance Criteria are used ad the rules or measures that the story should meet
 - Most *critical* part of a User Story
 - Is *how the team knows they are done*
 - Is how the *actor* verifies the *function* provides the expected **Business value**
+
+## -Implementation details
+Are *development directions* on how the User Story can be implemented, some things that can go there are:
+- Classes affected and or methods
+- Modules affected
+- Integrations required
+- Tables affected in DB
+- Restrictions
+Any insight on how to code and implement would go in this section.
+
