@@ -44,6 +44,6 @@ Along with the title template, User Stories *require more information to describ
 - Testing Notes
 ## -Acceptance Criteria
 Acceptance Criteria are used ad the rules or measures that the story should meet to determine if it has been completed and it works at expected.
-- Most critical part of a User Story
-- Is how the team knows they are done
+- Most *critical* part of a User Story
+- Is *how the team knows they are done*
 - Is how the *actor* verifies the *function* provides the expected **Business value**
