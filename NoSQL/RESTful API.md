@@ -11,9 +11,13 @@ REST APIS come handy when, for example, we need to communicate a web app or web 
 >Perf/cache
 
 ### Requests
-
-
-
+A request can be traduced form the CRUD operations with the HTTP methods.
+- *Post*
+- *Get*
+- *Put*
+- *Delete*
+![[Pasted image 20240304192902.png|300]]
+### Response
 
 # Design principles
 The only requirement as that they align with these *six* REST design principles, also known as architectural constraints:
