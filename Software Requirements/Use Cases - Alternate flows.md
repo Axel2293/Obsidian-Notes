@@ -57,3 +57,10 @@ Are *development directions* on how the User Story can be implemented, some thin
 - Restrictions
 Any insight on how to code and implement would go in this section.
 
+## -Testing notes
+Testing note are recommendations on *how to verify the Acceptance Criteria*.
+Testing notes can be:
+- Test cases
+- Acceptance test
+- Test scenarios
+
