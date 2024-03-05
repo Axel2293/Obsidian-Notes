@@ -16,8 +16,6 @@ Here, `return_type` is the data type that the function returns, `pointer_name` i
 
 ## Example
 
-cCopy code
-
 `#include <stdio.h>  // Function declaration int add(int a, int b);  int main() {     // Pointer to function declaration     int (*ptr)(int, int);      // Assigning address of function to pointer     ptr = add;      // Calling function using pointer     int result = ptr(10, 20);     printf("Result: %d\n", result);      return 0; }  // Function definition int add(int a, int b) {     return a + b; }`
 
 ## Usage
