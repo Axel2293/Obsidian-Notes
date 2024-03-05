@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Sorting.md",
+                "file": "Estrategias algoritmicas/Ordering.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Sorting.md",
+                "file": "Estrategias algoritmicas/Ordering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Sorting.md",
+                "file": "Estrategias algoritmicas/Ordering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Sorting.md"
+                "file": "Estrategias algoritmicas/Ordering.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "C/Modulo 1/Apuntadores a funciones.md",
     "Estrategias algoritmicas/Sorting.md",
+    "Estrategias algoritmicas/Ordering.md",
+    "C/Modulo 1/Apuntadores a funciones.md",
     "C/Modulo 1/Apuntadores a arreglos.md",
     "C/Modulo 1/Apuntadores.md",
     "C/Advanced Udemy Course/C programing.md",
@@ -207,7 +208,6 @@
     "Operating Systems/Sesiones/Sesión 1.md",
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Sesiones/Sesión 4.md",
-    "Operating Systems/Sesiones/Sesión 5.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",

@@ -9,3 +9,6 @@
 # Non-Comparative
 ## Counting sort
 ## Radix sort
+
+# Limbo
+## Bucket sort
