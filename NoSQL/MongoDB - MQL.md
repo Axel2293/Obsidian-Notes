@@ -8,13 +8,11 @@ Allows to create
 - *Databases*
 - **Collections**
 - *Insert* and *select* data
-
 ### Create collection
 When a collection is first referenced in a command it gets created, this method is primarily for creating new collections with *specific options*.
 ```MQL
 db.createCollection(name,options)
 ```
-
 ### Create elements
 *Create* or *Insert* operations add new documents to a collection. If the collection does not currently exist, insert operations will create the collection.
 #### Methods

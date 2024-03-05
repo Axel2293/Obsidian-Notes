@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md"
+                "file": "NoSQL/MongoDB - MQL.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "NoSQL/Documents Databases.md",
+    "NoSQL/MongoDB - MQL.md",
+    "NoSQL/RESTful API.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
     "PHOTOS/Pasted image 20240305133109.png",
     "PHOTOS/Pasted image 20240305133045.png",
     "PHOTOS/Pasted image 20240305133028.png",
@@ -188,12 +192,10 @@
     "PHOTOS/Pasted image 20240305131426.png",
     "PHOTOS/Pasted image 20240305131337.png",
     "Web Development/Node.JS.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
     "Web Development/HTTP - Hypertext Transfer Protocol.md",
     "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
     "Software Requirements/Functional requirements.md",
-    "NoSQL/RESTful API.md",
     "PHOTOS/Pasted image 20240304192902.png",
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
@@ -212,8 +214,6 @@
     "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "Gestion Agil de Proyectos/S6.md",
-    "Gestion Agil de Proyectos/S3.md",
-    "PHOTOS/Pasted image 20240229230604.png",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
