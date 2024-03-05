@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Ordering.md",
+                "file": "Estrategias algoritmicas/Shell sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Ordering.md",
+                "file": "Estrategias algoritmicas/Shell sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Ordering.md",
+                "file": "Estrategias algoritmicas/Shell sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Ordering.md"
+                "file": "Estrategias algoritmicas/Shell sort.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/Sorting.md",
-    "Estrategias algoritmicas/Ordering.md",
+    "Estrategias algoritmicas/Sorting algorithms.md",
+    "Estrategias algoritmicas/Searching algorithms.md",
     "C/Modulo 1/Apuntadores a funciones.md",
     "C/Modulo 1/Apuntadores a arreglos.md",
     "C/Modulo 1/Apuntadores.md",
