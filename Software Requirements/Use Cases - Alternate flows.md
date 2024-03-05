@@ -64,5 +64,9 @@ Testing notes can be:
 - Acceptance test
 - Test scenarios
 
-
+# User Stories - Use Cases
+- Both are different ways to represent software requirements
+- They can complement each other
+- Use Cases may contain parts of a User Story or User Stories may contain parts of a Use Case.
+- Sometimes Acceptance Criteria is best represented as Scenarios (Primary, Alternatives and Exceptions)
 
