@@ -8,4 +8,6 @@ A message sent from the client to the server.
 It contains:
 - *Request line*: Contains the method, the url, and the HTTP version.
 	- Methods: GET, POST, PUT, DELETE
-		- GET: reuqest data from a specific 
+		- GET: request data from a specified resource
+		- POST: submits data to be processed to a specified resource
+		- 
