@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Use Cases - Alternate flows.md",
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Use Cases - Alternate flows.md",
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Use Cases - Alternate flows.md",
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Use Cases - Alternate flows.md"
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md"
               }
             }
           },
@@ -178,8 +178,11 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "NoSQL/RESTful API.md",
     "Software Requirements/Use Cases - Alternate flows.md",
+    "Web Development/HTTP - Hypertext Transfer Protocol.md",
+    "Software Requirements/Caso de uso.md",
+    "Software Requirements/Functional requirements.md",
+    "NoSQL/RESTful API.md",
     "PHOTOS/Pasted image 20240304192902.png",
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
@@ -201,14 +204,11 @@
     "Gestion Agil de Proyectos/S3.md",
     "Gestion Agil de Proyectos/S1.md",
     "NoSQL/MongoDB - MQL.md",
-    "Software Requirements/Caso de uso.md",
     "PHOTOS/Pasted image 20240229230604.png",
     "PHOTOS/Pasted image 20240229230511.png",
     "PHOTOS/Pasted image 20240229230252.png",
     "PHOTOS/Pasted image 20240229225922.png",
     "NoSQL/Documents Databases.md",
-    "NoSQL/Apache Cassandra - CQL.md",
-    "Operating Systems/Sesiones/Memoria compartida.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
