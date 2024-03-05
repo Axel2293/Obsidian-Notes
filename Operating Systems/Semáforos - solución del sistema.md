@@ -27,3 +27,9 @@ Cuando llegamos aun numero negativo significa que hay procesos esperando en el s
 
 *Contador* es el número de procesos que pueden ejecutar wait(S) sin que se bloqueen.
 *Bloqueados* el número de procesos que están esperando en el semáforo.
+
+# Problema del productor- consumidor
+Paradigma de procesos cooperantes, el productor produce información que se consume por un consumidor.
+- Uno o más productores general cierto tipo de datos (registros, caracteres) y los sitúan en un buffer.
+- El único consumidor saca elementos del buffer de uno en uno
+- El sistema está obligado a impedir la superposición de operaciones sobre el buffer.
