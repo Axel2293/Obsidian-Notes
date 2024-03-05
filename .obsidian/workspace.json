@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
+                "file": "Operating Systems/Semáforos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
+                "file": "Operating Systems/Semáforos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
+                "file": "Operating Systems/Semáforos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md"
+                "file": "Operating Systems/Semáforos.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Software Requirements/Use Cases - Alternate flows.md",
+    "Web Development/Node.JS.md",
+    "Operating Systems/Semáforos.md",
     "Web Development/HTTP - Hypertext Transfer Protocol.md",
+    "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
     "Software Requirements/Functional requirements.md",
     "NoSQL/RESTful API.md",
@@ -203,12 +205,10 @@
     "Gestion Agil de Proyectos/S6.md",
     "Gestion Agil de Proyectos/S3.md",
     "Gestion Agil de Proyectos/S1.md",
-    "NoSQL/MongoDB - MQL.md",
     "PHOTOS/Pasted image 20240229230604.png",
     "PHOTOS/Pasted image 20240229230511.png",
     "PHOTOS/Pasted image 20240229230252.png",
     "PHOTOS/Pasted image 20240229225922.png",
-    "NoSQL/Documents Databases.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
