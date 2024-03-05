@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Shell sort.md",
+                "file": "NoSQL/RESTful API.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Shell sort.md",
+                "file": "NoSQL/RESTful API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Shell sort.md",
+                "file": "NoSQL/RESTful API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Shell sort.md"
+                "file": "NoSQL/RESTful API.md"
               }
             }
           },
@@ -178,6 +179,8 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/Shell sort.md",
+    "NoSQL/RESTful API.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
     "Estrategias algoritmicas/Searching algorithms.md",
     "C/Modulo 1/Apuntadores a funciones.md",
@@ -206,8 +209,6 @@
     "NoSQL/Apache Cassandra - CQL.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Sesiones/Sesión 1.md",
-    "Operating Systems/Sesiones/Scheduling.md",
-    "Operating Systems/Sesiones/Sesión 4.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
