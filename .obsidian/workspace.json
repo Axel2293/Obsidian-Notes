@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Modulo 1/Apuntadores a funciones.md",
+                "file": "Estrategias algoritmicas/Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Modulo 1/Apuntadores a funciones.md",
+                "file": "Estrategias algoritmicas/Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Modulo 1/Apuntadores a funciones.md",
+                "file": "Estrategias algoritmicas/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Modulo 1/Apuntadores a funciones.md"
+                "file": "Estrategias algoritmicas/Sorting.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "C/Modulo 1/Apuntadores a arreglos.md",
     "C/Modulo 1/Apuntadores a funciones.md",
+    "Estrategias algoritmicas/Sorting.md",
+    "C/Modulo 1/Apuntadores a arreglos.md",
     "C/Modulo 1/Apuntadores.md",
     "C/Advanced Udemy Course/C programing.md",
     "Servicios Seguros de Internet/SSH public and private keys.md",
@@ -207,7 +208,6 @@
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Sesiones/Sesión 4.md",
     "Operating Systems/Sesiones/Sesión 5.md",
-    "Operating Systems/Sesiones/Sesión 5 1.md",
     "PHOTOS/Pasted image 20240229174815.png",
     "PHOTOS/Pasted image 20240229174655.png",
     "PHOTOS/Pasted image 20240229174646.png",
