@@ -11,5 +11,13 @@ Para evitar espera ocupada: cuando un proceso tiene que esperar, se *pondrá en 
 - En windows se llaman mutex
 ![[Pasted image 20240305131913.png]]
 ![[Pasted image 20240305131939.png]]
+Estas instrucciones deben de ser *atómicas*, para que no puedan ser interrumpidas a media ejecución.
 # Semáforos generales/entero
--Pueden tomar muchos valores positivos.
+- Pueden tomar muchos valores positivos.
+### Negativos
+Cuando llegamos aun numero negativo significa que hay procesos esperando en el semáforo.
+![[Pasted image 20240305132555.png|300]]
+![[Pasted image 20240305132612.png|400]]
+
+- SI contador es mayor o igual que 0, el numero de procesos que pueden ejecutar wait(S) sin que se bloqueen es = contador.
+- Si contador<0, el número de procesos que están esperando en el semáforo es =|contador|
