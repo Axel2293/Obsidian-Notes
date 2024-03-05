@@ -3,6 +3,17 @@ Provides high level of:
 - Flexibility
 - Scalability
 - Efficiency
+REST APIS come handy when, for example, we need to communicate a web app or web page with a cloud.based server.
+>[!Resume]
+>Its an *intermediary* between the web app and the could base server, which handles communication between the two. 
+>Simple/Stand
+>Scalable/stateless
+>Perf/cache
+
+### Requests
+
+
+
 
 # Design principles
 The only requirement as that they align with these *six* REST design principles, also known as architectural constraints:
