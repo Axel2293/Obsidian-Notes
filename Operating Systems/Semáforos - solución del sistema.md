@@ -21,3 +21,9 @@ Cuando llegamos aun numero negativo significa que hay procesos esperando en el s
 
 - SI contador es mayor o igual que 0, el numero de procesos que pueden ejecutar wait(S) sin que se bloqueen es = contador.
 - Si contador<0, el número de procesos que están esperando en el semáforo es =|contador|
+#### Primitivas
+![[Pasted image 20240305133028.png|300]]
+![[Pasted image 20240305133109.png]]
+
+*Contador* es el número de procesos que pueden ejecutar wait(S) sin que se bloqueen.
+*Bloqueados* el número de procesos que están esperando en el semáforo.
