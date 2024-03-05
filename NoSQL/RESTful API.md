@@ -4,3 +4,11 @@ Provides high level of:
 - Scalability
 - Efficiency
 
+# Design principles
+THe only requirement as that they align with these *six* REST design principles, also known as architectural constraints:
+- **Uniform interface**
+- **Client-server decoupling**
+- **Statelessness**
+- **Cacheability**
+- **Layered system architecture**
+- **Code on demand** (optional)
