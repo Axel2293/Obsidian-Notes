@@ -158,12 +158,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +177,17 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "NoSQL/Documents Databases.md",
-    "NoSQL/MongoDB - MQL.md",
     "NoSQL/RESTful API.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Operating Systems/Procesos.md",
     "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Volatile.md",
+    "Organización y arquitectura de computadoras/CPU.md",
+    "Organización y arquitectura de computadoras/Compilers - C languague.md",
+    "Organización y arquitectura de computadoras/Architecture and Organization.md",
+    "NoSQL/MongoDB - MQL.md",
+    "NoSQL/Documents Databases.md",
     "PHOTOS/Pasted image 20240305133109.png",
     "PHOTOS/Pasted image 20240305133045.png",
     "PHOTOS/Pasted image 20240305133028.png",
@@ -207,13 +213,6 @@
     "Servicios Seguros de Internet/SSH public and private keys.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Data Base/MySQL/Connect to mysql shell.md",
-    "Data Base/MySQL/Installation.md",
-    "Data Base/MySQL/Create a data base.md",
-    "Data Base/DB Relational Class/Modelo entidad relación.md",
-    "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
-    "Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
-    "Gestion Agil de Proyectos/Stakeholders-S7.md",
-    "Gestion Agil de Proyectos/S6.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",

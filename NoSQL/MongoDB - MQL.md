@@ -47,3 +47,36 @@ db.collection.deleteOne()
 db.collection.deleteMany()
 ```
 ![[Pasted image 20240229230604.png]]
+
+# Operators
+1. **Operadores de Comparación**:
+    - `$eq`: Igual a un valor especificado.
+    - `$ne`: No igual a un valor especificado.
+    - `$gt`: Mayor que un valor especificado.
+    - `$gte`: Mayor o igual que un valor especificado.
+    - `$lt`: Menor que un valor especificado.
+    - `$lte`: Menor o igual que un valor especificado.
+    - `$in`: Igual a cualquiera de los valores especificados en un arreglo.
+    - `$nin`: No igual a ninguno de los valores especificados en un arreglo.
+2. **Operadores Lógicos**:
+    - `$and`: Realiza una operación lógica AND en un arreglo de expresiones.
+    - `$or`: Realiza una operación lógica OR en un arreglo de expresiones.
+    - `$not`: Niega una expresión booleana.
+    - `$nor`: Realiza una operación lógica NOR en un arreglo de expresiones.
+3. **Operadores de Elemento**:
+    - `$exists`: Verifica si un campo existe o no en un documento.
+    - `$type`: Verifica el tipo de datos de un campo.
+4. **Operadores de Evaluación**:
+    - `$expr`: Permite utilizar expresiones de agregación en consultas.
+    - `$jsonSchema`: Valida un documento contra un esquema JSON.
+    - `$mod`: Realiza una operación de módulo en un campo especificado.
+    - `$regex`: Realiza una coincidencia de expresión regular en un campo.
+5. **Operadores de Array**:
+    - `$all`: Verifica si un arreglo contiene todos los elementos especificados.
+    - `$elemMatch`: Selecciona documentos que coinciden con los criterios especificados en al menos un elemento de un arreglo.
+    - `$size`: Verifica el tamaño de un arreglo.
+6. **Operadores de Bitwise**:
+    - `$bit`: Realiza operaciones bitwise (AND, OR, XOR) en un campo numérico.
+7. **Operadores de Proyección**:
+    - `$`: Proyecta el primer elemento de un arreglo para coincidencias en consultas.
+    - `$elemMatch`: Proyecta solo los elementos de un arreglo que coinciden con los criterios especificados en al menos un elemento del arreglo.
