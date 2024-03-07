@@ -22,7 +22,6 @@ db.collection.insertOne()
 db.collection.insertMany()
 ```
 ![[Pasted image 20240229225922.png]]
-
 ### Read elements
 *Read* operations retrieve documents from a collection; i.e query a collection for documents.
 MongoDB provides the following methods to read documents from a collection.
@@ -30,17 +29,14 @@ MongoDB provides the following methods to read documents from a collection.
 db.collection.find()
 ```
 ![[Pasted image 20240229230252.png]]
-
 ### Update elements
 Update operations modify existing documents in a collection. MongoDB provides the following methods to update documents of a collection.
-
 ```MQL
 db.collection.updateOne()  
 db.collection.updateMany()  
 db.collection.replaceOne()
 ```
 ![[Pasted image 20240229230511.png]]
-
 ### Delete elements
 Delete operations remove documents from a collection. MongoDB provides the following methods to delete documents of a collection.
 ```MQL
@@ -48,7 +44,6 @@ db.collection.deleteOne()
 db.collection.deleteMany()
 ```
 ![[Pasted image 20240229230604.png]]
-
 # Operators
 1. **Operadores de Comparación**:
     - `$eq`: Igual a un valor especificado.
@@ -94,7 +89,6 @@ MongoDB Aggregation goes further through and can also perform *relational-like j
 - **$match**: filters those documents we need to work with, those that fir our needs.
 - **$group**: does the aggregation job
 - **$sort**: sorts the resulting documents the way we require (*ascending or descending*)
-
 ## Aggregation syntax
 Example of how to build an aggregation query:
 ```NoSQL
@@ -102,6 +96,6 @@ db.collectionName.aggregate(pipeline, options)
 ```
 - *CollectionName*: is the name of a collection
 - *Pipeline*: is an array that contains the aggregation stages
-- *Options*: optional parameters for the aggregation.
+- *Options*: optional parameters for the aggregation
 ![[Pasted image 20240307172729.png|400]]
 
