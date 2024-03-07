@@ -118,7 +118,5 @@ Algunos operadores son:
 - `$min`
 - `$avg`
 - `$sum`
-
 ## Unwind
 Nos permite trabajar con elementos de un arreglo dentro de las agregaciones. Ya que de manera directa no se pueden usar este tipo de datos en etapas como `$group`.
-Descompone el documento con arreglo en multiples documentos
