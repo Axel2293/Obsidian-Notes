@@ -89,7 +89,7 @@ MongoDB Aggregation goes further through and can also perform *relational-like j
 - **$match**: filters those documents we need to work with, those that fir our needs.
 - **$group**: does the aggregation job
 - **$sort**: sorts the resulting documents the way we require (*ascending or descending*)
-## Aggregation syntax
+### Aggregation syntax
 Example of how to build an aggregation query:
 ```NoSQL
 db.collectionName.aggregate(pipeline, options)
@@ -99,3 +99,26 @@ db.collectionName.aggregate(pipeline, options)
 - *Options*: optional parameters for the aggregation
 ![[Pasted image 20240307172729.png|400]]
 
+## Match
+Nos permite escoger que documentos de la colección quiero trabajar, es decir hacer un filtro.
+```
+db.universities.aggregate([
+  { $match : { country : 'Spain', city : 'Salamanca' } }
+])
+```
+## Group
+Podemos hacer una agregación o *resumen de lo que necesitamos con los documentos*, como encontrar totales, promedios, máximos, etc.
+```
+db.universities.aggregate([ { $group : { _id : '$name', totaldocs : { $sum : 1 } } } ])
+```
+Permite crear expresiones aritméticas, booleanas, de arreglos entre otras:
+Algunos operadores son:
+- `$count`
+- `$max`
+- `$min`
+- `$avg`
+- `$sum`
+
+## Unwind
+Nos permite trabajar con elementos de un arreglo dentro de las agregaciones. Ya que de manera directa no se pueden usar este tipo de datos en etapas como `$group`.
+Descompone el documento con arreglo en multiples documentos
