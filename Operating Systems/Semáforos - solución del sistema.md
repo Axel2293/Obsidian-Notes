@@ -55,4 +55,6 @@ Podemos utilizar los semáforos para cada estado en el que puede estar un barber
 El cliente entra si hay capacidad disponible en la tienda, espera en el sofá y luego pasa a la silla del barbero para que le corten el pelo. 
 ![[Pasted image 20240307164733.png|500]]
 ![[Pasted image 20240307164745.png|500]]
-
+Tenemos un problema aqui, ya que los barberos deben de cobrar, por lo cual deben de dejar de cortar pelo para cobrar. *Como los semáforos tienen una cola*, cuando terminan estarán saliendo los que están al inicio de la cola y no el que realmente termino rápido.
+![[Pasted image 20240307165451.png]]
+En esta imagen el cliente que duro 10 mins terminó, asi que se hace un signal para sacarlo de la cola
