@@ -62,4 +62,6 @@ Para solucionar esto, cada cliente tendrá su semáforo *terminado*
 ![[Pasted image 20240307165748.png|500]]
 Cuando un cliente entra a la tienda, se le asigna un numero único. Con este número podremos identificar su semáforo de terminado.
 ![[Pasted image 20240307165846.png|500]]
+Debemos protejer el contador ya que podria suceder race condition, así que usamos un semáforo *exmut1*.
 
+![[Pasted image 20240307170129.png]]
