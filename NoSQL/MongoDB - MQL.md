@@ -97,6 +97,11 @@ MongoDB Aggregation goes further through and can also perform *relational-like j
 
 ## Aggregation syntax
 Example of how to build an aggregation query:
-```nosql
+```NoSQL
 db.collectionName.aggregate(pipeline, options)
 ```
+- *CollectionName*: is the name of a collection
+- *Pipeline*: is an array that contains the aggregation stages
+- *Options*: optional parameters for the aggregation.
+![[Pasted image 20240307172729.png|400]]
+
