@@ -80,5 +80,10 @@ db.collection.deleteMany()
 7. **Operadores de Proyección**:
     - `$`: Proyecta el primer elemento de un arreglo para coincidencias en consultas.
     - `$elemMatch`: Proyecta solo los elementos de un arreglo que coinciden con los criterios especificados en al menos un elemento del arreglo.
-
-# Agregation
+# Aggregation
+Is a way of processing a large number of documents in a collection by means of *passing them through different stages*. The stages make up what is knows as a **pipeline**.
+The **stages in a pipeline** can *filter, sort, group, reshape and modify documents* that pass through the pipeline.
+### Use cases
+One of the most common use cases of Aggregation is to *calculate aggregation values* for *groups of documents*.
+This is similar to the basic aggregation available in SQL with the GROUP BY clause and COUNT, SUM and AVG functions
+MongoDB Aggregation goes further through and can also perform *relational-like joins*, *reshape documents*, *create new and update existing collections*, and so on.
