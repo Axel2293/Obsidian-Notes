@@ -95,3 +95,8 @@ MongoDB Aggregation goes further through and can also perform *relational-like j
 - **$group**: does the aggregation job
 - **$sort**: sorts the resulting documents the way we require (*ascending or descending*)
 
+## Aggregation syntax
+Example of how to build an aggregation query:
+```nosql
+db.collectionName.aggregate(pipeline, options)
+```
