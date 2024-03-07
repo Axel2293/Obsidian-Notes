@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md"
+                "file": "NoSQL/MongoDB - MQL.md"
               }
             }
           },
@@ -178,6 +177,7 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Operating Systems/Semáforos - solución del sistema.md",
     "PHOTOS/Pasted image 20240307170129.png",
     "PHOTOS/Pasted image 20240307165846.png",
     "PHOTOS/Pasted image 20240307165748.png",
@@ -188,7 +188,6 @@
     "PHOTOS/Pasted image 20240307164545.png",
     "PHOTOS/Pasted image 20240307164518.png",
     "PHOTOS/Pasted image 20240307164341.png",
-    "PHOTOS/Pasted image 20240307163432.png",
     "Web Development/HTTP - Hypertext Transfer Protocol.md",
     "Web Development/Node.JS.md",
     "Operating Systems/In line assembly.md",
@@ -197,7 +196,6 @@
     "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Procesos.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Volatile.md",
     "Organización y arquitectura de computadoras/CPU.md",
     "Organización y arquitectura de computadoras/Compilers - C languague.md",

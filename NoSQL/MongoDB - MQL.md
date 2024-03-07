@@ -80,3 +80,5 @@ db.collection.deleteMany()
 7. **Operadores de Proyección**:
     - `$`: Proyecta el primer elemento de un arreglo para coincidencias en consultas.
     - `$elemMatch`: Proyecta solo los elementos de un arreglo que coinciden con los criterios especificados en al menos un elemento del arreglo.
+
+# Agregation
