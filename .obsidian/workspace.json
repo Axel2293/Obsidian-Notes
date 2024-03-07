@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
+                "file": "Operating Systems/Semáforos - solución del sistema.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
+                "file": "Operating Systems/Semáforos - solución del sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
+                "file": "Operating Systems/Semáforos - solución del sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md"
+                "file": "Operating Systems/Semáforos - solución del sistema.md"
               }
             }
           },
@@ -177,6 +178,10 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240307163154.png",
+    "PHOTOS/Pasted image 20240307163146.png",
+    "PHOTOS/Pasted image 20240307163125.png",
+    "Web Development/HTTP - Hypertext Transfer Protocol.md",
     "Web Development/Node.JS.md",
     "Operating Systems/In line assembly.md",
     "NoSQL/MongoDB - MQL.md",
@@ -198,12 +203,9 @@
     "PHOTOS/Pasted image 20240305131939.png",
     "PHOTOS/Pasted image 20240305131913.png",
     "PHOTOS/Pasted image 20240305131426.png",
-    "PHOTOS/Pasted image 20240305131337.png",
-    "Web Development/HTTP - Hypertext Transfer Protocol.md",
     "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
     "Software Requirements/Functional requirements.md",
-    "PHOTOS/Pasted image 20240304192902.png",
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
     "Estrategias algoritmicas/Searching algorithms.md",
@@ -212,7 +214,6 @@
     "C/Modulo 1/Apuntadores.md",
     "C/Advanced Udemy Course/C programing.md",
     "Servicios Seguros de Internet/SSH public and private keys.md",
-    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
