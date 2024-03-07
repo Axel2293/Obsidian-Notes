@@ -57,4 +57,9 @@ El cliente entra si hay capacidad disponible en la tienda, espera en el sofá y 
 ![[Pasted image 20240307164745.png|500]]
 Tenemos un problema aqui, ya que los barberos deben de cobrar, por lo cual deben de dejar de cortar pelo para cobrar. *Como los semáforos tienen una cola*, cuando terminan estarán saliendo los que están al inicio de la cola y no el que realmente termino rápido.
 ![[Pasted image 20240307165451.png]]
-En esta imagen el cliente que duro 10 mins terminó, asi que se hace un signal para sacarlo de la cola
+En esta imagen el cliente que duro 10 mins terminó, así que se hace un signal para sacarlo de la cola, pero el que sale es el de 60 minutos que todavía no ha terminado.
+Para solucionar esto, cada cliente tendrá su semáforo *terminado*
+![[Pasted image 20240307165748.png|500]]
+Cuando un cliente entra a la tienda, se le asigna un numero único. Con este número podremos identificar su semáforo de terminado.
+![[Pasted image 20240307165846.png|500]]
+
