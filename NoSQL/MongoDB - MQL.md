@@ -1,8 +1,9 @@
 ```bash
 docker run --name mongo_axel -p 27017:27017 -d  mongo
-```
 
-s
+// Enter mongo shell
+docker exec -it mongodb mongosh
+```
 MongoDB queries are based on JavaScript.
 Allows to create
 - *Databases*
@@ -87,3 +88,10 @@ The **stages in a pipeline** can *filter, sort, group, reshape and modify docume
 One of the most common use cases of Aggregation is to *calculate aggregation values* for *groups of documents*.
 This is similar to the basic aggregation available in SQL with the GROUP BY clause and COUNT, SUM and AVG functions
 MongoDB Aggregation goes further through and can also perform *relational-like joins*, *reshape documents*, *create new and update existing collections*, and so on.
+![[Pasted image 20240307171857.png]]
+
+- The *input* can be a single collection, where others can be merged later down the pipeline
+- **$match**: filters those documents we need to work with, those that fir our needs.
+- **$group**: does the aggregation job
+- **$sort**: sorts the resulting documents the way we require (*ascending or descending*)
+
