@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md"
+                "file": "Web Development/HTTP - Hypertext Transfer Protocol.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Web Development/Node.JS.md",
+    "Operating Systems/In line assembly.md",
+    "NoSQL/MongoDB - MQL.md",
     "NoSQL/RESTful API.md",
     "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Procesos Cooperantes.md",
@@ -186,7 +189,6 @@
     "Organización y arquitectura de computadoras/CPU.md",
     "Organización y arquitectura de computadoras/Compilers - C languague.md",
     "Organización y arquitectura de computadoras/Architecture and Organization.md",
-    "NoSQL/MongoDB - MQL.md",
     "NoSQL/Documents Databases.md",
     "PHOTOS/Pasted image 20240305133109.png",
     "PHOTOS/Pasted image 20240305133045.png",
@@ -197,7 +199,6 @@
     "PHOTOS/Pasted image 20240305131913.png",
     "PHOTOS/Pasted image 20240305131426.png",
     "PHOTOS/Pasted image 20240305131337.png",
-    "Web Development/Node.JS.md",
     "Web Development/HTTP - Hypertext Transfer Protocol.md",
     "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
@@ -212,7 +213,6 @@
     "C/Advanced Udemy Course/C programing.md",
     "Servicios Seguros de Internet/SSH public and private keys.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
-    "Data Base/MySQL/Connect to mysql shell.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",

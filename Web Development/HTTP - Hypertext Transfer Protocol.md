@@ -20,3 +20,14 @@ A message from the server to the client
 - Status line: contains the HTTP version, the status code, and the status message.
 	- status codes: 200, 404, 500, etc.
 - Headers: contains additional 
+
+# Making a rest api in node
+Create the resources and modules folders for our API
+```bash 
+npm init
+```
+
+```js
+
+```
+
