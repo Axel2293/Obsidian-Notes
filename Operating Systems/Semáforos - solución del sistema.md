@@ -34,6 +34,14 @@ Paradigma de procesos cooperantes, el productor produce información que se cons
 - El único consumidor saca elementos del buffer de uno en uno
 - El sistema está obligado a impedir la superposición de operaciones sobre el buffer.
 ### Solución con semáforo general entero
+El consumidor espera a que el productor genere un elemento y manda una señal para desbloquear al consumidor.
 ![[Pasted image 20240307163125.png]]
 ![[Pasted image 20240307163146.png]]
 ![[Pasted image 20240307163154.png]]
+#### Buffer limitado
+Contamos con un semaforo que indica cuantos espacios en el buffer quedan disponibles para poder generar elementos.
+Cuando el productor 
+![[Pasted image 20240307163342.png|500]]
+![[Pasted image 20240307163406.png|400]]
+![[Pasted image 20240307163432.png|400]]
+
