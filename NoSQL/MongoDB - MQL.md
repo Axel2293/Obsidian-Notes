@@ -120,3 +120,20 @@ Algunos operadores son:
 - `$sum`
 ## Unwind
 Nos permite trabajar con elementos de un arreglo dentro de las agregaciones. Ya que de manera directa no se pueden usar este tipo de datos en etapas como `$group`.
+*Descompone* el documento con arreglo en *multiples documentos*, cada uno por cada elemento del arreglo.
+```
+db.universities.aggregate([
+  { $match : { name : 'USAL' } },
+  { $unwind : '$students' }
+])
+```
+## Out
+Nos permite *llevar el resultado* de nuestra agregación *a una nueva colección*.
+```
+db.universities.aggregate([
+  { $group : { _id : '$name', totaldocs : { $sum : 1 } } },
+  { $out : 'aggResults' }
+])
+```
+## Sort
+Permite ordenar los resultados por un campo en específico.
