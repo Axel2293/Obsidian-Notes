@@ -45,4 +45,14 @@ La sección crítica es wait(s); tomar; signal(s);. Esto indica que mientras se 
 ![[Pasted image 20240307163342.png|500]]
 ![[Pasted image 20240307163406.png|400]]
 ![[Pasted image 20240307163432.png|400]]
+#### Problema de la barbería
+Para esta solución, tenemos 3 barberos, un sillon de espera, una sala de espera y una caja de cobro.
+Podemos utilizar los semáforos para cada estado en el que puede estar un barbero o el cliente.
+![[Pasted image 20240307164341.png|500]]
+![[Pasted image 20240307164518.png]]
+![[Pasted image 20240307164545.png|500]]
+![[Pasted image 20240307164559.png|500]]
+El cliente entra si hay capacidad disponible en la tienda, espera en el sofá y luego pasa a la silla del barbero para que le corten el pelo. 
+![[Pasted image 20240307164733.png|500]]
+![[Pasted image 20240307164745.png|500]]
 
