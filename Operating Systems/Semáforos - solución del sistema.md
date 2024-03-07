@@ -39,8 +39,9 @@ El consumidor espera a que el productor genere un elemento y manda una señal pa
 ![[Pasted image 20240307163146.png]]
 ![[Pasted image 20240307163154.png]]
 #### Buffer limitado
-Contamos con un semaforo que indica cuantos espacios en el buffer quedan disponibles para poder generar elementos.
-Cuando el productor 
+Contamos con un semáforo que indica cuantos espacios en el buffer quedan disponibles para poder generar elementos.
+Cuando el productor termina de producir (ya no hay mas espacio en buffer), espera a que el consumidor haga un signal(e) para indicar que ya tomo un elemento.
+La sección crítica es wait(s); tomar; signal(s);. Esto indica que mientras se produce, no se puede consumir el contenido.
 ![[Pasted image 20240307163342.png|500]]
 ![[Pasted image 20240307163406.png|400]]
 ![[Pasted image 20240307163432.png|400]]
