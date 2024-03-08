@@ -138,4 +138,44 @@ db.universities.aggregate([
 ## Sort
 Permite ordenar los resultados por un campo en específico.
 ```
+db.universities.aggregate([
+  { $match : { name : 'USAL' } },
+  { $unwind : '$students' },
+  { $project : { _id : 0, 'students.year' : 1, 'students.number' : 1 } },
+  { $sort : { 'students.number' : -1 } }
+])
+```
+## Limit
+Si solo estamos interesados en cierta cantidad de resultados, podemos limitarlos.
+```
+db.universities.aggregate([
+  { $match : { name : 'USAL' } },
+  { $unwind : '$students' },
+  { $project : { _id : 0, 'students.year' : 1, 'students.number' : 1 } },
+  { $sort : { 'students.number' : -1 } },
+  { $limit : 2 }
+])
+```
+## Add fields
+Podemos agregar campos al momento de hacer una agregación, a continuación agregamos el campo foundation_year a la universidad USAL.
+```
+db.universities.aggregate([
+  { $match : { name : 'USAL' } },
+  { $addFields : { foundation_year : 1218 } }
+])
+```
 
+## Lookup
+Nos permite relacionar documentos de más de una colección.
+```
+db.universities.aggregate([
+  { $match : { name : 'USAL' } },
+  { $project : { _id : 0, name : 1 } },
+  { $lookup : {
+      from : 'courses',
+      localField : 'name',
+      foreignField : 'university',
+      as : 'courses'
+  } }
+])
+```
