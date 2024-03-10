@@ -1,7 +1,7 @@
 Requerimientos para entrar a una sección crítica.
 - Mutual exclusion
-- No livelock
-- 
+- Progreso
+- Espera acotada 
 # Semaphore
 More sophisticated ways
 ### Wait()
