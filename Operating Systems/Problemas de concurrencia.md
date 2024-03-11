@@ -55,6 +55,7 @@ Primeramente, creamos una variable global
 *¿La exclusión mutua se preserva?*
 - Si
 *¿Eliminamos la espera ocupada?*
+- NO
 *¿Logramos la espera limitada?*
 
 #### Instrucción xchg
