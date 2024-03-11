@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/P1/Python Virtual Environments VENV.md",
+                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/P1/Python Virtual Environments VENV.md",
+                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/P1/Python Virtual Environments VENV.md",
+                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/P1/Python Virtual Environments VENV.md"
+                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md"
               }
             }
           },
@@ -177,9 +177,13 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
+    "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
+    "NoSQL/P1/Python Virtual Environments VENV.md",
+    "Web Development/Backend/HTTP.md",
+    "Web Development/Backend",
     "Docker/Docker and Containers.md",
     "NoSQL/P1/Wide-Column.md",
-    "NoSQL/P1/Python Virtual Environments VENV.md",
     "NoSQL/P1/Data models (NoSQL).md",
     "NoSQL/P1/Apache Cassandra.md",
     "NoSQL/Documents Databases.md",
@@ -207,12 +211,9 @@
     "PHOTOS/Pasted image 20240307164733.png",
     "PHOTOS/Pasted image 20240307164559.png",
     "PHOTOS/Pasted image 20240307164545.png",
-    "Web Development/HTTP - Hypertext Transfer Protocol.md",
     "Web Development/Node.JS.md",
     "Operating Systems/In line assembly.md",
     "NoSQL/RESTful API.md",
-    "Organización y arquitectura de computadoras/CPU.md",
-    "Organización y arquitectura de computadoras/Compilers - C languague.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
@@ -223,7 +224,6 @@
     "Software Requirements",
     "Operating Systems/Sesiones",
     "Operating Systems",
-    "Web Development/EXTRAS",
-    "Web Programming"
+    "Web Development/EXTRAS"
   ]
 }
