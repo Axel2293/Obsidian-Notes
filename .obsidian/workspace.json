@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
+                "file": "Estrategias algoritmicas/Arboles binarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
+                "file": "Estrategias algoritmicas/Arboles binarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
+                "file": "Estrategias algoritmicas/Arboles binarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md"
+                "file": "Estrategias algoritmicas/Arboles binarios.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
     "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
+    "Estrategias algoritmicas/Arboles binarios.md",
+    "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
     "NoSQL/P1/Python Virtual Environments VENV.md",
     "Web Development/Backend/HTTP.md",
     "Web Development/Backend",
@@ -213,7 +214,6 @@
     "PHOTOS/Pasted image 20240307164545.png",
     "Web Development/Node.JS.md",
     "Operating Systems/In line assembly.md",
-    "NoSQL/RESTful API.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
