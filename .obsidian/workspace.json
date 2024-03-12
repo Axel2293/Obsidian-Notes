@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles binarios.md",
+                "file": "Operating Systems/Monitores - solución del sistema.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles binarios.md",
+                "file": "Operating Systems/Monitores - solución del sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles binarios.md",
+                "file": "Operating Systems/Monitores - solución del sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles binarios.md"
+                "file": "Operating Systems/Monitores - solución del sistema.md"
               }
             }
           },
@@ -177,9 +178,11 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
-    "Estrategias algoritmicas/Arboles binarios.md",
     "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
+    "Operating Systems/Monitores - solución del sistema.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
+    "Estrategias algoritmicas/Arboles binarios.md",
+    "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
     "NoSQL/P1/Python Virtual Environments VENV.md",
     "Web Development/Backend/HTTP.md",
     "Web Development/Backend",
@@ -212,8 +215,6 @@
     "PHOTOS/Pasted image 20240307164733.png",
     "PHOTOS/Pasted image 20240307164559.png",
     "PHOTOS/Pasted image 20240307164545.png",
-    "Web Development/Node.JS.md",
-    "Operating Systems/In line assembly.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
