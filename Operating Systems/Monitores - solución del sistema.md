@@ -15,3 +15,4 @@ Un monitor es un *tipo de objeto* que tiene la característica de que *solo un p
 ## Problema productor/consumidor con monitores
 ![[Pasted image 20240312170549.png]]
 ![[Pasted image 20240312170609.png]]
+#
