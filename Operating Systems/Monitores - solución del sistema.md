@@ -13,6 +13,7 @@ Un monitor es un *tipo de objeto* que tiene la característica de que *solo un p
 - Si no hay ninguno, no hace nada
 	- Esto hace que el signal se pierda, ya que, si no hay nada esperando, no se hará nada.
 ## Problema productor/consumidor con monitores
+![[Pasted image 20240312171206.png]]
 ![[Pasted image 20240312170549.png]]
 ![[Pasted image 20240312170609.png]]
 #
