@@ -16,4 +16,9 @@ Un monitor es un *tipo de objeto* que tiene la característica de que *solo un p
 ![[Pasted image 20240312171206.png]]
 ![[Pasted image 20240312170549.png]]
 ![[Pasted image 20240312170609.png]]
-#
+# Monitores con notificación
+![[Pasted image 20240312171550.png]]
+![[Pasted image 20240312171629.png]]
+- Ahora, en vez de usar un if, usamos un while para que compruebe cuando hay espacio en el buffer
+- Tambien se remplaza csignal por un **cnotify**
+![[Pasted image 20240312171759.png]]
