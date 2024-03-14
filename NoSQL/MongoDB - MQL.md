@@ -195,7 +195,29 @@ MongoDB creates a balanced binary tree and every index has a pointer to its livi
 The *time complexity* is
 - O(log2n)
 
-# Text Search
+# Text search
 Searching for partial text entries may be useful, especially if we can index those searches
-
-
+```python
+db.posts.insertMany([{  
+"post_text": "just a random example text string in post text",  
+"tags": ["mongodb", "nosql"]  
+},  
+{  
+"post_text": "writing tutorials on mongodb",  
+"tags": [ "mongodb", "tutorial" ]  
+}])
+```
+## Create the text index
+Searching for partial text entries may be useful, especially if we can index those searches:
+```python
+db.posts.createIndex(
+ {post_text:"text"}
+ )
+```
+## Search
+Now that we have created the text index on post_text field, we will search for all the posts having the word example in their text.
+```python
+db.posts.find(
+	{$text:{$search:"example"}}
+)
+```
