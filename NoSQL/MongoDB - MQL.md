@@ -166,7 +166,7 @@ db.universities.aggregate([
 
 ## Lookup
 Nos permite relacionar documentos de más de una colección.
-```
+```python
 db.universities.aggregate([
   { $match : { name : 'USAL' } },
   { $project : { _id : 0, name : 1 } },
@@ -183,3 +183,9 @@ Represent how various documents are logically related to each other. Relationshi
 ## Embedded relationship
 Single document, can obtain data from one query. But if document keeps growing (in size) could cause *read/write performance degradation*.
 
+# Create an Index
+Support efficient execution of queries in MongoDB. If your application is repeatedly *running queries on the same fields*, you can create an index on those fields to *improve performance* for those queries.
+```python
+# With the number 
+db.users.createIndex({name:1})
+```
