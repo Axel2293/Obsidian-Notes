@@ -178,3 +178,8 @@ db.universities.aggregate([
   } }
 ])
 ```
+# Relationships
+Represent how various documents are logically related to each other. Relationships can be modeled via *Embedded* and *Referenced* approaches.
+## Embedded relationship
+Single document, can obtain data from one query. But if document keeps growing (in size) could cause *read/write performance degradation*.
+
