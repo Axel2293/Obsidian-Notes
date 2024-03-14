@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Web Development/Node.JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Web Development/Node.JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Web Development/Node.JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md"
+                "file": "Web Development/Node.JS.md"
               }
             }
           },
@@ -178,9 +177,12 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Web Development/JavaScript.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
+    "Web Development/Node.JS.md",
+    "NoSQL/MongoDB - MQL.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "NoSQL/P1/Python Virtual Environments VENV.md",
-    "NoSQL/MongoDB - MQL.md",
     "CV META/CV foramt.md",
     "Operating Systems/Monitores - solución del sistema.md",
     "PHOTOS/Pasted image 20240312171759.png",
@@ -190,7 +192,6 @@
     "PHOTOS/Pasted image 20240312170609.png",
     "PHOTOS/Pasted image 20240312170549.png",
     "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
-    "Web Development/HTML (Hyper Text Markup Language).md",
     "Estrategias algoritmicas/Arboles binarios.md",
     "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
     "Web Development/Backend/HTTP.md",
@@ -210,11 +211,9 @@
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Volatile.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
-    "Operating Systems/Sesiones/Scheduling.md",
     "PHOTOS/Pasted image 20240307172729.png",
     "PHOTOS/Pasted image 20240307171857.png",
     "PHOTOS/Pasted image 20240307170129.png",
-    "PHOTOS/Pasted image 20240307165846.png",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
