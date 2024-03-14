@@ -186,6 +186,6 @@ Single document, can obtain data from one query. But if document keeps growing (
 # Create an Index
 Support efficient execution of queries in MongoDB. If your application is repeatedly *running queries on the same fields*, you can create an index on those fields to *improve performance* for those queries.
 ```python
-# With the number 
+# With the number 1 we indicate
 db.users.createIndex({name:1})
 ```
