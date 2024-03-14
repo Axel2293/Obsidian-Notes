@@ -195,4 +195,7 @@ MongoDB creates a balanced binary tree and every index has a pointer to its livi
 The *time complexity* is
 - O(log2n)
 
+# Text Search
+Searching for partial text entries may be useful, especially if we can index those searches
+
 
