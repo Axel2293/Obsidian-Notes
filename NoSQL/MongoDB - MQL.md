@@ -189,3 +189,10 @@ Support efficient execution of queries in MongoDB. If your application is repeat
 # With the number 1 we indicate
 db.users.createIndex({name:1})
 ```
+# Index scan
+MongoDB creates a balanced binary tree and every index has a pointer to its living position in memory. *Left* are less than and *Right* are greater than.![[Pasted image 20240314081359.png]]
+## Time complexity
+The *time complexity* is
+- O(log2n)
+
+
