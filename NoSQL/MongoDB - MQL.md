@@ -16,7 +16,6 @@ db.createCollection(name,options)
 ```
 ### Create elements
 *Create* or *Insert* operations add new documents to a collection. If the collection does not currently exist, insert operations will create the collection.
-#### Methods
 ```MQL
 db.collection.insertOne()
 db.collection.insertMany()
