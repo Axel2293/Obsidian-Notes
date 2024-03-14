@@ -221,3 +221,28 @@ db.posts.find(
 	{$text:{$search:"example"}}
 )
 ```
+## Search with *Regex*
+Regular Expressions are frequently used in all languages to search for a pattern or word in any string. MongoDB also provides functionality of regular expression for string pattern matching using the **$regex** operator.
+```python
+# Inserting data
+db.posts.insertOne(
+{
+   "post_text": "enjoy the mongodb articles",
+
+   "tags": [
+
+      "mongodb",
+
+      "nosql"
+
+   ]
+})
+
+# Searching with Regex
+	# Calling the query with regex:
+db.posts.find(
+		{post_text:{$regex:"mongo*"}}) 
+	# Or:
+db.posts.find(
+		{post_text:/mongo*/})
+```
