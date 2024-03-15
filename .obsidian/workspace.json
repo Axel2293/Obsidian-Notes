@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Node.JS.md",
+                "file": "Software Requirements/Use cases - User stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Node.JS.md",
+                "file": "Software Requirements/Use cases - User stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Node.JS.md",
+                "file": "Software Requirements/Use cases - User stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Node.JS.md"
+                "file": "Software Requirements/Use cases - User stories.md"
               }
             }
           },
@@ -177,40 +177,40 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Web Development/JavaScript.md",
-    "Web Development/HTML (Hyper Text Markup Language).md",
-    "Web Development/Node.JS.md",
-    "NoSQL/MongoDB - MQL.md",
-    "PHOTOS/Pasted image 20240314081359.png",
-    "NoSQL/P1/Python Virtual Environments VENV.md",
-    "CV META/CV foramt.md",
     "Operating Systems/Monitores - solución del sistema.md",
+    "Software Requirements/Use cases - User stories.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Planificación en tiempo real.md",
+    "Operating Systems/Previos a sesiones QUIZ.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Volatile.md",
+    "Operating Systems/In line assembly.md",
+    "Operating Systems/Hilos Posix.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Sesiones/Hardware solutions.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Polimorfismo.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
+    "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
     "PHOTOS/Pasted image 20240312171550.png",
     "PHOTOS/Pasted image 20240312171206.png",
     "PHOTOS/Pasted image 20240312170609.png",
     "PHOTOS/Pasted image 20240312170549.png",
-    "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
-    "Estrategias algoritmicas/Arboles binarios.md",
-    "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
-    "Web Development/Backend/HTTP.md",
     "Web Development/Backend",
-    "Docker/Docker and Containers.md",
-    "NoSQL/P1/Wide-Column.md",
-    "NoSQL/P1/Data models (NoSQL).md",
-    "NoSQL/P1/Apache Cassandra.md",
-    "NoSQL/Documents Databases.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Planificación.md",
-    "Operating Systems/Sesiones/Hardware solutions.md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Volatile.md",
-    "Operating Systems/Sesiones/Memoria compartida.md",
     "PHOTOS/Pasted image 20240307172729.png",
     "PHOTOS/Pasted image 20240307171857.png",
     "PHOTOS/Pasted image 20240307170129.png",
