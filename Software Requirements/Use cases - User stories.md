@@ -6,8 +6,8 @@ Usar el template
 Descripción breve
 Razón de negocio
 Criterios de aceptación: todo lo que me permite determinar que si lo logra.
-Detalles de la implementación: cosas especificas que se necesitan agregar dado por alguien que ya sabe para que el que lo va a hacer tenga una idea técnica.
-Notas de prueba: recomendaciones de como usarías para verificar que todo se cumple, dado por alguien con conocimiento de negocio.
+Detalles de la implementación: cosas especificas que se necesitan agregar dado por alguien que ya sabe para que el que lo va a hacer tenga una idea técnica. (mínimo de 5 a 10 detalles)
+Notas de prueba: recomendaciones de como usarías para verificar que todo se cumple, dado por alguien con conocimiento de negocio. (especifico, pero muy resumido y como lista)
 
 ```
 ## Historia de usuario: Préstamo de un artículo por edificio
