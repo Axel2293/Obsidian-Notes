@@ -7,4 +7,4 @@ Descripción breve
 Razón de negocio
 Criterios de aceptación: todo lo que me permite determinar que si lo logra.
 Detalles de la implementación: cosas especificas que se necesitan agregar dado por alguien que ya sabe para que el que lo va a hacer tenga una idea técnica.
-Notas de prueba: dado por alguien con conocimiento de negocio.
+Notas de prueba: recomendaciones de como usarías para verificar que todo se cumple, dado por alguien con conocimiento de negocio.
