@@ -1,4 +1,4 @@
-SSH o Secure Shell, es un protocolo que facilita las comunicaciones  
+sSSH o Secure Shell, es un protocolo que facilita las comunicaciones  
 seguras entre dos sistemas usando una arquitectura cliente/servidor y  
 que permite a los usuarios conectarse a un host remotamente. A  
 diferencia de otros protocolos de comunicación remota tales como  

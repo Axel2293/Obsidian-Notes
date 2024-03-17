@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Use cases - User stories.md",
+                "file": "Servicios Seguros de Internet/Linux server/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Use cases - User stories.md",
+                "file": "Servicios Seguros de Internet/Linux server/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Use cases - User stories.md",
+                "file": "Servicios Seguros de Internet/Linux server/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Use cases - User stories.md"
+                "file": "Servicios Seguros de Internet/Linux server/SSH.md"
               }
             }
           },
@@ -177,8 +177,16 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Operating Systems/Monitores - solución del sistema.md",
+    "Web Development/CSS.md",
+    "Web Development/Node.JS.md",
+    "Web Development/JavaScript.md",
+    "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
+    "Web Development/EXTRAS/GitHub hosting pages for repos.md",
+    "Web Development/EMMET.md",
+    "Web Development/HTML (Hyper Text Markup Language).md",
     "Software Requirements/Use cases - User stories.md",
+    "Software Requirements/Caso de uso.md",
+    "Operating Systems/Monitores - solución del sistema.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Planificación.md",
@@ -195,14 +203,6 @@
     "Operating Systems/Sesiones/Hardware solutions.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
     "Programación Orientada a Objetos/JAVA/Modulo 2/Modifiers.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Polimorfismo.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Collection.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Contenedores Genericos/Maps.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Administración de excepciones.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Asociación.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 3/Autoboxing.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
