@@ -4,6 +4,7 @@ Prior to development phase we have to think how are we going to validate that re
 Use Cases scenarios(flows) might be helpful but they are usually incomplete.
 
 # Specification by example (SBE)
-Use examples that surge in collaboration with the dev team. Usually applied in agile
+Use examples that surge in collaboration with the dev team. Usually applied in agile.
 
 ### TDD
+For every class we have a testing class with methods that test the functionality of the main class
