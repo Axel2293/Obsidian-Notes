@@ -1,0 +1,7 @@
+# Validation
+Prior to development phase we have to think how are we going to validate that requirement.
+*Acceptance Criteria* in **user stories** will tell you what you need to validate (incomplete and vague)
+Use Cases scenarios(flows) might be helpful but they are usually incomplete.
+
+# Specification by example (SBE)
+Use examples that surge in collaboration with the dev team. Usually applied in agile
