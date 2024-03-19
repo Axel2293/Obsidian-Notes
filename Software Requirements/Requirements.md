@@ -17,7 +17,7 @@ Start by writing the story under discussion on a yellow card and placing it at t
 [![Example Mapping](https://openpracticelibrary.github.io/opl-media/images/example-mapping-2-.png)
 #### Acceptance Criteria
 - title and description
-- Students cannot publish new assignments
+- 
 ### Test Driven Development (TDD)
 For every class we have a testing class with methods that test the functionality of the main class.
 Develop test cases, then develop main code.
