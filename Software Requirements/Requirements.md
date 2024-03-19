@@ -5,6 +5,9 @@ Use Cases scenarios(flows) might be helpful but they are usually incomplete.
 
 # Specification by example (SBE)
 Use examples that surge in collaboration with the dev team. Usually applied in agile. First think of the examples and behaviour's, and then develop the code that make tohose come true.
+### Examples
+Are concrete rather than abstract. Imagine youre in 1922
+Most software does something people could do manually
 
 ### Test Driven Development (TDD)
 For every class we have a testing class with methods that test the functionality of the main class.
