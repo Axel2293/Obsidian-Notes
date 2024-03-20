@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Requirements.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea680a6c025838a5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Requirements.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Requirements.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Requirements.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md"
               }
             }
           },
@@ -187,10 +175,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea680a6c025838a5",
+  "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Servicios Seguros de Internet/SSH public and private keys.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
     "Software Requirements/Requirements.md",
+    "Servicios Seguros de Internet/SSH public and private keys.md",
     "Servicios Seguros de Internet/Linux server/Apache.md",
     "Servicios Seguros de Internet/Linux server/SSH.md",
     "Web Development/CSS.md",
@@ -207,14 +203,6 @@
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Planificación.md",
     "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
-    "Operating Systems/Volatile.md",
-    "Operating Systems/In line assembly.md",
-    "Operating Systems/Hilos Posix.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
