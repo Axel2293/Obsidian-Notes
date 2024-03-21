@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Deadlock.md",
+                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesiones/Deadlock.md",
+                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesiones/Deadlock.md",
+                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesiones/Deadlock.md"
+                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md"
               }
             }
           },
@@ -177,8 +177,17 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
+    "NoSQL/MongoDB - MQL.md",
+    "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
+    "NoSQL/Apache Cassandra - CQL.md",
+    "NoSQL/P1/Wide-Column.md",
+    "NoSQL/Documents Databases.md",
+    "NoSQL/RESTful API.md",
+    "NoSQL/P1/Python Virtual Environments VENV.md",
+    "NoSQL/P1/Data models (NoSQL).md",
+    "NoSQL/P1/Apache Cassandra.md",
     "Operating Systems/Sesiones/Deadlock.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
@@ -194,15 +203,6 @@
     "Web Development/CSS.md",
     "Web Development/Node.JS.md",
     "Web Development/JavaScript.md",
-    "Web Development/Backend/HTTP - Hypertext Transfer Protocol.md",
-    "Web Development/EXTRAS/GitHub hosting pages for repos.md",
-    "Web Development/EMMET.md",
-    "Web Development/HTML (Hyper Text Markup Language).md",
-    "Software Requirements/Use cases - User stories.md",
-    "Software Requirements/Caso de uso.md",
-    "Operating Systems/Monitores - solución del sistema.md",
-    "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/Operaciones en Procesos.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
