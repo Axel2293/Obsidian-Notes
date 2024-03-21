@@ -4,4 +4,5 @@ Wit this we can interact/modify the elements/objects of a HTML document.
 ### Searching
 - document.
 	- getElementById(id)
-	- 
+	- getElementByTagName(name)
+	- querySelector()
