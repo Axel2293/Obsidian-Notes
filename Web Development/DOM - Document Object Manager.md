@@ -6,3 +6,4 @@ Wit this we can interact/modify the elements/objects of a HTML document.
 	- getElementById(id)
 	- getElementByTagName(name)
 	- querySelector('#id'): this returns a node list, which we can do a for-each.
+	- getElementsByClassName('classa_name')
