@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
+                "file": "Web Development/DOM - Document Object Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
+                "file": "Web Development/DOM - Document Object Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
+                "file": "Web Development/DOM - Document Object Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md"
+                "file": "Web Development/DOM - Document Object Manager.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "NoSQL/MongoDB - MQL.md",
     "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
+    "Web Development/DOM - Document Object Manager.md",
+    "NoSQL/MongoDB - MQL.md",
     "NoSQL/Apache Cassandra - CQL.md",
     "NoSQL/P1/Wide-Column.md",
     "NoSQL/Documents Databases.md",
@@ -202,7 +203,6 @@
     "Servicios Seguros de Internet/Linux server/SSH.md",
     "Web Development/CSS.md",
     "Web Development/Node.JS.md",
-    "Web Development/JavaScript.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
