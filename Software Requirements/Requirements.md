@@ -10,6 +10,8 @@ Are concrete rather than abstract. Imagine you're in 1922
 Most software does something people could do manually.
 ### Example Mapping
 Start by writing the story under discussion on a yellow card and placing it at the top of the table. Every 
+Todos loe *ejemplos* deben de empezar con:
+- `En el que...`
 - Acceptance Criteria (AC1)
 	- EX1
 	- EX2

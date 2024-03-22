@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/DOM - Document Object Manager.md",
+                "file": "Software Requirements/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/DOM - Document Object Manager.md",
+                "file": "Software Requirements/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/DOM - Document Object Manager.md",
+                "file": "Software Requirements/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/DOM - Document Object Manager.md"
+                "file": "Software Requirements/Requirements.md"
               }
             }
           },
@@ -177,8 +177,14 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
+    "Software Requirements/Functional requirements.md",
+    "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
+    "Software Requirements/Use cases - User stories.md",
+    "Software Requirements/Use Cases - Alternate flows.md",
+    "Software Requirements/Requirements.md",
+    "Software Requirements/Caso de uso.md",
     "Web Development/DOM - Document Object Manager.md",
+    "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
     "NoSQL/MongoDB - MQL.md",
     "NoSQL/Apache Cassandra - CQL.md",
     "NoSQL/P1/Wide-Column.md",
@@ -197,12 +203,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
-    "Software Requirements/Requirements.md",
-    "Servicios Seguros de Internet/SSH public and private keys.md",
-    "Servicios Seguros de Internet/Linux server/Apache.md",
-    "Servicios Seguros de Internet/Linux server/SSH.md",
-    "Web Development/CSS.md",
-    "Web Development/Node.JS.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
@@ -214,7 +214,6 @@
     "PHOTOS/Pasted image 20240307172729.png",
     "PHOTOS/Pasted image 20240307171857.png",
     "PHOTOS/Pasted image 20240307170129.png",
-    "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
