@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/Requirements.md",
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/Requirements.md",
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/Requirements.md",
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/Requirements.md"
+                "file": "Servicios Seguros de Internet/Linux server/Linux.md"
               }
             }
           },
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +178,18 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Monitores - solución del sistema.md",
+    "Operating Systems/Planificación en tiempo real.md",
+    "Operating Systems/Previos a sesiones QUIZ.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Software Requirements/Requirements.md",
     "Software Requirements/Functional requirements.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Software Requirements/Use cases - User stories.md",
     "Software Requirements/Use Cases - Alternate flows.md",
-    "Software Requirements/Requirements.md",
     "Software Requirements/Caso de uso.md",
     "Web Development/DOM - Document Object Manager.md",
     "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
@@ -197,12 +205,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Objeto.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Fundamentos de Java.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/For-each.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Clases y Objetos.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Clase Array.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
