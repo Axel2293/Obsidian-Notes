@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
+                "file": "Software Requirements/G.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d23a4e9313853571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Semáforos - solución del sistema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d29a2d12421fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Planificación.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
+                "file": "Software Requirements/G.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md",
+                "file": "Software Requirements/G.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/Linux.md"
+                "file": "Software Requirements/G.md"
               }
             }
           },
@@ -178,33 +202,33 @@
   },
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
+    "Operating Systems/Sesiones/Sesión 5 1.md",
+    "Software Requirements/G.md",
+    "Operating Systems/Sesiones/Sesión 2 (Processes).md",
+    "Operating Systems/Sesiones/Sesión 1.md",
+    "Operating Systems/Sesiones/Scheduling.md",
+    "Operating Systems/Sesiones/Memoria compartida.md",
+    "Operating Systems/Sesiones/Hardware solutions.md",
+    "Operating Systems/Volatile.md",
     "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Monitores - solución del sistema.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/In line assembly.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Hilos Posix.md",
     "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Procesos Cooperantes.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
     "Software Requirements/Requirements.md",
     "Software Requirements/Functional requirements.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Software Requirements/Use cases - User stories.md",
     "Software Requirements/Use Cases - Alternate flows.md",
-    "Software Requirements/Caso de uso.md",
-    "Web Development/DOM - Document Object Manager.md",
-    "Estrategias algoritmicas/Máximum Depth of Binary Tree-Leetcode.md",
-    "NoSQL/MongoDB - MQL.md",
-    "NoSQL/Apache Cassandra - CQL.md",
-    "NoSQL/P1/Wide-Column.md",
-    "NoSQL/Documents Databases.md",
-    "NoSQL/RESTful API.md",
-    "NoSQL/P1/Python Virtual Environments VENV.md",
-    "NoSQL/P1/Data models (NoSQL).md",
-    "NoSQL/P1/Apache Cassandra.md",
-    "Operating Systems/Sesiones/Deadlock.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Prompts para entrada o salida de datos GUI.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Paso por Valor o Referencia.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Operadores.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
