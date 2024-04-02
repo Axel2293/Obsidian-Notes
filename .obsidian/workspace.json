@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/G.md",
+                "file": "Software Requirements/BDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/G.md",
+                "file": "Software Requirements/BDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/G.md",
+                "file": "Software Requirements/BDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/G.md"
+                "file": "Software Requirements/BDD.md"
               }
             }
           },
@@ -203,7 +203,7 @@
   "active": "0b2f08119dbba6c0",
   "lastOpenFiles": [
     "Operating Systems/Sesiones/Sesión 5 1.md",
-    "Software Requirements/G.md",
+    "Software Requirements/BDD.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Operating Systems/Sesiones/Sesión 1.md",
     "Operating Systems/Sesiones/Scheduling.md",
