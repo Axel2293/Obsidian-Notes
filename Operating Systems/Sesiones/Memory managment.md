@@ -5,3 +5,4 @@ Main memory and registers are CPU exclusive.
 Register access is done in one CPU clock (or less).
 ## Protection
 Processes get assigned a chunk of memory, and they are not allowed to go under or above that limit (overflow, underflow)
+## Binding
