@@ -20,3 +20,7 @@ Hardware device that at run time maps virtual to physical address.
 - First fit: allocate the first hole that is big enough
 - Best-fit: allocate the samllest hole that is big enough, must search entire list, unless ordered by size.
 - Worst-fit: alllocate the larget hole
+## Fragmentation
+- External:
+- Internal
+- 
