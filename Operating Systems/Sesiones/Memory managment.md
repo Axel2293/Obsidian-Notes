@@ -11,3 +11,6 @@ Address binding of instructions and data to memory addresses can happen in:
 - Load time
 - Execution time: libraries
 	- Requires memory mapping (base, base+limit)
+## Logical vs Physical address Space
+- Logical: assigned by the CPU and are known as *virtual address*
+- Physical: address seen by the *memory unit*
