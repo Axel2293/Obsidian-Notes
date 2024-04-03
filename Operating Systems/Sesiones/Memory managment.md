@@ -28,3 +28,4 @@ Hardware device that at run time maps virtual to physical address.
 Assign chunks of memory depending of the requested size.
 Enables the use of noncontiguous memory, as chunks of memory are mapped into *frames* of size `2^n`.
 4k default, changeable in linux
+![[Pasted image 20240402194140.png]]
