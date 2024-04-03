@@ -14,3 +14,5 @@ Address binding of instructions and data to memory addresses can happen in:
 ## Logical vs Physical address Space
 - Logical: assigned by the CPU and are known as *virtual address*
 - Physical: address seen by the *memory unit*
+## MMU
+Hardware device that at run time maps virtual to physical address.
