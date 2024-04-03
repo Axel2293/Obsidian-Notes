@@ -25,3 +25,5 @@ Hardware device that at run time maps virtual to physical address.
 - Internal: allocated is bigger than needed memory (difference is part of internal partition)
 
 # Paging
+Assign chunks of memory depending of the requested size.
+4k default, changeable in linux
