@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "735727bbaaf9eae8",
+        "id": "4f92521af905979a",
         "type": "tabs",
         "children": [
           {
-            "id": "0b2f08119dbba6c0",
+            "id": "fcea84658ff9cf2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Requirements/BDD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d23a4e9313853571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Semáforos - solución del sistema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d29a2d12421fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Planificación.md",
+                "file": "Operating Systems/Sesiones/Memory managment.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Requirements/BDD.md",
+                "file": "Operating Systems/Sesiones/Memory managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Requirements/BDD.md",
+                "file": "Operating Systems/Sesiones/Memory managment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Requirements/BDD.md"
+                "file": "Operating Systems/Sesiones/Memory managment.md"
               }
             }
           },
@@ -200,17 +176,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b2f08119dbba6c0",
+  "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "Operating Systems/Sesiones/Sesión 5 1.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Sesiones/Memory managment.md",
+    "Operating Systems/Volatile.md",
+    "CV META/CV foramt.md",
     "Software Requirements/BDD.md",
+    "Operating Systems/Sesiones/Sesión 5 1.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Operating Systems/Sesiones/Sesión 1.md",
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Sesiones/Hardware solutions.md",
-    "Operating Systems/Volatile.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Problemas de concurrencia.md",
@@ -227,8 +205,6 @@
     "Software Requirements/Requirements.md",
     "Software Requirements/Functional requirements.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
-    "Software Requirements/Use cases - User stories.md",
-    "Software Requirements/Use Cases - Alternate flows.md",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
     "PHOTOS/Pasted image 20240312171629.png",
