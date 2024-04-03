@@ -18,9 +18,10 @@ Address binding of instructions and data to memory addresses can happen in:
 Hardware device that at run time maps virtual to physical address.
 # Variable Partition
 - First fit: allocate the first hole that is big enough
-- Best-fit: allocate the samllest hole that is big enough, must search entire list, unless ordered by size.
-- Worst-fit: alllocate the larget hole
+- Best-fit: allocate the samallest hole that is big enough, must search entire list, unless ordered by size.
+- Worst-fit: allocate the larget hole
 ## Fragmentation
 - External: required space exists but its not *contiguous*
-- Internal
-- 
+- Internal: allocated is bigger than needed memory (difference is part of internal partition)
+
+# Paging
