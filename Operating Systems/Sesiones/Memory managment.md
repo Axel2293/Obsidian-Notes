@@ -8,3 +8,6 @@ Processes get assigned a chunk of memory, and they are not allowed to go under o
 ## Binding
 Address binding of instructions and data to memory addresses can happen in:
 - Compile time:
+- Load time
+- Execution time: libraries
+	- Requires memory mapping (base, base+limit)
