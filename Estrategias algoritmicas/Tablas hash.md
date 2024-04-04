@@ -8,3 +8,4 @@ Debemos mantener el *código hash* en un rango [0...M-1] donde **M** es un núme
 >[!danger]
 >a dos claves diferentes les corresponde el mismo índice -> colisión
 
+Existen diferentes técnicas como *Chaining* o encadenamiento.
