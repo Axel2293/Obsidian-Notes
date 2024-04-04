@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md",
+                "file": "NoSQL/Dgraph.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md",
+                "file": "NoSQL/Dgraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md",
+                "file": "NoSQL/Dgraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md"
+                "file": "NoSQL/Dgraph.md"
               }
             }
           },
@@ -179,8 +178,9 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "Operating Systems/Sesiones/Memory managment.md",
     "Estrategias algoritmicas/Tablas hash.md",
+    "NoSQL/Dgraph.md",
+    "Operating Systems/Sesiones/Memory managment.md",
     "PHOTOS/Pasted image 20240402194140.png",
     "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Volatile.md",
@@ -205,7 +205,6 @@
     "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
-    "Software Requirements/Requirements.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
