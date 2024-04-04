@@ -4,7 +4,7 @@ Las tablas hash permiten implementar *diccionarios* y *conjuntos* debido a que p
 ### Hashing
 
 ### Manejo de colisiones
-Debemos amntener el *codigo hash* en un rango [0...M-1] donde **M** es un número menor que el número de permutaciones de la entrada (N)
+Debemos mantener el *código hash* en un rango [0...M-1] donde **M** es un número menor que el número de permutaciones de la entrada (N)
 >[!danger]
 >a dos claves diferentes les corresponde el mismo índice -> colisión
 
