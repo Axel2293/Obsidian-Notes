@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +178,9 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240404171005.png",
+    "PHOTOS/Pasted image 20240404170829.png",
+    "PHOTOS/Pasted image 20240404170618.png",
     "PHOTOS/Pasted image 20240404170138.png",
     "PHOTOS/Pasted image 20240404165839.png",
     "PHOTOS/Pasted image 20240404165743.png",
@@ -192,7 +194,6 @@
     "Estrategias algoritmicas/Tablas hash.md",
     "NoSQL/Dgraph.md",
     "Operating Systems/Sesiones/Memory managment.md",
-    "PHOTOS/Pasted image 20240402194140.png",
     "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Volatile.md",
     "CV META/CV foramt.md",
@@ -214,8 +215,6 @@
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Hilos Posix.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
-    "PHOTOS/Pasted image 20240314081359.png",
-    "PHOTOS/Pasted image 20240312171759.png",
     "Web Development/Backend",
     "Untitled.canvas",
     "Docker",

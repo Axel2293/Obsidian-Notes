@@ -106,3 +106,14 @@ Si se tienen n páginas de un proceso, se necesitan n *marcos* libres para carga
 	- Puede haber paginas que no se utilicen en su totalidad de tamaño.
 	- ![[Pasted image 20240404170138.png|250]]
 
+## Direcciones lógicas
+Se componen de:
+- Número de página (*p*):
+	- Se usa como un índice en la *tabla de páginas*
+- Desplazamiento (*d*):
+	- Cuanto se tienen que mover dentro de la página para llegar a la dirección física
+![[Pasted image 20240404170618.png|500]]
+### Arquitectura de traducción
+![[Pasted image 20240404170829.png]]
+*f* es la direccion que obtenemos de la *tabla de páginas* y nos dice cual es la dirección física de la página.
+![[Pasted image 20240404171005.png]]
