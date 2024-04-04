@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md",
+                "file": "Operating Systems/Manejo de la memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md",
+                "file": "Operating Systems/Manejo de la memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md",
+                "file": "Operating Systems/Manejo de la memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Tablas hash.md"
+                "file": "Operating Systems/Manejo de la memoria.md"
               }
             }
           },
@@ -178,8 +179,10 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "NoSQL/Dgraph.md",
+    "Estrategias algoritmicas/Algoritmos Voraces - Greedy.md",
+    "Operating Systems/Manejo de la memoria.md",
     "Estrategias algoritmicas/Tablas hash.md",
+    "NoSQL/Dgraph.md",
     "Operating Systems/Sesiones/Memory managment.md",
     "PHOTOS/Pasted image 20240402194140.png",
     "Operating Systems/Semáforos - solución del sistema.md",
@@ -203,8 +206,6 @@
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Previos a sesiones QUIZ.md",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "PHOTOS/Pasted image 20240314081359.png",
     "PHOTOS/Pasted image 20240312171759.png",
