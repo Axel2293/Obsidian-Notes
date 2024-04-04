@@ -147,3 +147,6 @@ Podemos resolverlo mediante **caché de hardware**.
 - Effective Access Time (EAT)
 	- EAT = (10ns + **ε** )**α** + (20ns + **ε** )(1-**α**) 
 	- = 20ns + **ε**-10**α**
+## Paginación de dos niveles
+Actualmente una dirección lógica puede ser de hasta 40 bits.
+![[Pasted image 20240404172933.png]]
