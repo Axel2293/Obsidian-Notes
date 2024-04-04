@@ -67,3 +67,10 @@ a un almacenamiento de respaldo, y luego traerse de regreso a memoria para conti
 El OS mantien info sobre:
 - Particiones asignadas
 - Particiones libres
+![[Pasted image 20240404164159.png|300]]
+Se van generando huecos de memoria a la hora de que los procesos liberan las particiones y otros las ocupan.
+
+# Partición dinámica (Algoritmos de ubicación)
+## Primer ajuste
+Busca desde el principio en donde puede caber el proceso que solicita
+## Mejor ajuste
