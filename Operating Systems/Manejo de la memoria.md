@@ -72,5 +72,37 @@ Se van generando huecos de memoria a la hora de que los procesos liberan las par
 
 # Partición dinámica (Algoritmos de ubicación)
 ## Primer ajuste
-Busca desde el principio en donde puede caber el proceso que solicita
+Busca desde el principio en donde puede caber el proceso que solicita y *regresa el primero que cumpla*.
 ## Mejor ajuste
+Asigna el bloque más pequeño donde puede caber el proceso, lo cual produce fragmentos más pequeños.
+## Siguiente ajuste
+Asigna el siguiente bloque lo suficientemente grande donde pueda caber el proceso
+## Peor ajuste
+Buscar el hueco más grande donde quepa el proceso, lo cual produce fragmentos muy grandes.
+
+# Fragmentación
+Cuando la memoria se va subdividiendo y se van quedando espacios grandes o pequeños de memoria que no se pueden utilizar.
+## Externa
+Son los espacios que hay entre los espacios de memoria, y que causan que no tengamos memoria consecutiva disponible.
+![[Pasted image 20240404165156.png|300]]
+## Interna
+La memoria que se queda dentro de las particiones y no es utilizada.
+![[Pasted image 20240404165208.png|300]]
+## Reducir
+- Desplazar el contenido de la memoria para tener toda la memoria disponible en un solo bloque
+- La compactación se puede hacer *solo si la recolocación es dinámica* (las direcciones se pueden calcular en tiempo de ejecución)
+
+# Paginación
+1. Se divide la *memoria física* en bloques de tamaño fijo llamados **marcos**.
+	- El tamaño de los marcos es potencia de 2, usualmente entre **512** y **8192**.
+	- ![[Pasted image 20240404165743.png|200]]
+1. Se dividen los *procesos* en bloques del mismo tamaño llamados **páginas**
+	- El espacio de direcciones lógico de un proceso puede *no estar contiguo*.
+	- ![[Pasted image 20240404165839.png|200]]
+### Ejecución
+Si se tienen n páginas de un proceso, se necesitan n *marcos* libres para cargar el programa correctamente.
+- Se necesita una tabla de páginas para traducir direcciones lógicas a direcciones físicas
+- Da paso a la fragmentación interna
+	- Puede haber paginas que no se utilicen en su totalidad de tamaño.
+	- ![[Pasted image 20240404170138.png|250]]
+
