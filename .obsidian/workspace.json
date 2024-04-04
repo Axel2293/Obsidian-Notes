@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/Dgraph.md",
+                "file": "Estrategias algoritmicas/Tablas hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/Dgraph.md",
+                "file": "Estrategias algoritmicas/Tablas hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/Dgraph.md",
+                "file": "Estrategias algoritmicas/Tablas hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/Dgraph.md"
+                "file": "Estrategias algoritmicas/Tablas hash.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/Tablas hash.md",
     "NoSQL/Dgraph.md",
+    "Estrategias algoritmicas/Tablas hash.md",
     "Operating Systems/Sesiones/Memory managment.md",
     "PHOTOS/Pasted image 20240402194140.png",
     "Operating Systems/Semáforos - solución del sistema.md",

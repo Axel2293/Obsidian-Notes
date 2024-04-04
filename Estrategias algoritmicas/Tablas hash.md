@@ -2,3 +2,5 @@ Las tablas hash permiten implementar *diccionarios* y *conjuntos* debido a que p
 <*llave*, *valor*>
 
 ### Hashing
+
+### Manejo de colisiones
