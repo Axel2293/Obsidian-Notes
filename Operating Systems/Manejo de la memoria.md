@@ -168,3 +168,4 @@ Las tablas de páginas podrían ser muy grandes
 - Código y datos privados
 	- Cada proceso mantiene una copia separada del código y datos
 	- Las páginas para el código privado y datos pueden aparecer en cualquier parte en el espacio de direcciones lógico
+![[Pasted image 20240404174338.png|500]]
