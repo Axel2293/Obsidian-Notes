@@ -158,3 +158,13 @@ Las tablas de páginas podrían ser muy grandes
 - Cada entrada consiste en el número de la página almacenada en ese marco, con información del proceso dueño de esa página
 ![[Pasted image 20240404173712.png]]
 
+## Páginas compartidas
+- Código compartido
+	- Una copia de código de solo lectura (reentrante) entre procesos
+		- Editores de texto
+		- Compiladores
+		- Sistemas de ventanas
+	- El código compartido debe aparecer en la misma posición en el espacio de direcciones lógico de todos los procesos.
+- Código y datos privados
+	- Cada proceso mantiene una copia separada del código y datos
+	- Las páginas para el código privado y datos pueden aparecer en cualquier parte en el espacio de direcciones lógico
