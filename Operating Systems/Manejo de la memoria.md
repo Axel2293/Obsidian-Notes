@@ -150,3 +150,7 @@ Podemos resolverlo mediante **caché de hardware**.
 ## Paginación de dos niveles
 Actualmente una dirección lógica puede ser de hasta 40 bits.
 ![[Pasted image 20240404172933.png]]
+Las tablas de páginas podrían ser muy grandes
+### Esquema
+![[Pasted image 20240404173221.png]]
+
