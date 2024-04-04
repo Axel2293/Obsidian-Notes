@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Memory managment.md",
+                "file": "Estrategias algoritmicas/Tablas hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesiones/Memory managment.md",
+                "file": "Estrategias algoritmicas/Tablas hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesiones/Memory managment.md",
+                "file": "Estrategias algoritmicas/Tablas hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesiones/Memory managment.md"
+                "file": "Estrategias algoritmicas/Tablas hash.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "Operating Systems/Sesiones/Memory managment.md",
+    "Estrategias algoritmicas/Tablas hash.md",
     "PHOTOS/Pasted image 20240402194140.png",
     "Operating Systems/Semáforos - solución del sistema.md",
-    "Operating Systems/Sesiones/Memory managment.md",
     "Operating Systems/Volatile.md",
     "CV META/CV foramt.md",
     "Software Requirements/BDD.md",
@@ -215,7 +216,6 @@
     "Web Development/Backend",
     "PHOTOS/Pasted image 20240307172729.png",
     "PHOTOS/Pasted image 20240307171857.png",
-    "PHOTOS/Pasted image 20240307170129.png",
     "Untitled.canvas",
     "Docker",
     "Gestion Agil de Proyectos",
