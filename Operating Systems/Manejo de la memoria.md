@@ -117,3 +117,16 @@ Se componen de:
 ![[Pasted image 20240404170829.png]]
 *f* es la direccion que obtenemos de la *tabla de páginas* y nos dice cual es la dirección física de la página.
 ![[Pasted image 20240404171005.png]]
+## Implementación de la tabla de páginas
+Esta se mantiene en la **Memoria principal**.
+- Page-table base register (*PTBR*)
+	- Apunta a la tabla de páginas
+- Page-table length register (*PTLR*)
+	- Indica el tamaño de la tabla de páginas
+![[Pasted image 20240404171443.png|300]]
+Este esquema hace que cada acceso a datos/instrucciones necesite de dos accesos a memoria:
+- Uno para la tabla de páginas
+- Otro para acceder a los datos/instrucciones en la dirección física
+Podemos resolverlo mediante **caché de hardware**.
+- Registros asociativos o buffer de traducción adelantada (*CACHING*).
+
