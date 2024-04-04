@@ -153,4 +153,8 @@ Actualmente una dirección lógica puede ser de hasta 40 bits.
 Las tablas de páginas podrían ser muy grandes
 ### Esquema
 ![[Pasted image 20240404173221.png]]
+## Tabla de páginas invertida
+- Una entrada por cada página real de la memoria
+- Cada entrada consiste en el número de la página almacenada en ese marco, con información del proceso dueño de esa página
+![[Pasted image 20240404173712.png]]
 
