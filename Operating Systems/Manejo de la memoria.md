@@ -60,3 +60,10 @@ a un almacenamiento de respaldo, y luego traerse de regreso a memoria para conti
 ### Esquema de registro de recolocación
 - **Registro base** contiene el valor de la dirección física más pequeña
 - **Registro límite** contiene el rango de direcciones lógicas
+>[!note]
+>Cada dirección lógica de la partición debe de ser más pequeña que el Registro límite.
+
+### Asignación de particiones múltiples
+El OS mantien info sobre:
+- Particiones asignadas
+- Particiones libres
