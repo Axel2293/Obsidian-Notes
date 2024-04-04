@@ -128,5 +128,22 @@ Este esquema hace que cada acceso a datos/instrucciones necesite de dos accesos 
 - Uno para la tabla de páginas
 - Otro para acceder a los datos/instrucciones en la dirección física
 Podemos resolverlo mediante **caché de hardware**.
-- Registros asociativos o buffer de traducción adelantada (*CACHING*).
-
+- Registros asociativos o buffer de traducción adelantada (*CACHING* o **TLB** (Translation look-aside Buffer)).
+## Registro asociativo
+- Busqueda en paralelo
+	- ![[Pasted image 20240404171958.png]]
+- Traducción de direcciones (A, a)
+	- Si A está en el registro asociativo
+		- Obtenemos el número de marco directamente del registro
+	- Si no
+		- Buscar en la tabla de páginas en memoria
+### Tiempo de acceso efectivo
+- Búsqueda asociativa = **ε** unidades de tiempo
+- Asume el tiempo del ciclo de memoria es 10 nanosegundos
+- Tasa de aciertos (HIT RATE)
+	- Porcentaje de veces que un numero de página es encontrado en registros asociativos
+	- La tasa se relaciona con el número de registros asociativos
+	- Tasa de aciertos = **α**
+- Effective Access Time (EAT)
+	- EAT = (10ns + **ε** )**α** + (20ns + **ε** )(1-**α**) 
+	- = 20ns + **ε**-10**α**
