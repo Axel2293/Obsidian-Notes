@@ -15,11 +15,13 @@ If a program tries to put too much info on the stack, **stack overflow** will oc
 #### Division
 The stack is divided into **successive frames** where each time a function is called, it allocates itself a fresh *stack frame*
 
-#### Adventages
+#### Characteristics
 - Space is managed efficiently by CPU
 	- Memory is allocated in a *contiguous block*
 	- Memory will not become *fragmented*
-- 
+- Local vars only
+- Limit on the size of the stack
+- Variables cannot be resized
 ### Heap
 Opposite of the stack
 Global in scope
@@ -28,4 +30,7 @@ use when
 	- large array
 	- big struct
 - When we need variables for a long time and scope
-- 
+- Might cause *mem fragmentation over time*
+- Variables can be resized using **realloc()**
+- No guaranteed efficient use of space
+	- memory is allocated in any random order
