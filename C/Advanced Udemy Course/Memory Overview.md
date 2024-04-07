@@ -12,4 +12,14 @@ It has a limit on the size of the variables that can be stored on the stack
 If a program tries to put too much info on the stack, **stack overflow** will occur
 - Also occurs in recursive situations
 - Happens when all the mem in the stack has been allocated, and further allocations begin *overflowing* other sections of memory.
+#### Division
+The stack is divided into **successive frames** where each time a function is called, it allocates itself a fresh *stack fram*
 ### Heap
+Opposite of the stack
+Global in scope
+use when
+- need large blocks of memory
+	- large array
+	- big struct
+- When we need variables for a long time and scope
+- 
