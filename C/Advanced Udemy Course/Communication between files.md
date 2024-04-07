@@ -6,7 +6,9 @@ This keyword allows global variables to be accessed from other modules:
 extern int moveNumber;
 ```
 Now, the value of moveNumber can now be accessed and modified by the module in which the preceding declaration appears.
-
+STEPS:
+- Define the variable in the origin module/file as a global variable
+- Define in the other file that wants to use the variable with extern
 ### Vs Static
 This means that the variable will be "static to the whole module". Works as static from Java.
 
