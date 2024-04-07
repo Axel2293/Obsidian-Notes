@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Advanced Udemy Course/Communication between files.md",
+                "file": "C/Advanced Udemy Course/Header files.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Advanced Udemy Course/Communication between files.md",
+                "file": "C/Advanced Udemy Course/Header files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Advanced Udemy Course/Communication between files.md",
+                "file": "C/Advanced Udemy Course/Header files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Advanced Udemy Course/Communication between files.md"
+                "file": "C/Advanced Udemy Course/Header files.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "NoSQL/MongoDB - MQL.md",
     "C/Advanced Udemy Course/Communication between files.md",
+    "C/Advanced Udemy Course/Header files.md",
+    "NoSQL/MongoDB - MQL.md",
     "Software Requirements/BDD.md",
     "Operating Systems/Sesiones/PO.md",
     "Operating Systems/Manejo de la memoria.md",
@@ -214,7 +215,6 @@
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Monitores - solución del sistema.md",
     "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/In line assembly.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
