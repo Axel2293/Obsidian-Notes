@@ -24,6 +24,8 @@ The stack is divided into **successive frames** where each time a function is ca
 - Variables cannot be resized
 ### Heap
 Opposite of the stack
+Managed by the programmer
+- Allocated with *malloc*, freed with *free* and realocated with *realloc*
 Global in scope
 use when
 - need large blocks of memory
@@ -34,3 +36,11 @@ use when
 - Variables can be resized using **realloc()**
 - No guaranteed efficient use of space
 	- memory is allocated in any random order
+
+## Heap or Stack?
+Use the heap
+- when you need to allocate *large blocks of memory*
+- When you need to keep that variable around a long time
+- When you need variables like arrays and structs that can change size dynamically
+Use stack:
+- When you dealing with relatively small vars that only need to persists as long as the function using them is alive.
