@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Advanced Udemy Course/Header files.md",
+                "file": "C/Advanced Udemy Course/Memory Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Advanced Udemy Course/Header files.md",
+                "file": "C/Advanced Udemy Course/Memory Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Advanced Udemy Course/Header files.md",
+                "file": "C/Advanced Udemy Course/Memory Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Advanced Udemy Course/Header files.md"
+                "file": "C/Advanced Udemy Course/Memory Overview.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "C/Advanced Udemy Course/Communication between files.md",
     "C/Advanced Udemy Course/Header files.md",
+    "C/Advanced Udemy Course/Memory Overview.md",
+    "C/Advanced Udemy Course/Communication between files.md",
     "NoSQL/MongoDB - MQL.md",
     "Software Requirements/BDD.md",
     "Operating Systems/Sesiones/PO.md",
@@ -214,7 +215,6 @@
     "Operating Systems/Planificación.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Monitores - solución del sistema.md",
-    "Operating Systems/Memory Layout of C program.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
