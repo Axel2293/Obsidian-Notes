@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Manejo de la memoria.md",
+                "file": "C/Advanced Udemy Course/Communication between files.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Manejo de la memoria.md",
+                "file": "C/Advanced Udemy Course/Communication between files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Manejo de la memoria.md",
+                "file": "C/Advanced Udemy Course/Communication between files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Manejo de la memoria.md"
+                "file": "C/Advanced Udemy Course/Communication between files.md"
               }
             }
           },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,11 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "NoSQL/MongoDB - MQL.md",
+    "C/Advanced Udemy Course/Communication between files.md",
+    "Software Requirements/BDD.md",
+    "Operating Systems/Sesiones/PO.md",
+    "Operating Systems/Manejo de la memoria.md",
     "PHOTOS/Pasted image 20240404174338.png",
     "PHOTOS/Pasted image 20240404173712.png",
     "PHOTOS/Pasted image 20240404173221.png",
@@ -188,16 +194,13 @@
     "PHOTOS/Pasted image 20240404170829.png",
     "PHOTOS/Pasted image 20240404170618.png",
     "PHOTOS/Pasted image 20240404170138.png",
-    "PHOTOS/Pasted image 20240404165839.png",
     "Estrategias algoritmicas/Algoritmos Voraces - Greedy.md",
-    "Operating Systems/Manejo de la memoria.md",
     "Estrategias algoritmicas/Tablas hash.md",
     "NoSQL/Dgraph.md",
     "Operating Systems/Sesiones/Memory managment.md",
     "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Volatile.md",
     "CV META/CV foramt.md",
-    "Software Requirements/BDD.md",
     "Operating Systems/Sesiones/Sesión 5 1.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Operating Systems/Sesiones/Sesión 1.md",
@@ -212,8 +215,6 @@
     "Operating Systems/Monitores - solución del sistema.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/In line assembly.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Operating Systems/Hilos Posix.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
