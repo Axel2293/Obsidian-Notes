@@ -13,7 +13,13 @@ If a program tries to put too much info on the stack, **stack overflow** will oc
 - Also occurs in recursive situations
 - Happens when all the mem in the stack has been allocated, and further allocations begin *overflowing* other sections of memory.
 #### Division
-The stack is divided into **successive frames** where each time a function is called, it allocates itself a fresh *stack fram*
+The stack is divided into **successive frames** where each time a function is called, it allocates itself a fresh *stack frame*
+
+#### Adventages
+- Space is managed efficiently by CPU
+	- Memory is allocated in a *contiguous block*
+	- Memory will not become *fragmented*
+- 
 ### Heap
 Opposite of the stack
 Global in scope
