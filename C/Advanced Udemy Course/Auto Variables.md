@@ -23,4 +23,5 @@ Keyword auto is used to declare variables of automatic storage duration
 
 # Local variables
 All local variables in C *have automatic storage duration* by default.
-
+- Declared within a *function body* or *block of code*
+- 
