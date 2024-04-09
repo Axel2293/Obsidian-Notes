@@ -28,3 +28,8 @@ Es un árbol binario cuya navegación, inserción y eliminación es similar a un
 - Cada nivel representa un bit, empezando desde el más significativo, hacia la izquierda
 
 # Árbol de búsqueda RADIX
+Hace uso de nodos internos para representar los bits, pero no el valor final.
+- Cada dato tiene un camino único
+- Cada dato puede hacer que se creen nuevos nodos internos
+- Usa mucha memoria ya que se crean muchos nodos internos
+- 
