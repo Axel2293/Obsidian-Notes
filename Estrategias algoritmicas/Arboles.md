@@ -36,4 +36,8 @@ Hace uso de nodos internos para representar los bits, pero no el valor final.
 ## Multicamino MRT
 Cada numero se divide en dígitos:
 - unidad, decena, centena
+Se desperdicia muca memoria si se tienen pocos numeros, cada nodo tiene un arreglo de apuntadores a cada unidad dependiendo del nivel.
+- Raiz: Centenas 0-9
+	- Hijos: Decenas 0-9
+		- HIjos: unidades 0-9
 
