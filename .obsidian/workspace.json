@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles.md",
+                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles.md",
+                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles.md",
+                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles.md"
+                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md"
               }
             }
           },
@@ -178,8 +178,11 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/P2/Arboles.md",
+    "Estrategias algoritmicas/P2/Programación Dinámica.md",
+    "Estrategias algoritmicas/P2",
+    "Estrategias algoritmicas/Untitled.md",
     "Operating Systems/Semáforos - solución del sistema.md",
-    "Estrategias algoritmicas/Arboles.md",
     "Operating Systems/Sesiones/Hardware solutions.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Sesiones/Memory managment.md",
@@ -202,8 +205,8 @@
     "PHOTOS/Pasted image 20240404170829.png",
     "PHOTOS/Pasted image 20240404170618.png",
     "PHOTOS/Pasted image 20240404170138.png",
-    "Estrategias algoritmicas/Algoritmos Voraces - Greedy.md",
-    "Estrategias algoritmicas/Tablas hash.md",
+    "Estrategias algoritmicas/P2/Algoritmos Voraces - Greedy.md",
+    "Estrategias algoritmicas/P2/Tablas hash.md",
     "NoSQL/Dgraph.md",
     "Operating Systems/Volatile.md",
     "CV META/CV foramt.md",
@@ -212,8 +215,6 @@
     "Operating Systems/Sesiones/Sesión 1.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Procesos.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Planificación.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
@@ -224,7 +225,6 @@
     "Software Requirements/Sesiones",
     "Software Requirements",
     "Operating Systems/Sesiones",
-    "Operating Systems",
-    "Web Development/EXTRAS"
+    "Operating Systems"
   ]
 }
