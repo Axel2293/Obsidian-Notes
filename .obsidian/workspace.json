@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md",
+                "file": "Estrategias algoritmicas/Arboles.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md",
+                "file": "Estrategias algoritmicas/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md",
+                "file": "Estrategias algoritmicas/Arboles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md"
+                "file": "Estrategias algoritmicas/Arboles.md"
               }
             }
           },
@@ -179,7 +179,7 @@
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
     "Operating Systems/Semáforos - solución del sistema.md",
-    "Estrategias algoritmicas/Arboles Rojo-Negro.md",
+    "Estrategias algoritmicas/Arboles.md",
     "Operating Systems/Sesiones/Hardware solutions.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Sesiones/Memory managment.md",
