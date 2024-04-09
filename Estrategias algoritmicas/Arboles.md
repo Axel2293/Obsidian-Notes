@@ -32,4 +32,8 @@ Hace uso de nodos internos para representar los bits, pero no el valor final.
 - Cada dato tiene un camino único
 - Cada dato puede hacer que se creen nuevos nodos internos
 - Usa mucha memoria ya que se crean muchos nodos internos
-- 
+
+## Multicamino MRT
+Cada numero se divide en dígitos:
+- unidad, decena, centena
+
