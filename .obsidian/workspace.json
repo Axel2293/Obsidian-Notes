@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md",
+                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md",
+                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md",
+                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md"
+                "file": "Estrategias algoritmicas/Arboles Rojo-Negro.md"
               }
             }
           },
@@ -179,13 +178,19 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "C/Advanced Udemy Course/Memory Overview.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Estrategias algoritmicas/Arboles Rojo-Negro.md",
+    "Operating Systems/Sesiones/Hardware solutions.md",
+    "Operating Systems/Sesiones/Memoria compartida.md",
+    "Operating Systems/Sesiones/Memory managment.md",
+    "Operating Systems/Sesiones/Scheduling.md",
+    "Operating Systems/Sesiones/PO.md",
     "C/Advanced Udemy Course/Auto Variables.md",
+    "C/Advanced Udemy Course/Memory Overview.md",
     "C/Advanced Udemy Course/Header files.md",
     "C/Advanced Udemy Course/Communication between files.md",
     "NoSQL/MongoDB - MQL.md",
     "Software Requirements/BDD.md",
-    "Operating Systems/Sesiones/PO.md",
     "Operating Systems/Manejo de la memoria.md",
     "PHOTOS/Pasted image 20240404174338.png",
     "PHOTOS/Pasted image 20240404173712.png",
@@ -200,21 +205,15 @@
     "Estrategias algoritmicas/Algoritmos Voraces - Greedy.md",
     "Estrategias algoritmicas/Tablas hash.md",
     "NoSQL/Dgraph.md",
-    "Operating Systems/Sesiones/Memory managment.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Volatile.md",
     "CV META/CV foramt.md",
     "Operating Systems/Sesiones/Sesión 5 1.md",
     "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Operating Systems/Sesiones/Sesión 1.md",
-    "Operating Systems/Sesiones/Scheduling.md",
-    "Operating Systems/Sesiones/Memoria compartida.md",
-    "Operating Systems/Sesiones/Hardware solutions.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Planificación.md",
-    "Operating Systems/Operaciones en Procesos.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
