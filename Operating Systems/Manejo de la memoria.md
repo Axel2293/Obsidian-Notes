@@ -186,10 +186,34 @@ Un segmento es un aunidad lógica
 ### Sistema
 ![[Pasted image 20240415121736.png]]
 ## Arquitectura
-Una dirección logica consiste de un par:
+Una dirección lógica consiste de un par:
 - Número de segmento: *desplazamiento*
 La tabla de segmentos
 - Mapea de forma bi-dimensional direcciones físicas
 - Cada entrada de la tabla tiene:
 	- **Base**: contiene la dirección física inicial donde reside el segmento en memoria.
 	- **Límite**: especifica el tamaño del segmento
+- Segment-table base register (*STBR*)
+	- Apunta a la dirección de la tabla de segmentos en memoria
+- Segment-table length register (*STLR*)
+	- Indica el número de segmentos usados por el programa
+	- La dirección es válida si el numero de segmento<*STLR*
+
+- Recolocación
+	- Dinámica
+	- Por tabla de segmentos
+- Compartición
+	- Segmentos compartidos
+	- El mismo número de segmento
+- Asignación
+	- Primer ajuste/mejor ajuste
+	- Fragmentación externa
+- *Bits de protección* asociados a segmentos
+	- La compartición de memoria ocurre a nivel de segmentación
+- Ya que los segmentos varían de longitud, la asignación de memoria es un problema de asignación dinámica.
+## Compartición de segmentos
+![[Pasted image 20240415122620.png]]
+## Esquema de traducción de direcciones de MULTICS
+![[Pasted image 20240415122725.png]]
+## Intel, traducción de direcciones
+![[Pasted image 20240415122843.png]] 
