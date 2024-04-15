@@ -34,7 +34,6 @@ Fully ACID-complaint, which means that it offers the same guarantees you'd have 
 ## DQL
 Dgraph Query Language is Dgraph's propietary language to *add*, *modify*, *delete* and *fetch data*.
 Is declarative, which means that queries return a response back in a similar shape to the query.
-
 ## Queries
 Fetching data is done through **DQL Queries**.
 ## Mutation
