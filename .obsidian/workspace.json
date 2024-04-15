@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
+                "file": "NoSQL/Graph Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
+                "file": "NoSQL/Graph Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
+                "file": "NoSQL/Graph Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md"
+                "file": "NoSQL/Graph Database.md"
               }
             }
           },
@@ -178,23 +178,33 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/P2/Arboles.md",
-    "Estrategias algoritmicas/P2/Programación Dinámica.md",
-    "Estrategias algoritmicas/P2",
-    "Estrategias algoritmicas/Untitled.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
+    "Index.md",
+    "NoSQL/Graph Database.md",
+    "Untitled.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Monitores - solución del sistema.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Manejo de la memoria.md",
+    "Operating Systems/In line assembly.md",
+    "Operating Systems/Hilos Posix.md",
+    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/Sesiones/Memory managment.md",
+    "Operating Systems/Sesiones/Sesión 5 1.md",
+    "Operating Systems/Sesiones/PO.md",
     "Operating Systems/Sesiones/Hardware solutions.md",
     "Operating Systems/Sesiones/Memoria compartida.md",
-    "Operating Systems/Sesiones/Memory managment.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Previos a sesiones QUIZ.md",
+    "Operating Systems/Planificación en tiempo real.md",
+    "Estrategias algoritmicas/P2/Programación Dinámica.md",
+    "Estrategias algoritmicas/P2/Arboles.md",
+    "Estrategias algoritmicas/P2",
+    "Estrategias algoritmicas/Untitled.md",
     "Operating Systems/Sesiones/Scheduling.md",
-    "Operating Systems/Sesiones/PO.md",
-    "C/Advanced Udemy Course/Auto Variables.md",
-    "C/Advanced Udemy Course/Memory Overview.md",
-    "C/Advanced Udemy Course/Header files.md",
-    "C/Advanced Udemy Course/Communication between files.md",
-    "NoSQL/MongoDB - MQL.md",
-    "Software Requirements/BDD.md",
-    "Operating Systems/Manejo de la memoria.md",
     "PHOTOS/Pasted image 20240404174338.png",
     "PHOTOS/Pasted image 20240404173712.png",
     "PHOTOS/Pasted image 20240404173221.png",
@@ -205,16 +215,6 @@
     "PHOTOS/Pasted image 20240404170829.png",
     "PHOTOS/Pasted image 20240404170618.png",
     "PHOTOS/Pasted image 20240404170138.png",
-    "Estrategias algoritmicas/P2/Algoritmos Voraces - Greedy.md",
-    "Estrategias algoritmicas/P2/Tablas hash.md",
-    "NoSQL/Dgraph.md",
-    "Operating Systems/Volatile.md",
-    "CV META/CV foramt.md",
-    "Operating Systems/Sesiones/Sesión 5 1.md",
-    "Operating Systems/Sesiones/Sesión 2 (Processes).md",
-    "Operating Systems/Sesiones/Sesión 1.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Procesos.md",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
