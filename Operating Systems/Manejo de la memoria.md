@@ -180,3 +180,16 @@ Un segmento es un aunidad lógica
 	- Para retorno de las llamadas a funciones, paso de parámetros y variables locales
 - Datos
 	- Variables globales
+
+## Traducción de direcciones lógicas a físicas
+![[Pasted image 20240415121657.png]]
+### Sistema
+![[Pasted image 20240415121736.png]]
+## Arquitectura
+Una dirección logica consiste de un par:
+- Número de segmento: *desplazamiento*
+La tabla de segmentos
+- Mapea de forma bi-dimensional direcciones físicas
+- Cada entrada de la tabla tiene:
+	- **Base**: contiene la dirección física inicial donde reside el segmento en memoria.
+	- **Límite**: especifica el tamaño del segmento

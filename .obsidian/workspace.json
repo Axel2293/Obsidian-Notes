@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -178,6 +179,9 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240415121736.png",
+    "PHOTOS/Pasted image 20240415121657.png",
+    "PHOTOS/Pasted image 20240415121559.png",
     "PHOTOS/Pasted image 20240415120954.png",
     "Operating Systems/Untitled.md",
     "NoSQL/Graph Database.md",
@@ -212,9 +216,6 @@
     "PHOTOS/Pasted image 20240404171958.png",
     "PHOTOS/Pasted image 20240404171443.png",
     "PHOTOS/Pasted image 20240404171005.png",
-    "PHOTOS/Pasted image 20240404170829.png",
-    "PHOTOS/Pasted image 20240404170618.png",
-    "PHOTOS/Pasted image 20240404170138.png",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
