@@ -171,3 +171,12 @@ Las tablas de páginas podrían ser muy grandes
 	- Cada proceso mantiene una copia separada del código y datos
 	- Las páginas para el código privado y datos pueden aparecer en cualquier parte en el espacio de direcciones lógico
 ![[Pasted image 20240404174338.png|500]]
+# Segmentación
+Es visible para el programador y debe de tener cuidado de no salirse de uno de estos, ademas de que puede haber muchos problemas de seguridad, como lo es buffer overflow.
+Un segmento es un aunidad lógica
+- Código
+	- Programa principal, funciones.
+- Stack
+	- Para retorno de las llamadas a funciones, paso de parámetros y variables locales
+- Datos
+	- Variables globales
