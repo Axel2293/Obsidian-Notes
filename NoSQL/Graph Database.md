@@ -30,3 +30,9 @@ Fully ACID-complaint, which means that it offers the same guarantees you'd have 
 	docker run --name ratel -d -p 8000:8000 dgraph/ratel:latest
 
 ```
+
+## DQL
+Dgraph Query Language is Dgraph's propietary language to *add*, *modify*, *delete* and *fetch data*.
+
+## Mutation
+Adding, modifying or deleting data is done through DQL *Mutations*.
