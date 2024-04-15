@@ -21,4 +21,4 @@ Entities in the graph
 - Tigergraph
 
 # DGraph
-Fully ACID-complaint, which means
+Fully ACID-complaint, which means that it offers the same guarantees you'd have if you were using a traditional relational database system.
