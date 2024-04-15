@@ -19,4 +19,6 @@ Entities in the graph
 - Amazon Neptune
 - Azure Cosmos DB
 - Tigergraph
-- 
+
+# DGraph
+Fully ACID-complaint, which means
