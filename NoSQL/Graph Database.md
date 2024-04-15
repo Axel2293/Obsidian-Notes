@@ -22,3 +22,11 @@ Entities in the graph
 
 # DGraph
 Fully ACID-complaint, which means that it offers the same guarantees you'd have if you were using a traditional relational database system.
+### On docker
+```bash
+// Dgraph engine:
+	docker run --name dgraph -d -p 8080:8080 -p 9080:9080 dgraph/standalone:latest
+// Dgraph Ratel (UI web):
+	docker run --name ratel -d -p 8000:8000 dgraph/ratel:latest
+
+```
