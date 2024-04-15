@@ -151,6 +151,8 @@ Podemos resolverlo mediante **caché de hardware**.
 Actualmente una dirección lógica puede ser de hasta 40 bits.
 ![[Pasted image 20240404172933.png]]
 Las tablas de páginas podrían ser muy grandes
+
+![[Pasted image 20240415120954.png]]
 ### Esquema
 ![[Pasted image 20240404173221.png]]
 ## Tabla de páginas invertida

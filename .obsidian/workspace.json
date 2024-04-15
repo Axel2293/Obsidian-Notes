@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/Graph Database.md",
+                "file": "Operating Systems/Manejo de la memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/Graph Database.md",
+                "file": "Operating Systems/Manejo de la memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/Graph Database.md",
+                "file": "Operating Systems/Manejo de la memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/Graph Database.md"
+                "file": "Operating Systems/Manejo de la memoria.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
-    "Index.md",
+    "PHOTOS/Pasted image 20240415120954.png",
+    "Operating Systems/Untitled.md",
     "NoSQL/Graph Database.md",
+    "Index.md",
     "Untitled.md",
     "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Procesos.md",
@@ -203,8 +205,6 @@
     "Estrategias algoritmicas/P2/Programación Dinámica.md",
     "Estrategias algoritmicas/P2/Arboles.md",
     "Estrategias algoritmicas/P2",
-    "Estrategias algoritmicas/Untitled.md",
-    "Operating Systems/Sesiones/Scheduling.md",
     "PHOTOS/Pasted image 20240404174338.png",
     "PHOTOS/Pasted image 20240404173712.png",
     "PHOTOS/Pasted image 20240404173221.png",
