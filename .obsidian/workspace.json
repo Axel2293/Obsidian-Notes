@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29769ea433f4f606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrategias algoritmicas/P2/Arboles binarios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -77,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -179,16 +190,17 @@
   },
   "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/P2/Arboles binarios.md",
+    "Estrategias algoritmicas/P2/Arboles.md",
+    "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+    "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
     "PHOTOS/Pasted image 20240417152655.png",
     "PHOTOS/Pasted image 20240417150109.png",
     "PHOTOS/Pasted image 20240417150032.png",
     "PHOTOS/Pasted image 20240417150022.png",
     "Estrategias algoritmicas/P2/Tablas hash.md",
-    "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
     "Estrategias algoritmicas/P2/Programación Dinámica.md",
     "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
-    "Estrategias algoritmicas/P2/Arboles binarios.md",
-    "Estrategias algoritmicas/P2/Arboles.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Semana 5.md",
@@ -202,7 +214,6 @@
     "PHOTOS/Pasted image 20240415121736.png",
     "PHOTOS/Pasted image 20240415121657.png",
     "PHOTOS/Pasted image 20240415121559.png",
-    "PHOTOS/Pasted image 20240415120954.png",
     "Operating Systems/Untitled.md",
     "NoSQL/Graph Database.md",
     "Index.md",

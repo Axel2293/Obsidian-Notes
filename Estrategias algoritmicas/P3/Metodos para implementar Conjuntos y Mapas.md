@@ -3,6 +3,10 @@
 Consiste en que cada nodo tenga dos nodos hijos, donde la *izquierda* es menor que el nodo y la *derecha* es mayor que el nodo. 
 >[!info]
 >Opcionalmente, los nodos pueden también guardar un apuntador a su padre.
+Existen 3 formas de recorrer un arbol
+- YO, Left, Right (PRE-ORDEN)
+- Left, Yo, Right (En orden)
+- Left, Right, Yo
 ### Operaciones
 #### Públicas
 - Añadir clave
@@ -68,4 +72,21 @@ Cuando `bfactor =< -1`se dice que es **right-heavy**
 - Right then left rotation
 
 ## Arboles Rojo-Negro
+Es un árbol binario de búsqueda donde cada nodo tiene un atributo binario adicional: *el color* (rojo o negro).
+
+- La raíz siempre es negra (*root property*)
+- Su un nodo es *Rojo*, sus dos hijos son negros (*red property*)
+
+Aseguran que no exista una ruta más de dos veces más larga que otra.: el árbol está aproximadamente balanceado.
 ## Arboles B
+Arboles para la inserción de datos
+*t* = grado mínimo del árbol
+- Límite inferior: cada nodo tiene  al menos *t-1* claves
+- Limite superior: cada nodo tiene máximo *2t-1* claves
+>[!info]
+>En el nodo raíz no aplica el limite inferior.
+
+### Inserción
+Cuando insertamos, se busca en que nodo debe ir, si el nodo está lleno, entonces se envía la *mediana* entre las claves al padre y se crean 2 nuevos nodos:
+- Izquierda: todo lo que hay a la izquierda de la mediana
+- Derecha: todo lo que hay a la derecha de la mediana
