@@ -29,7 +29,9 @@ El hijo del nodo a borrar se convierte en el nuevo nodo, asi que el padre ahora 
 #### Con dos hijos
 Obtenemos predecesor del nodo a borrar y ahora la clave del nodo a borrar será la clave de su predecesor.
 ![[Pasted image 20240417150022.png|500]]
-
+### Complejidad
+N = número de elementos
+h = altura máxima
 # Arboles Balanceados
 ## Arboles AVL
 ## Arboles Rojo-Negro
