@@ -54,6 +54,7 @@ El *factor de balance* de un nodo se define como la diferencia entre las alturas
 - $bfactor (node) = height(node.right) – height(node.left)$
 - $height(node) = node.height <-if node is not null; 0 <-otherwise$
 - El Factor de balance de una hoja es de **0**
-- 
+- para ser AVL se debe de cumplir que
+	- $𝑏𝑓𝑎𝑐𝑡𝑜𝑟(𝑛) ∈ {−1, 0, 1}$
 ## Arboles Rojo-Negro
 ## Arboles B
