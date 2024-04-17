@@ -57,5 +57,7 @@ El *factor de balance* de un nodo se define como la diferencia entre las alturas
 - para ser AVL se debe de cumplir que
 	- $𝑏𝑓𝑎𝑐𝑡𝑜𝑟(𝑛) ∈ {−1, 0, 1}$
 - Requiere efectuar una o más rotaciones
+### Rotaciones
+
 ## Arboles Rojo-Negro
 ## Arboles B
