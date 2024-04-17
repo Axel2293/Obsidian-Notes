@@ -18,6 +18,9 @@ Consiste en que cada nodo tenga dos nodos hijos, donde la *izquierda* es menor q
 - Encontrar nodo sucesor de otro nodo
 - Encontrar nodo predecesor de otro nodo
 - Quitar nodo de árbol
+### Eliminación
+Para eliminar un nodo, debemos 
+
 # Arboles Balanceados
 ## Arboles AVL
 ## Arboles Rojo-Negro
