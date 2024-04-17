@@ -1,4 +1,4 @@
-Los procesos son traidos a memoria para ser ejecutados y primero pasan por varais etapas para ser ejecutados:
+Los procesos son traidos a memoria para ser ejecutados y primero pasan por varias etapas para ser ejecutados:
 
 ## Asociación de instrucciones y datos a direcciones de memoria
 Puede suceder de tres formas distintas
