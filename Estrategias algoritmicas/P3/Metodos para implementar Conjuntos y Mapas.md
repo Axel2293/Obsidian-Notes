@@ -21,6 +21,8 @@ Consiste en que cada nodo tenga dos nodos hijos, donde la *izquierda* es menor q
 ### Eliminación
 Para eliminar un nodo, debemos tomar en cuenta cuantos hijos tiene:
 #### Sin hijos
+Simplemente eliminamos el nodo y borramos la referencia del padre (si es hijo).
+#### Con un hijo
 
 
 # Arboles Balanceados
