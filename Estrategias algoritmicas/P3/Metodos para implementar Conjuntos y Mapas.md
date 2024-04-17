@@ -22,10 +22,13 @@ Consiste en que cada nodo tenga dos nodos hijos, donde la *izquierda* es menor q
 Para eliminar un nodo, debemos tomar en cuenta cuantos hijos tiene:
 #### Sin hijos
 Simplemente eliminamos el nodo y borramos la referencia del padre (si es hijo).
+![[Pasted image 20240417150109.png|500]]
 #### Con un hijo
 El hijo del nodo a borrar se convierte en el nuevo nodo, asi que el padre ahora apunta a este también.
+![[Pasted image 20240417150032.png|500]]
 #### Con dos hijos
-
+Obtenemos predecesor del nodo a borrar y ahora la clave del nodo a borrar será la clave de su predecesor.
+![[Pasted image 20240417150022.png|500]]
 
 # Arboles Balanceados
 ## Arboles AVL
