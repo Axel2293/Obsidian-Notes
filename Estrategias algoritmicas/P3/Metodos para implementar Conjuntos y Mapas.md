@@ -19,7 +19,9 @@ Consiste en que cada nodo tenga dos nodos hijos, donde la *izquierda* es menor q
 - Encontrar nodo predecesor de otro nodo
 - Quitar nodo de árbol
 ### Eliminación
-Para eliminar un nodo, debemos 
+Para eliminar un nodo, debemos tomar en cuenta cuantos hijos tiene:
+#### Sin hijos
+
 
 # Arboles Balanceados
 ## Arboles AVL
