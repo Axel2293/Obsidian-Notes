@@ -37,9 +37,17 @@ Search in balanced tree
 - O(h)
 - O(log n)
 
-## No balaceados
-𝑇 (𝑁) = 𝑂(log2 𝑁)
+## Balaceados
+`𝑇 (𝑁) = 𝑂(log2 𝑁)`
+## No balanceados
+Podría ser que, se recorran todos los nodos y tengamos un tiempo lineal
+`𝑇 𝑁 = 𝑂(𝑁)`
 # Arboles Balanceados
 ## Arboles AVL
+Primer árbol auto-balanceado
+- La diferencia en las alturas de los dos hijos de cualquier nodo *no debe ser mayor que 1.* Si se llegan a diferencias mayores que 1, se debe de ejecutar un proceso de balanceo para recuperar la propiedad. (llega como resultado de *insertar* y *eliminar*)
+- Cada nodo `n` tiene una altura que denota el número de pasos que necesita `n` para alcanzar la hoja más lejana +1.
+- ![[Pasted image 20240417152655.png]]
+
 ## Arboles Rojo-Negro
 ## Arboles B
