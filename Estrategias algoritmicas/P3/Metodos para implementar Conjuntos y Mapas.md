@@ -47,7 +47,13 @@ Podría ser que, se recorran todos los nodos y tengamos un tiempo lineal
 Primer árbol auto-balanceado
 - La diferencia en las alturas de los dos hijos de cualquier nodo *no debe ser mayor que 1.* Si se llegan a diferencias mayores que 1, se debe de ejecutar un proceso de balanceo para recuperar la propiedad. (llega como resultado de *insertar* y *eliminar*)
 - Cada nodo `n` tiene una altura que denota el número de pasos que necesita `n` para alcanzar la hoja más lejana +1.
+- Cada **hoja** tiene una altura `h = 1`
 - ![[Pasted image 20240417152655.png]]
-
+### Balance
+El *factor de balance* de un nodo se define como la diferencia entre las alturas de sus hijos derecho e izquierdo.
+- $bfactor (node) = height(node.right) – height(node.left)$
+- $height(node) = node.height <-if node is not null; 0 <-otherwise$
+- El Factor de balance de una hoja es de **0**
+- 
 ## Arboles Rojo-Negro
 ## Arboles B
