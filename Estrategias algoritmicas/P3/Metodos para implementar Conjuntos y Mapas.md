@@ -36,6 +36,9 @@ h = altura máxima
 Search in balanced tree
 - O(h)
 - O(log n)
+
+## No balaceados
+
 # Arboles Balanceados
 ## Arboles AVL
 ## Arboles Rojo-Negro
