@@ -60,6 +60,12 @@ El *factor de balance* de un nodo se define como la diferencia entre las alturas
 ### Rotaciones
 Cuando `bfactor => 1`se dice que es **left-heavy**
 Cuando `bfactor =< -1`se dice que es **right-heavy**
+#### Left-heavy
+- Right rotation
+- Left then right rotation
+#### Right-heavy
+- Left rotation
+- Right then left rotation
 
 ## Arboles Rojo-Negro
 ## Arboles B
