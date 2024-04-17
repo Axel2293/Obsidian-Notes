@@ -38,7 +38,7 @@ Search in balanced tree
 - O(log n)
 
 ## No balaceados
-
+𝑇 𝑁 = 𝑂(log2 𝑁)
 # Arboles Balanceados
 ## Arboles AVL
 ## Arboles Rojo-Negro
