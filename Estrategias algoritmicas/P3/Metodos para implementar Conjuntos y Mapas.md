@@ -23,6 +23,8 @@ Para eliminar un nodo, debemos tomar en cuenta cuantos hijos tiene:
 #### Sin hijos
 Simplemente eliminamos el nodo y borramos la referencia del padre (si es hijo).
 #### Con un hijo
+El hijo del nodo a borrar se convierte en el nuevo nodo, asi que el padre ahora apunta a este también.
+#### Con dos hijos
 
 
 # Arboles Balanceados
