@@ -32,6 +32,10 @@ Obtenemos predecesor del nodo a borrar y ahora la clave del nodo a borrar será 
 ### Complejidad
 N = número de elementos
 h = altura máxima
+
+Search in balanced tree
+- O(h)
+- O(log n)
 # Arboles Balanceados
 ## Arboles AVL
 ## Arboles Rojo-Negro
