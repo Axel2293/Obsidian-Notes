@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f92521af905979a",
+        "id": "2e59435737c0c2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "fcea84658ff9cf2f",
+            "id": "ee2350404225292e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8cbe004a3c806f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77432b69c85e6181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrategias algoritmicas/P2/Tablas hash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92bd8349bdfcd91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
+                "file": "Operating Systems/P3/Sistemas de Archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
+                "file": "Operating Systems/P3/Sistemas de Archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
+                "file": "Operating Systems/P3/Sistemas de Archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md"
+                "file": "Operating Systems/P3/Sistemas de Archivos.md"
               }
             }
           },
@@ -212,8 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
+    "Estrategias algoritmicas/P2/Tablas hash.md",
+    "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Programación Orientada a Objetos/JAVA/Threads.md",
     "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(1).md",
@@ -223,13 +191,10 @@
     "PHOTOS/Pasted image 20240418154629.png",
     "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
     "Operating Systems/P3",
-    "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
     "Estrategias algoritmicas/P2/Programación Dinámica.md",
-    "Estrategias algoritmicas/P2/Tablas hash.md",
     "Estrategias algoritmicas/P2/Arboles.md",
     "PHOTOS/Pasted image 20240417221448.png",
     "PHOTOS/Pasted image 20240417220134.png",
-    "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
     "Estrategias algoritmicas/P2/Arboles binarios.md",
     "PHOTOS/Pasted image 20240417152655.png",
     "PHOTOS/Pasted image 20240417150109.png",
@@ -251,7 +216,6 @@
     "Operating Systems/Problemas de concurrencia.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Planificación.md",
     "Estrategias algoritmicas/P2",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
