@@ -24,3 +24,11 @@ El Master Boot Record es un programa que, cuando arrancamos, se carga en la memo
 ![[Pasted image 20240418164708.png]]
 ### Cylinder, Head, Sector (CHS)
 ![[Pasted image 20240418164857.png]]
+## Sectores lógicos
+![[Pasted image 20240418165144.png]]
+En este sector físico, no pertenece a ninguna partición y contiene el MBR y las tablas de particiones.
+![[Pasted image 20240418165252.png]]
+>[!tip]
+Es mucho más fácil manejar los sectores numerados de forma lineal que de una forma tridimensional.
+
+![[Pasted image 20240418165536.png]]
