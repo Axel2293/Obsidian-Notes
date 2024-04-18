@@ -4,5 +4,8 @@ Sección de la superficie del mismo que corresponde al área encerrada entre dos
 ### Cilindro
 Son todas las pistas de todas las superficies con la misma numeración
 ### Superficie
-En cada plato
+En cada plato hay dos superficies
+## Disco desde arriba
 ![[Pasted image 20240418155914.png]]
+>[!info]
+>Tiempo de búsqueda: cantidad de tiempo requerida por la cabeza para socicionar su brazo en la pista
