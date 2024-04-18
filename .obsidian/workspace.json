@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md"
+                "file": "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md"
               }
             }
           },
@@ -212,14 +212,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcea84658ff9cf2f",
+  "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
+    "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
+    "Programación Orientada a Objetos/JAVA/Threads.md",
+    "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(1).md",
+    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
+    "Operating Systems/P3/Sistemas de Archivos.md",
+    "PHOTOS/Pasted image 20240418154633.png",
+    "PHOTOS/Pasted image 20240418154629.png",
+    "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+    "Operating Systems/P3",
     "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
     "Estrategias algoritmicas/P2/Programación Dinámica.md",
     "Estrategias algoritmicas/P2/Tablas hash.md",
     "Estrategias algoritmicas/P2/Arboles.md",
     "PHOTOS/Pasted image 20240417221448.png",
-    "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
     "PHOTOS/Pasted image 20240417220134.png",
     "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
     "Estrategias algoritmicas/P2/Arboles binarios.md",
@@ -236,8 +244,6 @@
     "Estrategias algoritmicas/P3",
     "PHOTOS/Pasted image 20240415122843.png",
     "PHOTOS/Pasted image 20240415122725.png",
-    "PHOTOS/Pasted image 20240415122620.png",
-    "PHOTOS/Pasted image 20240415121736.png",
     "Operating Systems/Untitled.md",
     "NoSQL/Graph Database.md",
     "Index.md",
@@ -246,10 +252,6 @@
     "Operating Systems/Procesos.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Planificación.md",
-    "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Monitores - solución del sistema.md",
-    "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/In line assembly.md",
     "Estrategias algoritmicas/P2",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
@@ -259,7 +261,6 @@
     "NoSQL/P1",
     "NoSQL",
     "Software Requirements/Sesiones",
-    "Software Requirements",
-    "Operating Systems/Sesiones"
+    "Software Requirements"
   ]
 }
