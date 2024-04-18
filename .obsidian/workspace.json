@@ -20,18 +20,43 @@
             }
           },
           {
-            "id": "29769ea433f4f606",
+            "id": "c8cbe004a3c806f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Arboles binarios.md",
+                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77432b69c85e6181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrategias algoritmicas/P2/Arboles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92bd8349bdfcd91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+                "file": "Estrategias algoritmicas/P2/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+                "file": "Estrategias algoritmicas/P2/Arboles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md"
+                "file": "Estrategias algoritmicas/P2/Arboles.md"
               }
             }
           },
@@ -189,10 +214,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcea84658ff9cf2f",
+  "active": "77432b69c85e6181",
   "lastOpenFiles": [
-    "Estrategias algoritmicas/P2/Arboles binarios.md",
+    "PHOTOS/Pasted image 20240417220134.png",
+    "Estrategias algoritmicas/P2/Programación Dinámica.md",
     "Estrategias algoritmicas/P2/Arboles.md",
+    "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
+    "Estrategias algoritmicas/P2/Arboles binarios.md",
     "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
     "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
     "PHOTOS/Pasted image 20240417152655.png",
@@ -200,8 +228,6 @@
     "PHOTOS/Pasted image 20240417150032.png",
     "PHOTOS/Pasted image 20240417150022.png",
     "Estrategias algoritmicas/P2/Tablas hash.md",
-    "Estrategias algoritmicas/P2/Programación Dinámica.md",
-    "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Semana 5.md",
@@ -227,7 +253,6 @@
     "Operating Systems/Monitores - solución del sistema.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/In line assembly.md",
-    "Operating Systems/Hilos Posix.md",
     "Estrategias algoritmicas/P2",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",

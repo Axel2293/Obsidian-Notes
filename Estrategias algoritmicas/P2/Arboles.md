@@ -14,6 +14,7 @@ Arboles para la inserción de datos
 >[!info]
 >En el nodo raíz no aplica el limite inferior.
 
+![[Pasted image 20240417220134.png]]
 ### Inserción
 Cuando insertamos, se busca en que nodo debe ir, si el nodo está lleno, entonces se envía la *mediana* entre las claves al padre y se crean 2 nuevos nodos:
 - Izquierda: todo lo que hay a la izquierda de la mediana
