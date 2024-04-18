@@ -32,3 +32,5 @@ En este sector físico, no pertenece a ninguna partición y contiene el MBR y la
 Es mucho más fácil manejar los sectores numerados de forma lineal que de una forma tridimensional.
 
 ![[Pasted image 20240418165536.png]]
+![[Pasted image 20240418165726.png]]
+![[Pasted image 20240418165812.png]]
