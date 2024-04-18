@@ -8,4 +8,10 @@ En cada plato hay dos superficies
 ## Disco desde arriba
 ![[Pasted image 20240418155914.png]]
 >[!info]
->Tiempo de búsqueda: cantidad de tiempo requerida por la cabeza para socicionar su brazo en la pista
+>Tiempo de búsqueda: cantidad de tiempo requerida por la cabeza para posicionar su brazo en la pista. 
+>$tiempo = Distancia/velocidad$
+
+# Interleave
+![[Pasted image 20240418161634.png]]
+
+
