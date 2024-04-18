@@ -10,7 +10,9 @@ Aseguran que no exista una ruta más de dos veces más larga que otra.: el árbo
 Arboles para la inserción de datos
 *t* = grado mínimo del árbol
 - Límite inferior: cada nodo tiene  al menos *t-1* claves
+	- y cada nodo interno tiene al menos **t hijos**
 - Limite superior: cada nodo tiene máximo *2t-1* claves
+	- y cada nodo interno tiene máximo **2t hijos**
 >[!info]
 >En el nodo raíz no aplica el limite inferior.
 
