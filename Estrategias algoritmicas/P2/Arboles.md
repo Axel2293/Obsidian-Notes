@@ -30,11 +30,13 @@ Es un árbol binario cuya navegación, inserción y eliminación es similar a un
 ![[Pasted image 20240417221448.png]]
 # Árbol de búsqueda RADIX
 Hace uso de nodos internos para representar los bits, pero no el valor final.
+ESTE ES BINARIO
 - Cada dato tiene un camino único
 - Cada dato puede hacer que se creen nuevos nodos internos
 - Usa mucha memoria ya que se crean muchos nodos internos
 
-## Multicamino MRT
+## Árbol Radix Multicamino MRT
+ESTE ya no es binario, puede tener multiples caminos por nodo
 Cada numero se divide en dígitos:
 - unidad, decena, centena
 Se desperdicia mucha memoria si se tienen pocos números, cada nodo tiene un arreglo de apuntadores a cada unidad dependiendo del nivel.
