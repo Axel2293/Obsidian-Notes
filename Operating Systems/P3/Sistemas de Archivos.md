@@ -17,5 +17,8 @@ Cada vez que se lee un sector, este se transfiere al controlador y vuelve a dar 
 
 ![[Pasted image 20240418164007.png]]
 ## Particiones del disco
-Sector de arranque o superbloque de cada
+Con las particiones podemos tener múltiples unidades de almacenamiento lógicas en una unidad física
 
+El Master Boot Record es un programa que, cuando arrancamos, se carga en la memoria principal. Este define y nos permite seleccionar con que sistema arrancar, o sea, transfiere el control al sistema de arranque del SO
+![[Pasted image 20240418164536.png]]
+![[Pasted image 20240418164708.png]]
