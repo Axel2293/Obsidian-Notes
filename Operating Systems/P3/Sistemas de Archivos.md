@@ -13,5 +13,5 @@ En cada plato hay dos superficies
 
 # Interleave
 ![[Pasted image 20240418161634.png]]
-Cada vez que se lee un sector, este se transfiere al controlador y vuelve a dar una vuelta (casi un arevolución)
+Cada vez que se lee un sector, este se transfiere al controlador y vuelve a dar una vuelta (casi una revolución)
 
