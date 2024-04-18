@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Programación Dinámica.md",
+                "file": "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Arboles.md",
+                "file": "Estrategias algoritmicas/P2/Tablas hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Arboles.md",
+                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Arboles.md",
+                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/P2/Arboles.md"
+                "file": "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md"
               }
             }
           },
@@ -214,21 +212,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77432b69c85e6181",
+  "active": "fcea84658ff9cf2f",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
+    "Estrategias algoritmicas/P2/Programación Dinámica.md",
+    "Estrategias algoritmicas/P2/Tablas hash.md",
+    "Estrategias algoritmicas/P2/Arboles.md",
     "PHOTOS/Pasted image 20240417221448.png",
     "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
-    "Estrategias algoritmicas/P2/Arboles.md",
     "PHOTOS/Pasted image 20240417220134.png",
-    "Estrategias algoritmicas/P2/Programación Dinámica.md",
     "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
     "Estrategias algoritmicas/P2/Arboles binarios.md",
-    "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
     "PHOTOS/Pasted image 20240417152655.png",
     "PHOTOS/Pasted image 20240417150109.png",
     "PHOTOS/Pasted image 20240417150032.png",
     "PHOTOS/Pasted image 20240417150022.png",
-    "Estrategias algoritmicas/P2/Tablas hash.md",
     "Estrategias algoritmicas/Sorting algorithms.md",
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Semana 5.md",
@@ -240,7 +238,6 @@
     "PHOTOS/Pasted image 20240415122725.png",
     "PHOTOS/Pasted image 20240415122620.png",
     "PHOTOS/Pasted image 20240415121736.png",
-    "PHOTOS/Pasted image 20240415121657.png",
     "Operating Systems/Untitled.md",
     "NoSQL/Graph Database.md",
     "Index.md",
