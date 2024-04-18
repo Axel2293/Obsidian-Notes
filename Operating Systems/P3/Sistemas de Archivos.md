@@ -15,3 +15,5 @@ En cada plato hay dos superficies
 ![[Pasted image 20240418161634.png]]
 Cada vez que se lee un sector, este se transfiere al controlador y vuelve a dar una vuelta (casi una revolución)
 
+![[Pasted image 20240418164007.png]]
+
