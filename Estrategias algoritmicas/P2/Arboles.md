@@ -27,7 +27,7 @@ Es un árbol binario cuya navegación, inserción y eliminación es similar a un
 
 - La raiz almacena el primer elemento almacenado.
 - Cada nivel representa un bit, empezando desde el más significativo, hacia la izquierda
-
+![[Pasted image 20240417221448.png]]
 # Árbol de búsqueda RADIX
 Hace uso de nodos internos para representar los bits, pero no el valor final.
 - Cada dato tiene un camino único
