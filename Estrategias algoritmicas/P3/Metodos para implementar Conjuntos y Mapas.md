@@ -62,8 +62,8 @@ El *factor de balance* de un nodo se define como la diferencia entre las alturas
 	- $𝑏𝑓𝑎𝑐𝑡𝑜𝑟(𝑛) ∈ {−1, 0, 1}$
 - Requiere efectuar una o más rotaciones
 ### Rotaciones
-Cuando `bfactor => 1`se dice que es **left-heavy**
-Cuando `bfactor =< -1`se dice que es **right-heavy**
+Cuando `bfactor => 1`se dice que es **Right-heavy**
+Cuando `bfactor =< -1`se dice que es **Left-heavy**
 #### Left-heavy
 - Right rotation
 - Left then right rotation
