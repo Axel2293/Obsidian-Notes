@@ -1,5 +1,5 @@
-Espera circular
-When the process are waiting for a semaphore or mutex that is given by another process.
+Sucede cuando hay **espera circular**
+When the process is waiting for a semaphore or mutex that is given by another process.
 ## Conditions for possible deadlock
 - *Mutual exclusion*
 - *Hold and wait*
