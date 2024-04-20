@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md",
+                "file": "Operating Systems/Memory Layout of C program.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md",
+                "file": "Operating Systems/Memory Layout of C program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md",
+                "file": "Operating Systems/Memory Layout of C program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Procesos Cooperantes.md"
+                "file": "Operating Systems/Memory Layout of C program.md"
               }
             }
           },
@@ -178,21 +178,24 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Planificación.md",
-    "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Monitores - solución del sistema.md",
-    "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/Manejo de la memoria.md",
     "Operating Systems/In line assembly.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Operating Systems/P3/Manejo de la memoria.md",
+    "Operating Systems/Memory Layout of C program.md",
+    "Operating Systems/Monitores - solución del sistema.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Planificación en tiempo real.md",
+    "Operating Systems/Previos a sesiones QUIZ.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Operating Systems/Volatile.md",
+    "Operating Systems/Untitled.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Planificación.md",
     "Operating Systems/Sesiones/Hardware solutions.md",
     "Operating Systems/Sesiones/Deadlock.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Previos a sesiones QUIZ.md",
     "Operating Systems/P3/Sistemas de Archivos.md",
     "PHOTOS/Pasted image 20240418165812.png",
     "PHOTOS/Pasted image 20240418165726.png",
@@ -211,10 +214,7 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Programación Orientada a Objetos/JAVA/Threads.md",
     "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(1).md",
-    "Programación Orientada a Objetos/JAVA/Modulo 2/Interfaz.md",
-    "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
     "Operating Systems/P3",
-    "Estrategias algoritmicas/P2/Programación Dinámica.md",
     "Estrategias algoritmicas/P3",
     "Estrategias algoritmicas/P2",
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
