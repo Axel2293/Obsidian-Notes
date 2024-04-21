@@ -38,4 +38,25 @@ La primera referencia a un página siempre ocasiona una excepción llamada fallo
 - Tiempo de Acceso Efectivo (EAT)
 	- EAT = (1-p) x tiempo_accesos_a_memoria + p(sobrecarga del fallo de página + [escribir página a disco] + cargar página del disco + sobrecarga por reinicio)
 	- Ejemplo:
+## Remplazo de páginas
+Prevenir la sobre-asignación de memoria
+- Modificando la rutina de fallos de página para incluir el remplazo de páginas
+Bit de modificado
+- Reducir la sobrecarga de transferencia de páginas
+- Solo las páginas modificadas se escriben en disco
+El remplazo de páginas completa la separación entre memoria lógica y memoria física
+- Memoria virtual más grande que la memoria física.
 
+### Politicas de reemplazo
+- Bloqueo de marcos:
+	- Hay páginas que no deben salir
+	- Páginas del núcleo del SO
+	- Estructuras de control
+	- Buffers de E/S
+	- El bloqueo de consigue asociando un bit de bloqueo a cada marco.
+- Política óptima:
+	- Selecciona para reemplazar la página que esperará más tiempo hasta que se produzca la referencia siguiente. *ESTO ES IMPOSIBLE DE IMPLEMENTAR*
+- **LRU**
+	- Remplaza la página de memoria que no ha sido referenciada desde hace más tiempo.
+	- Esta seria la página con menor probabilidad de ser referenciada en un futuro
+	- Etiquetar cada página con el momento de su última referencia.
