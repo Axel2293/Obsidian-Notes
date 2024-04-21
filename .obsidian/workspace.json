@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -178,6 +179,8 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240421160546.png",
+    "PHOTOS/Pasted image 20240421160537.png",
     "PHOTOS/Pasted image 20240421132932.png",
     "PHOTOS/Pasted image 20240421125747.png",
     "PHOTOS/Pasted image 20240421124909.png",
@@ -207,8 +210,6 @@
     "PHOTOS/Pasted image 20240418165252.png",
     "PHOTOS/Pasted image 20240418165144.png",
     "PHOTOS/Pasted image 20240418164857.png",
-    "PHOTOS/Pasted image 20240418164708.png",
-    "PHOTOS/Pasted image 20240418164536.png",
     "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
     "Estrategias algoritmicas/P2/Tablas hash.md",
     "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",

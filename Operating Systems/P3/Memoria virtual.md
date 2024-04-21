@@ -74,3 +74,17 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 	- Apuntador al sig marco
 ### VS
 - El rendimiento de FIFO es relativamente pobre
+
+# Asignación de marcos
+## Fija
+- Asignación equitativa
+	- Ejemplo: si son 100 marcos y 5 procesos, dale a cada uno 20 marcos
+- Asignación proporcional
+	- Asignar de acuerdo al tamaño del proceso
+	- ![[Pasted image 20240421160537.png]]
+	- ![[Pasted image 20240421160546.png]]
+## Por Prioridad
+- Usar un esquema de asignación proporcional *usando prioridades en vex de tamaño*.
+- Si el proceso pi ocasiona un fallo de página
+	- Selecciona uno de sus marcos para remplazarlo
+	- Selecciona un marco de un proceso con menor prioridad
