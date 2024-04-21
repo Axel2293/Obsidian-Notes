@@ -30,6 +30,12 @@ La primera referencia a un página siempre ocasiona una excepción llamada fallo
 >Alcance Global -> de todos los procesos
 
 >[!important] 
->Cuando se hace remplazo o swap, nos referimos a que una página pasa de memoria principal a secundaria y otra pagina pasa de secundaria a principal.
-
+>Cuando se hace *remplazo* o **swap**, nos referimos a que una página pasa de* memoria principal* a **secundaria** y otra pagina pasa de *secundaria* a **principal**.
+##### Rendimiento por demanda
+- Tasa de fallos de página 0<=p<=1.0
+	- If p=0 no fallos de página
+	- if p=1, cada referencia es un fallo
+- Tiempo de Acceso Efectivo (EAT)
+	- EAT = (1-p) x tiempo_accesos_a_memoria + p(sobrecarga del fallo de página + [escribir página a disco] + cargar página del disco + sobrecarga por reinicio)
+	- Ejemplo:
 
