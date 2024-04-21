@@ -4,3 +4,5 @@ Separación de la memoria lógica de usuario de la memoria física.
 - El espacio de direcciones lógico puede ser más grande que el espacio de direcciones físico
 - Se necesita permitir que las páginas salgan y entren (Memoria a disco y disco a memoria)
 ![[Pasted image 20240421124909.png]]
+>[!warning]
+>LRU (Least Recently Used). Es la forma en la que se remplazan los marcos cuando se traen otros para su uso.
