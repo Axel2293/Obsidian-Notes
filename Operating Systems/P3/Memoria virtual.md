@@ -67,5 +67,10 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 		- Se remplaza la página que ha estado más tiempo en la memoria.
 		- Estas páginas pueden necesitarse de nuevo y en un tiempo muy corto.
 		- Puede suceder la anomalía de *Belady*
+- **CLOCK**
+	- ![[Pasted image 20240421132932.png]]
+	- Organizar los marcos de forma circular.
+	- Bit de uso: indica si esa pagina esta siendo referenciada
+	- Apuntador al sig marco
 ### VS
 - El rendimiento de FIFO es relativamente pobre
