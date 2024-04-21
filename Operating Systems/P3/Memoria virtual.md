@@ -62,3 +62,10 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 	- Etiquetar cada página con el momento de su última referencia.
 - **FIFO**
 	- Primera en entrar, primera en salir.
+		- Los marcos de un proceso como un buffer circular
+		- Muy sencilla de implementar
+		- Se remplaza la página que ha estado más tiempo en la memoria.
+		- Estas páginas pueden necesitarse de nuevo y en un tiempo muy corto.
+		- Puede suceder la anomalía de *Belady*
+### VS
+- El rendimiento de FIFO es relativamente pobre
