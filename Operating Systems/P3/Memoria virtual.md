@@ -6,3 +6,23 @@ Separación de la memoria lógica de usuario de la memoria física.
 ![[Pasted image 20240421124909.png]]
 >[!warning]
 >LRU (Least Recently Used). Es la forma en la que se remplazan los marcos cuando se traen otros para su uso.
+
+# Paginación por demanda
+Traer página a memoria solo cuando se necesita
+- Menos E/S necesaria
+- Menos memoria requerida
+- Respuesta más rápida
+- Más usuarios
+### Bit de presente
+![[Pasted image 20240421125747.png]]
+Durante la traducción de direcciones, si el bit de presente es 0, entonces hay un fallo de página.
+#### Fallo de página
+La primera referencia a un página siempre ocasiona una excepción llamada fallo de página.
+- El SO busca en otra tabla para decidir
+	- Si es una referencia inválida, abortar
+	- Solo es que no está en memoria
+- Obtener un marco vacío
+- Guardar la página en un marco
+- Restaurar tablas, bit de presente = 1
+- Instrucción de reinicio: LRU
+
