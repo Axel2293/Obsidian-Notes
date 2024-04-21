@@ -102,3 +102,15 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 ![[Pasted image 20240421161537.png]]
 M = cantidad de marcos disponibles
 ![[Pasted image 20240421161626.png]]
+# Otras consideraciones
+- Selección del tamaño de página
+	- Fragmentación:
+		- ![[Pasted image 20240421162028.png]]
+		- Con paginas grandes, hay mucha frag interna.
+	- Tamaño de tabla
+		- ![[Pasted image 20240421162108.png]]
+	- Entrada y salida
+		- ![[Pasted image 20240421162211.png]]
+		- Con bloques grandes, se hacen menos transferencias u operaciones
+		- Con pequeñas, se hacen muchas operaciones.
+	- Localidad
