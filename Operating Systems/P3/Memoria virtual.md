@@ -114,3 +114,10 @@ M = cantidad de marcos disponibles
 		- Con bloques grandes, se hacen menos transferencias u operaciones
 		- Con pequeñas, se hacen muchas operaciones.
 	- Localidad
+		- Cuando se traen a los marcos la memoria requerida, si son grandes las páginas, es peor ya que se estaran remplazando mucho los marcos, pero si son pequeños, ocurren menos fallos de página
+# Segmentación por demanda
+Usada cuando no hay hardware suficiente para implementar la paginación por demanda.
+- OS/2 asigna memoria en segmentos, y cual lleva registro a través de los descriptores de segmento (tabla de segmentos)
+- El descriptor de segmentos contiene un *bit presente* para indicar cuando el segmento está en memoria.
+	- Si el segmento está en memoria principal, el acceso continúa
+	- Si no está en memoria, hay un fallo de segmento
