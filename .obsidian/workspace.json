@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Memory Layout of C program.md"
+                "file": "Operating Systems/P3/Memoria virtual.md"
               }
             }
           },
@@ -178,11 +178,12 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "Operating Systems/P3/Manejo de la memoria.md",
+    "Operating Systems/P3/Memoria virtual.md",
+    "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/In line assembly.md",
     "Operating Systems/Hilos Posix.md",
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Operating Systems/P3/Manejo de la memoria.md",
-    "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/Monitores - solución del sistema.md",
     "Operating Systems/Operaciones en Procesos.md",
     "Operating Systems/Planificación en tiempo real.md",
@@ -213,7 +214,6 @@
     "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
     "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Programación Orientada a Objetos/JAVA/Threads.md",
-    "Programación Orientada a Objetos/JAVA/Proyecto - Ideas(1).md",
     "Operating Systems/P3",
     "Estrategias algoritmicas/P3",
     "Estrategias algoritmicas/P2",
