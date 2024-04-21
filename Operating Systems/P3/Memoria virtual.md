@@ -25,4 +25,11 @@ La primera referencia a un página siempre ocasiona una excepción llamada fallo
 - Guardar la página en un marco
 - Restaurar tablas, bit de presente = 1
 - Instrucción de reinicio: LRU
+>[!important]
+>Alcance local -> de el proceso
+>Alcance Global -> de todos los procesos
+
+>[!important] 
+>Cuando se hace remplazo o swap, nos referimos a que una página pasa de memoria principal a secundaria y otra pagina pasa de secundaria a principal.
+
 
