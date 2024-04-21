@@ -88,3 +88,14 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 - Si el proceso pi ocasiona un fallo de página
 	- Selecciona uno de sus marcos para remplazarlo
 	- Selecciona un marco de un proceso con menor prioridad
+# Trashing (Hiperpaginación)
+- Si un proceso no tiene suficientes marcos
+	- La tasa de fallos de página es muy alta: mucha E/S
+	- El sistema Operativo cree que es necesario incrementar el grado de multiprogramación
+	- Se agrega otro proceso al sistema
+>[!summary]
+>La **hiperpaginación** es cuando un proceso está demasiado ocupado leyendo y escribiendo páginas del disco.
+
+![[Pasted image 20240421161148.png|500]]
+#### ¿Por que ocurre?
+![[Pasted image 20240421161253.png]]
