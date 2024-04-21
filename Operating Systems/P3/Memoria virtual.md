@@ -99,3 +99,6 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 ![[Pasted image 20240421161148.png|500]]
 #### ¿Por que ocurre?
 ![[Pasted image 20240421161253.png]]
+![[Pasted image 20240421161537.png]]
+M = cantidad de marcos disponibles
+![[Pasted image 20240421161626.png]]
