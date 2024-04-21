@@ -60,3 +60,5 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 	- Remplaza la página de memoria que no ha sido referenciada desde hace más tiempo.
 	- Esta seria la página con menor probabilidad de ser referenciada en un futuro
 	- Etiquetar cada página con el momento de su última referencia.
+- **FIFO**
+	- Primera en entrer, primera en salir.
