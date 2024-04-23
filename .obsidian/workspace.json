@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c14eb186f41fae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/P3/Manejo de la memoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md",
+                "file": "Operating Systems/P3/Manejo de la memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md",
+                "file": "Operating Systems/P3/Manejo de la memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md"
+                "file": "Operating Systems/P3/Manejo de la memoria.md"
               }
             }
           },
@@ -177,8 +190,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee2350404225292e",
+  "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
+    "Operating Systems/P3/Memoria virtual.md",
     "PHOTOS/Pasted image 20240421162211.png",
     "PHOTOS/Pasted image 20240421162108.png",
     "PHOTOS/Pasted image 20240421162028.png",
@@ -189,9 +203,7 @@
     "PHOTOS/Pasted image 20240421160546.png",
     "PHOTOS/Pasted image 20240421160537.png",
     "PHOTOS/Pasted image 20240421132932.png",
-    "PHOTOS/Pasted image 20240421125747.png",
     "Operating Systems/P3/Manejo de la memoria.md",
-    "Operating Systems/P3/Memoria virtual.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/In line assembly.md",
     "Operating Systems/Hilos Posix.md",
