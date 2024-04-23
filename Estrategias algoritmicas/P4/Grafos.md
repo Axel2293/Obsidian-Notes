@@ -1,0 +1,3 @@
+- Simple/Complejo
+- Dirigido/No dirigido
+- Ponderado/No ponderado

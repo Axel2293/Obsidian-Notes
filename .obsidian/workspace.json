@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md",
+                "file": "Estrategias algoritmicas/P4/Grafos.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md",
+                "file": "Estrategias algoritmicas/P4/Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md",
+                "file": "Estrategias algoritmicas/P4/Grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md"
+                "file": "Estrategias algoritmicas/P4/Grafos.md"
               }
             }
           },
@@ -192,6 +191,10 @@
   },
   "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
+    "Estrategias algoritmicas/P4",
+    "CV META/CV foramt.md",
+    "Estrategias algoritmicas/P4/Grafos.md",
+    "Operating Systems/P3/Manejo de la memoria.md",
     "Operating Systems/P3/Memoria virtual.md",
     "PHOTOS/Pasted image 20240421162211.png",
     "PHOTOS/Pasted image 20240421162108.png",
@@ -203,7 +206,6 @@
     "PHOTOS/Pasted image 20240421160546.png",
     "PHOTOS/Pasted image 20240421160537.png",
     "PHOTOS/Pasted image 20240421132932.png",
-    "Operating Systems/P3/Manejo de la memoria.md",
     "Operating Systems/Memory Layout of C program.md",
     "Operating Systems/In line assembly.md",
     "Operating Systems/Hilos Posix.md",
@@ -225,8 +227,6 @@
     "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
     "Estrategias algoritmicas/P2/Tablas hash.md",
     "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
-    "Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Operating Systems/P3",
     "Estrategias algoritmicas/P3",
     "Estrategias algoritmicas/P2",
