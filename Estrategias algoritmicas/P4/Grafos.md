@@ -1,3 +1,4 @@
 - Simple/Complejo
+	- Complejo: hay mas de una arista apuntado al mismo nodo en la misma dirección.
 - Dirigido/No dirigido
 - Ponderado/No ponderado
