@@ -32,22 +32,22 @@ Mientras mas rapida, mas cara.
 
 
 ![[Pasted image 20240117170742.png]]
-
+[![Linux | Introduction To Memory Management. – LiNuX 2 ME :)](https://linux2me.files.wordpress.com/2017/09/cpu111.png?w=1100)
 #### Caching
 Guardando datos de un nivel de la memoria a otro nivel superior. Ej-La cache esta copiando datos de la memoria principal.
 
 ## Proteccion de hardware
-Dos modos de operacion
-- Proteccion de E/S
-- proteccion de memoria
+Dos modos de operación
+- Protección de E/S
+- Protección de memoria
 Los sistemas que comparten recursos requieren sistemas operativos que aseguren que un programa no cause que otros de ejecuten incorrectamente.
-Proveen hardware para soportar diferencias entre dos modos de operacion 
-- Modo usuario - ejecucion por parte del usuario
-- Modo supervisor - ejecucion por parte del SO
+Proveen hardware para soportar diferencias entre dos modos de operación 
+- Modo usuario - ejecución por parte del usuario
+- Modo supervisor - ejecución por parte del SO
 ##### Bit de modo
 CPU: supervisor(0) - usuario(1)
-#### Proteccion de E/S
-Cuando un programa requiere acceder a E/S, debe de hacer una llamada al SO ya que esas llamadas son privilegiadas y ningun programa del usuario deberia de acceder a ellos directamente.
+#### Protección de E/S
+Cuando un programa requiere acceder a E/S, debe de hacer una llamada al SO ya que esas llamadas son privilegiadas y ningun programa del usuario debería de acceder a ellos directamente.
 Para acceder a los E/S el programa hace una *llamada al sistema*.
 ![[Pasted image 20240117171531.png]]
 
