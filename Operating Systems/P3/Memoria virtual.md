@@ -84,8 +84,8 @@ El remplazo de páginas completa la separación entre memoria lógica y memoria 
 	- ![[Pasted image 20240421160537.png]]
 	- ![[Pasted image 20240421160546.png]]
 ## Por Prioridad
-- Usar un esquema de asignación proporcional *usando prioridades en vex de tamaño*.
-- Si el proceso pi ocasiona un fallo de página
+- Usar un esquema de asignación proporcional *usando prioridades en vez de tamaño*.
+- Si el proceso Pi ocasiona un fallo de página
 	- Selecciona uno de sus marcos para remplazarlo
 	- Selecciona un marco de un proceso con menor prioridad
 # Trashing (Hiperpaginación)
