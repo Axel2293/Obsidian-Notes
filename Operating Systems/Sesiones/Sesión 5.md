@@ -15,7 +15,7 @@
 Process cannot affect or be affected by the execution of another process
 #### **Cooperating**
 Process can affect or be affected by the execution of another process
-- Information sharing
+- Information Sharing
 - Computational speed-up
 - Modularity
 - Convenience
