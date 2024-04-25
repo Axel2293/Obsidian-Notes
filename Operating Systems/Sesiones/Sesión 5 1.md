@@ -1,13 +1,13 @@
 # Threads - POSIX
-ultiple tasks with the application can be implemented by separate threads
+Multiple tasks with the application can be implemented by separate threads
 - Update display
 - Fetch data
-- Spell cheking
+- Spell checking
 - Answer a network request
 Process creation is heavy-weight while thread creation is light-weight
-- Simplify code, icrease efficiency
+- Simplify code, increase efficiency
 
-Proceses have their own data, etc (makes communication between process hard). *Threads* run on the same process, so we dont have to comunicate with other process.
+Processes have their own data, etc (which makes communication between processes hard). *Threads* run on the same process, so we don't have to communicate with another process.
 
 ## Types
 ### User Threads
