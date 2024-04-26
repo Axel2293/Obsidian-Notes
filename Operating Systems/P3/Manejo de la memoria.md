@@ -115,7 +115,7 @@ Se componen de:
 ![[Pasted image 20240404170618.png|500]]
 ### Arquitectura de traducción
 ![[Pasted image 20240404170829.png]]
-*f* es la direccion que obtenemos de la *tabla de páginas* y nos dice cual es la dirección física de la página.
+*f* es la dirección que obtenemos de la *tabla de páginas* y nos dice cual es la dirección física de la página.
 ![[Pasted image 20240404171005.png]]
 ## Implementación de la tabla de páginas
 Esta se mantiene en la **Memoria principal**.

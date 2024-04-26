@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md",
-                "mode": "source",
+                "file": "Operating Systems/P3/Memoria virtual.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/P3/Manejo de la memoria.md"
+                "file": "Operating Systems/P3/Memoria virtual.md"
               }
             }
           },
@@ -191,12 +191,12 @@
   },
   "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
+    "Operating Systems/P3/Manejo de la memoria.md",
     "Operating Systems/P3/Ethernet & TCP-IP.md",
     "Operating Systems/Procesos.md",
     "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Volatile.md",
-    "Operating Systems/P3/Manejo de la memoria.md",
     "Operating Systems/P3/Memoria virtual.md",
     "Operating Systems/Planificación en tiempo real.md",
     "Operating Systems/Planificación.md",
