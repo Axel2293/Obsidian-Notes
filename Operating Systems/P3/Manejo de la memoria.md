@@ -22,7 +22,7 @@ Una rutina no se carga hasta que es llamada
 >Útil cuando tenemos códigos grandes y no todo se usa al mismo tiempo
 >Puede implementarse con diseño del programa
 
-# Encadenamiento dinámico (dinamic linking) (Binding de direcciones)
+# Encadenamiento dinámico (dinamic linking) 
 El encadenamiento se hace hasta el tiempo de ejecución
 #### Stub
 - Pieza de código usada para localizar la rutina de libreria residente (las librerias no se incluyen en los ejecutables, solo la rutina)

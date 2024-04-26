@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 2 (Processes).md",
+                "file": "Operating Systems/P3/Manejo de la memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 2 (Processes).md",
+                "file": "Operating Systems/P3/Manejo de la memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 2 (Processes).md",
+                "file": "Operating Systems/P3/Manejo de la memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Sesiones/Sesión 2 (Processes).md"
+                "file": "Operating Systems/P3/Manejo de la memoria.md"
               }
             }
           },
@@ -191,34 +191,34 @@
   },
   "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
+    "Operating Systems/P3/Ethernet & TCP-IP.md",
+    "Operating Systems/Procesos.md",
+    "Operating Systems/Semáforos - solución del sistema.md",
+    "Operating Systems/Procesos Cooperantes.md",
+    "Operating Systems/Volatile.md",
+    "Operating Systems/P3/Manejo de la memoria.md",
+    "Operating Systems/P3/Memoria virtual.md",
+    "Operating Systems/Planificación en tiempo real.md",
+    "Operating Systems/Planificación.md",
+    "Operating Systems/Problemas de concurrencia.md",
+    "Operating Systems/Previos a sesiones QUIZ.md",
+    "Operating Systems/Operaciones en Procesos.md",
+    "Operating Systems/Sesiones/Scheduling.md",
+    "Operating Systems/P3/Sistemas de Archivos.md",
+    "Operating Systems/Sesiones/Deadlock.md",
+    "Operating Systems/Sesiones/Hardware solutions.md",
+    "Operating Systems/Sesiones/Memoria compartida.md",
+    "Operating Systems/Sesiones/Memory managment.md",
+    "Operating Systems/Sesiones/PO.md",
+    "Operating Systems/Sesiones/Sesión 1.md",
+    "Operating Systems/Sesiones/Sesión 2 (Processes).md",
     "Operating Systems/Sesiones/Sesión 3.md",
     "Operating Systems/Sesiones/Sesión 4.md",
     "Operating Systems/Sesiones/Sesión 5.md",
     "Operating Systems/Sesiones/Sesión 5 1.md",
-    "Operating Systems/P3/Manejo de la memoria.md",
-    "Operating Systems/P3/Ethernet & TCP-IP.md",
     "Estrategias algoritmicas/P4 Grafos/Grafos.md",
-    "Operating Systems/Sesiones/Hardware solutions.md",
     "Estrategias algoritmicas/P4 Grafos",
-    "Operating Systems/Sesiones/Deadlock.md",
-    "Operating Systems/P3/Sistemas de Archivos.md",
-    "Operating Systems/P3/Memoria virtual.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Procesos.md",
-    "Operating Systems/Problemas de concurrencia.md",
-    "Operating Systems/Previos a sesiones QUIZ.md",
-    "Operating Systems/Planificación en tiempo real.md",
-    "Operating Systems/Planificación.md",
-    "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Monitores - solución del sistema.md",
-    "Operating Systems/Memory Layout of C program.md",
-    "Operating Systems/In line assembly.md",
-    "Operating Systems/Hilos Posix.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Python/Anaconda.md",
     "Python",
-    "NoSQL/MongoDB - MQL.md",
     "Operating Systems.zip",
     "Estrategias algoritmicas/P4",
     "PHOTOS/Pasted image 20240421162211.png",
