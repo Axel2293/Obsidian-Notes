@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL/Graph Database.md",
+                "file": "Software Requirements/Use cases - User stories.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/Graph Database.md",
+                "file": "Software Requirements/Use cases - User stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/Graph Database.md",
+                "file": "Software Requirements/Use cases - User stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/Graph Database.md"
+                "file": "Software Requirements/Use cases - User stories.md"
               }
             }
           },
@@ -191,9 +191,12 @@
   },
   "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
-    "NoSQL/MongoDB - MQL.md",
+    "Software Requirements/Use Cases - Alternate flows.md",
+    "Software Requirements/Use cases - User stories.md",
+    "Software Requirements/Caso de uso.md",
     "NoSQL/Dgraph.md",
     "NoSQL/Graph Database.md",
+    "NoSQL/MongoDB - MQL.md",
     "Operating Systems/P3/Sistemas de Archivos.md",
     "Operating Systems/P3/Memoria virtual.md",
     "Operating Systems/P3/Manejo de la memoria.md",
@@ -214,9 +217,6 @@
     "Operating Systems/Sesiones/Memoria compartida.md",
     "Operating Systems/Sesiones/Memory managment.md",
     "Operating Systems/Sesiones/PO.md",
-    "Operating Systems/Sesiones/Sesión 1.md",
-    "Operating Systems/Sesiones/Sesión 2 (Processes).md",
-    "Operating Systems/Sesiones/Sesión 3.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
