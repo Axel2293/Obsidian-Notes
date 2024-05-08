@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
-                "mode": "preview",
+                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
+                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md",
+                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion Agil de Proyectos/Stakeholders-S7.md"
+                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md"
               }
             }
           },
@@ -191,8 +191,10 @@
   },
   "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
-    "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
+    "Estrategias algoritmicas/P4 Grafos/Untitled.md",
     "NoSQL/MongoDB - MQL.md",
+    "Gestion Agil de Proyectos/Stakeholders-S7.md",
+    "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
     "Software Requirements/BDD.md",
     "Software Requirements/Use cases - User stories.md",
     "Software Requirements/Use Cases - Alternate flows.md",
@@ -215,8 +217,6 @@
     "Operating Systems/Previos a sesiones QUIZ.md",
     "Operating Systems/Sesiones/Scheduling.md",
     "Operating Systems/Sesiones/Deadlock.md",
-    "Operating Systems/Sesiones/Hardware solutions.md",
-    "Operating Systems/Sesiones/Memoria compartida.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
