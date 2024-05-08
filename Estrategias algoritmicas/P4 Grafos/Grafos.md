@@ -29,7 +29,8 @@ de la representación de listas de adyacencia de 𝐺.
 Es el arbol resultante despues de calcular las rutas mas cortas desde s a los vertices. Es un *sub-grafo*.
 ![[Pasted image 20240508165717.png]]
 
-# DFS
+# DFS *Depth-First-Search*
+La busqueda en profundidad explora aristas hacia afuera a partir del vértice descubierto más reciente *v* que aún tiene aristas
 
 # DAG
 
