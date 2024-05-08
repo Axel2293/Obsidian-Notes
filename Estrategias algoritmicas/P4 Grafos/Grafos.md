@@ -4,3 +4,6 @@ Son los objetos que se interconectan.
 ### Aristas/arcos (E)
 Son las relaciones entre los nodos
 # DFS
+
+## Minimum spanning tree
+
