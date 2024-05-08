@@ -25,6 +25,8 @@ Como la suma de las longitudes de todas las listas de adyacencia es
  Por tanto, el tiempo de ejecución de BFS es lineal con respecto al tamaño
 
 de la representación de listas de adyacencia de 𝐺.
+# BFT
+
 # DFS
 
 # DAG
