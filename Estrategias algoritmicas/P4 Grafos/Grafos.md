@@ -10,6 +10,7 @@ Tres colores:
 - Gris: nodos por visitar (descubiertos)
 - Negro: nodos visitados (ya se calculó su distancia)
 
+![[Pasted image 20240508164846.png]]
 # DFS
 
 # DAG
