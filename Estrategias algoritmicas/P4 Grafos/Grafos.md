@@ -26,7 +26,7 @@ Como la suma de las longitudes de todas las listas de adyacencia es
 
 de la representación de listas de adyacencia de 𝐺.
 ## BFT
-Es el arbol resultante despues de calcular las rutas mas cortas desde s a los vertices. Es un *sub-grafo*.
+Es el árbol resultante despues de calcular las rutas mas cortas desde s a los vertices. Es un *sub-grafo*.
 ![[Pasted image 20240508165717.png]]
 
 # DFS *Depth-First-Search*
