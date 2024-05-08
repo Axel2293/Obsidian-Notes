@@ -3,7 +3,7 @@ Es una representación formal y gráfica de un sistema formado por objetos inter
 Son los objetos que se interconectan.
 ### Aristas/arcos (E)
 Son las relaciones entre los nodos
-# BFS
+# BFS *Breadth-first search*
 
 
 # DFS
