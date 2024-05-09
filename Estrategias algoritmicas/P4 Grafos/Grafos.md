@@ -69,4 +69,5 @@ Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 - El árbol comienza a partir de un vértice raíz arbitrario 𝑟 y crece hasta que haya abarcado a todos los vértices en 𝑉 (alcanzables desde 𝑟).
 - Estrategia **voraz** porque a cada paso añade al árbol una arista que contribuye con lo *menos posible al peso del árbol*.
 - Evita hacer ciclos
+![[Pasted image 20240508222124.png]]
 
