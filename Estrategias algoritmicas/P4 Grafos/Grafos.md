@@ -70,7 +70,9 @@ Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 - Estrategia **voraz** porque a cada paso añade al árbol una arista que contribuye con lo *menos posible al peso del árbol*.
 - Evita hacer ciclos
 ![[Pasted image 20240508222124.png]]
-
+- mantener una cola de prioridad minima de pesos
+- inicialmente, todos los nodos tienen peso infinito y parent null
+- Se recorre de origen y se va hijo por hijo.
 
 # Bellman-ford
 # Kruskal
