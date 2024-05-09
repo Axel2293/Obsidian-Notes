@@ -34,6 +34,9 @@ La búsqueda en profundidad explora aristas hacia afuera a partir del vértice d
 Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre primero los nodos hijos de los hijos, etc. (Los nodos descubiertos se agregan al stack-push)
 >[!seealso]
 >Si hay nodos no alcanzables desde origen, DFS selecciona alguno de ellos y repite el proceso.
+
+![[Pasted image 20240508203110.png]]
+![[Pasted image 20240508203148.png]]
 # DAG
 
 ## Minimum spanning tree
