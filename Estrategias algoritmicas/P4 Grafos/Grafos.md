@@ -36,6 +36,7 @@ Como la suma de las longitudes de todas las listas de adyacencia es 𝑂 |𝐸| 
  El tiempo de ejecución total de BFS es 𝑂( 𝑉 + |𝐸|).
 
  Por tanto, el tiempo de ejecución de BFS es lineal con respecto al tamaño de la representación de listas de adyacencia de 𝐺.
+![[Pasted image 20240509070916.png]]
 ## BFT
 Es el árbol resultante despues de calcular las rutas mas cortas desde s a los vertices. Es un *sub-grafo*.
 ![[Pasted image 20240508165717.png]]
