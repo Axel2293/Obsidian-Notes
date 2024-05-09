@@ -45,6 +45,8 @@ Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre pr
 - Back edges: son aristas (u, v) que conectan un vértice u con un ancestro v en GP.
 - Forward edges: son aristas (u, v) que conectan un vértice u con un descendiente v en un DFT.
 - Cross edges: son las demás aristas. Pueden conectar dos vértices del mismo DFT, siempre y cuando uno no sea ancestro del otro; o pueden conectar vértices de diferentes DFTs.
+- ![[Pasted image 20240508204238.png]]
+- 
 # DAG
 
 ## Minimum spanning tree
