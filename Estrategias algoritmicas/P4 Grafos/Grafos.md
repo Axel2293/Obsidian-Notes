@@ -71,8 +71,9 @@ Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 - Evita hacer ciclos
 ![[Pasted image 20240508222124.png]]
 - mantener una cola de prioridad minima de pesos
-- inicialmente, todos los nodos tienen peso infinito y parent null
-- Se recorre de origen y se va hijo por hijo.
+- inicialmente, todos los nodos tienen peso infinito y parent null, tambien se agregan a la cola de prioridad
+- Se recorre de origen-r 
+- Mientras el 
 
 # Bellman-ford
 # Kruskal
