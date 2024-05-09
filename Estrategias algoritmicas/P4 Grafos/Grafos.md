@@ -71,3 +71,6 @@ Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 - Evita hacer ciclos
 ![[Pasted image 20240508222124.png]]
 
+
+
+![[Pasted image 20240508222526.png]]
