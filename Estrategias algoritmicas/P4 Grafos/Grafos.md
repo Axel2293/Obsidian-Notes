@@ -58,5 +58,6 @@ Podemos efectuar el ordenamiento topológico en tiempo 𝜃(𝑉 + 𝐸) debido 
 Un componente fuertemente conexo de un grafo dirigido 𝐺 = (𝑉, 𝐸) es un conjunto maximal de vértices 𝐶 ⊆ 𝑉 tal que por cada par de vértices 𝑢 y 𝑣 en 𝐶, tenemos _u_  _v_ y _v_  _u_; esto es, los vértices 𝑢 y 𝑣 son alcanzables desde cada uno de ellos.
 
 ![[Pasted image 20240508213319.png]]
+![[Pasted image 20240508213627.png]]
 ## Minimum spanning tree
 
