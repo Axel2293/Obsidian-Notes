@@ -99,6 +99,9 @@ Pasos
 
 # RUTAS MAS CORTAS
 ## Aristas con peso negativo
+## Relajación
+El proceso de relajar una arista (𝑢, 𝑣) consiste en probar si podemos mejorar la ruta más corta hacia 𝑣 encontrada hasta el momento, pasando a través de 𝑢. Si se mejora, actualizamos 𝑣. 𝑑 y 𝑣. 𝑝𝑎𝑟𝑒𝑛𝑡.
+![[Pasted image 20240509005422.png]]
 
 # Dijkstra
 Algoritmo voraz, supone que todos los pesos son no negativos
