@@ -113,7 +113,7 @@ Resuelve la ruta mas corta en el caso general
 ![[Pasted image 20240509010233.png]]
 # Dijkstra
 Algoritmo voraz, supone que todos los pesos son no negativos
-
+![[Pasted image 20240509012021.png]]
 # Floyd-Warshall
 Usa programación dinámica
 ![[Pasted image 20240508222526.png]]
