@@ -91,7 +91,8 @@ Pasos
 	- Si no crea un ciclo y conecta dos arboles diferentes de F, la agregamos a la conexion entre arboles en F y la arista a A
 ![[Pasted image 20240508234548.png]]
 ## Conjuntos disjuntos
-
+![[Pasted image 20240508235041.png]]
+![[Pasted image 20240508235110.png]]
 # Bellman-ford
 # Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
