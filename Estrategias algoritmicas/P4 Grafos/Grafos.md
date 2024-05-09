@@ -131,7 +131,8 @@ Resuelve la ruta mas corta en el caso general
 - Luego iteramos V-1 veces (cantidad de nodos maxima) y adentro relajamos todas las aristas
 # DAG's
 Grafo dirigido acíclico
-- 
+- Las rutas más cortas está bien definidas en un DAG debido a que no existen ciclos negativos, aunque pueden existir aristas negativas.
+- Si relajamos las aristas de un DAG siguiendo el orden topológico de los vértices, podemos calcular rutas más cortas en 𝜃(𝑉 + 𝐸).
 ![[Pasted image 20240509024100.png]]
 # Dijkstra
 Algoritmo voraz, supone que todos los pesos son no negativos.
