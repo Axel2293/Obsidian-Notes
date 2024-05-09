@@ -59,9 +59,13 @@ Un componente fuertemente conexo de un grafo dirigido 𝐺 = (𝑉, 𝐸) es un 
 
 ![[Pasted image 20240508213319.png]]
 ![[Pasted image 20240508213627.png]]
-## Minimum spanning tree
+# Minimum spanning tree
 Árbol mínimo de expansión
 - Un árbol recubridor de un grafo conexo ponderado G es un subgrafo acíclico que une todos los vértices de G.
 - Se necesitan *n-1* caminos para lograr el minimo
 - Un árbol recubridor mínimo (ARM) es el árbol recubridor cuya suma de pesos de las aristas elegidas es la mínima.
+## Prim
+Tiene la propiedad de que las aristas en A siempre forman un solo árbol
+- El árbol comienza a partir de un vértice raíz arbitrario 𝑟 y crece hasta que haya abarcado a todos los vértices en 𝑉 (alcanzables desde 𝑟).
+- Estrategia **voraz** porque a cada paso añade al árbol una arista que contribuye con lo *menos posible al peso del árbol*.
 
