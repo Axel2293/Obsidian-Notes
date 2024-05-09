@@ -134,6 +134,8 @@ Grafo dirigido acíclico
 ![[Pasted image 20240509024100.png]]
 # Dijkstra
 Algoritmo voraz, supone que todos los pesos son no negativos.
+
+![[Pasted image 20240509060050.png]]
 ![[Pasted image 20240509012021.png]]
 # Floyd-Warshall
 Usa programación dinámica
