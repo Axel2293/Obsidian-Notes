@@ -5,7 +5,7 @@ Son los objetos que se interconectan.
 Son las relaciones entre los nodos
 # BFS *Breadth-first search or Recorrido de amplitud*
 Se inicia en un nodo `s`y se va recorriendo por "niveles",
-Tres colores:
+Tres colores, usa una *cola - FIFO*:
 - Blanco: nodos comienzan blancos
 - Gris: nodos por visitar (descubiertos)
 - Negro: nodos visitados (ya se calculó su distancia)
@@ -31,7 +31,7 @@ Es el árbol resultante despues de calcular las rutas mas cortas desde s a los v
 
 # DFS *Depth-First-Search or Búsqueda de profundidad*
 La búsqueda en profundidad explora aristas hacia afuera a partir del vértice descubierto más reciente *v* que aún tiene aristas
-Similar a BFS, pero ahora usamos un *stack* y se van a recorrer siempre primero los nodos hijos de los hijos, etc. (Los nodos descubiertos se agregan al stack-push)
+Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre primero los nodos hijos de los hijos, etc. (Los nodos descubiertos se agregan al stack-push)
 >[!seealso]
 >Si hay nodos no alcanzables desde origen, DFS selecciona alguno de ellos y repite el proceso.
 # DAG
