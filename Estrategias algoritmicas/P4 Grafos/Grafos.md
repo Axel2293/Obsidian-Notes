@@ -74,9 +74,14 @@ Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 - mantener una cola de prioridad minima de pesos
 - inicialmente, todos los nodos tienen peso infinito y parent null, tambien se agregan a la cola de prioridad
 - Se recorre de origen-r 
-- Mientras el 
-
-# Bellman-ford
+- Mientras la cola de prioridad no este vacia, sacar un elemento (peso minimo) y analizar su lista de adjacencia
+	- Si se encuentra una ruta con menor peso para el nodo en la adj, remplazar los datos
+	- El nodo adjacente tiene que estar en la cola para poder ser analizado
 # Kruskal
+En el algoritmo de Kruskal, el conjunto A es un bosque cuyos vértices siempre son los del grafo dado (todo el tiempo).
+
+La arista segura que se añade siempre es la arista de menor peso en el grafo que conecta dos componentes distintos (árboles).
+- Es voraz
+# Bellman-ford
 # Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
