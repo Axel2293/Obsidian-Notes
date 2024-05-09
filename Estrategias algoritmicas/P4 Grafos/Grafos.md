@@ -96,6 +96,11 @@ Pasos
 ![[Pasted image 20240508235823.png]]
 ### Compresión de ruta
 ![[Pasted image 20240509000224.png]]
+
+# RUTAS MAS CORTAS
+# Dijkstra
+Algoritmo voraz
 # Bellman-ford
 # Floyd-Warshall
+Usa programación dinámica
 ![[Pasted image 20240508222526.png]]
