@@ -109,6 +109,7 @@ Resuelve la ruta mas corta en el caso general
 - ❑ Normalmente, el algoritmo puede detectar la presencia de un ciclo negativo.
 - Devuelve un valor lógico indicando si existe o no tal ciclo. En caso de ser verdadero, no existe una solución.
 - El algoritmo relaja aristas y decrementa progresivamente 𝑣. 𝑑 con el peso de la ruta más corta desde el origen 𝑠 hasta cada vértice, hasta alcanzar el peso de la ruta más corta real 𝛿(𝑠, 𝑣).
+- ![[Pasted image 20240509005422.png]]
 - ![[Pasted image 20240509010320.png]]
 ![[Pasted image 20240509010233.png]]
 # Dijkstra
