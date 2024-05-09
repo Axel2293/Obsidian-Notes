@@ -50,6 +50,9 @@ Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre pr
 # DAG
 Grafo dirigido acíclico
 El orden topológico de un DAG 𝐺 = (𝑉, 𝐸) es un ordenamiento lineal de todos sus vértices tal que si 𝐺 contiene una arista (𝑢, 𝑣) entonces 𝑢 aparece antes que 𝑣 en tal ordenamiento.
+![[Pasted image 20240508210914.png]]
+![[Pasted image 20240508210923.png]]
 
+Podemos efectuar el ordenamiento topológico en tiempo 𝜃(𝑉 + 𝐸) debido a que DFS toma 𝜃(𝑉 + 𝐸) y necesitamos 𝑂(1) para insertar cada uno de los |𝑉| vértices al frente de la lista enlazada.
 ## Minimum spanning tree
 
