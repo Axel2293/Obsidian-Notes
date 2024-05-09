@@ -127,6 +127,8 @@ Resuelve la ruta mas corta en el caso general
 - ![[Pasted image 20240509005422.png]]
 - ![[Pasted image 20240509010320.png]]
 ![[Pasted image 20240509010233.png]]
+- Paso uno es inicializar root-s con dist 0 y los demas nodos con dist inf
+- Luego iteramos V-1 veces (cantidad de nodos maxima) y adentro relajamos todas las aristas
 # Dijkstra
 Algoritmo voraz, supone que todos los pesos son no negativos.
 ![[Pasted image 20240509012021.png]]
