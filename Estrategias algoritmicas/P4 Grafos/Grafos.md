@@ -93,6 +93,7 @@ Pasos
 ## Conjuntos disjuntos
 ![[Pasted image 20240508235041.png]]
 ![[Pasted image 20240508235110.png]]
+![[Pasted image 20240508235823.png]]
 # Bellman-ford
 # Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
