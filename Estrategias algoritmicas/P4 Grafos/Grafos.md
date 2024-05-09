@@ -57,9 +57,9 @@ Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre pr
 - Forward edges: son aristas (u, v) que conectan un vértice u con un descendiente v en un DFT.
 - Cross edges: son las demás aristas. Pueden conectar dos vértices del mismo DFT, siempre y cuando uno no sea ancestro del otro; o pueden conectar vértices de diferentes DFTs.
 - ![[Pasted image 20240508204238.png]]
-- 
 # DAG
 Grafo dirigido acíclico
+# Orden topológico
 El orden topológico de un DAG 𝐺 = (𝑉, 𝐸) es un ordenamiento lineal de todos sus vértices tal que si 𝐺 contiene una arista (𝑢, 𝑣) entonces 𝑢 aparece antes que 𝑣 en tal ordenamiento.
 ![[Pasted image 20240508210914.png]]
 ![[Pasted image 20240508210923.png]]
