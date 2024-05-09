@@ -3,7 +3,7 @@ Es una representación formal y gráfica de un sistema formado por objetos inter
 Son los objetos que se interconectan.
 ### Aristas/arcos (E)
 Son las relaciones entre los nodos
-# BFS *Breadth-first search*
+# BFS *Breadth-first search or Recorrido de amplitud*
 Se inicia en un nodo `s`y se va recorriendo por "niveles",
 Tres colores:
 - Blanco: nodos comienzan blancos
