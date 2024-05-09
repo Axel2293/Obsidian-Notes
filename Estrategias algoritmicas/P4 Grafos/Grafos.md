@@ -70,6 +70,7 @@ Un componente fuertemente conexo de un grafo dirigido 𝐺 = (𝑉, 𝐸) es un 
 ![[Pasted image 20240509042119.png]]
 
 ![[Pasted image 20240508213319.png]]
+![[Pasted image 20240509044701.png]]
 ![[Pasted image 20240508213627.png]]
 # Minimum spanning tree
 Árbol mínimo de expansión
