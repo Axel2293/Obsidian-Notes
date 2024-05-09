@@ -82,6 +82,13 @@ En el algoritmo de Kruskal, el conjunto A es un bosque cuyos vértices siempre s
 
 La arista segura que se añade siempre es la arista de menor peso en el grafo que conecta dos componentes distintos (árboles).
 - Es voraz
+Pasos
+- Un bosque F con los nodos
+- E son las aristas
+- A son las aristas en el bosque
+
+- Buscamos la arista con peso minimo
+	- Si no crea un ciclo y conecta dos arboles diferentes de F, la agregamos a la conexion entre arboles en F y la arista a A
 # Bellman-ford
 # Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
