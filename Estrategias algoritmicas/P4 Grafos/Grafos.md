@@ -29,9 +29,11 @@ de la representación de listas de adyacencia de 𝐺.
 Es el árbol resultante despues de calcular las rutas mas cortas desde s a los vertices. Es un *sub-grafo*.
 ![[Pasted image 20240508165717.png]]
 
-# DFS *Depth-First-Search*
+# DFS *Depth-First-Search or Búsqueda de profundidad*
 La búsqueda en profundidad explora aristas hacia afuera a partir del vértice descubierto más reciente *v* que aún tiene aristas
-Similar a BFS, pero ahora usamos un *stack* y se van a recorrer siempre primero los nodos hijos de los hijos, etc.
+Similar a BFS, pero ahora usamos un *stack* y se van a recorrer siempre primero los nodos hijos de los hijos, etc. (Los nodos descubiertos se agregan al stack-push)
+>[!seealso]
+>Si hay nodos no alcanzables desde origen, DFS selecciona alguno de ellos y repite el proceso.
 # DAG
 
 ## Minimum spanning tree
