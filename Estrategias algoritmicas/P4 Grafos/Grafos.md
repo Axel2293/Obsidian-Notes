@@ -101,8 +101,10 @@ Pasos
 ## Aristas con peso negativo
 
 # Dijkstra
-Algoritmo voraz
+Algoritmo voraz, supone que todos los pesos son no negativos
 # Bellman-ford
+Permite aristas con peso negativo y produce una salida correcta si no hay ciclos negativos
+- ❑ Normalmente, el algoritmo puede detectar la presencia de un ciclo negativo.
 # Floyd-Warshall
 Usa programación dinámica
 ![[Pasted image 20240508222526.png]]
