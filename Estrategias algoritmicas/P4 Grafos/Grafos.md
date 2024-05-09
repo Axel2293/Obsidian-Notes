@@ -64,6 +64,7 @@ Un componente fuertemente conexo de un grafo dirigido 𝐺 = (𝑉, 𝐸) es un 
 - Un árbol recubridor de un grafo conexo ponderado G es un subgrafo acíclico que une todos los vértices de G.
 - Se necesitan *n-1* caminos para lograr el minimo
 - Un árbol recubridor mínimo (ARM) es el árbol recubridor cuya suma de pesos de las aristas elegidas es la mínima.
+- SIN CICLOS
 ## Prim
 Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 - El árbol comienza a partir de un vértice raíz arbitrario 𝑟 y crece hasta que haya abarcado a todos los vértices en 𝑉 (alcanzables desde 𝑟).
