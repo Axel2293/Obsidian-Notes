@@ -94,6 +94,8 @@ Pasos
 ![[Pasted image 20240508235041.png]]
 ![[Pasted image 20240508235110.png]]
 ![[Pasted image 20240508235823.png]]
+### Compresión de ruta
+![[Pasted image 20240509000224.png]]
 # Bellman-ford
 # Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
