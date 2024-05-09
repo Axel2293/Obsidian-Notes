@@ -37,6 +37,9 @@ Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre pr
 
 ![[Pasted image 20240508203110.png]]
 ![[Pasted image 20240508203148.png]]
+
+![[Pasted image 20240508203602.png]]
+![[Pasted image 20240508203636.png]]
 # DAG
 
 ## Minimum spanning tree
