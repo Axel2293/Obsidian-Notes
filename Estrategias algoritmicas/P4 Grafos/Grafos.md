@@ -1,8 +1,24 @@
 Es una representación formal y gráfica de un sistema formado por objetos interrelacionados
-### Nodo/Vertice (V)
+### Nodo/Vertice/vertex/node (V)
 Son los objetos que se interconectan.
-### Aristas/arcos (E)
+### Aristas/arcos/edge (E)
 Son las relaciones entre los nodos
+
+1. **Grafo No Dirigido**: En un grafo no dirigido, las aristas no tienen dirección y simplemente representan una conexión no orientada entre dos nodos. Es decir, si hay una arista que conecta el nodo A con el nodo B, también implica que hay una conexión de B a A. Los grafos no dirigidos son simétricos en términos de conexiones entre nodos.
+    
+2. **Grafo Dirigido (Digrafo)**: En un grafo dirigido (o digrafo), cada arista tiene una dirección asociada que va desde un nodo inicial hacia un nodo final. Esto significa que la conexión entre dos nodos no es necesariamente bidireccional. Si hay una arista dirigida del nodo A al nodo B, no implica que haya una arista en la dirección opuesta de B a A.
+    
+3. **Grafo Ponderado**: Un grafo ponderado es aquel en el que cada arista tiene asociado un peso o valor numérico que representa alguna medida (como distancia, costo, tiempo, etc.) asociada con la conexión entre dos nodos. Estos pesos se suelen representar en una matriz de adyacencia o lista de adyacencia.
+    
+4. **Grafo no Ponderado**: En contraste con un grafo ponderado, un grafo no ponderado es aquel en el que todas las aristas tienen el mismo peso o no tienen pesos asociados. Solo indican la presencia o ausencia de conexión entre nodos.
+    
+5. **Grafo Regular**: Un grafo regular es aquel en el que todos los nodos tienen el mismo grado, es decir, el mismo número de aristas incidentes. Por ejemplo, un grafo completo es un grafo regular en el que cada par de nodos está conectado por una arista.
+    
+6. **Grafo Bipartito**: Un grafo bipartito es un grafo cuyos nodos se pueden dividir en dos conjuntos disjuntos de manera que no haya aristas que conecten nodos dentro del mismo conjunto. En otras palabras, los nodos de un conjunto están conectados solo a los nodos del otro conjunto.
+    
+7. **Grafo Cíclico y Acíclico**: Un grafo cíclico contiene al menos un ciclo, es decir, un camino cerrado que comienza y termina en el mismo nodo sin repetir aristas. Un grafo acíclico no contiene ciclos.
+    
+8. **Grafo Conexo y Disconexo**: Un grafo conexo es aquel en el que existe al menos un camino entre cualquier par de nodos. Un grafo disconexo tiene al menos dos nodos que no están conectados por ningún camino.
 # BFS *Breadth-first search or Recorrido de amplitud*
 Se inicia en un nodo `s`y se va recorriendo por "niveles",
 Tres colores, usa una *cola - FIFO*:
