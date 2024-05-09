@@ -103,11 +103,13 @@ Pasos
 El proceso de relajar una arista (𝑢, 𝑣) consiste en probar si podemos mejorar la ruta más corta hacia 𝑣 encontrada hasta el momento, pasando a través de 𝑢. Si se mejora, actualizamos 𝑣. 𝑑 y 𝑣. 𝑝𝑎𝑟𝑒𝑛𝑡.
 ![[Pasted image 20240509005422.png]]
 
-# Dijkstra
-Algoritmo voraz, supone que todos los pesos son no negativos
 # Bellman-ford
 Permite aristas con peso negativo y produce una salida correcta si no hay ciclos negativos
+Resuelve la ruta mas corta en el caso general
 - ❑ Normalmente, el algoritmo puede detectar la presencia de un ciclo negativo.
+# Dijkstra
+Algoritmo voraz, supone que todos los pesos son no negativos
+
 # Floyd-Warshall
 Usa programación dinámica
 ![[Pasted image 20240508222526.png]]
