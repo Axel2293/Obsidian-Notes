@@ -134,7 +134,8 @@ Grafo dirigido acíclico
 ![[Pasted image 20240509024100.png]]
 # Dijkstra
 Algoritmo voraz, supone que todos los pesos son no negativos.
-
+Resuelve el problema de las rutas más cortas en un grafo dirigido y ponderado 𝐺 = (𝑉, 𝐸) donde todas las aristas tienen peso no negativo.
+Con una buena implementación, el tiempo de ejecución del algoritmo de Dijkstra es menor que el de Bellman-Ford
 ![[Pasted image 20240509060050.png]]
 ![[Pasted image 20240509012021.png]]
 # Floyd-Warshall
