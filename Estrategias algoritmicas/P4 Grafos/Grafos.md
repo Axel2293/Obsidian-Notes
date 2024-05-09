@@ -62,4 +62,5 @@ Un componente fuertemente conexo de un grafo dirigido 𝐺 = (𝑉, 𝐸) es un 
 ## Minimum spanning tree
 Árbol mínimo de expansión
 - Un árbol recubridor de un grafo conexo ponderado G es un subgrafo acíclico que une todos los vértices de G.
+- Se necesitan *n-1* caminos para lograr el minimo
 
