@@ -90,6 +90,8 @@ Pasos
 - Buscamos la arista con peso minimo
 	- Si no crea un ciclo y conecta dos arboles diferentes de F, la agregamos a la conexion entre arboles en F y la arista a A
 ![[Pasted image 20240508234548.png]]
+## Conjuntos disjuntos
+
 # Bellman-ford
 # Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
