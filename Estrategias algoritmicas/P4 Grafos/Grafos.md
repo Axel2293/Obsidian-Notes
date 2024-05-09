@@ -98,6 +98,8 @@ Pasos
 ![[Pasted image 20240509000224.png]]
 
 # RUTAS MAS CORTAS
+## Aristas con peso negativo
+
 # Dijkstra
 Algoritmo voraz
 # Bellman-ford
