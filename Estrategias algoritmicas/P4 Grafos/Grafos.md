@@ -72,5 +72,7 @@ Tiene la propiedad de que las aristas en A siempre forman un solo árbol
 ![[Pasted image 20240508222124.png]]
 
 
-
+# Bellman-ford
+# Kruskal
+# Floyd-Warshall
 ![[Pasted image 20240508222526.png]]
