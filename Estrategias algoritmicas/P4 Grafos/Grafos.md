@@ -48,6 +48,8 @@ Similar a BFS, pero ahora usamos un *stack -LIFO* y se van a recorrer siempre pr
 - ![[Pasted image 20240508204238.png]]
 - 
 # DAG
+Grafo dirigido acíclico
+El orden topológico de un DAG 𝐺 = (𝑉, 𝐸) es un ordenamiento lineal de todos sus vértices tal que si 𝐺 contiene una arista (𝑢, 𝑣) entonces 𝑢 aparece antes que 𝑣 en tal ordenamiento.
 
 ## Minimum spanning tree
 
