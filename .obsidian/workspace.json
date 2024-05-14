@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md",
+                "file": "NoSQL/MongoDB - MQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias algoritmicas/P4 Grafos/Grafos.md"
+                "file": "NoSQL/MongoDB - MQL.md"
               }
             }
           },
@@ -192,6 +191,9 @@
   },
   "active": "9c14eb186f41fae3",
   "lastOpenFiles": [
+    "NoSQL/Graph Database.md",
+    "NoSQL/MongoDB - MQL.md",
+    "Estrategias algoritmicas/P4 Grafos/Grafos.md",
     "PHOTOS/Pasted image 20240509070916.png",
     "PHOTOS/Pasted image 20240509060050.png",
     "PHOTOS/Pasted image 20240509044701.png",
@@ -202,9 +204,7 @@
     "PHOTOS/Pasted image 20240509010320.png",
     "PHOTOS/Pasted image 20240509010233.png",
     "PHOTOS/Pasted image 20240509005422.png",
-    "PHOTOS/Pasted image 20240509000224.png",
     "Estrategias algoritmicas/P4 Grafos/Untitled.md",
-    "NoSQL/MongoDB - MQL.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
     "Software Requirements/BDD.md",
@@ -212,7 +212,6 @@
     "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
     "NoSQL/Dgraph.md",
-    "NoSQL/Graph Database.md",
     "Operating Systems/P3/Sistemas de Archivos.md",
     "Operating Systems/P3/Memoria virtual.md",
     "Operating Systems/P3/Manejo de la memoria.md",
