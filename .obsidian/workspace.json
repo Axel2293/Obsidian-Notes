@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9c14eb186f41fae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md",
+                "file": "Operating Systems/P3/Memoria virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSQL/MongoDB - MQL.md"
+                "file": "Operating Systems/P3/Memoria virtual.md"
               }
             }
           },
@@ -189,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c14eb186f41fae3",
+  "active": "ee2350404225292e",
   "lastOpenFiles": [
-    "NoSQL/Graph Database.md",
     "NoSQL/MongoDB - MQL.md",
+    "NoSQL/Graph Database.md",
     "Estrategias algoritmicas/P4 Grafos/Grafos.md",
     "PHOTOS/Pasted image 20240509070916.png",
     "PHOTOS/Pasted image 20240509060050.png",
