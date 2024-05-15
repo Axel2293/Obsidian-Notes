@@ -24,4 +24,16 @@ Keyword auto is used to declare variables of automatic storage duration
 # Local variables
 All local variables in C *have automatic storage duration* by default.
 - Declared within a *function body* or *block of code*
-- 
+- Same as just using the type and identifier.
+```C
+int main(){
+	auto int i = 0; // Local variable
+
+	int j = 0; // Also local variable
+}
+```
+
+# External Variables
+Inside the module that wants to access the external variable
+- Tells the compiler that a *globally defined* variable from *another file* is **to be accessed**.
+
