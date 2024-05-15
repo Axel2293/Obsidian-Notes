@@ -1,8 +1,8 @@
 These are local variables, overall. 
 
 # Storage classes
-Used to describe the features of a varible/function
-- Include the scope, visibility and life-time
+Used to describe the features of a variable/function
+- Include the scope, visibility, and lifetime
 - help us to trace the existence of a particular variable during the runtime of a program.
 ##### Life-time of a variable
 Is the time period during which a variable exists in computer memory

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md",
+                "file": "C/Advanced Udemy Course/Auto Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md",
+                "file": "C/Advanced Udemy Course/Auto Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md",
+                "file": "C/Advanced Udemy Course/Auto Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/P3/Memoria virtual.md"
+                "file": "C/Advanced Udemy Course/Auto Variables.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "Operating Systems/P3/Memoria virtual.md",
     "NoSQL/MongoDB - MQL.md",
     "NoSQL/Graph Database.md",
     "Estrategias algoritmicas/P4 Grafos/Grafos.md",
@@ -200,7 +201,6 @@
     "Software Requirements/Caso de uso.md",
     "NoSQL/Dgraph.md",
     "Operating Systems/P3/Sistemas de Archivos.md",
-    "Operating Systems/P3/Memoria virtual.md",
     "Operating Systems/P3/Manejo de la memoria.md",
     "Operating Systems/Planificación.md",
     "Operating Systems/Operaciones en Procesos.md",
