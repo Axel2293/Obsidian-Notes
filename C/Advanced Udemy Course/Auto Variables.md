@@ -61,6 +61,10 @@ Applies the same, but to functions
 # Static
 Used on *local*, *global* and *functions*
 
+Static variables
+Making local variables static allows them to maintain their values between function calls.
+- Does not create and destroy the local variable each time it comes into and goes out of scope
+
 ### For local variables
 When applied to local variables it instructs the compiler to **keep the variable in existence** during the life-time of the program.
 #### For global variables
