@@ -37,3 +37,22 @@ int main(){
 Inside the module that wants to access the external variable
 - Tells the compiler that a *globally defined* variable from *another file* is **to be accessed**.
 
+#### On variables
+```C
+//FILE 1
+int i = 5;
+
+int main(){
+	printf("%d", i);
+	foo();
+	printf("%d", i);
+}
+
+//FILE 2
+
+void foo(){
+	extern int i;
+}
+
+```
+### On functions
