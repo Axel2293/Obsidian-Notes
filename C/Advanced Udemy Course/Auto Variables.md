@@ -56,3 +56,4 @@ void foo(){
 
 ```
 ### On functions
+Applies the same, but to functions
