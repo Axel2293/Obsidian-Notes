@@ -77,3 +77,9 @@ The static function can only be called from within the same file as the function
 
 # Register
 The register storage class defines local variables that *should be stored in a* **register** instead of ***RAM***.
+
+```C
+int main(){
+	register int x;
+	
+}
