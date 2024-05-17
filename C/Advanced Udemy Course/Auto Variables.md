@@ -74,3 +74,6 @@ Causes that variables **scope to be restricted** to the file in which it is decl
 
 #### For functions
 The static function can only be called from within the same file as the function appears.
+
+# Register
+The register storage class defines local variables that *should be stored in a* **register** instead of ***RAM***.
