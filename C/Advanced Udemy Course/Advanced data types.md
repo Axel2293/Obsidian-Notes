@@ -7,4 +7,4 @@ It's a *preprocessor* directive
 
 # typedef
 Create your own name for an existing data type
-- Handled by the *compiler*
+- Handled by the *compiler*, so it DOES check data types
