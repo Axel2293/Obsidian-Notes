@@ -69,6 +69,8 @@ Making local variables static allows them to maintain their values between funct
 When applied to local variables it instructs the compiler to **keep the variable in existence** during the life-time of the program.
 #### For global variables
 Causes that variables **scope to be restricted** to the file in which it is declared
+- Cleaner approach to programming
+- The static declaration defines more accurately the use of the var
 
 #### For functions
 The static function can only be called from within the same file as the function appears.
