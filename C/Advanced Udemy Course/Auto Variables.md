@@ -1,5 +1,12 @@
 These are local variables, overall. 
 
+| Storage Class      | Declaration Location    | Scope                                                                   | Lifetime                           |
+| ------------------ | ----------------------- | ----------------------------------------------------------------------- | ---------------------------------- |
+| **auto**           | inside function/block   | Within the function/block                                               | Until the function/block completes |
+| **register**       | Inside a function/block | Within the function/block                                               | Until the function/block completes |
+| **extern**         | Outside all functions   | Entire file plus other files where the varaible is declarated as extern | Unltil the program terminates      |
+| **static (local)** |                         |                                                                         |                                    |
+
 # Storage classes
 Used to describe the features of a variable/function
 - Include the scope, visibility, and lifetime
