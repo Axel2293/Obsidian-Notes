@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Advanced Udemy Course/Advanced data types.md",
+                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Advanced Udemy Course/Advanced data types.md",
+                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Advanced Udemy Course/Advanced data types.md",
+                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Advanced Udemy Course/Advanced data types.md"
+                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
-    "C/Advanced Udemy Course/Auto Variables.md",
+    "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "C/Advanced Udemy Course/Advanced data types.md",
+    "C/Advanced Udemy Course/Auto Variables.md",
     "PHOTOS/Pasted image 20240516191838.png",
     "C/Advanced Udemy Course/Memory Overview.md",
     "Operating Systems/P3/Memoria virtual.md",
@@ -213,7 +214,6 @@
     "Operating Systems/Semáforos - solución del sistema.md",
     "Operating Systems/Procesos Cooperantes.md",
     "Operating Systems/Volatile.md",
-    "Operating Systems/Planificación en tiempo real.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
