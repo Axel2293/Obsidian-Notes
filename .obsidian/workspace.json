@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md"
+                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "Servicios Seguros de Internet/Linux server/SSH.md",
+    "Servicios Seguros de Internet/Linux server/Linux.md",
+    "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
     "Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "C/Advanced Udemy Course/Advanced data types.md",
     "C/Advanced Udemy Course/Auto Variables.md",
@@ -211,9 +214,6 @@
     "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
     "Operating Systems/P3/Ethernet & TCP-IP.md",
     "Operating Systems/Procesos.md",
-    "Operating Systems/Semáforos - solución del sistema.md",
-    "Operating Systems/Procesos Cooperantes.md",
-    "Operating Systems/Volatile.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
