@@ -20,3 +20,12 @@ Ayuda con el problema de compatibilidad y ayuda a hacer el cambio de componentes
 
 # DockerHub o DockerStore
 - This is where you can find containerized products
+# Images
+- Docker images are templates or packages to create one or more containers.
+# Container
+- Execute instances of an image insulated between each other.
+- Each has its own environment and set of processes.
+# Advantages of Docker
+- With Docker, Devs and Operations teams work hand in hand to transform a guide into a Docker file with both requirements.
+	- This file is used to create an image for their applications, which can now be executed in any docker-installed host.
+	- Guarantees that the image will be executed in the same way everywere.
