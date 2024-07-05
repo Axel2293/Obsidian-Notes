@@ -51,3 +51,11 @@ sudo apt install net-tools
 	- display all available images and sizes
 - pull + name
 	- download an image
+
+## Advanced
+- exec + nombre
+	- Execute a command on the container
+	- + cat /etc/host para imprimir el contenido
+- run ubuntu sleep 5
+	- Al agregar acción, el contenedor no se cierra y se mantiene en funcionamiento
+	- sleep 5 mantiene en suspensión por 5 segs y luego se cierra
