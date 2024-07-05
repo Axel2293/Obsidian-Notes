@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python.md",
+                "file": "DevOps/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python.md",
+                "file": "DevOps/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python.md",
+                "file": "DevOps/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python.md"
+                "file": "DevOps/Kubernetes.md"
               }
             }
           },
@@ -176,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d058bcc42b948da",
+  "active": "ee2350404225292e",
   "lastOpenFiles": [
-    "Python/Anaconda.md",
     "Python/Python.md",
+    "DevOps/Kubernetes.md",
+    "Python/Anaconda.md",
     "DevOps/Docker.md",
     "PHOTOS/Pasted image 20240704184332.png",
     "Docker/Docker and Containers.md",
@@ -214,7 +215,6 @@
     "Software Requirements/BDD.md",
     "Software Requirements/Use cases - User stories.md",
     "Software Requirements/Use Cases - Alternate flows.md",
-    "Software Requirements/Caso de uso.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
