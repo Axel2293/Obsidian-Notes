@@ -35,3 +35,11 @@ Ayuda con el problema de compatibilidad y ayuda a hacer el cambio de componentes
 sudo apt install openssh-server
 sudo apt install net-tools
 ```
+
+# Commands
+- run + image_name
+	- Execute container from image
+- ps -a
+	- Show all the containers (on or off)
+- stop + ID or name
+	- 
