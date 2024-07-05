@@ -42,4 +42,12 @@ sudo apt install net-tools
 - ps -a
 	- Show all the containers (on or off)
 - stop + ID or name
-	- 
+	- stop an active container
+- rm + ID or name
+	- delete a container
+- rmi + name
+	- delete an image
+- images
+	- display all available images and sizes
+- pull + name
+	- download an image
