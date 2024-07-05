@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker.md",
+                "file": "Python/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Docker.md",
+                "file": "Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Docker.md",
+                "file": "Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Docker.md"
+                "file": "Python/Python.md"
               }
             }
           },
@@ -177,9 +177,11 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "Python/Anaconda.md",
+    "Python/Python.md",
+    "DevOps/Docker.md",
     "PHOTOS/Pasted image 20240704184332.png",
     "Docker/Docker and Containers.md",
-    "DevOps/Docker.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
     "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "DevOps/CI - CD.md",
@@ -205,7 +207,6 @@
     "PHOTOS/Pasted image 20240509024100.png",
     "PHOTOS/Pasted image 20240509012021.png",
     "PHOTOS/Pasted image 20240509010320.png",
-    "PHOTOS/Pasted image 20240509010233.png",
     "Estrategias algoritmicas/P4 Grafos/Untitled.md",
     "Gestion Agil de Proyectos/Stakeholders-S7.md",
     "Gestion Agil de Proyectos/Work Breakdown Structure (WBS).md",
@@ -213,7 +214,6 @@
     "Software Requirements/Use cases - User stories.md",
     "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
-    "NoSQL/Dgraph.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
