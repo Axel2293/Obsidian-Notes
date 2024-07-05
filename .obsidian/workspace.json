@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/CI - CD.md",
+                "file": "DevOps/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/CI - CD.md",
+                "file": "DevOps/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/CI - CD.md",
+                "file": "DevOps/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/CI - CD.md"
+                "file": "DevOps/Docker.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "DevOps/CI - CD.md",
     "PHOTOS/Pasted image 20240705104940.png",
     "DevOps/Docker.md",
-    "DevOps/CI - CD.md",
     "PHOTOS/Pasted image 20240705104911.png",
     "PHOTOS/Pasted image 20240705104845.png",
     "DevOps/Kubernetes.md",
@@ -214,7 +214,6 @@
     "PHOTOS/Pasted image 20240509070916.png",
     "PHOTOS/Pasted image 20240509060050.png",
     "PHOTOS/Pasted image 20240509044701.png",
-    "PHOTOS/Pasted image 20240509042119.png",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
