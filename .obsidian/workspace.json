@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+                "file": "DevOps/CI - CD.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+                "file": "DevOps/CI - CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+                "file": "DevOps/CI - CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios Seguros de Internet/Linux server/FTP y FTPS.md"
+                "file": "DevOps/CI - CD.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "CV META/CV foramt.md",
+    "DevOps/CI - CD.md",
+    "DevOps",
+    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Servicios Seguros de Internet/Linux server/SSH.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
     "Servicios Seguros de Internet/Linux server/MYSQL/Remote Access.md",
@@ -211,9 +215,6 @@
     "Operating Systems/P3/Manejo de la memoria.md",
     "Operating Systems/Planificación.md",
     "Operating Systems/Operaciones en Procesos.md",
-    "Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Operating Systems/P3/Ethernet & TCP-IP.md",
-    "Operating Systems/Procesos.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
@@ -224,7 +225,6 @@
     "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Web Development/Backend",
     "Untitled.canvas",
-    "Docker",
-    "Gestion Agil de Proyectos"
+    "Docker"
   ]
 }
