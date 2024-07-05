@@ -29,3 +29,4 @@ Ayuda con el problema de compatibilidad y ayuda a hacer el cambio de componentes
 - With Docker, Devs and Operations teams work hand in hand to transform a guide into a Docker file with both requirements.
 	- This file is used to create an image for their applications, which can now be executed in any docker-installed host.
 	- Guarantees that the image will be executed in the same way everywhere.
+## Installing Docker on Ubuntu Linux
