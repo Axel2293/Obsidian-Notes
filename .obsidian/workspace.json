@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -178,6 +178,7 @@
   },
   "active": "ee2350404225292e",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20240704184332.png",
     "Docker/Docker and Containers.md",
     "DevOps/Docker.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
@@ -214,7 +215,6 @@
     "Software Requirements/Use Cases - Alternate flows.md",
     "Software Requirements/Caso de uso.md",
     "NoSQL/Dgraph.md",
-    "Operating Systems/P3/Sistemas de Archivos.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
