@@ -30,3 +30,8 @@ Ayuda con el problema de compatibilidad y ayuda a hacer el cambio de componentes
 	- This file is used to create an image for their applications, which can now be executed in any docker-installed host.
 	- Guarantees that the image will be executed in the same way everywhere.
 ## Installing Docker on Ubuntu Linux
+- First install ssh server so we can have a remote connection to the Linux server
+```shell
+sudo apt install openssh-server
+sudo apt install net-tools
+```
