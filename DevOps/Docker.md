@@ -39,6 +39,7 @@ sudo apt install net-tools
 # Commands
 - run + image_name
 	- Execute container from image
+	- -d: execute container on the background
 - ps -a
 	- Show all the containers (on or off)
 - stop + ID or name
@@ -56,6 +57,8 @@ sudo apt install net-tools
 - exec + nombre
 	- Execute a command on the container
 	- + cat /etc/host para imprimir el contenido
+- attach + ID o nombre
+	- Adjuntar de vuelta el contenedor en ejecución a la terminal donde se pone el comando.
 - run ubuntu sleep 5
 	- Al agregar acción, el contenedor no se cierra y se mantiene en funcionamiento
 	- sleep 5 mantiene en suspensión por 5 segs y luego se cierra
