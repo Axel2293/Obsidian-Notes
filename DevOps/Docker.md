@@ -62,3 +62,22 @@ sudo apt install net-tools
 - run ubuntu sleep 5
 	- Al agregar acción, el contenedor no se cierra y se mantiene en funcionamiento
 	- sleep 5 mantiene en suspensión por 5 segs y luego se cierra
+
+# Docker and Kubernetes (K8s)
+In summary, Docker is primarily used for building and packaging applications into containers, while Kubernetes provides the orchestration and management capabilities to deploy and manage those containers at scale across clusters of hosts.
+
+**Docker**:
+- Docker is a platform that enables developers to build, ship, and run applications inside containers. Containers package applications and their dependencies into a standardized unit for software development, ensuring consistency across different environments.
+- Key features of Docker include its lightweight nature, efficient resource usage, and the ability to isolate applications from their underlying infrastructure.
+- Docker provides tools and a runtime environment for creating and managing containers. Developers use Docker to package applications into images that can be easily distributed and deployed across various computing environments.
+
+**Kubernetes**:
+- Kubernetes (often abbreviated as K8s) is an open-source container orchestration platform originally developed by Google and now maintained by the Cloud Native Computing Foundation (CNCF).
+- Kubernetes automates the deployment, scaling, and management of containerized applications. It provides a platform-agnostic framework for deploying, running, and managing applications across clusters of hosts.
+- Key features of Kubernetes include automated container deployment, scaling based on resource usage, load balancing, and automated rollout and rollback of applications.
+- Kubernetes abstracts the underlying infrastructure, allowing developers to deploy and manage applications without worrying about the specifics of the underlying hardware or cloud provider.
+
+**Relation Between Docker and Kubernetes**:
+- **Container Runtime**: Docker provides the container runtime that Kubernetes uses to run containers. Kubernetes can manage containers created with Docker as well as other container runtimes like containerd and CRI-O.
+- **Container Images**: Kubernetes uses Docker images as the standard format for packaging and distributing applications. Docker images are stored in registries (like Docker Hub or private registries) and can be pulled by Kubernetes to create and run containers.
+- **Orchestration**: While Docker allows you to create and manage individual containers on a single host, Kubernetes extends this functionality to manage multiple containers across a cluster of hosts, handling scaling, load balancing, service discovery, and more.
