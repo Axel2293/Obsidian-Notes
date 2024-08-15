@@ -4,3 +4,6 @@ Existen diferentes tipos de arquitecturas:
 
 
 # Diseño
+
+
+### Calidad 
