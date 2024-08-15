@@ -15,3 +15,4 @@ Existen diferentes tipos de arquitecturas:
 ### Pruebas de Software
 - Implica la identificación de defectos en el software (código)
 - Se enfoca en identificar (reactivo) los defectos introducidos durante el ciclo del Desarrollo del software
+![[Pasted image 20240815083338.png]]
