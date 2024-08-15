@@ -12,6 +12,7 @@ Existen diferentes tipos de arquitecturas:
 ### Calidad o Aseguramiento de la calidad del soft
 - Abarca todo el ciclo y proceso de desarrollo y la experiencia o satisfacción del usuario final.
 - Se en foca en la prevención de defectos. (Detectarlos antes de ser introducidos al código)
+- La **Calidad en el software** no solo se enfoca en prevención, también en la **mejora continua** y **satisfacción del cliente**.
 ### Pruebas de Software
 - Implica la identificación de defectos en el software (código)
 - Se enfoca en identificar (reactivo) los defectos introducidos durante el ciclo del Desarrollo del software
