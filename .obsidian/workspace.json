@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calidad de software/Intro.md",
+                "file": "Estrategias algoritmicas/P2/Arboles.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d62296a5a6c0b03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calidad de software/Intro.md",
+                "file": "Estrategias algoritmicas/P2/Arboles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calidad de software/Intro.md",
+                "file": "Estrategias algoritmicas/P2/Arboles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calidad de software/Intro.md"
+                "file": "Estrategias algoritmicas/P2/Arboles.md"
               }
             }
           },
@@ -176,11 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ecd8f733e259c08",
+  "active": "0d62296a5a6c0b03",
   "lastOpenFiles": [
+    "Calidad de software/Intro.md",
     "PHOTOS/Pasted image 20240815083338.png",
     "DevOps/Docker.md",
-    "Calidad de software/Intro.md",
     "Calidad de software",
     "Docker/Docker and Containers.md",
     "DevOps/CI - CD.md",
@@ -215,7 +226,6 @@
     "PHOTOS/Pasted image 20240516191838.png",
     "PHOTOS/Pasted image 20240509070916.png",
     "PHOTOS/Pasted image 20240509060050.png",
-    "PHOTOS/Pasted image 20240509044701.png",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
