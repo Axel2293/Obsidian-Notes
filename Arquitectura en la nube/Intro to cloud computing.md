@@ -5,6 +5,10 @@ Is the on demand delivery of compute power, databases, storage and other resourc
 - IaaS (Infrastructure as a service)
 - PaaS (Platform as a service)
 - SaaS (Software as a service)
+### Deployment Models
+- Cloud
+- Hybrid
+- On-premises
 ## Advantages of cloud
 - Trade capital expense for variable expense
 - Massive economies of scale
