@@ -14,3 +14,14 @@ Definition: on demand delivery of compute power, databases, storage and other re
 - You pay as much as you use
 - AWS work together like building blocks
 - You can interact with AWS via management console, AWS CLI or software Development Kits (SDK)
+
+# Cloud concepts overview
+## Cloud Adoption Framework AWS
+Provides best practices for organizations
+
+### Perspectives
+#### Business
+
+Technicals
+
+
