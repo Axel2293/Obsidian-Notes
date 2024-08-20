@@ -9,6 +9,8 @@ Is the on demand delivery of compute power, databases, storage and other resourc
 - Cloud
 - Hybrid
 - On-premises
+### Similarities with traditional IT
+![[Screenshot 2024-08-19 at 9.14.55 p.m..png]]
 ## Advantages of cloud
 - Trade capital expense for variable expense
 - Massive economies of scale
