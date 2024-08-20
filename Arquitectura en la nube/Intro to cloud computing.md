@@ -1,6 +1,7 @@
 # Cloud concepts overview
-Definition: on demand delivery of compute power, databases, storage and other resources via the internet with pay-as-you-go pricing. **Infrastructure as software, not hardware**
-- IaaS
+## Intro to cloud computing
+Is the on demand delivery of compute power, databases, storage and other resources via the internet with pay-as-you-go pricing. **Infrastructure as software, not hardware**
+- IaaS ()
 ## Advantages of cloud
 - Trade capital expense for variable expense
 - Massive economies of scale
