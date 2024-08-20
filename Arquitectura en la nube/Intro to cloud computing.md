@@ -30,8 +30,10 @@ Is the on demand delivery of compute power, databases, storage and other resourc
 	- SDK (Software Development Kits)
 ![[Pasted image 20240819184151.png]]
 
-## Cloud Adoption Framework AWS
-Provides best practices for organizations
+## Cloud Adoption Framework (CAF)
+Provides best practices for organizations build a comprehensive approach to cloud computing across the org and throughout the IT lifecycle to accelerate successful cloud adoption.
+- AWS CAF is organized into six perspectives
+- Perspectives consist of sets of capabilities
 
 ### Perspectives
 #### Business
