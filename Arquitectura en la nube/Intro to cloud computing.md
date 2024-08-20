@@ -1,3 +1,4 @@
+# Cloud concepts overview
 Definition: on demand delivery of compute power, databases, storage and other resources via the internet with pay-as-you-go pricing. **Infrastructure as software, not hardware**
 - IaaS
 ## Advantages of cloud
@@ -19,7 +20,6 @@ Definition: on demand delivery of compute power, databases, storage and other re
 	- SDK (Software Development Kits)
 ![[Pasted image 20240819184151.png]]
 
-# Cloud concepts overview
 ## Cloud Adoption Framework AWS
 Provides best practices for organizations
 
