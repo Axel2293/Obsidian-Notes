@@ -34,10 +34,15 @@ Is the on demand delivery of compute power, databases, storage and other resourc
 Provides best practices for organizations build a comprehensive approach to cloud computing across the org and throughout the IT lifecycle to accelerate successful cloud adoption.
 - AWS CAF is organized into six perspectives
 - Perspectives consist of sets of capabilities
-
 ### Perspectives
 #### Business
-
+- Business
+	- Managers, finance manager, budget owners, and strategy stakeholders
+	- Ensure IT is aligned with business needs, and that IT investments can be traced to demonstrable business results.
+- People
+	- HR, staffing, and people managers
+	- Prioritize training, staffing and organizational changes to build an agile org.
+- Governance
 #### Technical
 - Security
 	- Ensures IT is aligned to business needs
