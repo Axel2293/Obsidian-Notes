@@ -13,7 +13,11 @@ Definition: on demand delivery of compute power, databases, storage and other re
 - AWS offers flexibility
 - You pay as much as you use
 - AWS work together like building blocks
-- You can interact with AWS via management console, AWS CLI or software Development Kits (SDK)
+- 3 ways to interact
+	- Management Console
+	- CLI
+	- SDK (Software Development Kits)
+![[Pasted image 20240819184151.png]]
 
 # Cloud concepts overview
 ## Cloud Adoption Framework AWS
