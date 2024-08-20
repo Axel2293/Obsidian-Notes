@@ -22,6 +22,15 @@ Provides best practices for organizations
 ### Perspectives
 #### Business
 
-Technicals
+#### Technical
+- Security
+	- Ensures IT is aligned to business needs
+- Operations
+- Platform
 
+## Fundamentals Of Pricing
+3 fundamental
 
+### Charge per use
+- The greater the volume, lower the cost.
+- 
