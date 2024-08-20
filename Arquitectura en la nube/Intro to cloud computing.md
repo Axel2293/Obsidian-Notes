@@ -43,11 +43,18 @@ Provides best practices for organizations build a comprehensive approach to clou
 	- HR, staffing, and people managers
 	- Prioritize training, staffing and organizational changes to build an agile org.
 - Governance
+	- CIO, program managers, enterprise architects, business analysts, and portfolio managers.
+	- Ensure skills and processes align IT strategy and goals with business strategy and goals so the org can maximize the business value of its IT investment and minimize business risks.
 #### Technical
 - Security
+	- CISO, IT security managers, and IT security analysts
 	- Ensures IT is aligned to business needs
 - Operations
+	- Align with and support the operations of the business, and define how day-to-day, quarter-to-quarter, and year-to-year business will be conducted.
+	- IT operations managers and IT support managers
 - Platform
+	- CIO, IT managers, and solutions architects
+	- Understand and communicate the nature of IT systems and their relationships. We must be able to describe the architecture of the target state environment in detail.
 
 ## Fundamentals Of Pricing
 3 fundamental
