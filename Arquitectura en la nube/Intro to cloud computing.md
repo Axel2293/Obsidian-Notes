@@ -33,4 +33,8 @@ Provides best practices for organizations
 
 ### Charge per use
 - The greater the volume, lower the cost.
-- 
+	- Amazon VPC
+	- Elastic Beanstalk
+	- Auto Scaling
+	- AWS CloudFormation
+	- AWS Identity and Access Managment (IAM)
