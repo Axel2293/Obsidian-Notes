@@ -107,3 +107,6 @@ Provides best practices for organizations build a comprehensive approach to clou
 - *Enterprise Support*
 	- Customers who run business and mission-critical workloads
 ![[Pasted image 20240820194719.png]]
+
+### Module Wrap up
+
