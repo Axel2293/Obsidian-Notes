@@ -57,7 +57,19 @@ Provides best practices for organizations build a comprehensive approach to clou
 	- Understand and communicate the nature of IT systems and their relationships. We must be able to describe the architecture of the target state environment in detail.
 
 ## Fundamentals Of Pricing
-3 fundamental
+- *Compute*
+	- Charged per hour/second
+	- Varies by instance type
+- *Storage*
+	- Charged typically per GB
+- *Data transfer*
+	- Outbound is aggregated and charged
+	- Inbound has no charge (with some exceptions)
+	- Charged typically per GB
+### How do u pay for AWS
+- Pay foir what you use
+- Pay less when you reserve
+- Pay less when you use more and as AWS
 
 ### Charge per use
 - The greater the volume, lower the cost.
