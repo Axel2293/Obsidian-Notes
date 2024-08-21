@@ -82,4 +82,4 @@ Provides best practices for organizations build a comprehensive approach to clou
 ## Total cost of ownership
 ### On-premises vs Cloud
 ![[Pasted image 20240820190817.png]]
-- Save up to 96 percent a year by moving yout infra to AWS
+- Save up to 96 percent a year by moving your infra to AWS
