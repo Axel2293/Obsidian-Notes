@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura en la nube/Intro to cloud computing.md",
+                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 526.5041885375977
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura en la nube/Intro to cloud computing.md",
+                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura en la nube/Intro to cloud computing.md",
+                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura en la nube/Intro to cloud computing.md"
+                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md"
               }
             }
           },
@@ -179,24 +178,25 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "PHOTOS/Pasted image 20240820195637.png",
+    "Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
+    "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
-    "PHOTOS/Pasted image 20240820190246.png",
+    "PHOTOS/Pasted image 20240820195637.png",
+    "PHOTOS/Screenshot 2023-09-05 at 8.53.23 a.m..png",
+    "PHOTOS/Screenshot 2023-09-05 at 8.53.57 a.m..png",
+    "PHOTOS/Screenshot 2023-09-05 at 8.57.10 a.m..png",
     "PHOTOS/Screenshot 2024-08-19 at 9.14.55 p.m..png",
-    "PHOTOS/Pasted image 20240819184151.png",
+    "PHOTOS/Pasted image 20230130094128.png",
+    "PHOTOS/Pasted image 20221013093006.png",
+    "PHOTOS/Pasted image 20221013092835.png",
     "Estrategias algoritmicas/P2/Arboles.md",
-    "Arquitectura en la nube/Intro to cloud computing.md",
     "Arquitectura en la nube",
     "Calidad de software/Intro.md",
-    "PHOTOS/Pasted image 20240815083338.png",
     "DevOps/Docker.md",
     "Calidad de software",
     "Docker/Docker and Containers.md",
     "DevOps/CI - CD.md",
-    "PHOTOS/Pasted image 20240705104940.png",
-    "PHOTOS/Pasted image 20240705104911.png",
-    "PHOTOS/Pasted image 20240705104845.png",
     "DevOps/Kubernetes.md",
     "Estrategias algoritmicas/P4 Grafos/Grafos.md",
     "Estrategias algoritmicas/P4/Grafos.md",
@@ -210,7 +210,6 @@
     "Estrategias algoritmicas/Shell sort.md",
     "Estrategias algoritmicas/Semana 5.md",
     "Estrategias algoritmicas/Searching algorithms.md",
-    "PHOTOS/Pasted image 20240704221025.png",
     "Python/Python.md",
     "Python/Anaconda.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
