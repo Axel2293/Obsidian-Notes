@@ -83,3 +83,27 @@ Provides best practices for organizations build a comprehensive approach to clou
 ### On-premises vs Cloud
 ![[Pasted image 20240820190817.png]]
 - Save up to 96 percent a year by moving your infra to AWS
+## Technical Support Models
+- Provide unique combination of tools and expertise
+	- AWS Support
+	- AWS Support Plans
+- Support is provided for
+	- Experimenting with AWS
+	- Production use of AWS
+	- Business-critical use of AWS
+- Proactive guidance
+	- Technical Account Manager (TAM)
+- Best practices
+	- AWS Trusted Advisor
+- Account Assistance
+	- AWS Support Concierge
+### Support plans
+- *Basic Support*
+	- Resource center access, Service health dashboard, product FAQs, discussion forums, and support for health checks
+- *Developer Support*
+	- Support for early development on AWS
+- *Business Support*
+	- Customers that run production workloads
+- *Enterprise Support*
+	- Customers who run business and mission-critical workloads
+![[Pasted image 20240820194719.png]]
