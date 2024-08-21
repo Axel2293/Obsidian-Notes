@@ -109,4 +109,5 @@ Provides best practices for organizations build a comprehensive approach to clou
 ![[Pasted image 20240820194719.png]]
 
 ### Module Wrap up
+![[Pasted image 20240820195637.png]]
 
