@@ -30,7 +30,7 @@
 ## AWS Organizations
 ## AWS Billing
 ## Technical Support Models
-- Provide unique combination of tools and expertise
+- Provide a unique combination of tools and expertise
 	- AWS Support
 	- AWS Support Plans
 - Support is provided for
