@@ -67,9 +67,10 @@ Provides best practices for organizations build a comprehensive approach to clou
 	- Inbound has no charge (with some exceptions)
 	- Charged typically per GB
 ### How do u pay for AWS
-- Pay foir what you use
+- Pay for what you use
 - Pay less when you reserve
 - Pay less when you use more and as AWS
+![[Pasted image 20240820190246.png]]
 
 ### Charge per use
 - The greater the volume, lower the cost.
