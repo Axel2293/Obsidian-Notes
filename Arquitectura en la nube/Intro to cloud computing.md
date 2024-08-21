@@ -79,3 +79,6 @@ Provides best practices for organizations build a comprehensive approach to clou
 	- Auto Scaling
 	- AWS CloudFormation
 	- AWS Identity and Access Managment (IAM)
+## Total cost of ownership
+### On-premises vs Cloud
+![[Pasted image 20240820190817.png]]
