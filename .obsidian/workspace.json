@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
+                "file": "Calidad de software/W2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
+                "file": "Calidad de software/W2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
+                "file": "Calidad de software/W2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md"
+                "file": "Calidad de software/W2.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
+    "Calidad de software/Intro.md",
+    "Calidad de software/W2.md",
     "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
+    "Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
     "PHOTOS/Pasted image 20240820195637.png",
@@ -192,7 +194,6 @@
     "PHOTOS/Pasted image 20221013092835.png",
     "Estrategias algoritmicas/P2/Arboles.md",
     "Arquitectura en la nube",
-    "Calidad de software/Intro.md",
     "DevOps/Docker.md",
     "Calidad de software",
     "Docker/Docker and Containers.md",
@@ -216,7 +217,6 @@
     "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "CV META/CV foramt.md",
     "DevOps",
-    "Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
     "Operating Systems.zip",
