@@ -11,3 +11,6 @@ Consist of
 	- DROP
 	- RENAME
 	- TRUNCATE
+- One DCL statement such as
+	- GRANT
+	- REVOKE
