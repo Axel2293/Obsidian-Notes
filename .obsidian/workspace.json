@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+                "file": "Calidad de software/Calidad de softwr.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+                "file": "Calidad de software/Calidad de softwr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+                "file": "Calidad de software/Calidad de softwr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestion de bases de datos (ORACLE)/Oracle SQL.md"
+                "file": "Calidad de software/Calidad de softwr.md"
               }
             }
           },
@@ -179,9 +179,10 @@
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
     "Calidad de software/W2.md",
+    "Calidad de software/Calidad de softwr.md",
+    "Calidad de software/Intro.md",
     "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
     "Gestion de bases de datos (ORACLE)",
-    "Calidad de software/Intro.md",
     "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
     "Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
     "PHOTOS/Pasted image 20240820194719.png",
@@ -216,7 +217,6 @@
     "Python/Python.md",
     "Python/Anaconda.md",
     "Servicios Seguros de Internet/Linux server/Linux.md",
-    "Servicios Seguros de Internet/Linux server/SAMBA.md",
     "DevOps",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
