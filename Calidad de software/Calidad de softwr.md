@@ -6,5 +6,7 @@ Requerimientos no funcionales : **Atributos de Calidad** (AC)
 - Mantenimiento
 # Sistema de calida
 ## Procesos
+Pasos o actividades estructuradas y definidas que se deben seguir para lograr un objetivo especifico
 ## Prácticas
+Métodos o técnicas
 ## Estándares
