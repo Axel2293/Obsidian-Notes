@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md",
+                "file": "NoSQL/Apache Cassandra - CQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md",
+                "file": "NoSQL/Apache Cassandra - CQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md",
+                "file": "NoSQL/Apache Cassandra - CQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md"
+                "file": "NoSQL/Apache Cassandra - CQL.md"
               }
             }
           },
@@ -178,13 +178,33 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Calidad de software/W2.md",
+    "NoSQL/P1/Wide-Column.md",
+    "NoSQL/P1/Python Virtual Environments VENV.md",
+    "NoSQL/P1/Data models (NoSQL).md",
+    "NoSQL/P1/Apache Cassandra.md",
+    "DevOps/Kubernetes.md",
+    "DevOps/Docker.md",
+    "DevOps/CI - CD.md",
+    "Data Base/MySQL/Create a data base.md",
+    "Data Base/MySQL/Installation.md",
+    "Data Base/MySQL/Connect to mysql shell.md",
+    "Data Base/DB Relational Class/Modelo entidad relación.md",
+    "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
     "Calidad de software/Calidad de softwr.md",
-    "Calidad de software/Intro.md",
-    "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+    "C/Taller Data oriented design.md",
+    "C/Compilers.md",
+    "C/Colors on console mac.md",
+    "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
+    "C/Modulo 2/Memoria dinámica -PT2 (Realloc, Matriz dinámica).md",
+    "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
+    "C/Modulo 2/FIFO y LIFO.md",
+    "C/Modulo 2/Estructuras Autoreferenciadas.md",
+    "C/Modulo 2/Contenedores.md",
+    "C/Modulo 2/Apuntador genérico void .md",
+    "C/Modulo 1/Apuntadores a funciones.md",
+    "C/Modulo 1/Apuntadores a estructuras.md",
+    "C/Modulo 1/Apuntadores a arreglos.md",
     "Gestion de bases de datos (ORACLE)",
-    "Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
-    "Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
     "PHOTOS/Pasted image 20240820195637.png",
@@ -195,28 +215,8 @@
     "PHOTOS/Pasted image 20230130094128.png",
     "PHOTOS/Pasted image 20221013093006.png",
     "PHOTOS/Pasted image 20221013092835.png",
-    "Estrategias algoritmicas/P2/Arboles.md",
     "Arquitectura en la nube",
-    "DevOps/Docker.md",
     "Calidad de software",
-    "Docker/Docker and Containers.md",
-    "DevOps/CI - CD.md",
-    "DevOps/Kubernetes.md",
-    "Estrategias algoritmicas/P4 Grafos/Grafos.md",
-    "Estrategias algoritmicas/P4/Grafos.md",
-    "Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
-    "Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
-    "Estrategias algoritmicas/P2/Tablas hash.md",
-    "Estrategias algoritmicas/P2/Programación Dinámica.md",
-    "Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
-    "Estrategias algoritmicas/P2/Arboles binarios.md",
-    "Estrategias algoritmicas/Sorting algorithms.md",
-    "Estrategias algoritmicas/Shell sort.md",
-    "Estrategias algoritmicas/Semana 5.md",
-    "Estrategias algoritmicas/Searching algorithms.md",
-    "Python/Python.md",
-    "Python/Anaconda.md",
-    "Servicios Seguros de Internet/Linux server/Linux.md",
     "DevOps",
     "Estrategias algoritmicas/P4 Grafos",
     "Python",
