@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md",
+                "file": "Gestion de bases de datos (ORACLE)/RDBMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md",
+                "file": "Gestion de bases de datos (ORACLE)/RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md",
+                "file": "Gestion de bases de datos (ORACLE)/RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calidad de software/Calidad de softwr.md"
+                "file": "Gestion de bases de datos (ORACLE)/RDBMS.md"
               }
             }
           },
@@ -178,17 +178,19 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Calidad de software/Intro.md",
+    "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+    "Gestion de bases de datos (ORACLE)/RDBMS.md",
+    "DevOps/Kubernetes.md",
+    "DevOps/Docker.md",
+    "DevOps/CI - CD.md",
     "Calidad de software/Calidad de softwr.md",
+    "Calidad de software/Intro.md",
     "Calidad de software/W2.md",
     "NoSQL/Apache Cassandra - CQL.md",
     "NoSQL/P1/Wide-Column.md",
     "NoSQL/P1/Python Virtual Environments VENV.md",
     "NoSQL/P1/Data models (NoSQL).md",
     "NoSQL/P1/Apache Cassandra.md",
-    "DevOps/Kubernetes.md",
-    "DevOps/Docker.md",
-    "DevOps/CI - CD.md",
     "Data Base/MySQL/Create a data base.md",
     "Data Base/MySQL/Installation.md",
     "Data Base/MySQL/Connect to mysql shell.md",
@@ -202,8 +204,6 @@
     "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
     "C/Modulo 2/FIFO y LIFO.md",
     "C/Modulo 2/Estructuras Autoreferenciadas.md",
-    "C/Modulo 2/Contenedores.md",
-    "C/Modulo 2/Apuntador genérico void .md",
     "Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
