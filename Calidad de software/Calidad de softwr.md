@@ -13,5 +13,7 @@ Métodos o técnicas
 
 # ISO 25010
 Enfocado a Software
+### Tradeoff
+Seleccionar o cambiar algunas características por otras más importantes.
 # ISO 9001
 Enfocado a estándares y calidad. Es un sistema de
