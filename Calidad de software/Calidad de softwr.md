@@ -4,9 +4,14 @@ Requerimientos no funcionales : **Atributos de Calidad** (AC)
 - implementación
 - Deployment
 - Mantenimiento
-# Sistema de calida
+# Sistema de calidad
 ## Procesos
 Pasos o actividades estructuradas y definidas que se deben seguir para lograr un objetivo especifico
 ## Prácticas
 Métodos o técnicas
 ## Estándares
+
+# ISO 25010
+Enfocado a Software
+# ISO 9001
+Enfocado a estándares y calidad. Es un sistema de
