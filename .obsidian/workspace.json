@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calidad de software/Repaso.md",
+                "file": "Calidad de software/Calidad de softwr.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calidad de software/Repaso.md",
+                "file": "Calidad de software/Calidad de softwr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calidad de software/Repaso.md",
+                "file": "Calidad de software/Calidad de softwr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calidad de software/Repaso.md"
+                "file": "Calidad de software/Calidad de softwr.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Calidad de software/W2.md",
-    "Calidad de software/Intro.md",
     "Calidad de software/Repaso.md",
+    "Calidad de software/Intro.md",
+    "Calidad de software/Calidad de softwr.md",
+    "Calidad de software/W2.md",
     "Gestion de bases de datos (ORACLE)/RDBMS.md",
     "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
     "DevOps/Kubernetes.md",
     "DevOps/Docker.md",
     "DevOps/CI - CD.md",
-    "Calidad de software/Calidad de softwr.md",
     "NoSQL/Apache Cassandra - CQL.md",
     "NoSQL/P1/Wide-Column.md",
     "NoSQL/P1/Python Virtual Environments VENV.md",
