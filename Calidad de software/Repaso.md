@@ -3,4 +3,3 @@
 Mejorar procesos.
 ### 25010
 Mejorar la calidad de software (atributos de calidad). 
-### Both
