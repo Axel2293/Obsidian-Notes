@@ -11,5 +11,5 @@ para evitar tener que esperar a pruebas para garantizar los atributos de calidad
 
 # PDCA
 **Plan-Do-Check-Act**
-Plan para la mejora continua.
+Plan para la mejora continua dentro del 9001 para la mejora de procesos y cuidado en la calidad.
 
