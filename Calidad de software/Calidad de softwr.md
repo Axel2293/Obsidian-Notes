@@ -11,9 +11,12 @@ Pasos o actividades estructuradas y definidas que se deben seguir para lograr un
 Métodos o técnicas
 ## Estándares
 
-# ISO 25010
-Enfocado a Software
+# Certificaciones
+## ISO 25010
+Enfocado a Software y la calidad del producto.
 ### Tradeoff
 Seleccionar o cambiar algunas características por otras más importantes.
-# ISO 9001
-Enfocado a estándares y calidad. Es un sistema de
+## ISO 9001
+Enfocado a estándares y calidad, tambien internamente se us el PDCA **Plan-Do-Check-Act**  
+
+# Detección temprana de defectos
