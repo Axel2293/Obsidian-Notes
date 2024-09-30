@@ -34,3 +34,7 @@ Portabilidad, etc
 La Calidad en el software no solo se enfoca en la prevención de defectos, sino
 también en la mejora continua del proceso y
 la satisfacción del cliente.
+
+*• ISO/IEC 25010*
+Parte de la familia de estándares ISO/IEC 25000, también
+conocida como **SQuaRE** (System and Software Quality Requirements and Evaluation).
