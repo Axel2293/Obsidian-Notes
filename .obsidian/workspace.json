@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md",
+                "file": "Calidad de software/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md",
+                "file": "Calidad de software/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md",
+                "file": "Calidad de software/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Advanced Udemy Course/Auto Variables.md"
+                "file": "Calidad de software/Intro.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Calidad de software/Intro.md",
     "Calidad de software/Repaso.md",
-    "Calidad de software/Calidad de softwr.md",
     "Calidad de software/W2.md",
+    "Calidad de software/Intro.md",
+    "Calidad de software/Calidad de softwr.md",
+    "C/Advanced Udemy Course/Auto Variables.md",
     "Gestion de bases de datos (ORACLE)/RDBMS.md",
     "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
     "DevOps/Kubernetes.md",
@@ -203,7 +204,6 @@
     "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
     "C/Modulo 2/Memoria dinámica -PT2 (Realloc, Matriz dinámica).md",
     "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
-    "C/Modulo 2/FIFO y LIFO.md",
     "Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
