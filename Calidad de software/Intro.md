@@ -45,3 +45,29 @@ usabilidad, fiabilidad, seguridad y mantenibilidad.
 • *Calidad en uso*: Evalúa cómo el producto satisface las necesidades  
 específicas en el contexto real de uso, lo que incluye la eficacia,  
 eficiencia, satisfacción, y seguridad del usuario.
+*Calidad del sistema*: Evalúa las propiedades internas del software como la  
+seguridad, la compatibilidad, y la usabilidad.
+
+*Características de Calidad*:  
+o **Funcionalidad**: La capacidad del software de proporcionar funciones que  
+satisfagan las necesidades establecidas y explícitas.  
+o **Rendimiento**: La capacidad del software de responder y procesar datos en el  
+tiempo requerido durante su ejecución.  
+o **Compatibilidad**: La capacidad del software de coexistir con otros sistemas  
+sin problemas.  
+o **Usabilidad**: La facilidad con la que los usuarios pueden utilizar el software y  
+la ayuda que reciben para recuperarse de errores.  
+o **Fiabilidad**: La capacidad del software de mantener su nivel de rendimiento  
+bajo condiciones específicas durante un período determinado.  
+o **Seguridad**: La capacidad del software de proteger la información y los datos  
+para que personas no autorizadas no puedan acceder a ellos, mientras que  
+los usuarios autorizados no sufren denegaciones.  
+o **Mantenibilidad**: La facilidad con la que el software puede ser modificado  
+para corregir defectos, mejorar su desempeño u otras características, o  
+adaptarlo a un entorno cambiante.  
+o **Portabilidad**: La capacidad del software de ser transferido de un entorno a  
+otro.  
+*¿Cómo usarlo?* Al desarrollar o evaluar software, se pueden utilizar estas características  
+como guías para determinar qué áreas necesitan mejoras o cómo comparar diferentes  
+productos de software. También es útil para establecer criterios claros de aceptación del  
+software en contratos de desarrollo.
