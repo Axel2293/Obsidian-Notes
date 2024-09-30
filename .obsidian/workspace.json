@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.50418853759766
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -176,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ecd8f733e259c08",
+  "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
     "Calidad de software/Repaso.md",
     "Calidad de software/W2.md",

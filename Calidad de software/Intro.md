@@ -78,3 +78,10 @@ Aplicación del ciclo **PDCA** en desarrollo de software:
 - *Do*: Implementa los procesos planificados.
 - *Check*: Monitorea y mide procesos contra objetivos.
 - *Act*: Toma acciones para mejorar continuamente el rendimiento.
+
+**Calidad interna** se refiere a aspectos como la estructura del código, modularidad y mantenibilidad. Por ejemplo, un código bien estructurado y documentado (calidad interna) facilita las actualizaciones futuras.
+**Calidad externa** se refiere a lo que el usuario experimenta directamente, como el rendimiento o la usabilidad. Por ejemplo, una interfaz intuitiva y tiempos de respuesta rápidos (calidad externa) mejoran la satisfacción del usuario.
+
+**QA** (Aseguramiento de la Calidad) se enfoca en prevenir defectos mediante la mejora de procesos y es proactivo. 
+
+**QC** (Control de Calidad) se centra en identificar defectos en el producto final y es reactivo. QA podría implementar revisiones de código, mientras que QC realizaría pruebas de software.
