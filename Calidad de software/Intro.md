@@ -87,3 +87,6 @@ Aplicación del ciclo **PDCA** en desarrollo de software:
 **QC** (Control de Calidad) se centra en identificar defectos en el producto final y es reactivo. QA podría implementar revisiones de código, mientras que QC realizaría pruebas de software.
 
 La **alta cohesión** mejora la mantenibilidad al agrupar funcionalidades relacionadas, facilitando la comprensión y modificación del código. El **bajo acoplamiento** mejora la escalabilidad al reducir las dependencias entre módulos, permitiendo cambios en una parte del sistema sin afectar a otras. Juntos, estos principios hacen que el software sea más fácil de mantener, probar y expandir.
+
+# SDLC
+- 
