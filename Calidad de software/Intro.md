@@ -17,3 +17,20 @@ Existen diferentes tipos de arquitecturas:
 - Implica la identificación de defectos en el software (código)
 - Se enfoca en identificar (reactivo) los defectos introducidos durante el ciclo del Desarrollo del software
 ![[Pasted image 20240815083338.png]]
+
+# Dimensiones o atributos de la Calidad del software
+• Calidad Interna y Calidad externa
+
+• Funcionalidad,
+
+Confiabilidad,
+
+Usabilidad, Eficiencia,
+
+Mantenibilidad,
+
+Portabilidad, etc
+
+La Calidad en el software no solo se enfoca en la prevención de defectos, sino
+también en la mejora continua del proceso y
+la satisfacción del cliente.
