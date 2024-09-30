@@ -71,3 +71,10 @@ otro.
 como guías para determinar qué áreas necesitan mejoras o cómo comparar diferentes  
 productos de software. También es útil para establecer criterios claros de aceptación del  
 software en contratos de desarrollo.
+
+Aplicación del ciclo **PDCA** en desarrollo de software:
+
+- *Plan*: Define objetivos de calidad y planifica procesos.
+- *Do*: Implementa los procesos planificados.
+- *Check*: Monitorea y mide procesos contra objetivos.
+- *Act*: Toma acciones para mejorar continuamente el rendimiento.
