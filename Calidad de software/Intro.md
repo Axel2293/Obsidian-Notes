@@ -38,3 +38,10 @@ la satisfacción del cliente.
 *• ISO/IEC 25010*
 Parte de la familia de estándares ISO/IEC 25000, también
 conocida como **SQuaRE** (System and Software Quality Requirements and Evaluation).
+
+*Calidad de Producto*: Se enfoca en características de calidad del  
+producto software como funcionalidad, eficiencia, compatibilidad,  
+usabilidad, fiabilidad, seguridad y mantenibilidad.  
+• *Calidad en uso*: Evalúa cómo el producto satisface las necesidades  
+específicas en el contexto real de uso, lo que incluye la eficacia,  
+eficiencia, satisfacción, y seguridad del usuario.
