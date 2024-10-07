@@ -1,4 +1,5 @@
 ## Complejidad ciclomatica
+La CC es en *número de casos de prueba que debes diseñar*.
 ### Formula de McCabe
 `CC = (A-N+2)`
 A = Aristas
