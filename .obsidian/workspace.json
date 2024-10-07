@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git credential manager.md",
+                "file": "Calidad de software/Part 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git credential manager.md",
+                "file": "Calidad de software/Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git credential manager.md",
+                "file": "Calidad de software/Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git credential manager.md"
+                "file": "Calidad de software/Part 2.md"
               }
             }
           },
@@ -178,10 +178,12 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Calidad de software/Intro.md",
-    "Calidad de software/Repaso.md",
     "Calidad de software/W2.md",
+    "Calidad de software/Part 2.md",
+    "Calidad de software/Repaso.md",
+    "Calidad de software/Intro.md",
     "Calidad de software/Calidad de softwr.md",
+    "Git/Git credential manager.md",
     "C/Advanced Udemy Course/Auto Variables.md",
     "Gestion de bases de datos (ORACLE)/RDBMS.md",
     "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
@@ -202,8 +204,6 @@
     "C/Compilers.md",
     "C/Colors on console mac.md",
     "C/Modulo 2/Tipos de datos Abstractos TDAs.md",
-    "C/Modulo 2/Memoria dinámica -PT2 (Realloc, Matriz dinámica).md",
-    "C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
     "Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
