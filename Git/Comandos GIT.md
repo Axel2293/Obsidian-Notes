@@ -1,3 +1,4 @@
+# General
 ### Crear repositorio local
 - git init (iniciar carpeta git)
 ### Clonar repositorio 
@@ -21,4 +22,5 @@
 
 ### Obtener cambios de el repositorio
 - git pull
-		 
+
+# Stash
