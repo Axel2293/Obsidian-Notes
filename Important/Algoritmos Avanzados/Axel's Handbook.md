@@ -43,6 +43,10 @@ class Trie:
 ## Types of edges
 - **Tree Edge**: It is an edge which is present in the tree obtained after applying DFS on the graph. All the Green edges are tree edges. 
 - **Forward Edge**: It is an edge (u, v) such that v is a descendant but not part of the DFS tree. An edge from **1 to 8** is a forward edge. 
-- **Back edge**: It is an edge (u, v) such that v is the ancestor of node u but is not part of the DFS tree. Edge from **6 to 2** is a back edge. [Presence of back edge indicates a cycle in directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/). 
+- **Back edge**: It is an edge (u, v) such that v is the ancestor of node u but is not part of the DFS tree. Edge from **6 to 2** is a back edge. The presence of back edge indicates a cycle in directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/). 
 - **Cross Edge**: It is an edge that connects two nodes such that they do not have any ancestor and a descendant relationship between them. The edge from node **5 to 4** is a cross edge.
+## DFS
+
+## BFS
+
 ## Tarjan
