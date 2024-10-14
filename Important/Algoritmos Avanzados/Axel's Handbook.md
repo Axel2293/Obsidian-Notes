@@ -38,3 +38,4 @@ class Trie:
             curr = curr.child[idx]
         return True
 ```
+
