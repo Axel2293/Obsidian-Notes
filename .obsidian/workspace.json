@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Comandos GIT.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Comandos GIT.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Comandos GIT.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Comandos GIT.md"
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
+    "Git/Comandos GIT.md",
     "Important/Algoritmos Avanzados/Axel's Handbook.md",
     "Python/Python.md",
     "Important/Algoritmos Avanzados",
@@ -208,7 +209,6 @@
     "Important/C/Advanced Udemy Course/Auto Variables.md",
     "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/RDBMS.md",
     "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/Oracle SQL.md",
-    "DevOps/Kubernetes.md",
     "7 Septimo Semestre/Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
