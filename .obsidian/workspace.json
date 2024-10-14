@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calidad de software/Repaso.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calidad de software/Repaso.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calidad de software/Repaso.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calidad de software/Repaso.md"
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md"
               }
             }
           },
@@ -176,35 +176,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
+    "Python/Python.md",
+    "Important/Algoritmos Avanzados/Axel's Handbook.md",
+    "Important/Algoritmos Avanzados",
+    "Python/Anaconda.md",
+    "Bases numericas/For Dummies.md",
+    "Bases numericas/Binario.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 3/Repaso.md",
+    "5 Quinto Semestre",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 3/Gramáticas.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 2/Regex.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Repaso FCC.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Repaso Examen parcial 1.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/No determinista - Automata Finito (AFN).md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Lenguaje Formal.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Ejercicio AFD y su programación.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Conversion AFN a AFD.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/5-tupla.md",
+    "5 Quinto Semestre/Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
+    "Important",
+    "6 Sexto Semestre",
+    "7 Septimo Semestre/Calidad de software/Repaso.md",
     "7 Septimo Semestre",
-    "Calidad de software/Part 2.md",
-    "Calidad de software/W2.md",
-    "Calidad de software/Repaso.md",
-    "Calidad de software/Intro.md",
-    "Calidad de software/Calidad de softwr.md",
+    "7 Septimo Semestre/Calidad de software/Part 2.md",
+    "7 Septimo Semestre/Calidad de software/W2.md",
+    "7 Septimo Semestre/Calidad de software/Intro.md",
+    "7 Septimo Semestre/Calidad de software/Calidad de softwr.md",
     "Git/Git credential manager.md",
-    "C/Advanced Udemy Course/Auto Variables.md",
-    "Gestion de bases de datos (ORACLE)/RDBMS.md",
-    "Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+    "Important/C/Advanced Udemy Course/Auto Variables.md",
+    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/RDBMS.md",
+    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/Oracle SQL.md",
     "DevOps/Kubernetes.md",
-    "DevOps/Docker.md",
-    "DevOps/CI - CD.md",
-    "NoSQL/Apache Cassandra - CQL.md",
-    "NoSQL/P1/Wide-Column.md",
-    "NoSQL/P1/Python Virtual Environments VENV.md",
-    "NoSQL/P1/Data models (NoSQL).md",
-    "NoSQL/P1/Apache Cassandra.md",
-    "Data Base/MySQL/Create a data base.md",
-    "Data Base/MySQL/Installation.md",
-    "Data Base/MySQL/Connect to mysql shell.md",
-    "Data Base/DB Relational Class/Modelo entidad relación.md",
-    "Data Base/DB Relational Class/Formas normales (1, 2 y 3).md",
-    "C/Taller Data oriented design.md",
-    "C/Compilers.md",
-    "C/Colors on console mac.md",
-    "Gestion de bases de datos (ORACLE)",
+    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
     "PHOTOS/Pasted image 20240820195637.png",
@@ -215,16 +220,11 @@
     "PHOTOS/Pasted image 20230130094128.png",
     "PHOTOS/Pasted image 20221013093006.png",
     "PHOTOS/Pasted image 20221013092835.png",
-    "Arquitectura en la nube",
-    "Calidad de software",
+    "7 Septimo Semestre/Arquitectura en la nube",
+    "7 Septimo Semestre/Calidad de software",
     "DevOps",
-    "Estrategias algoritmicas/P4 Grafos",
-    "Python",
-    "Operating Systems.zip",
-    "Estrategias algoritmicas/P4",
-    "Operating Systems/P3",
-    "Estrategias algoritmicas/P3",
-    "Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
+    "6 Sexto Semestre/Estrategias algoritmicas/P4 Grafos",
+    "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]
 }
