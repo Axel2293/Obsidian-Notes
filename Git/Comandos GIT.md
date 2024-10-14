@@ -24,3 +24,8 @@
 - git pull
 
 # Stash
+- push
+- list
+- pop
+- apply
+- drop N
