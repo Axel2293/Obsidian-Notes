@@ -40,4 +40,6 @@ class Trie:
 ```
 
 # Graphs
-##
+## Types of edges
+
+## Tarjan
