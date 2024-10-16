@@ -1,5 +1,16 @@
 # Number theory
-``
+`Cap 21 of Laaksonen`
+
+# Basic combinatory
+# Full search and Backtracking
+# Divide and conquer
+## Binary search
+## Ternary search
+# Dinamic Programming
+# Two Pointers
+# Sliding Window
+# Strings (Arrays of characters)
+# Graphs
 # Trie Data Structure (Prefix tree)
 [![Trie Data Structure | Insert and Search - GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20220828232752/Triedatastructure1.png)
 ```python
