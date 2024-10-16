@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git and GitHub.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git and GitHub.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git and GitHub.md",
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git and GitHub.md"
+                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md"
               }
             }
           },
@@ -178,13 +178,13 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
+    "Git/Git and GitHub.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
     "DevOps/Docker.md",
     "DevOps/CI - CD.md",
     "Docker/Docker and Containers.md",
-    "Git/Git and GitHub.md",
     "PHOTOS/Pasted image 20241016073931.png",
     "Git/Branch - Ramas.md",
     "Important/Algoritmos Avanzados/Axel's Handbook.md",
@@ -219,7 +219,6 @@
     "PHOTOS/Screenshot 2023-09-05 at 8.53.23 a.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.53.57 a.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.57.10 a.m..png",
-    "PHOTOS/Screenshot 2024-08-19 at 9.14.55 p.m..png",
     "7 Septimo Semestre/Arquitectura en la nube",
     "7 Septimo Semestre/Calidad de software",
     "DevOps",
