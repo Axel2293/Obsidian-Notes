@@ -48,5 +48,19 @@ Todos trabajan sobre la rama *main*.
 ![[Pasted image 20241016073931.png|350]]
 ## Feature Branching
 Se basa en que cada función nueva en el software se haga en una nueva rama, *encapsulando* esa función en ella.
-- 
 
+| Pros                                                         | Contras                                                           |
+| ------------------------------------------------------------ | ----------------------------------------------------------------- |
+| Permite trabajar en funciones sin afectar el código original | Tiene *pasos adicionales* al momento de crear ramas, ineficiente. |
+| Separar más claramente las funciones nuevas                  | Confuso ya que se puede llenar de muchas branches                 |
+|                                                              |                                                                   |
+## Gitflow Workflow
+Se mantienen varias branches
+- *Main*: Código principal
+- *Develop*: Es la que se utiliza para integrar en ella los cambios de las feature branches
+- *Hotfix*: Ramas que contienen arreglos
+![[Pasted image 20241016075041.png]]
+## Forking Workflow
+- se tienen al menos, *dos repositorios remotos*, no sólo uno
+- Usado en proyectos *Open Source*
+- Permite que cada dev tenga su repo remoto, y los cambios que hacen ahí los integra el administrador del repo original como prefiera.
