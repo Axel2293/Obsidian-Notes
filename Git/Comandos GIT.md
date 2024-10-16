@@ -29,3 +29,7 @@
 - pop
 - apply
 - drop N
+# Flujos de trabajo
+## Centralizado
+Los devs clonan el *repo central* en su pc de forma local. Cada quien tiene una copia del proyecto.
+Todos trabajan sobre la rama *main*.

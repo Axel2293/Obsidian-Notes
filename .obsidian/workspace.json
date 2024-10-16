@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
+                "file": "Git/Comandos GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
+                "file": "Git/Comandos GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
+                "file": "Git/Comandos GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md"
+                "file": "Git/Comandos GIT.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Git/Comandos GIT.md",
+    "Git/Branch - Ramas.md",
     "Important/Algoritmos Avanzados/Axel's Handbook.md",
+    "Git/Comandos GIT.md",
     "Python/Python.md",
     "Important/Algoritmos Avanzados",
     "Python/Anaconda.md",
@@ -208,7 +209,6 @@
     "Git/Git credential manager.md",
     "Important/C/Advanced Udemy Course/Auto Variables.md",
     "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/RDBMS.md",
-    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/Oracle SQL.md",
     "7 Septimo Semestre/Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
