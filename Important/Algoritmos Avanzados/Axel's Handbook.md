@@ -65,4 +65,6 @@ class Trie:
 ## Tarjan
 
 ## Hamiltonian Graph
+All *vertexes can be traversed only once*, and a path exists to move through the whole graph.
 ## Eulerian Graph
+All *nodes can be traversed only once*, and a path exists to move through the whole graph.
