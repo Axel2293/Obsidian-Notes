@@ -63,3 +63,6 @@ class Trie:
 ## BFS
 
 ## Tarjan
+
+## Hamiltonian Graph
+## Eulerian Graph
