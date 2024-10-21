@@ -66,7 +66,13 @@ class Trie:
 
 ## Hamiltonian Graph
 All *vertexes can be traversed only once*, and a path exists to move through the graph.
+### Algorithms
 ## Eulerian Graph
 All *nodes can be traversed only once*, and a path exists to move through the graph.
 
 [![What is...the difference between Eulerian and Hamiltonian graphs?](https://i.ytimg.com/vi/CEOGcSCTar8/maxresdefault.jpg)
+### Algorithms
+#### Fleury
+- Check if the graph is eulerian
+- Chose a start vertex
+	- 
