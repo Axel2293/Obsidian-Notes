@@ -75,4 +75,4 @@ All *nodes can be traversed only once*, and a path exists to move through the gr
 #### Fleury
 - Check if the graph is eulerian
 - Chose a start vertex
-	- 
+#### Hierholzer
