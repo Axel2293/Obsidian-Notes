@@ -65,6 +65,8 @@ class Trie:
 ## Tarjan
 
 ## Hamiltonian Graph
-All *vertexes can be traversed only once*, and a path exists to move through the whole graph.
+All *vertexes can be traversed only once*, and a path exists to move through the graph.
 ## Eulerian Graph
-All *nodes can be traversed only once*, and a path exists to move through the whole graph.
+All *nodes can be traversed only once*, and a path exists to move through the graph.
+
+[![What is...the difference between Eulerian and Hamiltonian graphs?](https://i.ytimg.com/vi/CEOGcSCTar8/maxresdefault.jpg)
