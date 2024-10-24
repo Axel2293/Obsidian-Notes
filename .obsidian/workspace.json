@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
+                "file": "Important/Programación Orientada a Objetos/JAVA/Threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
+                "file": "Important/Programación Orientada a Objetos/JAVA/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md",
+                "file": "Important/Programación Orientada a Objetos/JAVA/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important/Algoritmos Avanzados/Axel's Handbook.md"
+                "file": "Important/Programación Orientada a Objetos/JAVA/Threads.md"
               }
             }
           },
@@ -178,40 +178,41 @@
   },
   "active": "9ecd8f733e259c08",
   "lastOpenFiles": [
-    "Git/Git and GitHub.md",
+    "Important/Programación Orientada a Objetos/JAVA/Proyecto - Ideas(1).md",
+    "Important/Programación Orientada a Objetos/JAVA/Object oriented programing in java.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 2/Garbage collector.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 2/Abstract.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Sentencias de control.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/REPASO M2.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Semana 5.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Searching algorithms.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Search.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P4 Grafos/Grafos.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P2/Tablas hash.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P2/Programación Dinámica.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P2/Arboles binarios.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P2/Arboles.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Basics of Complexity.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Heap sort.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Merge sort.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Pre-cómputo.md",
+    "6 Sexto Semestre/Estrategias algoritmicas/Quick sort.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
-    "DevOps/Docker.md",
-    "DevOps/CI - CD.md",
-    "Docker/Docker and Containers.md",
     "PHOTOS/Pasted image 20241016073931.png",
-    "Git/Branch - Ramas.md",
-    "Important/Algoritmos Avanzados/Axel's Handbook.md",
-    "Python/Python.md",
     "Important/Algoritmos Avanzados",
-    "Python/Anaconda.md",
-    "Bases numericas/For Dummies.md",
-    "Bases numericas/Binario.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 3/Repaso.md",
     "5 Quinto Semestre",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 3/Gramáticas.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 2/Regex.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Repaso FCC.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Repaso Examen parcial 1.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/No determinista - Automata Finito (AFN).md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Lenguaje Formal.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Ejercicio AFD y su programación.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Conversion AFN a AFD.md",
-    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/5-tupla.md",
-    "5 Quinto Semestre/Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
     "Important",
     "6 Sexto Semestre",
-    "7 Septimo Semestre/Calidad de software/Repaso.md",
     "7 Septimo Semestre",
-    "7 Septimo Semestre/Calidad de software/Part 2.md",
-    "7 Septimo Semestre/Calidad de software/W2.md",
-    "7 Septimo Semestre/Calidad de software/Intro.md",
     "7 Septimo Semestre/Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
