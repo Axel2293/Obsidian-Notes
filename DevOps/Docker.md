@@ -82,3 +82,5 @@ In summary, Docker is primarily used for building and packaging applications int
 - **Container Runtime**: Docker provides the container runtime that Kubernetes uses to run containers. Kubernetes can manage containers created with Docker as well as other container runtimes like containerd and CRI-O.
 - **Container Images**: Kubernetes uses Docker images as the standard format for packaging and distributing applications. Docker images are stored in registries (like Docker Hub or private registries) and can be pulled by Kubernetes to create and run containers.
 - **Orchestration**: While Docker allows you to create and manage individual containers on a single host, Kubernetes extends this functionality to manage multiple containers across a cluster of hosts, handling scaling, load balancing, service discovery, and more.
+# Networking
+## Bridge

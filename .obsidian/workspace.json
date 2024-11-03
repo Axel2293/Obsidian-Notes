@@ -25,12 +25,14 @@
             "id": "0a9bd1a69e7f067a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "DevOps/Docker.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Docker"
             }
           }
         ],
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 Septimo Semestre/Calidad de software/Intro.md",
+                "file": "DevOps/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for Docker"
             }
           },
           {
@@ -135,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 Septimo Semestre/Calidad de software/Intro.md",
+                "file": "DevOps/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links from Docker"
             }
           },
           {
@@ -162,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Septimo Semestre/Calidad de software/Intro.md"
+                "file": "DevOps/Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of Docker"
             }
           },
           {
@@ -213,6 +215,7 @@
   },
   "active": "0a9bd1a69e7f067a",
   "lastOpenFiles": [
+    "Docker/Docker and Containers.md",
     "7 Septimo Semestre/Calidad de software/Part 2.md",
     "7 Septimo Semestre/Calidad de software/W2.md",
     "7 Septimo Semestre/Calidad de software/Repaso.md",
@@ -238,7 +241,6 @@
     "6 Sexto Semestre/Estrategias algoritmicas/P2/Arboles binarios.md",
     "6 Sexto Semestre/Estrategias algoritmicas/P2/Arboles.md",
     "6 Sexto Semestre/Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P3/Algoritmos Voraces - Greedy.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
