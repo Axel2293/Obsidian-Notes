@@ -84,3 +84,4 @@ In summary, Docker is primarily used for building and packaging applications int
 - **Orchestration**: While Docker allows you to create and manage individual containers on a single host, Kubernetes extends this functionality to manage multiple containers across a cluster of hosts, handling scaling, load balancing, service discovery, and more.
 # Networking
 ## Bridge
+## Host
