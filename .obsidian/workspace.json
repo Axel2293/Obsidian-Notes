@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker.md",
+                "file": "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "45c38a95b4a3715e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,9 +225,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a9bd1a69e7f067a",
+  "active": "45c38a95b4a3715e",
   "lastOpenFiles": [
+    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
+    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
+    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Email service.md",
+    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/DNS server.md",
+    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Apache.md",
     "Docker/Docker and Containers.md",
+    "DevOps/Docker.md",
     "7 Septimo Semestre/Calidad de software/Part 2.md",
     "7 Septimo Semestre/Calidad de software/W2.md",
     "7 Septimo Semestre/Calidad de software/Repaso.md",
@@ -235,12 +253,6 @@
     "6 Sexto Semestre/Estrategias algoritmicas/Searching algorithms.md",
     "6 Sexto Semestre/Estrategias algoritmicas/Search.md",
     "6 Sexto Semestre/Estrategias algoritmicas/P4 Grafos/Grafos.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P2/Tablas hash.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P2/Programación Dinámica.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P2/Máximum Depth of Binary Tree-Leetcode.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P2/Arboles binarios.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P2/Arboles.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P3/Metodos para implementar Conjuntos y Mapas.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
