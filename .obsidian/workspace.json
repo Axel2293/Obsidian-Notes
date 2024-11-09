@@ -39,12 +39,14 @@
             "id": "45c38a95b4a3715e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Important/C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Memoria dinámica -PT1 (malloc, free, calloc)"
             }
           }
         ],
@@ -227,6 +229,13 @@
   },
   "active": "45c38a95b4a3715e",
   "lastOpenFiles": [
+    "Important/C/Modulo 2/Estructuras Autoreferenciadas.md",
+    "Important/C/Modulo 2/Contenedores.md",
+    "Important/C/Modulo 2/FIFO y LIFO.md",
+    "Important/C/Modulo 2/Memoria dinámica -PT1 (malloc, free, calloc).md",
+    "Important/C/Modulo 2/Tipos de datos Abstractos TDAs.md",
+    "Important/C/Advanced Udemy Course/Auto Variables.md",
+    "Important/C/Advanced Udemy Course/Advanced data types.md",
     "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Interfaz Gráfica.md",
     "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/FTP y FTPS.md",
     "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Email service.md",
@@ -246,13 +255,6 @@
     "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Untitled.md",
     "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Try Catch.md",
     "Important/Programación Orientada a Objetos/JAVA/Modulo 1/String pools (Java Heap).md",
-    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Sentencias de control.md",
-    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/REPASO M2.md",
-    "Important/Programación Orientada a Objetos/JAVA/Modulo 1/Arreglos.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/Semana 5.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/Searching algorithms.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/Search.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/P4 Grafos/Grafos.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
