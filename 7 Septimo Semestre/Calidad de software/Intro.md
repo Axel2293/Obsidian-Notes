@@ -1,8 +1,6 @@
 # Arquitectura
 Existen diferentes tipos de arquitecturas:
-- d
-
-
+- 
 # Diseño
 
 >[!note] 
@@ -17,7 +15,6 @@ Existen diferentes tipos de arquitecturas:
 - Implica la identificación de defectos en el software (código)
 - Se enfoca en identificar (reactivo) los defectos introducidos durante el ciclo del Desarrollo del software
 ![[Pasted image 20240815083338.png]]
-
 # Dimensiones o atributos de la Calidad del software
 • Calidad Interna y Calidad externa
 

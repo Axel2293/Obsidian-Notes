@@ -1,5 +1,4 @@
 ***Reduced instruction set computer***
-
 Some researches show that simple instructions are more efficient to be executed.
 - Instruction decoding is simple
 - Pipeline usage is very efficient
