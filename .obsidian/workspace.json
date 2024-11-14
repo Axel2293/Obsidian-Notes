@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "22176a1bd67c0c3b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "0a9bd1a69e7f067a",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,7 +253,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd55caf8be2a9d08",
+  "active": "22176a1bd67c0c3b",
   "lastOpenFiles": [
     "Important/Operating Systems/Sesiones/Scheduling.md",
     "REPASO - ORACLE.md",
