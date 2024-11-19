@@ -53,12 +53,14 @@
             "id": "64e79841ffc2f9a6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/RDBMS.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "RDBMS"
             }
           },
           {
@@ -269,6 +271,7 @@
   },
   "active": "64e79841ffc2f9a6",
   "lastOpenFiles": [
+    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/Oracle SQL.md",
     "7 Septimo Semestre/Calidad de software/W2.md",
     "7 Septimo Semestre/Calidad de software/Intro.md",
     "7 Septimo Semestre/Calidad de software/Calidad de softwr.md",
@@ -295,7 +298,6 @@
     "Important/Operating Systems/Monitores - solución del sistema.md",
     "Important/Operating Systems/Memory Layout of C program.md",
     "Important/Operating Systems/In line assembly.md",
-    "Important/Operating Systems/Hilos Posix.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
