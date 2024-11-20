@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/RDBMS.md",
+                "file": "Important/Operating Systems/Volatile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RDBMS"
+              "title": "Volatile"
             }
           },
           {
@@ -271,21 +271,6 @@
   },
   "active": "64e79841ffc2f9a6",
   "lastOpenFiles": [
-    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/Oracle SQL.md",
-    "7 Septimo Semestre/Calidad de software/W2.md",
-    "7 Septimo Semestre/Calidad de software/Intro.md",
-    "7 Septimo Semestre/Calidad de software/Calidad de softwr.md",
-    "Important/Operating Systems/Sesiones/Scheduling.md",
-    "REPASO - ORACLE.md",
-    "Untitled",
-    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Linux.md",
-    "Important/Organización y arquitectura de computadoras/RISC.md",
-    "Important/Organización y arquitectura de computadoras/Parts of a computer.md",
-    "Important/Organización y arquitectura de computadoras/Memory (DDR).md",
-    "Important/Organización y arquitectura de computadoras/CPU.md",
-    "Important/Organización y arquitectura de computadoras/Compilers - C languague.md",
-    "Important/Organización y arquitectura de computadoras/Architecture and Organization.md",
-    "Important/Operating Systems/Volatile.md",
     "Important/Operating Systems/Untitled.md",
     "Important/Operating Systems/Semáforos - solución del sistema.md",
     "Important/Operating Systems/Procesos Cooperantes.md",
@@ -298,6 +283,21 @@
     "Important/Operating Systems/Monitores - solución del sistema.md",
     "Important/Operating Systems/Memory Layout of C program.md",
     "Important/Operating Systems/In line assembly.md",
+    "Important/Operating Systems/Hilos Posix.md",
+    "Important/Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
+    "Important/Algoritmos Avanzados/Axel's Handbook.md",
+    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/RDBMS.md",
+    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)/Oracle SQL.md",
+    "7 Septimo Semestre/Calidad de software/W2.md",
+    "7 Septimo Semestre/Calidad de software/Intro.md",
+    "7 Septimo Semestre/Calidad de software/Calidad de softwr.md",
+    "Important/Operating Systems/Sesiones/Scheduling.md",
+    "REPASO - ORACLE.md",
+    "Untitled",
+    "5 Quinto Semestre/Servicios Seguros de Internet/Linux server/Linux.md",
+    "Important/Organización y arquitectura de computadoras/RISC.md",
+    "Important/Organización y arquitectura de computadoras/Parts of a computer.md",
+    "Important/Organización y arquitectura de computadoras/Memory (DDR).md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
