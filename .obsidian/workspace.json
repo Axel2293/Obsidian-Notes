@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important/Programación Orientada a Objetos/JAVA/Modulo 1/REPASO M2.md",
+                "file": "DevOps/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REPASO M2"
+              "title": "Kubernetes"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +154,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,10 +269,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdb94063ba1709d3",
+  "active": "64e79841ffc2f9a6",
   "lastOpenFiles": [
-    "Important/Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
+    "Important/Operating Systems/Sesiones/Scheduling.md",
     "Important/Programación Orientada a Objetos/JAVA/Modulo 1/REPASO M2.md",
+    "Important/Programación Orientada a Objetos/JAVA/Modulo 2/Singletones.md",
     "Important/Programación Orientada a Objetos/JAVA/Modulo 3/Repaso M3.md",
     "Important/Programación Orientada a Objetos/JAVA/Modulo 3/Lista variable de argumentos - VarArgs.md",
     "Important/Programación Orientada a Objetos/JAVA/Modulo 3/Enum.md",
@@ -297,7 +297,6 @@
     "Important/Operating Systems/In line assembly.md",
     "Important/Operating Systems/Hilos Posix.md",
     "Important/Operating Systems/Estructuras de Sistemas computacionales y de Sistema operativo (Previo s1).md",
-    "Important/Algoritmos Avanzados/Axel's Handbook.md",
     "Untitled",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
