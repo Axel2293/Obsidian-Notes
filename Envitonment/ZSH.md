@@ -127,9 +127,7 @@ Now, your prompt will show the current git branch name when you're inside a git 
 ### 6. Plugins
 
 Zsh has a rich ecosystem of plugins that can greatly extend its functionality. One popular way to manage plugins is by using a framework like [Oh My Zsh](https://ohmyz.sh/), [zplug](https://github.com/zplug/zplug), or [zinit](https://github.com/zdharma/zinit).
-
 #### Example: Using Oh My Zsh
-
 1. **Install Oh My Zsh**:
     
     Run the following in your terminal:
@@ -137,9 +135,7 @@ Zsh has a rich ecosystem of plugins that can greatly extend its functionality. O
     ```sh
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     ```
-    
 2. **Enable Plugins in `.zshrc`**:
-    
     After installation, you can enable plugins in your `.zshrc` by adding them to the `plugins` list:
     
     ```sh
