@@ -27,11 +27,8 @@ The `.zshrc` file can contain various types of commands to personalize your term
 Let’s break this down step by step.
 
 ---
-
 ### 3. Basic Configuration
-
 #### Set up the `$PATH`
-
 The `$PATH` variable specifies where the system looks for executable files. You can modify it in `.zshrc` to include directories you use frequently:
 
 ```sh
