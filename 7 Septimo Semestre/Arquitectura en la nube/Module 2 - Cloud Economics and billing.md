@@ -1,5 +1,3 @@
-
-
 ## Fundamentals Of Pricing
 - *Compute*
 	- Charged per hour/second
