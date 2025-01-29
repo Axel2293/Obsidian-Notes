@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Septimo Semestre/Calidad de software/Intro.md",
+                "file": "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Configuring the PICO board"
             }
           }
         ]
@@ -200,9 +200,14 @@
   },
   "active": "db6359a1a9f4a6df",
   "lastOpenFiles": [
+    "7 Septimo Semestre/Calidad de software/Intro.md",
+    "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
+    "8 Octavo Semestre/PAP 1",
+    "8 Octavo Semestre/DevOps",
+    "8 Octavo Semestre/IOT - Linux Embebido",
+    "8 Octavo Semestre",
     "7 Septimo Semestre/Calidad de software/Part 2.md",
     "7 Septimo Semestre/Calidad de software/Repaso.md",
-    "7 Septimo Semestre/Calidad de software/Intro.md",
     "7 Septimo Semestre/Arquitectura en la nube/Module 2 - Cloud Economics and billing.md",
     "7 Septimo Semestre/Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
     "Envitonment/ZSH.md",
@@ -226,7 +231,6 @@
     "Important/Operating Systems/Semáforos - solución del sistema.md",
     "Important/Operating Systems/Procesos Cooperantes.md",
     "Important/Operating Systems/Procesos.md",
-    "Important/Operating Systems/Problemas de concurrencia.md",
     "PHOTOS/Pasted image 20241016075041.png",
     "PHOTOS/Pasted image 20241016075015.png",
     "PHOTOS/Pasted image 20241016075006.png",
@@ -236,16 +240,12 @@
     "Important",
     "6 Sexto Semestre",
     "7 Septimo Semestre",
-    "7 Septimo Semestre/Gestion de bases de datos (ORACLE)",
     "PHOTOS/Pasted image 20240820194719.png",
     "PHOTOS/Pasted image 20240820190817.png",
     "PHOTOS/Pasted image 20240820195637.png",
     "PHOTOS/Screenshot 2023-09-05 at 8.53.23 a.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.53.57 a.m..png",
     "PHOTOS/Screenshot 2023-09-05 at 8.57.10 a.m..png",
-    "7 Septimo Semestre/Arquitectura en la nube",
-    "7 Septimo Semestre/Calidad de software",
-    "DevOps",
     "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]
