@@ -9,7 +9,10 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
+#define LEN 100
+
 void child_process(int fd) {
+	char buffer[LEN];
 	for(;;) {
 		printf("En proceso Hijo\n");
 		sleep(1);
@@ -17,19 +20,26 @@ void child_process(int fd) {
 }
 
 void parent_process(int fd) {
+	char buffer[LEN];
+	
 	for(;;) {
-		printf("En proceso Padre\n");
-		sleep(1);
+		char * str = fgets(buffer, LEN, stdin);
+		int len = write(fd, buffer, LEN);
 	}
 }
 
 int main(int argc, char * argv[]) {
-	// Create child process
+	// Create file drespriptors for pipe
+	int fds [2]; 
+	
 	pid_t pid = fork();
+
+	int ret = pipe(fds);
+
 	if(pid = 0) {
-		child_process(0);
+		child_process(fds[0]);
 	} else if(pid > 0) {
-		parent_process(pid);
+		parent_process(fds[1]);
 	} else {
 		printf("Error al crear processo hijo\n");
 	}
