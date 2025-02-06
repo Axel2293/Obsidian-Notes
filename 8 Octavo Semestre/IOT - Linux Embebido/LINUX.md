@@ -14,18 +14,28 @@
 void child_process(int fd) {
 	char buffer[LEN];
 	for(;;) {
-		printf("En proceso Hijo\n");
-		sleep(1);
+		// Read from the pipe onto the buffer
+		int ret = read(fd, buffer, LEN);
+		printf("Message from parent %s\n", buffer);
+		// Clean the buffer
+		memset(buffer, 0, LEN);
 	}
+	close(fd);
 }
 
 void parent_process(int fd) {
 	char buffer[LEN];
+	pid_t cpid;
+	int status;
 	
 	for(;;) {
+		// Read from STDIN
 		char * str = fgets(buffer, LEN, stdin);
+		// Write to buffer
 		int len = write(fd, buffer, LEN);
 	}
+	cpid = wait(&status);
+	close(fd);
 }
 
 int main(int argc, char * argv[]) {
@@ -36,7 +46,7 @@ int main(int argc, char * argv[]) {
 
 	int ret = pipe(fds);
 
-	if(pid = 0) {
+	if(pid == 0) {
 		child_process(fds[0]);
 	} else if(pid > 0) {
 		parent_process(fds[1]);
