@@ -10,6 +10,11 @@ sudo uuu/linux64/uuu -b emmc_all imx8mm/pico-imx8mm/pico-imx8mm-flash.bin ../../
 ```bash
 ./fsl-imx-xwayland-glibc-x86_64-imx-image-full-armv8a-pico-imx8mm-toolchain-5.15-kirkstone.sh
 ```
+# Connect through Picocom
+```bash
+picocom /dev/ttyUSB0 -b 115200
+picocom /dev/tty.SLAB_USBtoUART -b 115200
+```
 # Add vars with binaries of SDK
 ```bash
 source /opt/fsl-imx-xwayland/5.15-kirkstone/environment-setup-armv8a-poky-linux

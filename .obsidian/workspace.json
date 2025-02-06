@@ -35,8 +35,7 @@
               "title": "Apuntador genérico void"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +213,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1665a7f5d7bb480",
+  "active": "e1d0f800d94738af",
   "lastOpenFiles": [
+    "Important/C/Modulo 2/Apuntador genérico void .md",
     "Important/C/Makefile/Make.md",
     "Important/C/Makefile/Pro tips.md",
     "Important/C/Algorithms/Sorting.md",
@@ -242,7 +242,6 @@
     "6 Sexto Semestre/Estrategias algoritmicas/S1.md",
     "6 Sexto Semestre/Estrategias algoritmicas/S3.md",
     "6 Sexto Semestre/Estrategias algoritmicas/S4.md",
-    "6 Sexto Semestre/Estrategias algoritmicas/Radix sort.md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
