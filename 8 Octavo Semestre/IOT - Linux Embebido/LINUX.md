@@ -57,3 +57,29 @@ int main(int argc, char * argv[]) {
 	return 0;
 }
 ```
+
+### Write program
+```c
+#include <stdio.h>
+#include <unistd.h>
+#include <sys/stat.h>
+
+#define LEN 80
+#define MY_FIFO "/tmp/my_fifo"
+
+int main(int argc, char *argv[]) {
+	char buffer[LEN];
+	// Crear el fifo/archivo
+	int ret = mkfifo(MY_FIFO, S_IFIFO, | 0666);
+	// Abrir el fifo
+	int fd = open(MY_FIFO, O_WRONLY);
+	
+	for (;;) {
+		// Leer de STDIN
+		char * str = fgets(buffer, LEN, stdin);
+		// Escribir en el buffer
+		int len = write(fd, buffer, LEN);
+	}
+}
+```
+### Read program
