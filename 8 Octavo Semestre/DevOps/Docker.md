@@ -13,6 +13,9 @@ docker run --rm centos curl -s search:9200
 Pone en ubicación especial la data fuera del contenedor.
 ## Bind Mounts
 Compartir una ubicación del host para que los contenedores lo puedan acceder.
+- Mapea un archivo o Directorio del host a un archico o Directorio del container.
+- Básicamente son dos ubicaciones apuntando al mismo archivo.
+- No se puede 
 
 ```bash
 docker pull mysql
