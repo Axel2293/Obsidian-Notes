@@ -1,4 +1,6 @@
 # S5 - Networks
+El sistema de red en Docker permite que los contenedores se comuniquen entre sí y con el mundo exterior. Docker utiliza un modelo de red basado en plugins que permite a los usuarios elegir diferentes enfoques para la conectividad de red según sus necesidades.
+![[Pasted image 20250209000147.png|300]]
 ```bash
 docker network create practica
 docker container run -d --net practica --net-alias search elasticsearch:2
