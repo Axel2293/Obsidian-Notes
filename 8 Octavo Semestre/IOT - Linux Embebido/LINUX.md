@@ -92,3 +92,5 @@ int main(int argc, char *argv[]) {
 	- Protocolo TCP o UDP
 	- Puerto, interfaz de la aplicación al socket. Puertos son únicos en el host.
 - Direccionamiento a un servicio o aplicación remota necesita (protocolo, IP, Puerto).
+## Socket API
+- i
