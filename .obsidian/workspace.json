@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Octavo Semestre/DevOps/Docker.md",
+                "file": "8 Octavo Semestre/IOT - Linux Embebido/LINUX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "LINUX"
             }
           }
         ],
@@ -216,9 +216,9 @@
   },
   "active": "74c126f4e2477d62",
   "lastOpenFiles": [
+    "8 Octavo Semestre/DevOps/Docker.md",
     "PHOTOS/Pasted image 20250209000147.png",
     "8 Octavo Semestre/IOT - Linux Embebido/LINUX.md",
-    "8 Octavo Semestre/DevOps/Docker.md",
     "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "Important/C/Modulo 2/Apuntador genérico void .md",
     "Important/C/Makefile/Make.md",
@@ -261,7 +261,6 @@
     "PHOTOS/Pasted image 20240820190817.png",
     "PHOTOS/Pasted image 20240820195637.png",
     "PHOTOS/Screenshot 2023-09-05 at 8.53.23 a.m..png",
-    "PHOTOS/Screenshot 2023-09-05 at 8.53.57 a.m..png",
     "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]

@@ -83,3 +83,12 @@ int main(int argc, char *argv[]) {
 }
 ```
 ### Read program
+
+# Sockets
+- Punto de comunicaciín que podemos direccionar 
+## Network Sockets
+- De forma jerárquica el uso de sockets contempla:
+	- Host identificado por una IP
+	- Protocolo TCP o UDP
+	- Puerto, interfaz de la aplicación al socket. Puertos son únicos en el host.
+- Direccionamiento a un servicio o aplicación remota necesita (protocolo, IP, Puerto).
