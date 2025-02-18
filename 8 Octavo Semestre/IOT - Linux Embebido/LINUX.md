@@ -94,3 +94,12 @@ int main(int argc, char *argv[]) {
 - Direccionamiento a un servicio o aplicación remota necesita (protocolo, IP, Puerto).
 ## Socket API
 - i
+
+
+# OpenCV
+- open Source Computer Vision
+	- Framework to work with images video
+	- Algorithm
+## CV::MAT
+- Primary structure used in openCV for storing data
+- 
