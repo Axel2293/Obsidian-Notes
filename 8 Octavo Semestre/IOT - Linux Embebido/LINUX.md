@@ -102,4 +102,9 @@ int main(int argc, char *argv[]) {
 	- Algorithm
 ## CV::MAT
 - Primary structure used in openCV for storing data
-- 
+
+# Audio Card
+``` bash
+cat /proc/asound/cards
+
+```
