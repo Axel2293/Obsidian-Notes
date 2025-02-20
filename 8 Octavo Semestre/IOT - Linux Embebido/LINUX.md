@@ -107,5 +107,7 @@ int main(int argc, char *argv[]) {
 ``` bash
 cat /proc/asound/cards
 
-arecord -D hw:0 -f S32_LE -c 2 -r 48000 filename
+# Record and play
+arecord -D hw:0 -f S32_LE -c 2 -r 48000 | aplay -D plughw:1 -f S32_LE -c 2 -r 48000
+
 ```
