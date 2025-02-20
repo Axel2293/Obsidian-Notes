@@ -110,4 +110,7 @@ cat /proc/asound/cards
 # Record and play
 arecord -D hw:0 -f S32_LE -c 2 -r 48000 | aplay -D plughw:1 -f S32_LE -c 2 -r 48000
 
+# Record and visualize the sound
+arecord -D hw:0 -f S32_LE -c 2 -r 48000 test.wav -Vstereo
+
 ```
