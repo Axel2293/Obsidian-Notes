@@ -114,3 +114,8 @@ arecord -D hw:0 -f S32_LE -c 2 -r 48000 | aplay -D plughw:1 -f S32_LE -c 2 -r 48
 arecord -D hw:0 -f S32_LE -c 2 -r 48000 test.wav -Vstereo
 
 ```
+# Events ALSA
+Open interface for capture or playback
+set hardware parameters
+(access mode, data format, channels, rate, etc.)
+while there is data to be processed:
