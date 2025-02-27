@@ -128,4 +128,6 @@ cd /lib/modules
 insmod /lib/modules/5.15.71..../extra/snd-soc-tfa98xx-orig.ko
 
 cat /proc/
+
+aplay -Dmyvol /dev/urandom
 ```
