@@ -120,3 +120,12 @@ set hardware parameters
 (access mode, data format, channels, rate, etc.)
 while there is data to be processed:
 
+## PLugins
+Plugins son usados para crear dispositivos virtuales que pueden actuar como hardware pero con procesamiento
+```
+cd /lib/modules
+
+insmod /lib/modules/5.15.71..../extra/snd-soc-tfa98xx-orig.ko
+
+cat /proc/
+```
