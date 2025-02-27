@@ -119,3 +119,4 @@ Open interface for capture or playback
 set hardware parameters
 (access mode, data format, channels, rate, etc.)
 while there is data to be processed:
+
