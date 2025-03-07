@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Octavo Semestre/IOT - Linux Embebido/LINUX.md",
+                "file": "8 Octavo Semestre/DevOps/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINUX"
+              "title": "Kubernetes"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -216,8 +217,9 @@
   },
   "active": "74c126f4e2477d62",
   "lastOpenFiles": [
-    "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "8 Octavo Semestre/IOT - Linux Embebido/LINUX.md",
+    "8 Octavo Semestre/DevOps/Kubernetes.md",
+    "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "8 Octavo Semestre/DevOps/Docker.md",
     "PHOTOS/Pasted image 20250209000147.png",
     "Important/C/Modulo 2/Apuntador genérico void .md",
