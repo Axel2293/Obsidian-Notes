@@ -31,9 +31,30 @@ K8's or Kube (8 letras entre KS de Kubernetes)
 - *Kubectl*: CLI para configurar Kubernetes y administrar las aplicaciones. -"Cube COntrol"
 - *Node*: Un solo servidor en en un cluster de Kubernetes.
 - *Kubelet*: Agente de Kubernetes que corre en los nodos.
+	- Crea contenedores según las instrucciones del plano de control
+	- Es la principal fuente de infraestructura métrica para la integración
+	- Se encarga de la gestión de colúmenes dentro de los pods
+	- Mantiene la continuidad de acceso durante los reinicios o reasignaciones de pods
+	- Registra el nodo con el apiserver
+	- Se asegura de que los contenedores descritos en los podSpecs estén funcionando y en buen estado
 - *Control Plane*: Similar al manager en Docker Swarm, grupo de contenedores que manejan el cluster
 	- Incluye el API server, scheduler, controller manager, etcd (almacen de datos distribuido), entre otros
 	- Algunas veces es llamado master
+- *Controller*: Es el encargado de crear, actualizar, eliminar pods y otros objetos.
+	- Deployment
+	- ReplicaSet
+	- DeamonSet
+	- Job
+	- CronJob
+- *Pob*: Uno o más contenedores, corriendo juntos en un nodo.
+	- Unidad básica para el deployment
+	- Los contenedores siempre estan en pods.
+- *Service*: Endpoint de red para conectar un pod. (Especificar DNS y puerto)
+- *Namespace*: agrupar grupo de objetos en un cluster, util para filtrar objetos.
 ![[Pasted image 20250307205203.png]]
 ![[Pasted image 20250307205409.png]]
+## Abstracciones de contenedores
+![[Pasted image 20250307210606.png]]
+
+![[Pasted image 20250307210700.png]]
 ## Instalación local
