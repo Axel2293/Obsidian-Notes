@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Octavo Semestre/DevOps/Kubernetes.md",
+                "file": "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "LINUX C Programming"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -217,6 +216,16 @@
   },
   "active": "74c126f4e2477d62",
   "lastOpenFiles": [
+    "Important/Algoritmos Avanzados/Axel's Handbook.md",
+    "Git/Git credential manager.md",
+    "Git/Git and GitHub.md",
+    "Git/Branch - Ramas.md",
+    "Envitonment/ZSH.md",
+    "DevOps/Kubernetes.md",
+    "DevOps/CI - CD.md",
+    "DevOps/Docker/Docker.md",
+    "DevOps/Docker/Docker and Containers.md",
+    "8 Octavo Semestre/DevOps/Kubernetes.md",
     "PHOTOS/Pasted image 20250309200644.png",
     "PHOTOS/Pasted image 20250309200538.png",
     "PHOTOS/Pasted image 20250309195640.png",
@@ -227,9 +236,7 @@
     "PHOTOS/Pasted image 20250307210700.png",
     "PHOTOS/Pasted image 20250307210629.png",
     "PHOTOS/Pasted image 20250307210606.png",
-    "PHOTOS/Pasted image 20250307205409.png",
-    "8 Octavo Semestre/IOT - Linux Embebido/LINUX.md",
-    "8 Octavo Semestre/DevOps/Kubernetes.md",
+    "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
     "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "8 Octavo Semestre/DevOps/Docker.md",
     "Important/C/Modulo 2/Apuntador genérico void .md",
@@ -243,16 +250,8 @@
     "Important/C/Advanced Udemy Course/C programing.md",
     "Important/C/Advanced Udemy Course/Auto Variables.md",
     "Important/C/Advanced Udemy Course/Advanced data types.md",
-    "Important/Algoritmos Avanzados/Axel's Handbook.md",
     "Python/Python.md",
     "Python/Anaconda.md",
-    "Docker/Docker and Containers.md",
-    "DevOps/Kubernetes.md",
-    "DevOps/Docker.md",
-    "DevOps/CI - CD.md",
-    "Envitonment/ZSH.md",
-    "7 Septimo Semestre/Arquitectura en la nube/Module 1 - Introduction to cloud computing.md",
-    "6 Sexto Semestre/Gestion Agil de Proyectos/Agile-Waterfall-S2.md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
