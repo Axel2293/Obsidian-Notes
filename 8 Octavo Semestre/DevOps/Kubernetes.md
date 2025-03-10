@@ -89,7 +89,7 @@ Es la herramienta de linea de comandos para interactuar con Kubernetes K8's
 Podemos crear **POD's** de dos formas:
 - Mediante *comandos*
 - Mediante un *YAML*
-### Crear y ejecutar un pod de nginx
+### Crear y ejecutar un POD con un contenedor de NGINX
 ```bash
 kubectl run my-nginx --image nginx
 # Lista pods
@@ -97,37 +97,51 @@ kubectl get pods
 # Lista todos los objetos
 kubectl get all
 ```
-### Definir applicación 
-```yaml nginx-deployment.yaml
+### Definir applicación mediante YAML
+```yaml nginx_deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-	labels: 
-		environment: test
-	name: testdeploy
+  name: mi-app
 spec:
-	replicas: 3
-	selector:
-		matchLabels:
-			environment: test
-	minReadySeconds: 10
-	strategy:
-		rollingUpdate:
-			maxSurge: 1
-			maxUnavailable: 0
-		type: RollingUpdate
-	template:
-		metadata:
-			labels:
-				environment: test
-		spec:
-			containers:
-			- image: nginx:1.16
-			  name: nginx
+  replicas: 2
+  selector:
+    matchLabels:
+      app: mi-app
+  template:
+    metadata:
+      labels:
+        app: mi-app
+    spec:
+      containers:
+      - name: mi-contenedor
+        image: nginx
 ```
 
 Aplicamos el YAML
 `kubectl apply -f <ruta-del-archivo>.yaml`
+Esto va a crear la aplicación
+![[Pasted image 20250309195511.png]]
+Ahora tenemos los dos pods
+![[Pasted image 20250309195640.png]]
+#### Exponer la aplicación
+```bash
+kubectl expose deployment mi-app --type=NodePort --port=80
+# Obtener URL
+minikube service mi-app --url
+```
+
+#### Escalar la aplicación
+```bash
+kubectl scale deployment mi-app --replicas=3
+```
+Ahora tenemos 3 pods con un contenedor nginx cada uno.
+![[Pasted image 20250309200538.png]]
+#### Eliminar recursos
+```bash
+kubectl delete deployment mi-app
+kubectl delete service mi-app
+```
 ### Crear Deployment
 ```bash
 kubectl create deployment my-nginx --image nginx
