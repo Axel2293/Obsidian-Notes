@@ -34,6 +34,8 @@ K8's or Kube (8 letras entre KS de Kubernetes)
 - *Pod*: Uno o más contenedores, corriendo juntos en un nodo.
 	- Unidad básica para el deployment
 	- Los contenedores siempre estan en pods.
+- *Service*: Endpoint de red para conectar un pod. (Especificar DNS y puerto)
+	- Permite exponer tu aplicación para que sea accesible desde fuera del clúster o desde otros Pods.
 - *Kubelet*: Agente de Kubernetes que corre en los nodos.
 	- Crea contenedores según las instrucciones del plano de control
 	- Es la principal fuente de infraestructura métrica para la integración
@@ -50,7 +52,6 @@ K8's or Kube (8 letras entre KS de Kubernetes)
 	- DeamonSet
 	- Job
 	- CronJob
-- *Service*: Endpoint de red para conectar un pod. (Especificar DNS y puerto)
 - *Namespace*: agrupar grupo de objetos en un cluster, util para filtrar objetos.
 	- Son como "carpetas virtuales" que te permiten organizar y aislar recursos dentro de un clúster.
 ![[Pasted image 20250307205203.png]]
