@@ -60,4 +60,83 @@ K8's or Kube (8 letras entre KS de Kubernetes)
 
 ![[Pasted image 20250307210700.png]]
 ![[Pasted image 20250309185833.png]]
-## Instalación local
+## Minikube
+Nos permite ejecutar un cluster de Kubernetes de un solo nodo en nuestra máquina local.
+
+```zsh
+brew install minikube
+-------------------------------- MacOS Arm
+curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-darwin-arm64
+sudo install minikube-darwin-arm64 /usr/local/bin/minikube
+-------------------------------- Linux x86
+curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-linux-amd64
+sudo install minikube-linux-amd64 /usr/local/bin/minikube && rm minikube-linux-amd64
+```
+
+## Usando Minikube
+``` bash
+# Iniciar/detener el cluster local
+minikube start
+minikube stop
+
+# Verificar que aparezca el cluster local
+kubectl get nodes
+
+```
+
+## Kubectl
+Es la herramienta de linea de comandos para interactuar con Kubernetes K8's
+Podemos crear **POD's** de dos formas:
+- Mediante *comandos*
+- Mediante un *YAML*
+### Crear y ejecutar un pod de nginx
+```bash
+kubectl run my-nginx --image nginx
+# Lista pods
+kubectl get pods
+# Lista todos los objetos
+kubectl get all
+```
+### Definir applicación 
+```yaml nginx-deployment.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+	labels: 
+		environment: test
+	name: testdeploy
+spec:
+	replicas: 3
+	selector:
+		matchLabels:
+			environment: test
+	minReadySeconds: 10
+	strategy:
+		rollingUpdate:
+			maxSurge: 1
+			maxUnavailable: 0
+		type: RollingUpdate
+	template:
+		metadata:
+			labels:
+				environment: test
+		spec:
+			containers:
+			- image: nginx:1.16
+			  name: nginx
+```
+
+Aplicamos el YAML
+`kubectl apply -f <ruta-del-archivo>.yaml`
+### Crear Deployment
+```bash
+kubectl create deployment my-nginx --image nginx
+
+# Lista los pods
+kubectl get pods
+
+# Lista todos los objetos
+kubectl get all
+```
+![[Pasted image 20250309192647.png]]
+![[Pasted image 20250309192655.png]]
