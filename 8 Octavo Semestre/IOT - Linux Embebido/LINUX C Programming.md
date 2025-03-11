@@ -524,3 +524,5 @@ pcm.esaich78{
 root@pico-imx8mm:~#
  
 ```
+
+# Input Subsystem
