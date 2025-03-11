@@ -526,3 +526,8 @@ root@pico-imx8mm:~#
 ```
 
 # Input Subsystem
+# I2C
+## Command Line
+- Interfaces presentadas como archivos en /dev/i2c-X
+	- X es el número del bus de I2C
+- i2ctools
