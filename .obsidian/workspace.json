@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important/Linux/General Tools.md",
+                "file": "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Tools"
+              "title": "LINUX C Programming"
             }
           }
         ],
@@ -216,8 +216,10 @@
   },
   "active": "74c126f4e2477d62",
   "lastOpenFiles": [
-    "Important/Linux/Hacking.md",
+    "PHOTOS/Pasted image 20250312181902.png",
+    "PHOTOS/sensor.c",
     "Important/Linux/General Tools.md",
+    "Important/Linux/Hacking.md",
     "Important/Linux",
     "8 Octavo Semestre/DevOps/Kubernetes.md",
     "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
@@ -252,7 +254,6 @@
     "Important/C/Advanced Udemy Course/Communication between files.md",
     "Important/C/Advanced Udemy Course/C programing.md",
     "Important/C/Advanced Udemy Course/Auto Variables.md",
-    "Important/C/Advanced Udemy Course/Advanced data types.md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
@@ -261,7 +262,6 @@
     "Important/Algoritmos Avanzados",
     "5 Quinto Semestre",
     "Important",
-    "6 Sexto Semestre",
     "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]

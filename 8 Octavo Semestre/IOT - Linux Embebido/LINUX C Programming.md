@@ -527,6 +527,8 @@ root@pico-imx8mm:~#
 
 # Input Subsystem
 # I2C
+## dht20
+![[Pasted image 20250312181902.png]]
 ## Command Line
 - Interfaces presentadas como archivos en /dev/i2c-X
 	- X es el número del bus de I2C
