@@ -181,3 +181,12 @@ kubectl get all
 kubectl expose deployment/apache --port 8888 --name apache-loadbalancer --type LoadBalancer
 
 ```
+
+# Configuration YAML
+- Puede ser un archivo YAML o JSON
+- Un manifiesto describe
+- Cada manifiesto necesita:
+	- apiVersion:
+	- kind:
+	- metadata:
+	- spec:
