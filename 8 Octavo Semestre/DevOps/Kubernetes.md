@@ -154,3 +154,26 @@ kubectl get all
 ```
 ![[Pasted image 20250309192647.png]]
 ![[Pasted image 20250309192655.png]]
+# Exponiendo contenedores
+- `kubectl expose` crea un *service* para los pods existentes.
+- Un service es una direccion estable para los pods.
+- Si queremos conectar los pods, necesitamos un service.
+- Hay diferentes tipos de services:
+	- *ClusterIP* (Default)
+## ClusterIP (default)
+- Se asigna una IP virtual
+- Solo es accessible por el cluster (nodos y pods)
+- Pods pueden acceder al sercicio por medio de los puertos
+- Solo es bueno en el cluster
+## NodePort
+- Un puerto por cada puerto (high port ) entre 30000 y 32767
+- El puerto esta abierto en cada uno de los nodos
+- Cualquiera se puede conectar (si pueden acceder al nodo)
+
+## LoadBalancer
+- Controla el loadbalancer externo para conectarse copn el cluster
+- Solo disponible cuando la infraestructura ya proce de un LB (AWS, ELB, Azure App Gateway)
+- Crea servicios de NodePort + ClusterIP, le dice al LB que envíe el tradico a NodePort
+## ExternalName
+- CNAME DNS
+- No es usado para los pods, pero le da a los pods un nombre DNS para usarlo fuera de Kubernetes.
