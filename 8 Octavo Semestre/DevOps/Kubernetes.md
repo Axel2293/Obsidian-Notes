@@ -177,3 +177,7 @@ kubectl get all
 ## ExternalName
 - CNAME DNS
 - No es usado para los pods, pero le da a los pods un nombre DNS para usarlo fuera de Kubernetes.
+```
+kubectl expose deployment/apache --port 8888 --name apache-loadbalancer --type LoadBalancer
+
+```
