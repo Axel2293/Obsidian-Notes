@@ -11,10 +11,14 @@
             "id": "34e510ffd10d8fee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Important/C/Advanced Udemy Course/Type Qualifiers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Type Qualifiers"
             }
           }
         ]
@@ -198,14 +202,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2754d24795a0d6e2",
+  "active": "34e510ffd10d8fee",
   "lastOpenFiles": [
-    "Important/C/Advanced Udemy Course/C programing.md",
-    "Important/C/Advanced Udemy Course/Auto Variables.md",
     "Important/C/Advanced Udemy Course/Advanced data types.md",
+    "Important/C/Advanced Udemy Course/C programing.md",
     "Important/C/Advanced Udemy Course/Communication between files.md",
     "Important/C/Advanced Udemy Course/Header files.md",
     "Important/C/Advanced Udemy Course/Memory Overview.md",
+    "Important/C/Advanced Udemy Course/Storage Classes.md",
+    "Important/C/Advanced Udemy Course/Type Qualifiers.md",
+    "Envitonment/ZSH.md",
     "Important/C/Colors on console mac.md",
     "Important/C/Compilers.md",
     "Important/C/Taller Data oriented design.md",
@@ -221,7 +227,6 @@
     "Git/Git credential manager.md",
     "Git/Git and GitHub.md",
     "Git/Branch - Ramas.md",
-    "Envitonment/ZSH.md",
     "DevOps/Kubernetes.md",
     "DevOps/CI - CD.md",
     "DevOps/Docker/Docker.md",
@@ -237,7 +242,6 @@
     "PHOTOS/Pasted image 20250307210629.png",
     "8 Octavo Semestre/DevOps/Docker.md",
     "Important/C/Modulo 2/Apuntador genérico void .md",
-    "Important/C/Makefile/Make.md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
