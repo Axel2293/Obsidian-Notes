@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c91944d8b1a852a",
+        "id": "25ce0ca191705e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "728cc33d202576b0",
+            "id": "34e510ffd10d8fee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 Octavo Semestre/DevOps/Kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "New tab"
             }
           }
         ]
@@ -150,10 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Docker.md"
+                "file": "Important/C/Advanced Udemy Course/Memory Overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker"
+              "title": "Outline of Memory Overview"
             }
           },
           {
@@ -199,8 +198,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "728cc33d202576b0",
+  "active": "2754d24795a0d6e2",
   "lastOpenFiles": [
+    "Important/C/Advanced Udemy Course/C programing.md",
+    "Important/C/Advanced Udemy Course/Auto Variables.md",
+    "Important/C/Advanced Udemy Course/Advanced data types.md",
+    "Important/C/Advanced Udemy Course/Communication between files.md",
+    "Important/C/Advanced Udemy Course/Header files.md",
+    "Important/C/Advanced Udemy Course/Memory Overview.md",
+    "Important/C/Colors on console mac.md",
+    "Important/C/Compilers.md",
+    "Important/C/Taller Data oriented design.md",
+    "8 Octavo Semestre/DevOps/Kubernetes.md",
     "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
     "PHOTOS/Pasted image 20250312181902.png",
@@ -208,7 +217,6 @@
     "Important/Linux/General Tools.md",
     "Important/Linux/Hacking.md",
     "Important/Linux",
-    "8 Octavo Semestre/DevOps/Kubernetes.md",
     "Important/Algoritmos Avanzados/Axel's Handbook.md",
     "Git/Git credential manager.md",
     "Git/Git and GitHub.md",
@@ -230,14 +238,6 @@
     "8 Octavo Semestre/DevOps/Docker.md",
     "Important/C/Modulo 2/Apuntador genérico void .md",
     "Important/C/Makefile/Make.md",
-    "Important/C/Makefile/Pro tips.md",
-    "Important/C/Algorithms/Sorting.md",
-    "Important/C/Algorithms/Searching.md",
-    "Important/C/Advanced Udemy Course/Memory Overview.md",
-    "Important/C/Advanced Udemy Course/Header files.md",
-    "Important/C/Advanced Udemy Course/Communication between files.md",
-    "Important/C/Advanced Udemy Course/C programing.md",
-    "Important/C/Advanced Udemy Course/Auto Variables.md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
