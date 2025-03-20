@@ -537,3 +537,12 @@ root@pico-imx8mm:~#
 - Interfaces presentadas como archivos en /dev/spidevX.Y
 	- \<X> 
 	- \<Y>
+## API
+- /dev/spidevX.Y es un archivo
+	- open
+	- read
+	- write
+	- ioctl
+	- close
+	- \#include <sys/ioctl.h>
+	- \#include <sys/ioctl.h>
