@@ -535,4 +535,5 @@ root@pico-imx8mm:~#
 - i2ctools
 # SPI - spidev
 - Interfaces presentadas como archivos en /dev/spidevX.Y
-	- <X> 
+	- \<X> 
+	- \<Y>
