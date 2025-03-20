@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important/C/Advanced Udemy Course/Type Qualifiers.md",
+                "file": "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type Qualifiers"
+              "title": "LINUX C Programming"
             }
           }
         ]
@@ -204,13 +204,13 @@
   },
   "active": "34e510ffd10d8fee",
   "lastOpenFiles": [
+    "Important/C/Advanced Udemy Course/Type Qualifiers.md",
     "Important/C/Advanced Udemy Course/Advanced data types.md",
     "Important/C/Advanced Udemy Course/C programing.md",
     "Important/C/Advanced Udemy Course/Communication between files.md",
     "Important/C/Advanced Udemy Course/Header files.md",
     "Important/C/Advanced Udemy Course/Memory Overview.md",
     "Important/C/Advanced Udemy Course/Storage Classes.md",
-    "Important/C/Advanced Udemy Course/Type Qualifiers.md",
     "Envitonment/ZSH.md",
     "Important/C/Colors on console mac.md",
     "Important/C/Compilers.md",

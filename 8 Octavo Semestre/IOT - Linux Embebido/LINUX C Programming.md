@@ -533,3 +533,6 @@ root@pico-imx8mm:~#
 - Interfaces presentadas como archivos en /dev/i2c-X
 	- X es el número del bus de I2C
 - i2ctools
+# SPI - spidev
+- Interfaces presentadas como archivos en /dev/spidevX.Y
+	- <X> 
