@@ -244,4 +244,4 @@ metadata:
 | Release      | Una instancia de un Chart desplegada en un clúster de Kubernetes                             |
 | Values.yaml  | Archivo donde puedes definir variables personalizadas para configurar un Chart.              |
 | Repositories | ugares donde se almacenan Charts, como ArtifactHub, Bitnami, JFrog                           |
-
+u
