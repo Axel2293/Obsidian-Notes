@@ -190,3 +190,34 @@ kubectl expose deployment/apache --port 8888 --name apache-loadbalancer --type L
 	- kind:
 	- metadata:
 	- spec:
+# Volume
+## PV
+Persistent Volume
+```yaml
+apiVersion:
+kind: PersistentVolume
+metadata:
+	name: pv-demo
+spec:
+	capacity:
+		storage: 1Gi
+	accessModes:
+		- ReadWriteMany # Permite acceso desde multiples PODS
+	persistentVolumeReclaimPolicy: retain
+	
+```
+![[Pasted image 20250320202310.png]]
+## PVC - Persistent Volume Claim
+## POD - PVC
+```shell
+kubectl apply -f volume.yaml
+kubectl applu -f volume-claim.yaml
+kubectl applu -f escritor.yaml
+kubectl applu -f lector.yaml
+
+kubectl get pv,pvc
+
+kubectl get pods
+
+kubectl logs pod-lector
+```

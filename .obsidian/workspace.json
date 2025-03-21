@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
+                "file": "8 Octavo Semestre/DevOps/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINUX C Programming"
+              "title": "Kubernetes"
             }
           }
         ]
@@ -204,6 +204,8 @@
   },
   "active": "34e510ffd10d8fee",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20250320202310.png",
+    "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
     "Important/C/Advanced Udemy Course/Type Qualifiers.md",
     "Important/C/Advanced Udemy Course/Advanced data types.md",
     "Important/C/Advanced Udemy Course/C programing.md",
@@ -217,7 +219,6 @@
     "Important/C/Taller Data oriented design.md",
     "8 Octavo Semestre/DevOps/Kubernetes.md",
     "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
-    "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
     "PHOTOS/Pasted image 20250312181902.png",
     "PHOTOS/sensor.c",
     "Important/Linux/General Tools.md",
@@ -241,7 +242,6 @@
     "PHOTOS/Pasted image 20250307210700.png",
     "PHOTOS/Pasted image 20250307210629.png",
     "8 Octavo Semestre/DevOps/Docker.md",
-    "Important/C/Modulo 2/Apuntador genérico void .md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
