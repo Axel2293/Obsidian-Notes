@@ -208,6 +208,10 @@ spec:
 ```
 ![[Pasted image 20250320202310.png]]
 ## PVC - Persistent Volume Claim
+```yaml
+
+```
+![[Pasted image 20250320203405.png]]
 ## POD - PVC
 ```shell
 kubectl apply -f volume.yaml
@@ -221,3 +225,15 @@ kubectl get pods
 
 kubectl logs pod-lector
 ```
+
+## Sotorage Class
+Usa *StorageClass* si quieres que Kubernetes *cree los volumenes dinamicamente* según la demanda (ideal en nubes como AWS EBS, Azure, SIdks, GCP Persistent Disks)
+
+```yaml
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+	name: aws-ebs-
+```
+
+# HELM
