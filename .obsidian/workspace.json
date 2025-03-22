@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Octavo Semestre/DevOps/Kubernetes.md",
+                "file": "Arduino/RFID-RC522.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "RFID-RC522"
             }
           }
         ]
@@ -204,6 +204,10 @@
   },
   "active": "34e510ffd10d8fee",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20250321185957.png",
+    "8 Octavo Semestre/DevOps/Kubernetes.md",
+    "Arduino/RFID-RC522.md",
+    "Arduino",
     "PHOTOS/Pasted image 20250320203405.png",
     "PHOTOS/Pasted image 20250320202310.png",
     "8 Octavo Semestre/IOT - Linux Embebido/LINUX C Programming.md",
@@ -218,7 +222,6 @@
     "Important/C/Colors on console mac.md",
     "Important/C/Compilers.md",
     "Important/C/Taller Data oriented design.md",
-    "8 Octavo Semestre/DevOps/Kubernetes.md",
     "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "PHOTOS/Pasted image 20250312181902.png",
     "PHOTOS/sensor.c",
@@ -240,8 +243,6 @@
     "PHOTOS/Pasted image 20250309192655.png",
     "PHOTOS/Pasted image 20250309192647.png",
     "PHOTOS/Pasted image 20250309185833.png",
-    "PHOTOS/Pasted image 20250307210700.png",
-    "8 Octavo Semestre/DevOps/Docker.md",
     "8 Octavo Semestre/PAP 1",
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
@@ -249,7 +250,6 @@
     "Envitonment",
     "Important/Algoritmos Avanzados",
     "5 Quinto Semestre",
-    "Important",
     "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]
