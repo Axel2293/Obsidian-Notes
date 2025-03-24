@@ -190,6 +190,9 @@ kubectl expose deployment/apache --port 8888 --name apache-loadbalancer --type L
 	- kind:
 	- metadata:
 	- spec:
+# Building YAML files
+
+
 # Volume
 ## PV
 Persistent Volume
