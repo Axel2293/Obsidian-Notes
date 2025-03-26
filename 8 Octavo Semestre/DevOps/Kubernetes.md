@@ -248,3 +248,6 @@ metadata:
 | Values.yaml  | Archivo donde puedes definir variables personalizadas para configurar un Chart.              |
 | Repositories | ugares donde se almacenan Charts, como ArtifactHub, Bitnami, JFrog                           |
 
+# Azure Kubernetes Service AKS
+Implementación y administración de aplicaciones en contenedores a escala.
+
