@@ -35,3 +35,4 @@ When another computer receives the packet, the hardware strips the Ethernet head
 - Host-to-Host Transport Layer (TCP, UDP)
 - Internet Layer (IP and routing)
 - Network Access Layer (Ethernet, wi-fi or whatever)
+# IPv4/6
