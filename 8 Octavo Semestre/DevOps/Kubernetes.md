@@ -251,3 +251,6 @@ metadata:
 # Azure Kubernetes Service AKS
 Implementación y administración de aplicaciones en contenedores a escala.
 
+
+# Observability
+
