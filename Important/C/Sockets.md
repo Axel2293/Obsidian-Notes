@@ -57,3 +57,14 @@ In fact, it’s such serious fun, that the Creators of IPv6 have quite cavalierl
 For organizational reasons, it’s sometimes convenient to declare that “this first part of this IP address up through this bit is the network portion of the IP address, and the *remainder is the host portion*.
 
 For instance, with IPv4, you might have 192.0.2.12, and we could say that the first three bytes are the net-work and the last byte was the host. Or, put another way, we’re talking about host 12 on network 192.0.2.0
+# Port Numbers
+16-bit number thats like the local address for the connection.
+Think of the IP address as the street address of a hotel, and the port number as the room number.
+POrts under 1024 are often consideres special, and usually require special OS privileges to use.
+Fun Fact:
+- DOOM used port 666
+
+# Byte Order
+## Big-Endian
+Store bytes
+##
