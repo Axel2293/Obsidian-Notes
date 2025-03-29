@@ -66,5 +66,14 @@ Fun Fact:
 
 # Byte Order
 ## Big-Endian
-Store bytes
-##
+Store bytes with the big end first.
+Say b34f, you’ll store it in two sequential bytes b3 followed by 4f.
+## Little-Endian
+Store bytes reversed
+so b34f would be stored in memory as the sequential bytes 4f followed by b3.
+
+## Network Byte Order
+The more-sane Big-Endian
+All righty. There are two types of numbers that you can convert: *short* (two bytes) and *long* (four bytes).
+These functions work for the *unsigned* variations as well. Say you want to convert a *short* from Host Byte Order to Network Byte Order. Start with “h” for “host”, follow it with “to”, then “n” for “network”, and “s” for “short”: h-to-n-s, or *htons()* (read: “Host to Network Short”).
+![[Pasted image 20250328175416.png]]
