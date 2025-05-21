@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Kubernetes"
             }
-          },
-          {
-            "id": "cade4a41590ec4f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cade4a41590ec4f9",
+  "active": "c1672be555269b9a",
   "lastOpenFiles": [
     "8 Octavo Semestre/DevOps/Docker.md",
     "Important/C/Sockets.md",
