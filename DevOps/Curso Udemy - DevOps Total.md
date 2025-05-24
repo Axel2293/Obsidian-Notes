@@ -66,3 +66,27 @@ Poco rango, como Bluetooth, hotspot.
 ### Switches
 - Facilitan el intercambio de recursos mediante la conexión en conjunto de los dispositivos, incluyendo computadoras,
 ### Routers
+
+## Direcciones IP
+### IPv4
+El rango de IPv4 es:
+0.0.0.0 - 255.255.255.255
+- Cada octeto va a comenzar desde 0 hasta 255
+- 32 bites, 8 bites por cada octeto separado por un punto.
+- Existen las IP's privadas y publicas
+#### Rangos
+- *Clase A*: 10.0.0.0 - 10.255.255.255
+- *Clase B*: 172.16.0.0 - 172.31.255.255
+- *Clase C*: 192.168.0.0 - 192.168.255.255
+- *Clase D y E*: Investigaciones y multitareas
+## Protocolos
+*Conjunto de reglas*
+Es una especificación formal que define el procedimiento de comunicación entre emisor y receptor, o viceversa. El cliente y servidor sabe como comunicarse siguiendo dicho protocolo.
+Define:
+- Formato de la comunicación
+- Tiempo
+- Secuencia
+- Resolución de errores
+- Capa 4: transporte
+	- Protocolo TCP
+	- Protocolo UDP
