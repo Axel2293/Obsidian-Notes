@@ -90,3 +90,13 @@ Define:
 - Capa 4: transporte
 	- Protocolo TCP
 	- Protocolo UDP
+## Comandos de red
+- *ifconfig*: ver las interfaces de red
+- *ip addr show*: alternativa a ifconfig
+- */etc/hosts*: en este archivo estan los hosts conocidos por nuestra maquina, podemos agregar una IP y su seudonimo para usarlo posteriormente y no tener que usar la IP
+- *Tracert*: Tracar los brincos en la red.
+- *netstat -antp*: Ver que programas están con conexiones activas a internet
+- *mtr*: tracert pero mas interactivo
+- *dig*: verificar que el DNS esta funcionando
+- *arp*: agregar contenido a las tablas arp del kernel
+- *route*: tablas de ruteo del kernel
