@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Octavo Semestre/DevOps/Kubernetes.md",
+                "file": "DevOps/Curso Udemy - DevOps Total.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "Curso Udemy - DevOps Total"
             }
           }
         ]
@@ -204,9 +204,11 @@
   },
   "active": "c1672be555269b9a",
   "lastOpenFiles": [
+    "DevOps/CI - CD.md",
+    "DevOps/Curso Udemy - DevOps Total.md",
+    "8 Octavo Semestre/DevOps/Kubernetes.md",
     "8 Octavo Semestre/DevOps/Docker.md",
     "Important/C/Sockets.md",
-    "8 Octavo Semestre/DevOps/Kubernetes.md",
     "PHOTOS/Pasted image 20250328175416.png",
     "PHOTOS/Pasted image 20250328162602.png",
     "Arduino/RFID-RC522.md",
@@ -237,8 +239,6 @@
     "Git/Git and GitHub.md",
     "Git/Branch - Ramas.md",
     "DevOps/Kubernetes.md",
-    "DevOps/CI - CD.md",
-    "DevOps/Docker/Docker.md",
     "PHOTOS/Pasted image 20250309200644.png",
     "PHOTOS/Pasted image 20250309200538.png",
     "PHOTOS/Pasted image 20250309195640.png",
