@@ -7,4 +7,7 @@ def suma():
 '''
 	Esta función hace sumas :)
 '''
+	return 6+9
 ```
+
+

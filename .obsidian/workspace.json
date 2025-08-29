@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Septimo Semestre/Calidad de software/Part 2.md",
+                "file": "5 Quinto Semestre/Programación para análisis de datos/Repaso Python/Funciones y clases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part 2"
+              "title": "Funciones y clases"
             }
           }
         ]
@@ -204,9 +204,21 @@
   },
   "active": "c1672be555269b9a",
   "lastOpenFiles": [
+    "5 Quinto Semestre/Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
+    "5 Quinto Semestre/Programación para análisis de datos/Repaso Python/Espacio en memoria.md",
+    "5 Quinto Semestre/Programación para análisis de datos/OO Python/Orientado a Objetos en Python.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Repaso FCC.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Ejercicio AFD y su programación.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/Conversion AFN a AFD.md",
+    "5 Quinto Semestre/Lenguajes Formales/Modulo 1/5-tupla.md",
+    "5 Quinto Semestre/Administración de sistemas/Mapear Carpetas cono unidades de almacenamiento para grupos u usuarios.md",
+    "REPASO - ORACLE.md",
+    "Verano ITESO/Habilidades para resolución de conflictos.md",
+    "Index.md",
+    "7 Septimo Semestre/Calidad de software/Part 2.md",
+    "9 Noveno Semestre",
     "7 Septimo Semestre/Calidad de software/Intro.md",
     "7 Septimo Semestre/Calidad de software/Calidad de softwr.md",
-    "Verano ITESO/Habilidades para resolución de conflictos.md",
     "PHOTOS/Pasted image 20250605094509.png",
     "DevOps/Curso Udemy - DevOps Total.md",
     "Verano ITESO",
@@ -228,20 +240,9 @@
     "Important/C/Advanced Udemy Course/C programing.md",
     "Important/C/Advanced Udemy Course/Communication between files.md",
     "Important/C/Advanced Udemy Course/Header files.md",
-    "Important/C/Advanced Udemy Course/Memory Overview.md",
-    "Important/C/Advanced Udemy Course/Storage Classes.md",
-    "Envitonment/ZSH.md",
-    "Important/C/Colors on console mac.md",
-    "Important/C/Compilers.md",
-    "Important/C/Taller Data oriented design.md",
-    "8 Octavo Semestre/IOT - Linux Embebido/Configuring the PICO board.md",
     "PHOTOS/Pasted image 20250312181902.png",
     "PHOTOS/sensor.c",
-    "Important/Linux/General Tools.md",
-    "Important/Linux/Hacking.md",
     "Important/Linux",
-    "Important/Algoritmos Avanzados/Axel's Handbook.md",
-    "Git/Git credential manager.md",
     "PHOTOS/Pasted image 20250309200644.png",
     "PHOTOS/Pasted image 20250309200538.png",
     "8 Octavo Semestre/PAP 1",
@@ -249,7 +250,6 @@
     "8 Octavo Semestre/IOT - Linux Embebido",
     "8 Octavo Semestre",
     "Envitonment",
-    "Important/Algoritmos Avanzados",
     "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]
