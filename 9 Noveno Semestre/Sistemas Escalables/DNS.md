@@ -11,3 +11,8 @@ A recursive DNS service doesn't own any DNS records but acts as an intermediary 
 - Route 53 can be used for load balancing too:
 	- To configure weighted routing, you create records that have the same name and type for each of your resources. You assign each record a relative weight that corresponds with how much traffic you want to send to each resource. Route 53 sends traffic to a resource based on the weight that you assign to the record as a proportion of the total weight for all records in the group.
 - If your application is hosted in multiple AWS Regions, you can improve performance for your users by serving their requests from the AWS Region that provides the lowest latency.
+
+![[Pasted image 20250924081551.png]]
+
+![[Pasted image 20250924081928.png]]
+![[Pasted image 20250924082142.png]]
