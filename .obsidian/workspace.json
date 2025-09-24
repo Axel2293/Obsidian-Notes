@@ -25,12 +25,14 @@
             "id": "7cba310b5924438a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "9 Noveno Semestre/Sistemas Escalables/DNS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "DNS"
             }
           }
         ],
@@ -101,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d1c0ba954dd80e13",
@@ -218,6 +221,9 @@
   },
   "active": "7cba310b5924438a",
   "lastOpenFiles": [
+    "PHOTOS/Pasted image 20250924080746.png",
+    "9 Noveno Semestre/Sistemas Escalables/DNS.md",
+    "9 Noveno Semestre/Sistemas Escalables",
     "5 Quinto Semestre/Programación para análisis de datos/Repaso Python/Iterables and iterators.md",
     "5 Quinto Semestre/Programación para análisis de datos/Repaso Python/Espacio en memoria.md",
     "5 Quinto Semestre/Programación para análisis de datos/OO Python/Orientado a Objetos en Python.md",
@@ -252,8 +258,6 @@
     "Important/C/Advanced Udemy Course/Type Qualifiers.md",
     "Important/C/Advanced Udemy Course/Advanced data types.md",
     "Important/C/Advanced Udemy Course/C programing.md",
-    "Important/C/Advanced Udemy Course/Communication between files.md",
-    "Important/C/Advanced Udemy Course/Header files.md",
     "PHOTOS/Pasted image 20250312181902.png",
     "PHOTOS/sensor.c",
     "Important/Linux",
@@ -263,7 +267,6 @@
     "8 Octavo Semestre/DevOps",
     "8 Octavo Semestre/IOT - Linux Embebido",
     "8 Octavo Semestre",
-    "Envitonment",
     "6 Sexto Semestre/Software Requirements/Sesiones/Stakeholders Map for IAE.canvas",
     "Untitled.canvas"
   ]
